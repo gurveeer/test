@@ -1,0 +1,4198 @@
+{
+  "courseName": "Reasoning Special-4",
+  "extractedAt": "2026-05-22T09:49:10+0530",
+  "videos": {
+    "Verbal": [
+      {
+        "title": "class-1 | Input Output -1 || By balram Sir",
+        "description": "class-1 | Input Output -1 || By balram Sir",
+        "teacherName": "Balram sir",
+        "duration": 3874,
+        "startDate": "2026-01-19T04:00:00.000Z",
+        "endDate": "2026-01-19T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/696b25ea719de161eee8dd3b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696b25ea719de161eee8dd3b/output_720p.mp4",
+            "quality": "720p",
+            "size": 632.59,
+            "_id": "696dc0e5027f25d29e4fc900"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696b25ea719de161eee8dd3b/output_480p.mp4",
+            "quality": "480p",
+            "size": 421.42,
+            "_id": "696dc0e5027f25d29e4fc901"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696b25ea719de161eee8dd3b/output_360p.mp4",
+            "quality": "360p",
+            "size": 303.38,
+            "_id": "696dc0e5027f25d29e4fc902"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696b25ea719de161eee8dd3b/output_240p.mp4",
+            "quality": "240p",
+            "size": 213.88,
+            "_id": "696dc0e5027f25d29e4fc903"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Input Output 01 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Input Output 01 BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Input Output 01 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Input Output 01 without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "696b25ea719de161eee8dd3b",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "class-2 | Input Output -02 || By balram Sir",
+        "description": "class-2 | Input Output -02 || By balram Sir",
+        "teacherName": "Balram sir",
+        "duration": 4810,
+        "startDate": "2026-01-20T04:00:00.000Z",
+        "endDate": "2026-01-20T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/696dfc91719de161eef4985d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696dfc91719de161eef4985d/output_720p.mp4",
+            "quality": "720p",
+            "size": 782.24,
+            "_id": "696f16a8027f25d29e180965"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696dfc91719de161eef4985d/output_480p.mp4",
+            "quality": "480p",
+            "size": 519.05,
+            "_id": "696f16a8027f25d29e180966"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696dfc91719de161eef4985d/output_360p.mp4",
+            "quality": "360p",
+            "size": 373.45,
+            "_id": "696f16a8027f25d29e180967"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696dfc91719de161eef4985d/output_240p.mp4",
+            "quality": "240p",
+            "size": 265.29,
+            "_id": "696f16a8027f25d29e180968"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Input Output 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Input Output 02 BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Input Output 02 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Input Output 02 without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "696dfc91719de161eef4985d",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "class-3 | Input Output -03 || By balram Sir",
+        "description": "Selection batch",
+        "teacherName": "Balram sir",
+        "duration": 5703,
+        "startDate": "2026-01-21T04:00:00.000Z",
+        "endDate": "2026-01-21T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/696f75ab719de161ee05bdae/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696f75ab719de161ee05bdae/output_720p.mp4",
+            "quality": "720p",
+            "size": 930.57,
+            "_id": "69706a87c4d5677c5329523e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696f75ab719de161ee05bdae/output_480p.mp4",
+            "quality": "480p",
+            "size": 618.32,
+            "_id": "69706a87c4d5677c5329523f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696f75ab719de161ee05bdae/output_360p.mp4",
+            "quality": "360p",
+            "size": 447.67,
+            "_id": "69706a87c4d5677c53295240"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696f75ab719de161ee05bdae/output_240p.mp4",
+            "quality": "240p",
+            "size": 321.62,
+            "_id": "69706a87c4d5677c53295241"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Input and Output 03 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Input and Output 03 without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Input and Output 03 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Input and Output 03 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "696f75ab719de161ee05bdae",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "class-4 | Input Output -04 || By balram Sir",
+        "description": "class-4 | Input Output -04 || By balram Sir",
+        "teacherName": "Balram sir",
+        "duration": 5450,
+        "startDate": "2026-01-22T04:00:00.000Z",
+        "endDate": "2026-01-22T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/697148bd719de161ee13c700/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697148bd719de161ee13c700/output_720p.mp4",
+            "quality": "720p",
+            "size": 897.41,
+            "_id": "6971bbf1c4d5677c53f02d07"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697148bd719de161ee13c700/output_480p.mp4",
+            "quality": "480p",
+            "size": 600.35,
+            "_id": "6971bbf1c4d5677c53f02d08"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697148bd719de161ee13c700/output_360p.mp4",
+            "quality": "360p",
+            "size": 436.05,
+            "_id": "6971bbf1c4d5677c53f02d09"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697148bd719de161ee13c700/output_240p.mp4",
+            "quality": "240p",
+            "size": 307.73,
+            "_id": "6971bbf1c4d5677c53f02d0a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Input and Output 04 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Input and Output 04 without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Input and Output 04 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Input and Output 04 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "697148bd719de161ee13c700",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-1 | Venn Diagram -01 || By balram Sir",
+        "description": "Class-1 | Venn Diagram -01 || By balram Sir",
+        "teacherName": "Balram sir",
+        "duration": 5481,
+        "startDate": "2026-01-23T04:00:00.000Z",
+        "endDate": "2026-01-23T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6971f6a9719de161ee28f9dd/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6971f6a9719de161ee28f9dd/output_720p.mp4",
+            "quality": "720p",
+            "size": 905.49,
+            "_id": "69730dabea711d50203d7c84"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6971f6a9719de161ee28f9dd/output_480p.mp4",
+            "quality": "480p",
+            "size": 606.99,
+            "_id": "69730dabea711d50203d7c85"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6971f6a9719de161ee28f9dd/output_360p.mp4",
+            "quality": "360p",
+            "size": 440.09,
+            "_id": "69730dabea711d50203d7c86"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6971f6a9719de161ee28f9dd/output_240p.mp4",
+            "quality": "240p",
+            "size": 311.85,
+            "_id": "69730dabea711d50203d7c87"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Venn Diagram 01 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Venn Diagram 01 without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "6971f6a9719de161ee28f9dd",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-2 | Venn Diagram -02 || By balram Sir",
+        "description": "Class-2 | Venn Diagram -02 || By balram Sir",
+        "teacherName": "Balram sir",
+        "duration": 4331,
+        "startDate": "2026-01-27T04:01:00.000Z",
+        "endDate": "2026-01-27T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69734d4acc325625a604f72c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69734d4acc325625a604f72c/output_720p.mp4",
+            "quality": "720p",
+            "size": 710.99,
+            "_id": "69784cce186e879199f16eb3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69734d4acc325625a604f72c/output_480p.mp4",
+            "quality": "480p",
+            "size": 475.4,
+            "_id": "69784cce186e879199f16eb4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69734d4acc325625a604f72c/output_360p.mp4",
+            "quality": "360p",
+            "size": 343.95,
+            "_id": "69784cce186e879199f16eb5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69734d4acc325625a604f72c/output_240p.mp4",
+            "quality": "240p",
+            "size": 245.43,
+            "_id": "69784cce186e879199f16eb6"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Venn Diagram 02 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Venn Diagram 02 without anno .pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Venn Diagram 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Venn Diagram 02 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69734d4acc325625a604f72c",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-3 | Venn Diagram -03 || By balram Sir",
+        "description": "",
+        "teacherName": "Balram sir",
+        "duration": 3956,
+        "startDate": "2026-01-28T04:00:00.000Z",
+        "endDate": "2026-01-28T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6978de13c566674bff8d0652/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6978de13c566674bff8d0652/output_720p.mp4",
+            "quality": "720p",
+            "size": 639.1,
+            "_id": "69799cb55e68369d73ae9877"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6978de13c566674bff8d0652/output_480p.mp4",
+            "quality": "480p",
+            "size": 425.78,
+            "_id": "69799cb55e68369d73ae9878"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6978de13c566674bff8d0652/output_360p.mp4",
+            "quality": "360p",
+            "size": 309.49,
+            "_id": "69799cb55e68369d73ae9879"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6978de13c566674bff8d0652/output_240p.mp4",
+            "quality": "240p",
+            "size": 223.11,
+            "_id": "69799cb55e68369d73ae987a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Venn Diagram 03 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Venn Diagram 03 BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Venn Diagram 03 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Venn Diagram 03 without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "6978de13c566674bff8d0652",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class -1 | Syllogism- 01 || By balram Sir",
+        "description": "Class -1 | Syllogism- 01 || By balram Sir",
+        "teacherName": "Balram sir",
+        "duration": 4604,
+        "startDate": "2026-01-29T03:59:00.000Z",
+        "endDate": "2026-01-29T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6979cb6ac566674bff949892/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6979cb6ac566674bff949892/output_720p.mp4",
+            "quality": "720p",
+            "size": 751.92,
+            "_id": "697af188f8f563761c0c6b49"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6979cb6ac566674bff949892/output_480p.mp4",
+            "quality": "480p",
+            "size": 507.38,
+            "_id": "697af188f8f563761c0c6b4a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6979cb6ac566674bff949892/output_360p.mp4",
+            "quality": "360p",
+            "size": 369.37,
+            "_id": "697af188f8f563761c0c6b4b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6979cb6ac566674bff949892/output_240p.mp4",
+            "quality": "240p",
+            "size": 270.27,
+            "_id": "697af188f8f563761c0c6b4c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Syllogism 01 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Syllogism 01 BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Syllogism 01 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Syllogism 01 without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "6979cb6ac566674bff949892",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class -2 | Syllogism- 02 || By balram Sir",
+        "description": "Class -2 | Syllogism- 02 || By balram Sir",
+        "teacherName": "Balram sir",
+        "duration": 5040,
+        "startDate": "2026-01-30T04:00:00.000Z",
+        "endDate": "2026-01-30T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/697bab254d8dc840697bbe12/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697bab254d8dc840697bbe12/output_720p.mp4",
+            "quality": "720p",
+            "size": 825.16,
+            "_id": "697c447fc40b4c4cefe10b6e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697bab254d8dc840697bbe12/output_480p.mp4",
+            "quality": "480p",
+            "size": 551.41,
+            "_id": "697c447fc40b4c4cefe10b6f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697bab254d8dc840697bbe12/output_360p.mp4",
+            "quality": "360p",
+            "size": 401.34,
+            "_id": "697c447fc40b4c4cefe10b70"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697bab254d8dc840697bbe12/output_240p.mp4",
+            "quality": "240p",
+            "size": 291.45,
+            "_id": "697c447fc40b4c4cefe10b71"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Syllogism 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Syllogism 02 BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Syllogism 02 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Syllogism 02 without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "697bab254d8dc840697bbe12",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class -3 | Syllogism- 03 || By balram Sir",
+        "description": "Class -3 | Syllogism- 03 || By balram Sir",
+        "teacherName": "Balram sir",
+        "duration": 5944,
+        "startDate": "2026-01-31T04:00:00.000Z",
+        "endDate": "2026-01-31T05:26:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/697c5a044d8dc840697f8d01/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697c5a044d8dc840697f8d01/output_720p.mp4",
+            "quality": "720p",
+            "size": 966.57,
+            "_id": "697d9c538676ad0dbdde6228"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697c5a044d8dc840697f8d01/output_480p.mp4",
+            "quality": "480p",
+            "size": 643.89,
+            "_id": "697d9c538676ad0dbdde6229"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697c5a044d8dc840697f8d01/output_360p.mp4",
+            "quality": "360p",
+            "size": 468.44,
+            "_id": "697d9c538676ad0dbdde622a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697c5a044d8dc840697f8d01/output_240p.mp4",
+            "quality": "240p",
+            "size": 344.01,
+            "_id": "697d9c538676ad0dbdde622b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Syllogism 03 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Syllogism 03 without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Syllogism 03 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Syllogism 03 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "697c5a044d8dc840697f8d01",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class -4 | Syllogism- 04 || By balram Sir",
+        "description": "Class -4 | Syllogism- 04 || By balram Sir",
+        "teacherName": "Balram sir",
+        "duration": 5578,
+        "startDate": "2026-02-02T04:00:00.000Z",
+        "endDate": "2026-02-02T05:20:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/697fa6ee4ca8c7fbe8fbac76/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697fa6ee4ca8c7fbe8fbac76/output_720p.mp4",
+            "quality": "720p",
+            "size": 873.68,
+            "_id": "69803c3c8676ad0dbd78ae49"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697fa6ee4ca8c7fbe8fbac76/output_480p.mp4",
+            "quality": "480p",
+            "size": 568.44,
+            "_id": "69803c3c8676ad0dbd78ae4a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697fa6ee4ca8c7fbe8fbac76/output_360p.mp4",
+            "quality": "360p",
+            "size": 408.88,
+            "_id": "69803c3c8676ad0dbd78ae4b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697fa6ee4ca8c7fbe8fbac76/output_240p.mp4",
+            "quality": "240p",
+            "size": 290.78,
+            "_id": "69803c3c8676ad0dbd78ae4c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Syllogism 04 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Syllogism 04 without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Syllogism 04 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Syllogism 04 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "697fa6ee4ca8c7fbe8fbac76",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class -5 | Syllogism- 05 || By balram Sir",
+        "description": "Class -5 | Syllogism- 05 || By balram Sir",
+        "teacherName": "Balram sir",
+        "duration": 5114,
+        "startDate": "2026-02-03T04:00:00.000Z",
+        "endDate": "2026-02-03T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698070ae4ca8c7fbe800dc72/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698070ae4ca8c7fbe800dc72/output_720p.mp4",
+            "quality": "720p",
+            "size": 834.12,
+            "_id": "6981907271d4cb7027570cc5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698070ae4ca8c7fbe800dc72/output_480p.mp4",
+            "quality": "480p",
+            "size": 555.14,
+            "_id": "6981907271d4cb7027570cc6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698070ae4ca8c7fbe800dc72/output_360p.mp4",
+            "quality": "360p",
+            "size": 401.41,
+            "_id": "6981907271d4cb7027570cc7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698070ae4ca8c7fbe800dc72/output_240p.mp4",
+            "quality": "240p",
+            "size": 285.5,
+            "_id": "6981907271d4cb7027570cc8"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Syllogism 05 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Syllogism 05 without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Syllogism 05 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Syllogism 05 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "698070ae4ca8c7fbe800dc72",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class -6 | Syllogism- 06 || By balram Sir",
+        "description": "Class -6 | Syllogism- 06 || By balram Sir",
+        "teacherName": "Balram sir",
+        "duration": 4709,
+        "startDate": "2026-02-05T04:00:00.000Z",
+        "endDate": "2026-02-05T05:12:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69819e0d4ca8c7fbe80d24eb/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69819e0d4ca8c7fbe80d24eb/output_720p.mp4",
+            "quality": "720p",
+            "size": 756.87,
+            "_id": "69842e5759d9aefff3b13537"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69819e0d4ca8c7fbe80d24eb/output_480p.mp4",
+            "quality": "480p",
+            "size": 500.95,
+            "_id": "69842e5759d9aefff3b13538"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69819e0d4ca8c7fbe80d24eb/output_360p.mp4",
+            "quality": "360p",
+            "size": 362.26,
+            "_id": "69842e5759d9aefff3b13539"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69819e0d4ca8c7fbe80d24eb/output_240p.mp4",
+            "quality": "240p",
+            "size": 259.95,
+            "_id": "69842e5759d9aefff3b1353a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "syllogism 6 BORD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/syllogism 6 BORD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Syllogism 06 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Syllogism 06 without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69819e0d4ca8c7fbe80d24eb",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class -1 | Statement & Assumption 01 || By balram Sir",
+        "description": "sb 1234",
+        "teacherName": "Balram sir",
+        "duration": 5450,
+        "startDate": "2026-02-06T04:00:00.000Z",
+        "endDate": "2026-02-06T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69845653fdd21a8a2d13fff2/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69845653fdd21a8a2d13fff2/output_720p.mp4",
+            "quality": "720p",
+            "size": 895,
+            "_id": "6985847c864cd77566922f93"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69845653fdd21a8a2d13fff2/output_480p.mp4",
+            "quality": "480p",
+            "size": 599.59,
+            "_id": "6985847c864cd77566922f94"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69845653fdd21a8a2d13fff2/output_360p.mp4",
+            "quality": "360p",
+            "size": 438.92,
+            "_id": "6985847c864cd77566922f95"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69845653fdd21a8a2d13fff2/output_240p.mp4",
+            "quality": "240p",
+            "size": 327.39,
+            "_id": "6985847c864cd77566922f96"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Statement and Assumption 01 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Statement and Assumption 01 BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Statement and Assumption 01 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Statement and Assumption 01 without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69845653fdd21a8a2d13fff2",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class -2 | Statement & argument || By balram Sir",
+        "description": "SB 1234",
+        "teacherName": "Balram sir",
+        "duration": 4874,
+        "startDate": "2026-02-07T04:00:00.000Z",
+        "endDate": "2026-02-07T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6985c3c80df4ffd2b9af7394/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6985c3c80df4ffd2b9af7394/output_720p.mp4",
+            "quality": "720p",
+            "size": 790.37,
+            "_id": "6986d1d7105ad07ca4f07226"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6985c3c80df4ffd2b9af7394/output_480p.mp4",
+            "quality": "480p",
+            "size": 523.71,
+            "_id": "6986d1d7105ad07ca4f07227"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6985c3c80df4ffd2b9af7394/output_360p.mp4",
+            "quality": "360p",
+            "size": 377.71,
+            "_id": "6986d1d7105ad07ca4f07228"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6985c3c80df4ffd2b9af7394/output_240p.mp4",
+            "quality": "240p",
+            "size": 271.13,
+            "_id": "6986d1d7105ad07ca4f07229"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Statement and Argument without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Statement and Argument without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Statement and Argument BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Statement and Argument BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "6985c3c80df4ffd2b9af7394",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class -3 | Statement and conclusion 03 || By balram Sir",
+        "description": "",
+        "teacherName": "Balram sir",
+        "duration": 5144,
+        "startDate": "2026-02-09T04:00:00.000Z",
+        "endDate": "2026-02-09T05:28:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6988e2e35b61b5fe00013591/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6988e2e35b61b5fe00013591/output_720p.mp4",
+            "quality": "720p",
+            "size": 832.4,
+            "_id": "698976d7b6d945bcf8a34ac6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6988e2e35b61b5fe00013591/output_480p.mp4",
+            "quality": "480p",
+            "size": 553.04,
+            "_id": "698976d7b6d945bcf8a34ac7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6988e2e35b61b5fe00013591/output_360p.mp4",
+            "quality": "360p",
+            "size": 402.55,
+            "_id": "698976d7b6d945bcf8a34ac8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6988e2e35b61b5fe00013591/output_240p.mp4",
+            "quality": "240p",
+            "size": 296.47,
+            "_id": "698976d7b6d945bcf8a34ac9"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Statement and Conclusion BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Statement and Conclusion BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "6988e2e35b61b5fe00013591",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class -4 | Statement and course of action 04 || By balram Sir",
+        "description": "sb 1234",
+        "teacherName": "Balram sir",
+        "duration": 5426,
+        "startDate": "2026-02-10T04:00:00.000Z",
+        "endDate": "2026-02-10T05:17:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6989a5415b61b5fe0007897c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6989a5415b61b5fe0007897c/output_720p.mp4",
+            "quality": "720p",
+            "size": 879.26,
+            "_id": "698ae2f2ab38bd7d53c8f3c6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6989a5415b61b5fe0007897c/output_480p.mp4",
+            "quality": "480p",
+            "size": 584.64,
+            "_id": "698ae2f2ab38bd7d53c8f3c7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6989a5415b61b5fe0007897c/output_360p.mp4",
+            "quality": "360p",
+            "size": 424.62,
+            "_id": "698ae2f2ab38bd7d53c8f3c8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6989a5415b61b5fe0007897c/output_240p.mp4",
+            "quality": "240p",
+            "size": 304.18,
+            "_id": "698ae2f2ab38bd7d53c8f3c9"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Statement and Course of Action BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Statement and Course of Action BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Statement and Course of Action without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Statement and Course of Action without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "6989a5415b61b5fe0007897c",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class -1 | Cause and Effect  || By balram Sir",
+        "description": "Class -1 | Cause and Effect  || By balram Sir",
+        "teacherName": "Balram sir",
+        "duration": 4791,
+        "startDate": "2026-02-11T04:00:00.000Z",
+        "endDate": "2026-02-11T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698b79b0a003679fb8ae9f7b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698b79b0a003679fb8ae9f7b/output_720p.mp4",
+            "quality": "720p",
+            "size": 763,
+            "_id": "698c18d4105ad07ca4a0ad8e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698b79b0a003679fb8ae9f7b/output_480p.mp4",
+            "quality": "480p",
+            "size": 502.09,
+            "_id": "698c18d4105ad07ca4a0ad8f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698b79b0a003679fb8ae9f7b/output_360p.mp4",
+            "quality": "360p",
+            "size": 362.8,
+            "_id": "698c18d4105ad07ca4a0ad90"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698b79b0a003679fb8ae9f7b/output_240p.mp4",
+            "quality": "240p",
+            "size": 254.55,
+            "_id": "698c18d4105ad07ca4a0ad91"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Cause and Effect without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Cause and Effect without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Cause and Effect BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Cause and Effect BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "698b79b0a003679fb8ae9f7b",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class -1 | Sitution reaction test  || By balram Sir",
+        "description": "sb12345",
+        "teacherName": "Balram sir",
+        "duration": 5037,
+        "startDate": "2026-02-12T04:00:00.000Z",
+        "endDate": "2026-02-12T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698c6ff8a003679fb8bffa07/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698c6ff8a003679fb8bffa07/output_720p.mp4",
+            "quality": "720p",
+            "size": 829.27,
+            "_id": "698d751997f1682660e518fa"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698c6ff8a003679fb8bffa07/output_480p.mp4",
+            "quality": "480p",
+            "size": 555.18,
+            "_id": "698d751997f1682660e518fb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698c6ff8a003679fb8bffa07/output_360p.mp4",
+            "quality": "360p",
+            "size": 404.88,
+            "_id": "698d751997f1682660e518fc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698c6ff8a003679fb8bffa07/output_240p.mp4",
+            "quality": "240p",
+            "size": 284.53,
+            "_id": "698d751997f1682660e518fd"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Situation Reaction test BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Situation Reaction test BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Situation Reaction test without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Situation Reaction test without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "698c6ff8a003679fb8bffa07",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class -1 | Analyzing argument  || By balram Sir",
+        "description": "sb12345",
+        "teacherName": "Balram sir",
+        "duration": 5706,
+        "startDate": "2026-02-13T04:00:00.000Z",
+        "endDate": "2026-02-13T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698db71e8f7f447d56259f41/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698db71e8f7f447d56259f41/output_720p.mp4",
+            "quality": "720p",
+            "size": 935.81,
+            "_id": "698ebd7c724abe45fcb6408d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698db71e8f7f447d56259f41/output_480p.mp4",
+            "quality": "480p",
+            "size": 623.99,
+            "_id": "698ebd7c724abe45fcb6408e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698db71e8f7f447d56259f41/output_360p.mp4",
+            "quality": "360p",
+            "size": 453.3,
+            "_id": "698ebd7c724abe45fcb6408f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698db71e8f7f447d56259f41/output_240p.mp4",
+            "quality": "240p",
+            "size": 322.35,
+            "_id": "698ebd7c724abe45fcb64090"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Analyzing Argument without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Analyzing Argument without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Analyzing Argument BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Analyzing Argument BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "698db71e8f7f447d56259f41",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class -1 | Logical and meaningful order || By Balram Sir",
+        "description": "b",
+        "teacherName": "Balram sir",
+        "duration": 6215,
+        "startDate": "2026-02-16T04:00:00.000Z",
+        "endDate": "2026-02-16T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6992044de23f1dc0e52bbd79/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6992044de23f1dc0e52bbd79/output_720p.mp4",
+            "quality": "720p",
+            "size": 1005.32,
+            "_id": "6992b349812fb6b7efa35be6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6992044de23f1dc0e52bbd79/output_480p.mp4",
+            "quality": "480p",
+            "size": 666.13,
+            "_id": "6992b349812fb6b7efa35be7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6992044de23f1dc0e52bbd79/output_360p.mp4",
+            "quality": "360p",
+            "size": 475.3,
+            "_id": "6992b349812fb6b7efa35be8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6992044de23f1dc0e52bbd79/output_240p.mp4",
+            "quality": "240p",
+            "size": 323.93,
+            "_id": "6992b349812fb6b7efa35be9"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Logical and  Meaningful Order BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Logical and  Meaningful Order BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Logical and  Meaningful Order  without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Logical and  Meaningful Order  without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "6992044de23f1dc0e52bbd79",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-01 | Analytical | Theme Direction | Balram sir",
+        "description": "",
+        "teacherName": "Balram sir",
+        "duration": 3654,
+        "startDate": "2026-02-17T03:59:00.000Z",
+        "endDate": "2026-02-17T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69934152e23f1dc0e5398598/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69934152e23f1dc0e5398598/output_720p.mp4",
+            "quality": "720p",
+            "size": 588.75,
+            "_id": "6993fa5d9ba67f730faace4d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69934152e23f1dc0e5398598/output_480p.mp4",
+            "quality": "480p",
+            "size": 387.25,
+            "_id": "6993fa5d9ba67f730faace4e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69934152e23f1dc0e5398598/output_360p.mp4",
+            "quality": "360p",
+            "size": 278.66,
+            "_id": "6993fa5d9ba67f730faace4f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69934152e23f1dc0e5398598/output_240p.mp4",
+            "quality": "240p",
+            "size": 189.18,
+            "_id": "6993fa5d9ba67f730faace50"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Theme Detection without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Theme Detection without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Theme Detection BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Theme Detection BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69934152e23f1dc0e5398598",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class -2 | Analytical | Eligibility Criteria || By Balram Sir",
+        "description": "",
+        "teacherName": "Balram sir",
+        "duration": 3601,
+        "startDate": "2026-02-18T04:01:00.000Z",
+        "endDate": "2026-02-18T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69950ca5399756d49242e047/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69950ca5399756d49242e047/output_720p.mp4",
+            "quality": "720p",
+            "size": 581.86,
+            "_id": "6995522382e16e0f9c0dba07"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69950ca5399756d49242e047/output_480p.mp4",
+            "quality": "480p",
+            "size": 388.24,
+            "_id": "6995522382e16e0f9c0dba08"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69950ca5399756d49242e047/output_360p.mp4",
+            "quality": "360p",
+            "size": 283.46,
+            "_id": "6995522382e16e0f9c0dba09"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69950ca5399756d49242e047/output_240p.mp4",
+            "quality": "240p",
+            "size": 209.35,
+            "_id": "6995522382e16e0f9c0dba0a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Eligibility Test BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Eligibility Test BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Eligibility Test without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Eligibility Test without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69950ca5399756d49242e047",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class -3 | Analytical | Passage based reasoning || By Balram Sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,05  &\r\n Selection Batch  01, 02,03,04,05\"",
+        "teacherName": "Balram sir",
+        "duration": 4511,
+        "startDate": "2026-02-19T04:00:00.000Z",
+        "endDate": "2026-02-19T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69958424399756d49249ff2b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69958424399756d49249ff2b/output_720p.mp4",
+            "quality": "720p",
+            "size": 706.28,
+            "_id": "6996a8b23aa82ff1ffbffef9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69958424399756d49249ff2b/output_480p.mp4",
+            "quality": "480p",
+            "size": 449.98,
+            "_id": "6996a8b23aa82ff1ffbffefa"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69958424399756d49249ff2b/output_360p.mp4",
+            "quality": "360p",
+            "size": 315.99,
+            "_id": "6996a8b23aa82ff1ffbffefb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69958424399756d49249ff2b/output_240p.mp4",
+            "quality": "240p",
+            "size": 219.43,
+            "_id": "6996a8b23aa82ff1ffbffefc"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Passage Based without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Passage Based without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Passage Based BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Passage Based BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69958424399756d49249ff2b",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class -4 | Analytical | Essential Parts || By Balram Sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,05  &\r\n Selection Batch  01, 02,03,04,05\"",
+        "teacherName": "Balram sir",
+        "duration": 4975,
+        "startDate": "2026-02-20T04:00:00.000Z",
+        "endDate": "2026-02-20T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6996d917399756d492578839/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6996d917399756d492578839/output_720p.mp4",
+            "quality": "720p",
+            "size": 804.66,
+            "_id": "6997f7d99119ee84e2964912"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6996d917399756d492578839/output_480p.mp4",
+            "quality": "480p",
+            "size": 537.62,
+            "_id": "6997f7d99119ee84e2964913"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6996d917399756d492578839/output_360p.mp4",
+            "quality": "360p",
+            "size": 391.75,
+            "_id": "6997f7d99119ee84e2964914"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6996d917399756d492578839/output_240p.mp4",
+            "quality": "240p",
+            "size": 292.37,
+            "_id": "6997f7d99119ee84e2964915"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Essential Parts without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Essential Parts without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Essential Parts BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Essential Parts BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "6996d917399756d492578839",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-01 | Dice | by balram sir",
+        "description": "sb1234",
+        "teacherName": "Balram sir",
+        "duration": 4157,
+        "startDate": "2026-02-23T04:00:00.000Z",
+        "endDate": "2026-02-23T05:10:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69995245399756d49271ed34/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69995245399756d49271ed34/output_720p.mp4",
+            "quality": "720p",
+            "size": 677.74,
+            "_id": "699be5f30c4acb00f70aa6f0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69995245399756d49271ed34/output_480p.mp4",
+            "quality": "480p",
+            "size": 454.58,
+            "_id": "699be5f30c4acb00f70aa6f1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69995245399756d49271ed34/output_360p.mp4",
+            "quality": "360p",
+            "size": 330.84,
+            "_id": "699be5f30c4acb00f70aa6f2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69995245399756d49271ed34/output_240p.mp4",
+            "quality": "240p",
+            "size": 246.8,
+            "_id": "699be5f30c4acb00f70aa6f3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Dice BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Dice BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69995245399756d49271ed34",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-02 | Dice | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,05  &\r\n Selection Batch  01, 02,03,04,05\"",
+        "teacherName": "Balram sir",
+        "duration": 3834,
+        "startDate": "2026-02-24T04:00:00.000Z",
+        "endDate": "2026-02-24T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699c1d7a399756d492854061/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699c1d7a399756d492854061/output_720p.mp4",
+            "quality": "720p",
+            "size": 621.17,
+            "_id": "699d34f6a746ce37262bcc60"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699c1d7a399756d492854061/output_480p.mp4",
+            "quality": "480p",
+            "size": 413.34,
+            "_id": "699d34f6a746ce37262bcc61"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699c1d7a399756d492854061/output_360p.mp4",
+            "quality": "360p",
+            "size": 296.2,
+            "_id": "699d34f6a746ce37262bcc62"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699c1d7a399756d492854061/output_240p.mp4",
+            "quality": "240p",
+            "size": 202.77,
+            "_id": "699d34f6a746ce37262bcc63"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Dice 02 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Dice 02 without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Dice 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Dice 02 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "699c1d7a399756d492854061",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-03 | Dice | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,05  &\r\n Selection Batch  01, 02,03,04,05\"",
+        "teacherName": "Balram sir",
+        "duration": 2733,
+        "startDate": "2026-02-25T04:00:00.000Z",
+        "endDate": "2026-02-25T05:10:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699d8904399756d4929ee1fd/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699d8904399756d4929ee1fd/output_720p.mp4",
+            "quality": "720p",
+            "size": 436.78,
+            "_id": "699e82eb9119ee84e24cc9e7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699d8904399756d4929ee1fd/output_480p.mp4",
+            "quality": "480p",
+            "size": 288.18,
+            "_id": "699e82eb9119ee84e24cc9e8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699d8904399756d4929ee1fd/output_360p.mp4",
+            "quality": "360p",
+            "size": 206.8,
+            "_id": "699e82eb9119ee84e24cc9e9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699d8904399756d4929ee1fd/output_240p.mp4",
+            "quality": "240p",
+            "size": 145.79,
+            "_id": "699e82eb9119ee84e24cc9ea"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Dice 03 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Dice 03 without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Dice 03 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Dice 03 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "699d8904399756d4929ee1fd",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-01 | Cube | by balram sir",
+        "description": "",
+        "teacherName": "Balram sir",
+        "duration": 3844,
+        "startDate": "2026-02-26T04:00:00.000Z",
+        "endDate": "2026-02-26T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699e9e6e399756d492a81a1a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699e9e6e399756d492a81a1a/output_720p.mp4",
+            "quality": "720p",
+            "size": 623.65,
+            "_id": "699fd82a70d0462766b0b06a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699e9e6e399756d492a81a1a/output_480p.mp4",
+            "quality": "480p",
+            "size": 417.98,
+            "_id": "699fd82a70d0462766b0b06b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699e9e6e399756d492a81a1a/output_360p.mp4",
+            "quality": "360p",
+            "size": 304.29,
+            "_id": "699fd82a70d0462766b0b06c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699e9e6e399756d492a81a1a/output_240p.mp4",
+            "quality": "240p",
+            "size": 224.17,
+            "_id": "699fd82a70d0462766b0b06d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Cube 01 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Cube 01 without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Cube 01 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Cube 01 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "699e9e6e399756d492a81a1a",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-02 | Cube | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,05  &\r\n Selection Batch  01, 02,03,04,05\"",
+        "teacherName": "Balram sir",
+        "duration": 4287,
+        "startDate": "2026-02-27T04:00:00.000Z",
+        "endDate": "2026-02-27T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69a00976a2b1ae04331a945f/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a00976a2b1ae04331a945f/output_720p.mp4",
+            "quality": "720p",
+            "size": 698.23,
+            "_id": "69a12cf4b19fccbd4665c30d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a00976a2b1ae04331a945f/output_480p.mp4",
+            "quality": "480p",
+            "size": 465.64,
+            "_id": "69a12cf4b19fccbd4665c30e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a00976a2b1ae04331a945f/output_360p.mp4",
+            "quality": "360p",
+            "size": 335.47,
+            "_id": "69a12cf4b19fccbd4665c30f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a00976a2b1ae04331a945f/output_240p.mp4",
+            "quality": "240p",
+            "size": 235.92,
+            "_id": "69a12cf4b19fccbd4665c310"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Cube 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Cube 02 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69a00976a2b1ae04331a945f",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-03 | Cube | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,05  &\r\n Selection Batch  01, 02,03,04,05\"",
+        "teacherName": "Balram sir",
+        "duration": 4460,
+        "startDate": "2026-03-05T04:00:00.000Z",
+        "endDate": "2026-03-05T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69a8e11ba2b1ae04333c78f7/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a8e11ba2b1ae04333c78f7/output_720p.mp4",
+            "quality": "720p",
+            "size": 723.87,
+            "_id": "69a9143e7290e580fc5dc387"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a8e11ba2b1ae04333c78f7/output_480p.mp4",
+            "quality": "480p",
+            "size": 480.12,
+            "_id": "69a9143e7290e580fc5dc388"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a8e11ba2b1ae04333c78f7/output_360p.mp4",
+            "quality": "360p",
+            "size": 346.52,
+            "_id": "69a9143e7290e580fc5dc389"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a8e11ba2b1ae04333c78f7/output_240p.mp4",
+            "quality": "240p",
+            "size": 246.7,
+            "_id": "69a9143e7290e580fc5dc38a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Cube 03 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Cube 03 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69a8e11ba2b1ae04333c78f7",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-04 | Cube | by balram sir",
+        "description": "",
+        "teacherName": "Balram sir",
+        "duration": 3911,
+        "startDate": "2026-03-06T04:00:00.000Z",
+        "endDate": "2026-03-06T05:20:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69a9c381a2b1ae04333fa731/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a9c381a2b1ae04333fa731/output_720p.mp4",
+            "quality": "720p",
+            "size": 624.06,
+            "_id": "69aa666fd6af58ec9ad5215a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a9c381a2b1ae04333fa731/output_480p.mp4",
+            "quality": "480p",
+            "size": 410.51,
+            "_id": "69aa666fd6af58ec9ad5215b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a9c381a2b1ae04333fa731/output_360p.mp4",
+            "quality": "360p",
+            "size": 292.82,
+            "_id": "69aa666fd6af58ec9ad5215c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a9c381a2b1ae04333fa731/output_240p.mp4",
+            "quality": "240p",
+            "size": 206.24,
+            "_id": "69aa666fd6af58ec9ad5215d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Cube 04 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Cube 04 without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Cube 04 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Cube 04 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69a9c381a2b1ae04333fa731",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class - 1 || Linear seating arrangement | by Balram Sir",
+        "description": "sb 12345",
+        "teacherName": "Balram sir",
+        "duration": 4504,
+        "startDate": "2026-03-09T04:00:00.000Z",
+        "endDate": "2026-03-09T05:10:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69ab1b00a2b1ae04334d165d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ab1b00a2b1ae04334d165d/output_720p.mp4",
+            "quality": "720p",
+            "size": 738.69,
+            "_id": "69ae5dab2dc898ac2a47f79e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ab1b00a2b1ae04334d165d/output_480p.mp4",
+            "quality": "480p",
+            "size": 496.51,
+            "_id": "69ae5dab2dc898ac2a47f79f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ab1b00a2b1ae04334d165d/output_360p.mp4",
+            "quality": "360p",
+            "size": 362.6,
+            "_id": "69ae5dab2dc898ac2a47f7a0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ab1b00a2b1ae04334d165d/output_240p.mp4",
+            "quality": "240p",
+            "size": 270.51,
+            "_id": "69ae5dab2dc898ac2a47f7a1"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Linear arrangement 01 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Linear arrangement 01 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69ab1b00a2b1ae04334d165d",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class - 2 || Linear seating arrangement | by Balram Sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram sir",
+        "duration": 4162,
+        "startDate": "2026-03-10T04:00:00.000Z",
+        "endDate": "2026-03-10T05:08:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69af693ba2b1ae0433a691c5/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69af693ba2b1ae0433a691c5/output_720p.mp4",
+            "quality": "720p",
+            "size": 674.68,
+            "_id": "69afab849f821e8aa5e941c6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69af693ba2b1ae0433a691c5/output_480p.mp4",
+            "quality": "480p",
+            "size": 449.86,
+            "_id": "69afab849f821e8aa5e941c7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69af693ba2b1ae0433a691c5/output_360p.mp4",
+            "quality": "360p",
+            "size": 329.29,
+            "_id": "69afab849f821e8aa5e941c8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69af693ba2b1ae0433a691c5/output_240p.mp4",
+            "quality": "240p",
+            "size": 245.15,
+            "_id": "69afab849f821e8aa5e941c9"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Linear arrangement 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Linear arrangement 02 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69af693ba2b1ae0433a691c5",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class -3 || Linear seating arrangement | by Balram Sir",
+        "description": "",
+        "teacherName": "Balram sir",
+        "duration": 4053,
+        "startDate": "2026-03-11T04:00:00.000Z",
+        "endDate": "2026-03-11T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69b082829d14466cd0996d2f/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b082829d14466cd0996d2f/output_720p.mp4",
+            "quality": "720p",
+            "size": 653.94,
+            "_id": "69b0fbb484f1ce0e7c300b17"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b082829d14466cd0996d2f/output_480p.mp4",
+            "quality": "480p",
+            "size": 432.65,
+            "_id": "69b0fbb484f1ce0e7c300b18"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b082829d14466cd0996d2f/output_360p.mp4",
+            "quality": "360p",
+            "size": 315.28,
+            "_id": "69b0fbb484f1ce0e7c300b19"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b082829d14466cd0996d2f/output_240p.mp4",
+            "quality": "240p",
+            "size": 228.34,
+            "_id": "69b0fbb484f1ce0e7c300b1a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Linear arrangement 03 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Linear arrangement 03 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69b082829d14466cd0996d2f",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class -4 || Linear seating arrangement | by Balram Sir",
+        "description": "",
+        "teacherName": "Balram sir",
+        "duration": 3159,
+        "startDate": "2026-03-12T04:00:00.000Z",
+        "endDate": "2026-03-12T05:04:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69b20fbc9d14466cd0ae681e/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b20fbc9d14466cd0ae681e/output_720p.mp4",
+            "quality": "720p",
+            "size": 504.64,
+            "_id": "69b2493e84f1ce0e7c635d69"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b20fbc9d14466cd0ae681e/output_480p.mp4",
+            "quality": "480p",
+            "size": 331.73,
+            "_id": "69b2493e84f1ce0e7c635d6a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b20fbc9d14466cd0ae681e/output_360p.mp4",
+            "quality": "360p",
+            "size": 241.11,
+            "_id": "69b2493e84f1ce0e7c635d6b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b20fbc9d14466cd0ae681e/output_240p.mp4",
+            "quality": "240p",
+            "size": 173.15,
+            "_id": "69b2493e84f1ce0e7c635d6c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Linear Arrangement without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Linear Arrangement without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Linear Arrangement 04 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Linear Arrangement 04 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69b20fbc9d14466cd0ae681e",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-01 | Circular Seating Arrangement | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram sir",
+        "duration": 5063,
+        "startDate": "2026-03-13T04:00:00.000Z",
+        "endDate": "2026-03-13T05:05:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69b305ad9d14466cd0bfadee/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b305ad9d14466cd0bfadee/output_720p.mp4",
+            "quality": "720p",
+            "size": 816.1,
+            "_id": "69b3a4215ed5a52b4e1cf884"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b305ad9d14466cd0bfadee/output_480p.mp4",
+            "quality": "480p",
+            "size": 544.52,
+            "_id": "69b3a4215ed5a52b4e1cf885"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b305ad9d14466cd0bfadee/output_360p.mp4",
+            "quality": "360p",
+            "size": 396.34,
+            "_id": "69b3a4215ed5a52b4e1cf886"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b305ad9d14466cd0bfadee/output_240p.mp4",
+            "quality": "240p",
+            "size": 290.77,
+            "_id": "69b3a4215ed5a52b4e1cf887"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Circular seating 01 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Circular sitting 01 BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Circular Seating without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Circular Seating without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69b305ad9d14466cd0bfadee",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-02 | Circular Seating Arrangement | by balram sir",
+        "description": "",
+        "teacherName": "Balram sir",
+        "duration": 5032,
+        "startDate": "2026-03-16T04:00:00.000Z",
+        "endDate": "2026-03-16T05:21:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69b50c909d14466cd0e0406c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b50c909d14466cd0e0406c/output_720p.mp4",
+            "quality": "720p",
+            "size": 785.29,
+            "_id": "69b79a7552b589c15810c528"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b50c909d14466cd0e0406c/output_480p.mp4",
+            "quality": "480p",
+            "size": 508.57,
+            "_id": "69b79a7552b589c15810c529"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b50c909d14466cd0e0406c/output_360p.mp4",
+            "quality": "360p",
+            "size": 365.47,
+            "_id": "69b79a7552b589c15810c52a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b50c909d14466cd0e0406c/output_240p.mp4",
+            "quality": "240p",
+            "size": 257.34,
+            "_id": "69b79a7552b589c15810c52b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Circular Seating 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Circular Seating 02 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69b50c909d14466cd0e0406c",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class - 3 || Circular seating arrangement | by Balram Sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram sir",
+        "duration": 5417,
+        "startDate": "2026-03-17T04:00:00.000Z",
+        "endDate": "2026-03-17T05:10:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69b7efec387812c646c0ce4d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b7efec387812c646c0ce4d/output_720p.mp4",
+            "quality": "720p",
+            "size": 855.68,
+            "_id": "69b8eb0c52b589c158c217d0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b7efec387812c646c0ce4d/output_480p.mp4",
+            "quality": "480p",
+            "size": 555.1,
+            "_id": "69b8eb0c52b589c158c217d1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b7efec387812c646c0ce4d/output_360p.mp4",
+            "quality": "360p",
+            "size": 398.73,
+            "_id": "69b8eb0c52b589c158c217d2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b7efec387812c646c0ce4d/output_240p.mp4",
+            "quality": "240p",
+            "size": 276.92,
+            "_id": "69b8eb0c52b589c158c217d3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Circular Seating 03 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Circular Seating 03 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69b7efec387812c646c0ce4d",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-04 | Circular Seating arrangement | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram sir",
+        "duration": 4686,
+        "startDate": "2026-03-18T03:59:00.000Z",
+        "endDate": "2026-03-18T04:59:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69b91a1cd3c61a31b7293039/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b91a1cd3c61a31b7293039/output_720p.mp4",
+            "quality": "720p",
+            "size": 745.11,
+            "_id": "69ba3a746ae1a2f455e86816"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b91a1cd3c61a31b7293039/output_480p.mp4",
+            "quality": "480p",
+            "size": 487.05,
+            "_id": "69ba3a746ae1a2f455e86817"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b91a1cd3c61a31b7293039/output_360p.mp4",
+            "quality": "360p",
+            "size": 349.62,
+            "_id": "69ba3a746ae1a2f455e86818"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b91a1cd3c61a31b7293039/output_240p.mp4",
+            "quality": "240p",
+            "size": 240.91,
+            "_id": "69ba3a746ae1a2f455e86819"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Circular Seating 04 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Circular Seating 04 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69b91a1cd3c61a31b7293039",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-01 | Polygon Seating arrangement | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram sir",
+        "duration": 5224,
+        "startDate": "2026-03-19T04:00:00.000Z",
+        "endDate": "2026-03-19T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69ba8025a96048112f528927/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ba8025a96048112f528927/output_720p.mp4",
+            "quality": "720p",
+            "size": 837.78,
+            "_id": "69bb8fb0f2f7b0147250fc8f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ba8025a96048112f528927/output_480p.mp4",
+            "quality": "480p",
+            "size": 551.83,
+            "_id": "69bb8fb0f2f7b0147250fc90"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ba8025a96048112f528927/output_360p.mp4",
+            "quality": "360p",
+            "size": 396.74,
+            "_id": "69bb8fb0f2f7b0147250fc91"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ba8025a96048112f528927/output_240p.mp4",
+            "quality": "240p",
+            "size": 276.81,
+            "_id": "69bb8fb0f2f7b0147250fc92"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Polygon Seating 01 BOARD PDF_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Rectangular Seating 01 BOARD PDF_.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Polygon Seating without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Polygon Seating without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69ba8025a96048112f528927",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-02 | Polygon Seating arrangement | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram sir",
+        "duration": 6173,
+        "startDate": "2026-03-20T04:00:00.000Z",
+        "endDate": "2026-03-20T05:26:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69bbc0a602b07cbc32f4aaa2/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69bbc0a602b07cbc32f4aaa2/output_720p.mp4",
+            "quality": "720p",
+            "size": 971.81,
+            "_id": "69bce53b6ae1a2f455c837c5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69bbc0a602b07cbc32f4aaa2/output_480p.mp4",
+            "quality": "480p",
+            "size": 632.24,
+            "_id": "69bce53b6ae1a2f455c837c6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69bbc0a602b07cbc32f4aaa2/output_360p.mp4",
+            "quality": "360p",
+            "size": 456.09,
+            "_id": "69bce53b6ae1a2f455c837c7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69bbc0a602b07cbc32f4aaa2/output_240p.mp4",
+            "quality": "240p",
+            "size": 322.53,
+            "_id": "69bce53b6ae1a2f455c837c8"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Polygon Seating 02 BOARD PDF ",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Polygon Seating 02 BOARD PDF (2).pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69bbc0a602b07cbc32f4aaa2",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-03 | Polygon Seating arrangement | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram sir",
+        "duration": 4075,
+        "startDate": "2026-03-23T04:19:45.568Z",
+        "endDate": "2026-03-23T05:19:45.568Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69c0bf1e7cbd92b8bff1b833/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c0bf1e7cbd92b8bff1b833/output_720p.mp4",
+            "quality": "720p",
+            "size": 589.46,
+            "_id": "69c0d29c4a9cd0815d2ebd34"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c0bf1e7cbd92b8bff1b833/output_480p.mp4",
+            "quality": "480p",
+            "size": 398.02,
+            "_id": "69c0d29c4a9cd0815d2ebd35"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c0bf1e7cbd92b8bff1b833/output_360p.mp4",
+            "quality": "360p",
+            "size": 282.32,
+            "_id": "69c0d29c4a9cd0815d2ebd36"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c0bf1e7cbd92b8bff1b833/output_240p.mp4",
+            "quality": "240p",
+            "size": 198.83,
+            "_id": "69c0d29c4a9cd0815d2ebd37"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Polygon Arrangement 03 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Polygon Arrangement 03 BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Polygon Arrangment 03 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Polygon Arrangment 03 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69c0bf1e7cbd92b8bff1b833",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-01 | Puzzle | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram sir",
+        "duration": 5440,
+        "startDate": "2026-03-24T04:00:00.000Z",
+        "endDate": "2026-03-24T05:13:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69c11602951392adb8a7d19b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c11602951392adb8a7d19b/output_720p.mp4",
+            "quality": "720p",
+            "size": 822.89,
+            "_id": "69c225da5ed5a52b4e46b28e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c11602951392adb8a7d19b/output_480p.mp4",
+            "quality": "480p",
+            "size": 562.25,
+            "_id": "69c225da5ed5a52b4e46b28f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c11602951392adb8a7d19b/output_360p.mp4",
+            "quality": "360p",
+            "size": 400.55,
+            "_id": "69c225da5ed5a52b4e46b290"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c11602951392adb8a7d19b/output_240p.mp4",
+            "quality": "240p",
+            "size": 290.17,
+            "_id": "69c225da5ed5a52b4e46b291"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Puzzle 01 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Puzzle 01 BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "PUZZLE Final without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/PUZZLE Final without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69c11602951392adb8a7d19b",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-02 | Puzzle | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram sir",
+        "duration": 6416,
+        "startDate": "2026-03-25T04:00:00.000Z",
+        "endDate": "2026-03-25T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69c270cc229920b9889ae865/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c270cc229920b9889ae865/output_720p.mp4",
+            "quality": "720p",
+            "size": 965.65,
+            "_id": "69c37cf9d284083a66150af3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c270cc229920b9889ae865/output_480p.mp4",
+            "quality": "480p",
+            "size": 655.86,
+            "_id": "69c37cf9d284083a66150af4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c270cc229920b9889ae865/output_360p.mp4",
+            "quality": "360p",
+            "size": 466.17,
+            "_id": "69c37cf9d284083a66150af5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c270cc229920b9889ae865/output_240p.mp4",
+            "quality": "240p",
+            "size": 332.3,
+            "_id": "69c37cf9d284083a66150af6"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Puzzle 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Puzzle 02 BOARD PDF (1).pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69c270cc229920b9889ae865",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-03 | Puzzle | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram sir",
+        "duration": 4496,
+        "startDate": "2026-03-26T04:00:00.000Z",
+        "endDate": "2026-03-26T05:10:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69c3aa3c20b6656683fa6e8f/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c3aa3c20b6656683fa6e8f/output_720p.mp4",
+            "quality": "720p",
+            "size": 686.19,
+            "_id": "69c4c7229b9d817771bcdb33"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c3aa3c20b6656683fa6e8f/output_480p.mp4",
+            "quality": "480p",
+            "size": 469.29,
+            "_id": "69c4c7229b9d817771bcdb34"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c3aa3c20b6656683fa6e8f/output_360p.mp4",
+            "quality": "360p",
+            "size": 335.1,
+            "_id": "69c4c7229b9d817771bcdb35"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c3aa3c20b6656683fa6e8f/output_240p.mp4",
+            "quality": "240p",
+            "size": 241.46,
+            "_id": "69c4c7229b9d817771bcdb36"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Puzzle 03 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1775629869802-Puzzle_03_BOARD_PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69c3aa3c20b6656683fa6e8f",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-04 | Puzzle | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram sir",
+        "duration": 4742,
+        "startDate": "2026-03-27T04:00:00.000Z",
+        "endDate": "2026-03-27T05:19:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69c519a716d6c3ba59ace7ec/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c519a716d6c3ba59ace7ec/output_720p.mp4",
+            "quality": "720p",
+            "size": 714.84,
+            "_id": "69c61795c323eab2f4dcd5ca"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c519a716d6c3ba59ace7ec/output_480p.mp4",
+            "quality": "480p",
+            "size": 486.97,
+            "_id": "69c61795c323eab2f4dcd5cb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c519a716d6c3ba59ace7ec/output_360p.mp4",
+            "quality": "360p",
+            "size": 345.87,
+            "_id": "69c61795c323eab2f4dcd5cc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c519a716d6c3ba59ace7ec/output_240p.mp4",
+            "quality": "240p",
+            "size": 246.02,
+            "_id": "69c61795c323eab2f4dcd5cd"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Puzzle 04 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Puzzle 04 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69c519a716d6c3ba59ace7ec",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-05 | Puzzle | by balram sir",
+        "description": "",
+        "teacherName": "Balram sir",
+        "duration": 5511,
+        "startDate": "2026-03-30T04:20:04.524Z",
+        "endDate": "2026-03-30T05:20:04.524Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69c9f95066923638fcdeaca0/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c9f95066923638fcdeaca0/output_720p.mp4",
+            "quality": "720p",
+            "size": 830.28,
+            "_id": "69ca155d30735a1ba71cc01b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c9f95066923638fcdeaca0/output_480p.mp4",
+            "quality": "480p",
+            "size": 558.79,
+            "_id": "69ca155d30735a1ba71cc01c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c9f95066923638fcdeaca0/output_360p.mp4",
+            "quality": "360p",
+            "size": 395.4,
+            "_id": "69ca155d30735a1ba71cc01d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c9f95066923638fcdeaca0/output_240p.mp4",
+            "quality": "240p",
+            "size": 280,
+            "_id": "69ca155d30735a1ba71cc01e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Puzzle 05 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Puzzle 05 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69c9f95066923638fcdeaca0",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-06 | Puzzle | by balram sir",
+        "description": "sb1234",
+        "teacherName": "Balram Sir",
+        "duration": 5046,
+        "startDate": "2026-03-31T04:00:00.000Z",
+        "endDate": "2026-03-31T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69cb16f5c7f3b7e3fb6ed5a3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cb16f5c7f3b7e3fb6ed5a3/output_720p.mp4",
+            "quality": "720p",
+            "size": 757.81,
+            "_id": "69cb5feb766be2ae34cc0525"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cb16f5c7f3b7e3fb6ed5a3/output_480p.mp4",
+            "quality": "480p",
+            "size": 514.31,
+            "_id": "69cb5feb766be2ae34cc0526"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cb16f5c7f3b7e3fb6ed5a3/output_360p.mp4",
+            "quality": "360p",
+            "size": 365.37,
+            "_id": "69cb5feb766be2ae34cc0527"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cb16f5c7f3b7e3fb6ed5a3/output_240p.mp4",
+            "quality": "240p",
+            "size": 264.17,
+            "_id": "69cb5feb766be2ae34cc0528"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Puzzle 06 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Puzzle 06 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69cb16f5c7f3b7e3fb6ed5a3",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-07 | Puzzle | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram Sir",
+        "duration": 4534,
+        "startDate": "2026-04-01T04:00:00.000Z",
+        "endDate": "2026-04-01T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69cc13739f4e3b6d5845fd39/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cc13739f4e3b6d5845fd39/output_720p.mp4",
+            "quality": "720p",
+            "size": 680.97,
+            "_id": "69ccae5a2244da6d78d4d0c7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cc13739f4e3b6d5845fd39/output_480p.mp4",
+            "quality": "480p",
+            "size": 462.13,
+            "_id": "69ccae5a2244da6d78d4d0c8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cc13739f4e3b6d5845fd39/output_360p.mp4",
+            "quality": "360p",
+            "size": 328.35,
+            "_id": "69ccae5a2244da6d78d4d0c9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cc13739f4e3b6d5845fd39/output_240p.mp4",
+            "quality": "240p",
+            "size": 238,
+            "_id": "69ccae5a2244da6d78d4d0ca"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Puzzle 07 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Puzzle 07 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69cc13739f4e3b6d5845fd39",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-01 | GK based reasoning | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram Sir",
+        "duration": 5684,
+        "startDate": "2026-04-02T04:00:00.000Z",
+        "endDate": "2026-04-02T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69ccdd4e5ba6dcc3b0badc6b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ccdd4e5ba6dcc3b0badc6b/output_720p.mp4",
+            "quality": "720p",
+            "size": 863.43,
+            "_id": "69ce0567923f9ce0c44bbe9a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ccdd4e5ba6dcc3b0badc6b/output_480p.mp4",
+            "quality": "480p",
+            "size": 594.21,
+            "_id": "69ce0567923f9ce0c44bbe9b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ccdd4e5ba6dcc3b0badc6b/output_360p.mp4",
+            "quality": "360p",
+            "size": 425.29,
+            "_id": "69ce0567923f9ce0c44bbe9c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ccdd4e5ba6dcc3b0badc6b/output_240p.mp4",
+            "quality": "240p",
+            "size": 313.97,
+            "_id": "69ce0567923f9ce0c44bbe9d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Gk Based 01 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Gk Based 01 BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "GK Based without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/GK Based without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69ccdd4e5ba6dcc3b0badc6b",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-02 | GK based reasoning | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram Sir",
+        "duration": 5181,
+        "startDate": "2026-04-03T04:00:00.000Z",
+        "endDate": "2026-04-03T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69ce46083ce0b06b2523efd9/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ce46083ce0b06b2523efd9/output_720p.mp4",
+            "quality": "720p",
+            "size": 790.79,
+            "_id": "69cf54d58995818e05850f08"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ce46083ce0b06b2523efd9/output_480p.mp4",
+            "quality": "480p",
+            "size": 544.78,
+            "_id": "69cf54d58995818e05850f09"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ce46083ce0b06b2523efd9/output_360p.mp4",
+            "quality": "360p",
+            "size": 389.83,
+            "_id": "69cf54d58995818e05850f0a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ce46083ce0b06b2523efd9/output_240p.mp4",
+            "quality": "240p",
+            "size": 290.32,
+            "_id": "69cf54d58995818e05850f0b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "GK Based 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/GK Based 02 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69ce46083ce0b06b2523efd9",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-03 | GK based reasoning | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram Sir",
+        "duration": 4510,
+        "startDate": "2026-04-06T04:00:00.000Z",
+        "endDate": "2026-04-06T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69d2f97b22cc6f4d5fd53766/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d2f97b22cc6f4d5fd53766/output_720p.mp4",
+            "quality": "720p",
+            "size": 681.25,
+            "_id": "69d347892244da6d78639458"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d2f97b22cc6f4d5fd53766/output_480p.mp4",
+            "quality": "480p",
+            "size": 468.54,
+            "_id": "69d347892244da6d78639459"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d2f97b22cc6f4d5fd53766/output_360p.mp4",
+            "quality": "360p",
+            "size": 335.4,
+            "_id": "69d347892244da6d7863945a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d2f97b22cc6f4d5fd53766/output_240p.mp4",
+            "quality": "240p",
+            "size": 250.92,
+            "_id": "69d347892244da6d7863945b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Gk Based 03 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Gk Based 03 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69d2f97b22cc6f4d5fd53766",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-04 | GK based reasoning | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram Sir",
+        "duration": 4482,
+        "startDate": "2026-04-07T04:00:00.000Z",
+        "endDate": "2026-04-07T05:01:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69d3911e22cc6f4d5ff58f5b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d3911e22cc6f4d5ff58f5b/output_720p.mp4",
+            "quality": "720p",
+            "size": 675.97,
+            "_id": "69d49679729d39fb91b4e8c6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d3911e22cc6f4d5ff58f5b/output_480p.mp4",
+            "quality": "480p",
+            "size": 464.31,
+            "_id": "69d49679729d39fb91b4e8c7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d3911e22cc6f4d5ff58f5b/output_360p.mp4",
+            "quality": "360p",
+            "size": 331.82,
+            "_id": "69d49679729d39fb91b4e8c8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d3911e22cc6f4d5ff58f5b/output_240p.mp4",
+            "quality": "240p",
+            "size": 245.54,
+            "_id": "69d49679729d39fb91b4e8c9"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "GK Based 04 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/GK Based 04 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69d3911e22cc6f4d5ff58f5b",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-01 | Address Matching | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram Sir",
+        "duration": 4574,
+        "startDate": "2026-04-08T04:00:00.000Z",
+        "endDate": "2026-04-08T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69d4dbd622cc6f4d5f090712/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d4dbd622cc6f4d5f090712/output_720p.mp4",
+            "quality": "720p",
+            "size": 678.72,
+            "_id": "69d5e922923f9ce0c49754de"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d4dbd622cc6f4d5f090712/output_480p.mp4",
+            "quality": "480p",
+            "size": 466.19,
+            "_id": "69d5e922923f9ce0c49754df"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d4dbd622cc6f4d5f090712/output_360p.mp4",
+            "quality": "360p",
+            "size": 333.05,
+            "_id": "69d5e922923f9ce0c49754e0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d4dbd622cc6f4d5f090712/output_240p.mp4",
+            "quality": "240p",
+            "size": 247.21,
+            "_id": "69d5e922923f9ce0c49754e1"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Address  Matching  01 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Address  Matching  01 BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Address Matching 01 without anno PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Address Matching 01 without anno PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69d4dbd622cc6f4d5f090712",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-02 | Address Matching | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram Sir",
+        "duration": 4683,
+        "startDate": "2026-04-09T04:00:00.000Z",
+        "endDate": "2026-04-09T05:01:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69d63c9322cc6f4d5f235542/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d63c9322cc6f4d5f235542/output_720p.mp4",
+            "quality": "720p",
+            "size": 720.07,
+            "_id": "69d73b4f923f9ce0c4bd54a7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d63c9322cc6f4d5f235542/output_480p.mp4",
+            "quality": "480p",
+            "size": 496.86,
+            "_id": "69d73b4f923f9ce0c4bd54a8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d63c9322cc6f4d5f235542/output_360p.mp4",
+            "quality": "360p",
+            "size": 355.75,
+            "_id": "69d73b4f923f9ce0c4bd54a9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d63c9322cc6f4d5f235542/output_240p.mp4",
+            "quality": "240p",
+            "size": 264.28,
+            "_id": "69d73b4f923f9ce0c4bd54aa"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Address Matching  02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Address Matching  02 BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Address Matching 02 without anno PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Address Matching 02 without anno PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69d63c9322cc6f4d5f235542",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-01 | Data Sufficiency  | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram Sir",
+        "duration": 5194,
+        "startDate": "2026-04-10T04:00:00.000Z",
+        "endDate": "2026-04-10T05:16:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69d7cc5722cc6f4d5f34c4be/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d7cc5722cc6f4d5f34c4be/output_720p.mp4",
+            "quality": "720p",
+            "size": 792.99,
+            "_id": "69d88f5c8995818e0539fac4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d7cc5722cc6f4d5f34c4be/output_480p.mp4",
+            "quality": "480p",
+            "size": 544.01,
+            "_id": "69d88f5c8995818e0539fac5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d7cc5722cc6f4d5f34c4be/output_360p.mp4",
+            "quality": "360p",
+            "size": 388.72,
+            "_id": "69d88f5c8995818e0539fac6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d7cc5722cc6f4d5f34c4be/output_240p.mp4",
+            "quality": "240p",
+            "size": 286.54,
+            "_id": "69d88f5c8995818e0539fac7"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Data sufficiency BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Data sufficiency BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Data sufficiency without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Data sufficiency without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69d7cc5722cc6f4d5f34c4be",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-02 | Data Sufficiency  | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram Sir",
+        "duration": 3874,
+        "startDate": "2026-04-13T04:00:00.000Z",
+        "endDate": "2026-04-13T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69db828922cc6f4d5f458d24/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69db828922cc6f4d5f458d24/output_720p.mp4",
+            "quality": "720p",
+            "size": 619.55,
+            "_id": "69dc7e1bbcd47007cdd9faf3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69db828922cc6f4d5f458d24/output_480p.mp4",
+            "quality": "480p",
+            "size": 406.59,
+            "_id": "69dc7e1bbcd47007cdd9faf4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69db828922cc6f4d5f458d24/output_360p.mp4",
+            "quality": "360p",
+            "size": 295.24,
+            "_id": "69dc7e1bbcd47007cdd9faf5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69db828922cc6f4d5f458d24/output_240p.mp4",
+            "quality": "240p",
+            "size": 213.65,
+            "_id": "69dc7e1bbcd47007cdd9faf6"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Data Sufficiency  02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Data Sufficiency  02 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69db828922cc6f4d5f458d24",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "class-01 | figure series || by Balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram Sir",
+        "duration": 4211,
+        "startDate": "2026-04-29T09:00:00.000Z",
+        "endDate": "2026-04-29T10:37:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69f08ad022cc6f4d5f0dca8e/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f08ad022cc6f4d5f0dca8e/output_720p.mp4",
+            "quality": "720p",
+            "size": 685.99,
+            "_id": "69f1df1901288a19fb997cb0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f08ad022cc6f4d5f0dca8e/output_480p.mp4",
+            "quality": "480p",
+            "size": 460.31,
+            "_id": "69f1df1901288a19fb997cb1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f08ad022cc6f4d5f0dca8e/output_360p.mp4",
+            "quality": "360p",
+            "size": 336.49,
+            "_id": "69f1df1901288a19fb997cb2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f08ad022cc6f4d5f0dca8e/output_240p.mp4",
+            "quality": "240p",
+            "size": 249.18,
+            "_id": "69f1df1901288a19fb997cb3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Figure Series  BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Figure Series  BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Figure Series without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Figure Series without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69f08ad022cc6f4d5f0dca8e",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "class-02 | figure series || by Balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram Sir",
+        "duration": 5330,
+        "startDate": "2026-04-30T04:00:00.000Z",
+        "endDate": "2026-04-30T05:11:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69f261b522cc6f4d5f42c8d4/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f261b522cc6f4d5f42c8d4/output_720p.mp4",
+            "quality": "720p",
+            "size": 859.25,
+            "_id": "69f2ee5bd94bc142013e6c5e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f261b522cc6f4d5f42c8d4/output_480p.mp4",
+            "quality": "480p",
+            "size": 572.17,
+            "_id": "69f2ee5bd94bc142013e6c5f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f261b522cc6f4d5f42c8d4/output_360p.mp4",
+            "quality": "360p",
+            "size": 413.63,
+            "_id": "69f2ee5bd94bc142013e6c60"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f261b522cc6f4d5f42c8d4/output_240p.mp4",
+            "quality": "240p",
+            "size": 299.95,
+            "_id": "69f2ee5bd94bc142013e6c61"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Figure Series 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Figure Series 02 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69f261b522cc6f4d5f42c8d4",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-01 | Counting of figure || by Balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram Sir",
+        "duration": 5621,
+        "startDate": "2026-05-07T04:00:00.000Z",
+        "endDate": "2026-05-07T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69fa359db927c1a84a10c342/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fa359db927c1a84a10c342/output_720p.mp4",
+            "quality": "720p",
+            "size": 918.04,
+            "_id": "69fc2a9c8cdaf74a62191d83"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fa359db927c1a84a10c342/output_480p.mp4",
+            "quality": "480p",
+            "size": 614.52,
+            "_id": "69fc2a9c8cdaf74a62191d84"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fa359db927c1a84a10c342/output_360p.mp4",
+            "quality": "360p",
+            "size": 445.42,
+            "_id": "69fc2a9c8cdaf74a62191d85"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fa359db927c1a84a10c342/output_240p.mp4",
+            "quality": "240p",
+            "size": 319.67,
+            "_id": "69fc2a9c8cdaf74a62191d86"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Counting of Figure BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Counting of Figure BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Counting of Figure  Without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Counting of Figure  Without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69fa359db927c1a84a10c342",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-02 | Counting of figure || by Balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram Sir",
+        "duration": 4837,
+        "startDate": "2026-05-08T04:00:00.000Z",
+        "endDate": "2026-05-08T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69fd5a395c9069cb8ce1c67b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fd5a395c9069cb8ce1c67b/output_720p.mp4",
+            "quality": "720p",
+            "size": 781.79,
+            "_id": "69fd7899f91588936e6ac3cc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fd5a395c9069cb8ce1c67b/output_480p.mp4",
+            "quality": "480p",
+            "size": 523.71,
+            "_id": "69fd7899f91588936e6ac3cd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fd5a395c9069cb8ce1c67b/output_360p.mp4",
+            "quality": "360p",
+            "size": 380.68,
+            "_id": "69fd7899f91588936e6ac3ce"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fd5a395c9069cb8ce1c67b/output_240p.mp4",
+            "quality": "240p",
+            "size": 279.19,
+            "_id": "69fd7899f91588936e6ac3cf"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Counting of Figure 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Counting of Figure 02 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69fd5a395c9069cb8ce1c67b",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-03 | Counting of figure || by Balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram Sir",
+        "duration": 4646,
+        "startDate": "2026-05-09T04:00:00.000Z",
+        "endDate": "2026-05-09T05:19:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69fe6dfcb927c1a84a352137/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fe6dfcb927c1a84a352137/output_720p.mp4",
+            "quality": "720p",
+            "size": 759.97,
+            "_id": "69fec7c646090660bf344283"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fe6dfcb927c1a84a352137/output_480p.mp4",
+            "quality": "480p",
+            "size": 509.42,
+            "_id": "69fec7c646090660bf344284"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fe6dfcb927c1a84a352137/output_360p.mp4",
+            "quality": "360p",
+            "size": 369.37,
+            "_id": "69fec7c646090660bf344285"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fe6dfcb927c1a84a352137/output_240p.mp4",
+            "quality": "240p",
+            "size": 265.78,
+            "_id": "69fec7c646090660bf344286"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Counting of Figure 03 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Counting of Figure 03 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69fe6dfcb927c1a84a352137",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-01 | Letter basics | Letter Based reasoning | by balram sir",
+        "description": "\"Reasoning  Special  05, 06  & 07\r\n Selection Batch 05 , 06 & 07\"",
+        "teacherName": "Balram Sir",
+        "duration": 4383,
+        "startDate": "2026-05-11T04:00:00.000Z",
+        "endDate": "2026-05-11T05:09:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a00e463b927c1a84a3f4165/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a00e463b927c1a84a3f4165/output_720p.mp4",
+            "quality": "720p",
+            "size": 719.35,
+            "_id": "6a016946959355063eb22275"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a00e463b927c1a84a3f4165/output_480p.mp4",
+            "quality": "480p",
+            "size": 482.2,
+            "_id": "6a016946959355063eb22276"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a00e463b927c1a84a3f4165/output_360p.mp4",
+            "quality": "360p",
+            "size": 351.87,
+            "_id": "6a016946959355063eb22277"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a00e463b927c1a84a3f4165/output_240p.mp4",
+            "quality": "240p",
+            "size": 254.39,
+            "_id": "6a016946959355063eb22278"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Letter Basics  BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Letter Basics  BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Letter Basics without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Letter Basics without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "6a00e463b927c1a84a3f4165",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-02 | Letter basics | Letter Based reasoning | by balram sir",
+        "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08\r\n Selection Batch 02.03,04  05, 06  & 07, 08\"",
+        "teacherName": "Balram Sir",
+        "duration": 5102,
+        "startDate": "2026-05-12T04:00:00.000Z",
+        "endDate": "2026-05-12T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a01a3ccb927c1a84a4b0783/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a01a3ccb927c1a84a4b0783/output_720p.mp4",
+            "quality": "720p",
+            "size": 835.76,
+            "_id": "6a02beadb1f27e3aa04f5cb1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a01a3ccb927c1a84a4b0783/output_480p.mp4",
+            "quality": "480p",
+            "size": 559.66,
+            "_id": "6a02beadb1f27e3aa04f5cb2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a01a3ccb927c1a84a4b0783/output_360p.mp4",
+            "quality": "360p",
+            "size": 407.51,
+            "_id": "6a02beadb1f27e3aa04f5cb3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a01a3ccb927c1a84a4b0783/output_240p.mp4",
+            "quality": "240p",
+            "size": 294.5,
+            "_id": "6a02beadb1f27e3aa04f5cb4"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Letter Basics  02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Letter Basics  02 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "6a01a3ccb927c1a84a4b0783",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "class-01 | Coding Decoding | Letter based reasoning| by balram sir",
+        "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08\r\n Selection Batch 02.03,04  05, 06  & 07, 08\"",
+        "teacherName": "Balram Sir",
+        "duration": 4896,
+        "startDate": "2026-05-13T04:00:00.000Z",
+        "endDate": "2026-05-13T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a03c1e2b927c1a84a695587/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a03c1e2b927c1a84a695587/output_720p.mp4",
+            "quality": "720p",
+            "size": 796.77,
+            "_id": "6a0410c3b3659452d7965e23"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a03c1e2b927c1a84a695587/output_480p.mp4",
+            "quality": "480p",
+            "size": 533.59,
+            "_id": "6a0410c3b3659452d7965e24"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a03c1e2b927c1a84a695587/output_360p.mp4",
+            "quality": "360p",
+            "size": 387.46,
+            "_id": "6a0410c3b3659452d7965e25"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a03c1e2b927c1a84a695587/output_240p.mp4",
+            "quality": "240p",
+            "size": 282.99,
+            "_id": "6a0410c3b3659452d7965e26"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Coding Decoding BOARD PDF _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Coding Decoding BOARD PDF _.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Coding Decoding Without anno pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Coding Decoding Without anno pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "6a03c1e2b927c1a84a695587",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-02 | Coding Decoding | Letter based reasoning| by balram sir",
+        "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08\r\n Selection Batch 02.03,04  05, 06  & 07, 08\"",
+        "teacherName": "Balram Sir",
+        "duration": 4125,
+        "startDate": "2026-05-14T04:00:00.000Z",
+        "endDate": "2026-05-14T05:16:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a044bcab927c1a84a74887b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a044bcab927c1a84a74887b/output_720p.mp4",
+            "quality": "720p",
+            "size": 670.22,
+            "_id": "6a055ddab195bdf6e55f0f9c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a044bcab927c1a84a74887b/output_480p.mp4",
+            "quality": "480p",
+            "size": 447.66,
+            "_id": "6a055ddab195bdf6e55f0f9d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a044bcab927c1a84a74887b/output_360p.mp4",
+            "quality": "360p",
+            "size": 324.35,
+            "_id": "6a055ddab195bdf6e55f0f9e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a044bcab927c1a84a74887b/output_240p.mp4",
+            "quality": "240p",
+            "size": 234.69,
+            "_id": "6a055ddab195bdf6e55f0f9f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Coding Decoding 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Coding Decoding 02 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "6a044bcab927c1a84a74887b",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-03 | Coding Decoding | Letter based reasoning| by balram sir",
+        "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08\r\n Selection Batch 02.03,04  05, 06  & 07, 08\"",
+        "teacherName": "Balram Sir",
+        "duration": 4805,
+        "startDate": "2026-05-15T04:00:00.000Z",
+        "endDate": "2026-05-15T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a059d09b927c1a84a8108eb/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a059d09b927c1a84a8108eb/output_720p.mp4",
+            "quality": "720p",
+            "size": 771.45,
+            "_id": "6a06b2b2a7021a69ba777750"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a059d09b927c1a84a8108eb/output_480p.mp4",
+            "quality": "480p",
+            "size": 507.9,
+            "_id": "6a06b2b2a7021a69ba777751"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a059d09b927c1a84a8108eb/output_360p.mp4",
+            "quality": "360p",
+            "size": 363.21,
+            "_id": "6a06b2b2a7021a69ba777752"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a059d09b927c1a84a8108eb/output_240p.mp4",
+            "quality": "240p",
+            "size": 251.94,
+            "_id": "6a06b2b2a7021a69ba777753"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Coding Decoding 03 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Coding Decoding 03 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "6a059d09b927c1a84a8108eb",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-04 | Coding Decoding | Letter based reasoning| by balram sir",
+        "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08\r\n Selection Batch 02.03,04  05, 06  & 07, 08\"",
+        "teacherName": "Balram Sir",
+        "duration": 4372,
+        "startDate": "2026-05-18T04:00:00.000Z",
+        "endDate": "2026-05-18T05:13:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a0851f3b927c1a84aab58d6/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0851f3b927c1a84aab58d6/output_720p.mp4",
+            "quality": "720p",
+            "size": 709.22,
+            "_id": "6a0aa415b6394c6644b94644"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0851f3b927c1a84aab58d6/output_480p.mp4",
+            "quality": "480p",
+            "size": 472.3,
+            "_id": "6a0aa415b6394c6644b94645"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0851f3b927c1a84aab58d6/output_360p.mp4",
+            "quality": "360p",
+            "size": 338.9,
+            "_id": "6a0aa415b6394c6644b94646"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0851f3b927c1a84aab58d6/output_240p.mp4",
+            "quality": "240p",
+            "size": 234.46,
+            "_id": "6a0aa415b6394c6644b94647"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Coding Decoding 04 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Coding Decoding 04 BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Coding Decoding 04 BOARD PDF _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Coding Decoding 04 BOARD PDF _.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "6a0851f3b927c1a84aab58d6",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-05 | Coding Decoding | Letter based reasoning| by balram sir",
+        "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08\r\n Selection Batch 02.03,04  05, 06  & 07, 08\"",
+        "teacherName": "Balram Sir",
+        "duration": 4402,
+        "startDate": "2026-05-19T04:00:00.000Z",
+        "endDate": "2026-05-19T04:58:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a0b965ab927c1a84ac3240c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0b965ab927c1a84ac3240c/output_720p.mp4",
+            "quality": "720p",
+            "size": 720.5,
+            "_id": "6a0bf6711e37ad592481bce2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0b965ab927c1a84ac3240c/output_480p.mp4",
+            "quality": "480p",
+            "size": 482.66,
+            "_id": "6a0bf6711e37ad592481bce3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0b965ab927c1a84ac3240c/output_360p.mp4",
+            "quality": "360p",
+            "size": 351.68,
+            "_id": "6a0bf6711e37ad592481bce4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0b965ab927c1a84ac3240c/output_240p.mp4",
+            "quality": "240p",
+            "size": 250.65,
+            "_id": "6a0bf6711e37ad592481bce5"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Coding Decoding 05 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Coding Decoding 05 BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Coding Decoding without anno 05",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Coding Decoding without anno 05.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "6a0b965ab927c1a84ac3240c",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-06 | Coding Decoding | Letter based reasoning| by balram sir",
+        "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08\r\n Selection Batch 02.03,04  05, 06  & 07, 08\"",
+        "teacherName": "Balram Sir",
+        "duration": 4870,
+        "startDate": "2026-05-20T04:00:00.000Z",
+        "endDate": "2026-05-20T04:56:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a0c49deb927c1a84ad3735b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0c49deb927c1a84ad3735b/output_720p.mp4",
+            "quality": "720p",
+            "size": 768.85,
+            "_id": "6a0d495ee0181e2f58ffcd8d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0c49deb927c1a84ad3735b/output_480p.mp4",
+            "quality": "480p",
+            "size": 503.1,
+            "_id": "6a0d495ee0181e2f58ffcd8e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0c49deb927c1a84ad3735b/output_360p.mp4",
+            "quality": "360p",
+            "size": 357.77,
+            "_id": "6a0d495ee0181e2f58ffcd8f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0c49deb927c1a84ad3735b/output_240p.mp4",
+            "quality": "240p",
+            "size": 246.3,
+            "_id": "6a0d495ee0181e2f58ffcd90"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Coding Decoding 06 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Coding Decoding 06 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "6a0c49deb927c1a84ad3735b",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-07 | Coding Decoding | Letter based reasoning| by balram sir",
+        "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08\r\n Selection Batch 02.03,04  05, 06  & 07, 08\"",
+        "teacherName": "Balram Sir",
+        "duration": 4793,
+        "startDate": "2026-05-21T04:00:00.000Z",
+        "endDate": "2026-05-21T05:13:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a0d8150b927c1a84af79ea1/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0d8150b927c1a84af79ea1/output_720p.mp4",
+            "quality": "720p",
+            "size": 738.51,
+            "_id": "6a0e9b24e0181e2f581bba48"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0d8150b927c1a84af79ea1/output_480p.mp4",
+            "quality": "480p",
+            "size": 509.27,
+            "_id": "6a0e9b24e0181e2f581bba49"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0d8150b927c1a84af79ea1/output_360p.mp4",
+            "quality": "360p",
+            "size": 364.59,
+            "_id": "6a0e9b24e0181e2f581bba4a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0d8150b927c1a84af79ea1/output_240p.mp4",
+            "quality": "240p",
+            "size": 268.37,
+            "_id": "6a0e9b24e0181e2f581bba4b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Coding Decoding without anno 07",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Coding Decoding without anno 07.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Coding Decoding 07 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Coding Decoding 07 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "6a0d8150b927c1a84af79ea1",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-08 | Coding Decoding | Letter based reasoning| by balram sir",
+        "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08\r\n Selection Batch 02.03,04  05, 06  & 07, 08\"",
+        "teacherName": "Balram Sir",
+        "duration": 0,
+        "startDate": "2026-05-22T04:00:00.000Z",
+        "endDate": "2026-05-22T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a0ec99ab927c1a84a06efe8/playlist.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "6a0ec99ab927c1a84a06efe8",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 64
+        }
+      }
+    ],
+    "Non - Verbal": [
+      {
+        "title": "Class-01 | MIRROR & IMAGES | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram Sir",
+        "duration": 5092.712,
+        "startDate": "2026-04-14T04:00:00.000Z",
+        "endDate": "2026-04-14T05:26:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69dcc5ed22cc6f4d5f578719/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69dcc5ed22cc6f4d5f578719/mp4/balram_mirror_images_240p.mp4",
+            "quality": "240p",
+            "size": 379.46,
+            "_id": "69ddef356fd144d8d74ec297"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69dcc5ed22cc6f4d5f578719/mp4/balram_mirror_images_360p.mp4",
+            "quality": "360p",
+            "size": 441.99,
+            "_id": "69ddef356fd144d8d74ec298"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69dcc5ed22cc6f4d5f578719/mp4/balram_mirror_images_480p.mp4",
+            "quality": "480p",
+            "size": 590.51,
+            "_id": "69ddef356fd144d8d74ec299"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69dcc5ed22cc6f4d5f578719/mp4/balram_mirror_images_720p.mp4",
+            "quality": "720p",
+            "size": 865.18,
+            "_id": "69ddef356fd144d8d74ec29a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Mirror and Images BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Mirror and Images BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Mirror and Images without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Mirror and Images without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69dcc5ed22cc6f4d5f578719",
+          "topicId": "695e3bda2feca20f81dc4764",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-02 | MIRROR & IMAGES | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram Sir",
+        "duration": 4050,
+        "startDate": "2026-04-15T04:00:00.000Z",
+        "endDate": "2026-04-15T05:25:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69de697a22cc6f4d5f682e0a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69de697a22cc6f4d5f682e0a/output_720p.mp4",
+            "quality": "720p",
+            "size": 659.92,
+            "_id": "69df21838995818e05be0d05"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69de697a22cc6f4d5f682e0a/output_480p.mp4",
+            "quality": "480p",
+            "size": 440.23,
+            "_id": "69df21838995818e05be0d06"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69de697a22cc6f4d5f682e0a/output_360p.mp4",
+            "quality": "360p",
+            "size": 318.63,
+            "_id": "69df21838995818e05be0d07"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69de697a22cc6f4d5f682e0a/output_240p.mp4",
+            "quality": "240p",
+            "size": 224.13,
+            "_id": "69df21838995818e05be0d08"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Mirror and Images 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Mirror and Images 02 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69de697a22cc6f4d5f682e0a",
+          "topicId": "695e3bda2feca20f81dc4764",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-01 | Completion of figures | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram Sir",
+        "duration": 4362,
+        "startDate": "2026-04-27T04:00:00.000Z",
+        "endDate": "2026-04-27T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69e96af522cc6f4d5fbad29d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e96af522cc6f4d5fbad29d/output_720p.mp4",
+            "quality": "720p",
+            "size": 704.33,
+            "_id": "69eef4b40e5714413300bb7a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e96af522cc6f4d5fbad29d/output_480p.mp4",
+            "quality": "480p",
+            "size": 472.01,
+            "_id": "69eef4b40e5714413300bb7b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e96af522cc6f4d5fbad29d/output_360p.mp4",
+            "quality": "360p",
+            "size": 344.29,
+            "_id": "69eef4b40e5714413300bb7c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e96af522cc6f4d5fbad29d/output_240p.mp4",
+            "quality": "240p",
+            "size": 258.24,
+            "_id": "69eef4b40e5714413300bb7d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Completion of figures BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Completion of figures BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "completion of figures without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/completion of figures without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69e96af522cc6f4d5fbad29d",
+          "topicId": "695e3bda2feca20f81dc4764",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-01 | Embedded figure | by balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram Sir",
+        "duration": 3740,
+        "startDate": "2026-04-28T04:00:00.000Z",
+        "endDate": "2026-04-28T04:58:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69ef293d22cc6f4d5ff53f0f/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ef293d22cc6f4d5ff53f0f/output_720p.mp4",
+            "quality": "720p",
+            "size": 574.53,
+            "_id": "69f043a62e698841bdc3a9f0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ef293d22cc6f4d5ff53f0f/output_480p.mp4",
+            "quality": "480p",
+            "size": 381.05,
+            "_id": "69f043a62e698841bdc3a9f1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ef293d22cc6f4d5ff53f0f/output_360p.mp4",
+            "quality": "360p",
+            "size": 273.73,
+            "_id": "69f043a62e698841bdc3a9f2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ef293d22cc6f4d5ff53f0f/output_240p.mp4",
+            "quality": "240p",
+            "size": 202.42,
+            "_id": "69f043a62e698841bdc3a9f3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Embedded figure BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Embedded figure BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Embedded Figures without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Embedded Figures without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69ef293d22cc6f4d5ff53f0f",
+          "topicId": "695e3bda2feca20f81dc4764",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-01 | Paper cutting & folding | by Balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram Sir",
+        "duration": 5105,
+        "startDate": "2026-05-01T04:00:00.000Z",
+        "endDate": "2026-05-01T05:29:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69f2f2dd22cc6f4d5f487ca9/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f2f2dd22cc6f4d5f487ca9/output_720p.mp4",
+            "quality": "720p",
+            "size": 839.83,
+            "_id": "69f43e700e57144133846ac7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f2f2dd22cc6f4d5f487ca9/output_480p.mp4",
+            "quality": "480p",
+            "size": 564.55,
+            "_id": "69f43e700e57144133846ac8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f2f2dd22cc6f4d5f487ca9/output_360p.mp4",
+            "quality": "360p",
+            "size": 412.4,
+            "_id": "69f43e700e57144133846ac9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f2f2dd22cc6f4d5f487ca9/output_240p.mp4",
+            "quality": "240p",
+            "size": 303.24,
+            "_id": "69f43e700e57144133846aca"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Paper Cutting & Folding BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Paper Cutting & Folding BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Paper Cutting & Folding without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Paper Cutting & Folding without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69f2f2dd22cc6f4d5f487ca9",
+          "topicId": "695e3bda2feca20f81dc4764",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class -01 | Figure analogy || by Balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram Sir",
+        "duration": 6233,
+        "startDate": "2026-05-02T04:00:00.000Z",
+        "endDate": "2026-05-02T05:11:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69f5406122cc6f4d5f5a941c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f5406122cc6f4d5f5a941c/output_720p.mp4",
+            "quality": "720p",
+            "size": 1016.97,
+            "_id": "69f596492e698841bd4feeec"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f5406122cc6f4d5f5a941c/output_480p.mp4",
+            "quality": "480p",
+            "size": 678.41,
+            "_id": "69f596492e698841bd4feeed"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f5406122cc6f4d5f5a941c/output_360p.mp4",
+            "quality": "360p",
+            "size": 490.25,
+            "_id": "69f596492e698841bd4feeee"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f5406122cc6f4d5f5a941c/output_240p.mp4",
+            "quality": "240p",
+            "size": 342.23,
+            "_id": "69f596492e698841bd4feeef"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Figure Analogy BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Figure Analogy BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Figure Analogy without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Figure Analogy without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69f5406122cc6f4d5f5a941c",
+          "topicId": "695e3bda2feca20f81dc4764",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class -01 | Figure Classification | by Balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"",
+        "teacherName": "Balram Sir",
+        "duration": 4975,
+        "startDate": "2026-05-03T04:00:00.000Z",
+        "endDate": "2026-05-03T05:03:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69f5bcb222cc6f4d5f669f9e/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f5bcb222cc6f4d5f669f9e/output_720p.mp4",
+            "quality": "720p",
+            "size": 808.68,
+            "_id": "69f6e0126cb00329d915fac7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f5bcb222cc6f4d5f669f9e/output_480p.mp4",
+            "quality": "480p",
+            "size": 542.55,
+            "_id": "69f6e0126cb00329d915fac8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f5bcb222cc6f4d5f669f9e/output_360p.mp4",
+            "quality": "360p",
+            "size": 395.66,
+            "_id": "69f6e0126cb00329d915fac9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f5bcb222cc6f4d5f669f9e/output_240p.mp4",
+            "quality": "240p",
+            "size": 291.25,
+            "_id": "69f6e0126cb00329d915faca"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Figure Classification BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Figure Classification BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Figure Classification without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Figure Classification without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69f5bcb222cc6f4d5f669f9e",
+          "topicId": "695e3bda2feca20f81dc4764",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class -01 | Figure Matrix & Grouping | by Balram sir",
+        "description": "\"Reasoning  Special  01, 02,03,04,  &\r\n Selection Batch  01, 02,03,04,\"\r\nClass -01 | Figure Matrix & Grouping | by Balram sir",
+        "teacherName": "Balram Sir",
+        "duration": 5315,
+        "startDate": "2026-05-04T04:00:00.000Z",
+        "endDate": "2026-05-04T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69f7233a22cc6f4d5f6ecdb5/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f7233a22cc6f4d5f6ecdb5/output_720p.mp4",
+            "quality": "720p",
+            "size": 857.54,
+            "_id": "69f834d7a6956332eb432238"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f7233a22cc6f4d5f6ecdb5/output_480p.mp4",
+            "quality": "480p",
+            "size": 574.45,
+            "_id": "69f834d7a6956332eb432239"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f7233a22cc6f4d5f6ecdb5/output_360p.mp4",
+            "quality": "360p",
+            "size": 419.68,
+            "_id": "69f834d7a6956332eb43223a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f7233a22cc6f4d5f6ecdb5/output_240p.mp4",
+            "quality": "240p",
+            "size": 321.81,
+            "_id": "69f834d7a6956332eb43223b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Figure Matrix BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Figure Matrix BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Figure Matrix without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Figure Matrix without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "69f7233a22cc6f4d5f6ecdb5",
+          "topicId": "695e3bda2feca20f81dc4764",
+          "rawRecordIndex": 64
+        }
+      }
+    ]
+  }
+}

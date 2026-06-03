@@ -1,0 +1,200 @@
+{
+  "courseName": "GS Special -8",
+  "extractedAt": "2026-05-22T09:49:10+0530",
+  "videos": {
+    "POLITY": [
+      {
+        "title": "Class - 01 | Making of the Indian Constitution | By Varun Sir",
+        "description": "gs 678",
+        "teacherName": "Varun Sir",
+        "duration": 5211.822,
+        "startDate": "2026-05-12T06:00:00.000Z",
+        "endDate": "2026-05-12T07:00:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a0310d5b927c1a84a635f65/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a0310d5b927c1a84a635f65/mp4/0513_1__240p.mp4",
+            "quality": "240p",
+            "size": 393.71,
+            "_id": "6a04701d0c214c6c983faf77"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a0310d5b927c1a84a635f65/mp4/0513_1__360p.mp4",
+            "quality": "360p",
+            "size": 454.65,
+            "_id": "6a04701d0c214c6c983faf78"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a0310d5b927c1a84a635f65/mp4/0513_1__480p.mp4",
+            "quality": "480p",
+            "size": 607.47,
+            "_id": "6a04701d0c214c6c983faf79"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a0310d5b927c1a84a635f65/mp4/0513_1__720p.mp4",
+            "quality": "720p",
+            "size": 887.8,
+            "_id": "6a04701d0c214c6c983faf7a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Making of Indian Constitution_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Making of Indian Constitution_.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a0310d5b927c1a84a635f65",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 30
+        }
+      },
+      {
+        "title": "Class - 02 | Constitutional Commetties & Question Practice | By Varun Sir",
+        "description": "\" GS Special- 06, 07, 08\r\n Selection Batch - 06, 07, 08\"\r\nClass - 02 | Making of the Indian Constitution | By Varun Sir",
+        "teacherName": "Varun Sir",
+        "duration": 3808,
+        "startDate": "2026-05-14T09:00:00.000Z",
+        "endDate": "2026-05-14T10:07:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a04144f7a4dacd4b4b1e36d/playlist.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a04144f7a4dacd4b4b1e36d/output_720p.mp4",
+            "quality": "720p",
+            "size": 616.08,
+            "_id": "6a05a4b41e37ad5924b5d1fc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a04144f7a4dacd4b4b1e36d/output_480p.mp4",
+            "quality": "480p",
+            "size": 416.06,
+            "_id": "6a05a4b41e37ad5924b5d1fd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a04144f7a4dacd4b4b1e36d/output_360p.mp4",
+            "quality": "360p",
+            "size": 305.92,
+            "_id": "6a05a4b41e37ad5924b5d1fe"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a04144f7a4dacd4b4b1e36d/output_240p.mp4",
+            "quality": "240p",
+            "size": 244.46,
+            "_id": "6a05a4b41e37ad5924b5d1ff"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Constitutional Commetties Question BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Constitutional Commetties Question BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a04144f7a4dacd4b4b1e36d",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 30
+        }
+      },
+      {
+        "title": "Class - 03 | Preamble & Union | By Varun Sir",
+        "description": "\" GS Special- 06, 07, 08\r\n Selection Batch - 06, 07, 08\"",
+        "teacherName": "Varun Sir",
+        "duration": 4485,
+        "startDate": "2026-05-18T09:00:00.000Z",
+        "endDate": "2026-05-18T10:23:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a06e524b927c1a84a9112a8/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a06e524b927c1a84a9112a8/output_720p.mp4",
+            "quality": "720p",
+            "size": 696.4,
+            "_id": "6a0aeb444e9f5ae1bdf8d42a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a06e524b927c1a84a9112a8/output_480p.mp4",
+            "quality": "480p",
+            "size": 482.18,
+            "_id": "6a0aeb444e9f5ae1bdf8d42b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a06e524b927c1a84a9112a8/output_360p.mp4",
+            "quality": "360p",
+            "size": 346.02,
+            "_id": "6a0aeb444e9f5ae1bdf8d42c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a06e524b927c1a84a9112a8/output_240p.mp4",
+            "quality": "240p",
+            "size": 264.07,
+            "_id": "6a0aeb444e9f5ae1bdf8d42d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Preamble and Union BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Preamble and Union BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a06e524b927c1a84a9112a8",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 30
+        }
+      }
+    ],
+    "Information": [
+      {
+        "title": "Important information by Varun sir",
+        "description": "",
+        "teacherName": "Varun Sir",
+        "duration": 96.549,
+        "startDate": "2026-05-19T05:26:00.000Z",
+        "endDate": "2026-05-19T05:26:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a0bf45be9080d789d1164cb/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a0bf45be9080d789d1164cb/mp4/0519_240p.mp4",
+            "quality": "240p",
+            "size": 7.26,
+            "_id": "6a0bfbbf2fb11261ab4a59a1"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a0bf45be9080d789d1164cb/mp4/0519_360p.mp4",
+            "quality": "360p",
+            "size": 8.43,
+            "_id": "6a0bfbbf2fb11261ab4a59a2"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a0bf45be9080d789d1164cb/mp4/0519_480p.mp4",
+            "quality": "480p",
+            "size": 11.26,
+            "_id": "6a0bfbbf2fb11261ab4a59a3"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a0bf45be9080d789d1164cb/mp4/0519_720p.mp4",
+            "quality": "720p",
+            "size": 16.49,
+            "_id": "6a0bfbbf2fb11261ab4a59a4"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a0bf45be9080d789d1164cb",
+          "topicId": "695b6b972feca20f81c0c005",
+          "rawRecordIndex": 30
+        }
+      }
+    ]
+  }
+}

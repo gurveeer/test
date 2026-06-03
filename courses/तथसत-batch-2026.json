@@ -1,0 +1,3307 @@
+{
+  "courseName": "तथास्तु BATCH 2026",
+  "extractedAt": "2026-05-22T09:49:10+0530",
+  "videos": {
+    "POLITY": [
+      {
+        "title": "Class -01 || Constitution Act (संविधान अधिनियम) by Jeet Rana sir",
+        "description": "Class -1 | Polity by jeet rana sir",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 12477,
+        "startDate": "2026-01-17T06:30:00.000Z",
+        "endDate": "2026-01-17T08:40:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/696b2b5f719de161eee94422/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696b2b5f719de161eee94422/output_480p.mp4",
+            "quality": "480p",
+            "size": 1379.82,
+            "_id": "696b6be5027f25d29eea338e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696b2b5f719de161eee94422/output_360p.mp4",
+            "quality": "360p",
+            "size": 1014.29,
+            "_id": "696b6be5027f25d29eea338f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696b2b5f719de161eee94422/output_240p.mp4",
+            "quality": "240p",
+            "size": 808.91,
+            "_id": "696b6be5027f25d29eea3390"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Constitution 01",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Constitution 01.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "696b2b5f719de161eee94422",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -02 || Constitution Act (संविधान अधिनियम) by Jeet Rana sir",
+        "description": "Class -02 || Constitution Act (संविधान अधिनियम) by Jeet Rana sir",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 5097,
+        "startDate": "2026-01-21T06:30:00.000Z",
+        "endDate": "2026-01-21T07:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/696e68a5719de161eef872e7/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696e68a5719de161eef872e7/output_720p.mp4",
+            "quality": "720p",
+            "size": 837.84,
+            "_id": "69709749c4d5677c53c1727e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696e68a5719de161eef872e7/output_480p.mp4",
+            "quality": "480p",
+            "size": 563.43,
+            "_id": "69709749c4d5677c53c1727f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696e68a5719de161eef872e7/output_360p.mp4",
+            "quality": "360p",
+            "size": 413.45,
+            "_id": "69709749c4d5677c53c17280"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696e68a5719de161eef872e7/output_240p.mp4",
+            "quality": "240p",
+            "size": 325.68,
+            "_id": "69709749c4d5677c53c17281"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Constitution 2",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Constitution 2.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "696e68a5719de161eef872e7",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -03 || Constitution Act (संविधान अधिनियम) by Jeet Rana sir",
+        "description": "Class -03 || Constitution Act (संविधान अधिनियम) by Jeet Rana sir",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 4784,
+        "startDate": "2026-01-23T06:30:09.432Z",
+        "endDate": "2026-01-23T07:30:09.432Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6971408f719de161ee12f0d5/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6971408f719de161ee12f0d5/output_720p.mp4",
+            "quality": "720p",
+            "size": 787.46,
+            "_id": "69734ae22bc2892e3c9dd1d2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6971408f719de161ee12f0d5/output_480p.mp4",
+            "quality": "480p",
+            "size": 530.2,
+            "_id": "69734ae22bc2892e3c9dd1d3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6971408f719de161ee12f0d5/output_360p.mp4",
+            "quality": "360p",
+            "size": 389.52,
+            "_id": "69734ae22bc2892e3c9dd1d4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6971408f719de161ee12f0d5/output_240p.mp4",
+            "quality": "240p",
+            "size": 308.99,
+            "_id": "69734ae22bc2892e3c9dd1d5"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Constitution 3",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Constitution 3.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6971408f719de161ee12f0d5",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -04 || Constitution Act (संविधान अधिनियम) by Jeet Rana sir",
+        "description": "Class -04 || Constitution Act (संविधान अधिनियम) by Jeet Rana sir",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 5175,
+        "startDate": "2026-01-24T06:30:00.000Z",
+        "endDate": "2026-01-24T07:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69734e1acc325625a6052d8d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69734e1acc325625a6052d8d/output_720p.mp4",
+            "quality": "720p",
+            "size": 853.08,
+            "_id": "6974836fcb4a652aaa8f9fc1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69734e1acc325625a6052d8d/output_480p.mp4",
+            "quality": "480p",
+            "size": 574.41,
+            "_id": "6974836fcb4a652aaa8f9fc2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69734e1acc325625a6052d8d/output_360p.mp4",
+            "quality": "360p",
+            "size": 422.22,
+            "_id": "6974836fcb4a652aaa8f9fc3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69734e1acc325625a6052d8d/output_240p.mp4",
+            "quality": "240p",
+            "size": 336.85,
+            "_id": "6974836fcb4a652aaa8f9fc4"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Consititution Act 4",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Consititution Act 4.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69734e1acc325625a6052d8d",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -05 || Constitution Act (संविधान अधिनियम) by Jeet Rana sir",
+        "description": "Class -05 || Constitution Act (संविधान अधिनियम) by Jeet Rana sir",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 4599,
+        "startDate": "2026-01-28T06:30:00.000Z",
+        "endDate": "2026-01-28T07:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6978e197c566674bff8e001f/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6978e197c566674bff8e001f/output_720p.mp4",
+            "quality": "720p",
+            "size": 753.11,
+            "_id": "697affdc0884f164a54e77f0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6978e197c566674bff8e001f/output_480p.mp4",
+            "quality": "480p",
+            "size": 505.75,
+            "_id": "697affdc0884f164a54e77f1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6978e197c566674bff8e001f/output_360p.mp4",
+            "quality": "360p",
+            "size": 371.23,
+            "_id": "697affdc0884f164a54e77f2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6978e197c566674bff8e001f/output_240p.mp4",
+            "quality": "240p",
+            "size": 290.47,
+            "_id": "697affdc0884f164a54e77f3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Constitution Act 05",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Constitution Act 05.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6978e197c566674bff8e001f",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -06 || Constitution Act (संविधान अधिनियम) by Jeet Rana sir",
+        "description": "Class -06 || Constitution Act (संविधान अधिनियम) by Jeet Rana sir",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 4799,
+        "startDate": "2026-01-29T06:30:00.000Z",
+        "endDate": "2026-01-29T07:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6979c8f0c566674bff93f109/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6979c8f0c566674bff93f109/output_720p.mp4",
+            "quality": "720p",
+            "size": 789.88,
+            "_id": "697b2676423883d17ddf903e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6979c8f0c566674bff93f109/output_480p.mp4",
+            "quality": "480p",
+            "size": 531.57,
+            "_id": "697b2676423883d17ddf903f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6979c8f0c566674bff93f109/output_360p.mp4",
+            "quality": "360p",
+            "size": 390.89,
+            "_id": "697b2676423883d17ddf9040"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6979c8f0c566674bff93f109/output_240p.mp4",
+            "quality": "240p",
+            "size": 314.9,
+            "_id": "697b2676423883d17ddf9041"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Constitution Act 06",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Constitution Act 06.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6979c8f0c566674bff93f109",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -07 || Constitution Act (संविधान अधिनियम) by Jeet Rana sir",
+        "description": "upsi",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3684,
+        "startDate": "2026-01-30T06:30:00.000Z",
+        "endDate": "2026-01-30T07:39:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/697b2d87070e2462df64a341/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697b2d87070e2462df64a341/output_720p.mp4",
+            "quality": "720p",
+            "size": 609.33,
+            "_id": "697c716a8676ad0dbd91f54d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697b2d87070e2462df64a341/output_480p.mp4",
+            "quality": "480p",
+            "size": 410.58,
+            "_id": "697c716a8676ad0dbd91f54e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697b2d87070e2462df64a341/output_360p.mp4",
+            "quality": "360p",
+            "size": 302.14,
+            "_id": "697c716a8676ad0dbd91f54f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697b2d87070e2462df64a341/output_240p.mp4",
+            "quality": "240p",
+            "size": 243.4,
+            "_id": "697c716a8676ad0dbd91f550"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Constitution Act 07",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Constitution Act 07.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "697b2d87070e2462df64a341",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -08 || Constitution Act (संविधान अधिनियम) by Jeet Rana sir",
+        "description": "upsi",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 5105,
+        "startDate": "2026-01-31T07:00:00.000Z",
+        "endDate": "2026-01-31T08:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/697c9dcb4d8dc8406983ca92/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697c9dcb4d8dc8406983ca92/output_720p.mp4",
+            "quality": "720p",
+            "size": 783.63,
+            "_id": "697dc4781e4a33e023446ce0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697c9dcb4d8dc8406983ca92/output_480p.mp4",
+            "quality": "480p",
+            "size": 495.51,
+            "_id": "697dc4781e4a33e023446ce1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697c9dcb4d8dc8406983ca92/output_360p.mp4",
+            "quality": "360p",
+            "size": 353.89,
+            "_id": "697dc4781e4a33e023446ce2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697c9dcb4d8dc8406983ca92/output_240p.mp4",
+            "quality": "240p",
+            "size": 271.56,
+            "_id": "697dc4781e4a33e023446ce3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Consititution Act 08",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Consititution Act 08.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "697c9dcb4d8dc8406983ca92",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -09 || Constitution Act (संविधान अधिनियम) by Jeet Rana sir",
+        "description": "Class -09 || Constitution Act (संविधान अधिनियम) by Jeet Rana sir",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3652,
+        "startDate": "2026-02-02T06:30:00.000Z",
+        "endDate": "2026-02-02T07:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/697fa4734ca8c7fbe8fb714a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697fa4734ca8c7fbe8fb714a/output_720p.mp4",
+            "quality": "720p",
+            "size": 37.97,
+            "_id": "6980f2771e4a33e0239a5d1a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697fa4734ca8c7fbe8fb714a/output_480p.mp4",
+            "quality": "480p",
+            "size": 37.97,
+            "_id": "6980f2771e4a33e0239a5d1b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697fa4734ca8c7fbe8fb714a/output_360p.mp4",
+            "quality": "360p",
+            "size": 37.97,
+            "_id": "6980f2771e4a33e0239a5d1c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697fa4734ca8c7fbe8fb714a/output_240p.mp4",
+            "quality": "240p",
+            "size": 37.97,
+            "_id": "6980f2771e4a33e0239a5d1d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Constitution Act 09",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Constitution Act 09.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "697fa4734ca8c7fbe8fb714a",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -10 || Constitution Act (संविधान अधिनियम) by Jeet Rana sir",
+        "description": "Class -10 || Constitution Act (संविधान अधिनियम) by Jeet Rana sir",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3681,
+        "startDate": "2026-02-03T06:00:00.000Z",
+        "endDate": "2026-02-03T07:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698071884ca8c7fbe80150f5/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698071884ca8c7fbe80150f5/output_720p.mp4",
+            "quality": "720p",
+            "size": 576.81,
+            "_id": "6981a7ac1e4a33e023c2555c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698071884ca8c7fbe80150f5/output_480p.mp4",
+            "quality": "480p",
+            "size": 379.21,
+            "_id": "6981a7ac1e4a33e023c2555d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698071884ca8c7fbe80150f5/output_360p.mp4",
+            "quality": "360p",
+            "size": 275.2,
+            "_id": "6981a7ac1e4a33e023c2555e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698071884ca8c7fbe80150f5/output_240p.mp4",
+            "quality": "240p",
+            "size": 215.43,
+            "_id": "6981a7ac1e4a33e023c2555f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Constitution Act 10",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Constitution Act 10.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "698071884ca8c7fbe80150f5",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -11 || Constitution Act (संविधान अधिनियम) by Jeet Rana sir",
+        "description": "Class -11 || Constitution Act (संविधान अधिनियम) by Jeet Rana sir",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3642,
+        "startDate": "2026-02-04T06:00:00.000Z",
+        "endDate": "2026-02-04T07:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6981cc9d4ca8c7fbe811cf64/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6981cc9d4ca8c7fbe811cf64/output_720p.mp4",
+            "quality": "720p",
+            "size": 588.86,
+            "_id": "6982fb271e4a33e023b2e2db"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6981cc9d4ca8c7fbe811cf64/output_480p.mp4",
+            "quality": "480p",
+            "size": 393.8,
+            "_id": "6982fb271e4a33e023b2e2dc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6981cc9d4ca8c7fbe811cf64/output_360p.mp4",
+            "quality": "360p",
+            "size": 288.1,
+            "_id": "6982fb271e4a33e023b2e2dd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6981cc9d4ca8c7fbe811cf64/output_240p.mp4",
+            "quality": "240p",
+            "size": 227.37,
+            "_id": "6982fb271e4a33e023b2e2de"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Consititution Part 11",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Consititution Part 11.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6981cc9d4ca8c7fbe811cf64",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -12 || Fundamental Rights (मौलिक अधिकार) by Jeet Rana sir",
+        "description": "upsi , tathastu",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 4001,
+        "startDate": "2026-02-05T06:00:00.000Z",
+        "endDate": "2026-02-05T07:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69831a55fc5097091c06ed5c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69831a55fc5097091c06ed5c/output_720p.mp4",
+            "quality": "720p",
+            "size": 542.26,
+            "_id": "6984483759d9aefff30ab51b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69831a55fc5097091c06ed5c/output_480p.mp4",
+            "quality": "480p",
+            "size": 362.88,
+            "_id": "6984483759d9aefff30ab51c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69831a55fc5097091c06ed5c/output_360p.mp4",
+            "quality": "360p",
+            "size": 262.34,
+            "_id": "6984483759d9aefff30ab51d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69831a55fc5097091c06ed5c/output_240p.mp4",
+            "quality": "240p",
+            "size": 201.88,
+            "_id": "6984483759d9aefff30ab51e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Fundamental Rights",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Fundamental Rights.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69831a55fc5097091c06ed5c",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -13 || Fundamental Rights (मौलिक अधिकार) by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 4221,
+        "startDate": "2026-02-06T06:00:00.000Z",
+        "endDate": "2026-02-06T07:07:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6984578ffdd21a8a2d149675/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6984578ffdd21a8a2d149675/output_720p.mp4",
+            "quality": "720p",
+            "size": 693.94,
+            "_id": "6985a5e41d6766c5a2eaa208"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6984578ffdd21a8a2d149675/output_480p.mp4",
+            "quality": "480p",
+            "size": 466.55,
+            "_id": "6985a5e41d6766c5a2eaa209"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6984578ffdd21a8a2d149675/output_360p.mp4",
+            "quality": "360p",
+            "size": 342.25,
+            "_id": "6985a5e41d6766c5a2eaa20a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6984578ffdd21a8a2d149675/output_240p.mp4",
+            "quality": "240p",
+            "size": 271.65,
+            "_id": "6985a5e41d6766c5a2eaa20b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Fundamental Rights 02",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Fundamental Rights 02.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6984578ffdd21a8a2d149675",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -14 || PRESIDENT AND VICE PRESIDENT by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 10940,
+        "startDate": "2026-02-07T06:30:04.024Z",
+        "endDate": "2026-02-07T07:30:04.024Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/690adfc35085387730ebc31b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690adfc35085387730ebc31b/output_720p.mp4",
+            "quality": "720p",
+            "size": 1018.55,
+            "_id": "69899df0b6d945bcf838b406"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690adfc35085387730ebc31b/output_480p.mp4",
+            "quality": "480p",
+            "size": 652.8,
+            "_id": "69899df0b6d945bcf838b407"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690adfc35085387730ebc31b/output_360p.mp4",
+            "quality": "360p",
+            "size": 448.07,
+            "_id": "69899df0b6d945bcf838b408"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690adfc35085387730ebc31b/output_240p.mp4",
+            "quality": "240p",
+            "size": 341.83,
+            "_id": "69899df0b6d945bcf838b409"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "president and vice president",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/president and vice president.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "690adfc35085387730ebc31b",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -15 || President and Vice President by Jeet Rana sir",
+        "description": "upsi",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 4017,
+        "startDate": "2026-02-09T06:00:00.000Z",
+        "endDate": "2026-02-09T07:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698966cf5b61b5fe00035737/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698966cf5b61b5fe00035737/output_720p.mp4",
+            "quality": "720p",
+            "size": 599.05,
+            "_id": "69899551105ad07ca41631d1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698966cf5b61b5fe00035737/output_480p.mp4",
+            "quality": "480p",
+            "size": 392.58,
+            "_id": "69899551105ad07ca41631d2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698966cf5b61b5fe00035737/output_360p.mp4",
+            "quality": "360p",
+            "size": 283.47,
+            "_id": "69899551105ad07ca41631d3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698966cf5b61b5fe00035737/output_240p.mp4",
+            "quality": "240p",
+            "size": 216.58,
+            "_id": "69899551105ad07ca41631d4"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "parliament_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/parliament_.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "698966cf5b61b5fe00035737",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -01 || Parliament Procedure by Jeet Rana sir",
+        "description": "upsi",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 4052,
+        "startDate": "2026-02-10T06:00:00.000Z",
+        "endDate": "2026-02-10T07:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6989a5f15b61b5fe0007e610/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6989a5f15b61b5fe0007e610/output_720p.mp4",
+            "quality": "720p",
+            "size": 663.74,
+            "_id": "698af47b3ced459aa0379293"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6989a5f15b61b5fe0007e610/output_480p.mp4",
+            "quality": "480p",
+            "size": 445.44,
+            "_id": "698af47b3ced459aa0379294"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6989a5f15b61b5fe0007e610/output_360p.mp4",
+            "quality": "360p",
+            "size": 326.3,
+            "_id": "698af47b3ced459aa0379295"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6989a5f15b61b5fe0007e610/output_240p.mp4",
+            "quality": "240p",
+            "size": 254.01,
+            "_id": "698af47b3ced459aa0379296"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Parliament_Procedure",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Parliament_Procedure.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6989a5f15b61b5fe0007e610",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -01 || Supreme Court by Jeet Rana sir",
+        "description": "",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3915,
+        "startDate": "2026-02-11T06:00:00.000Z",
+        "endDate": "2026-02-11T07:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698b7374a003679fb8ad850a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698b7374a003679fb8ad850a/output_720p.mp4",
+            "quality": "720p",
+            "size": 645.72,
+            "_id": "698c317d8f569ce6cc064e95"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698b7374a003679fb8ad850a/output_480p.mp4",
+            "quality": "480p",
+            "size": 434.72,
+            "_id": "698c317d8f569ce6cc064e96"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698b7374a003679fb8ad850a/output_360p.mp4",
+            "quality": "360p",
+            "size": 319.79,
+            "_id": "698c317d8f569ce6cc064e97"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698b7374a003679fb8ad850a/output_240p.mp4",
+            "quality": "240p",
+            "size": 251.07,
+            "_id": "698c317d8f569ce6cc064e98"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Supreme Court",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Supreme Court (1).pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "698b7374a003679fb8ad850a",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -01 || Ruling State by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 4018,
+        "startDate": "2026-02-12T06:00:00.000Z",
+        "endDate": "2026-02-12T06:57:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698c718ba003679fb8c0b77d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698c718ba003679fb8c0b77d/output_720p.mp4",
+            "quality": "720p",
+            "size": 649.98,
+            "_id": "698d8631ea8c6d69d5286b72"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698c718ba003679fb8c0b77d/output_480p.mp4",
+            "quality": "480p",
+            "size": 434.47,
+            "_id": "698d8631ea8c6d69d5286b73"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698c718ba003679fb8c0b77d/output_360p.mp4",
+            "quality": "360p",
+            "size": 317.44,
+            "_id": "698d8631ea8c6d69d5286b74"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698c718ba003679fb8c0b77d/output_240p.mp4",
+            "quality": "240p",
+            "size": 247.19,
+            "_id": "698d8631ea8c6d69d5286b75"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "The_States",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/The_States.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "698c718ba003679fb8c0b77d",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -01 || State legislature by Jeet Rana sir",
+        "description": "",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 5221,
+        "startDate": "2026-02-14T06:30:00.000Z",
+        "endDate": "2026-02-14T07:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6990006c466e8361a4f66da3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6990006c466e8361a4f66da3/output_720p.mp4",
+            "quality": "720p",
+            "size": 834.81,
+            "_id": "699030a35c835451eeff60e9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6990006c466e8361a4f66da3/output_480p.mp4",
+            "quality": "480p",
+            "size": 556.8,
+            "_id": "699030a35c835451eeff60ea"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6990006c466e8361a4f66da3/output_360p.mp4",
+            "quality": "360p",
+            "size": 405.58,
+            "_id": "699030a35c835451eeff60eb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6990006c466e8361a4f66da3/output_240p.mp4",
+            "quality": "240p",
+            "size": 315.83,
+            "_id": "699030a35c835451eeff60ec"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "State legislature",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/State legislature.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6990006c466e8361a4f66da3",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -01 || High Court by Jeet Rana sir",
+        "description": "",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3828,
+        "startDate": "2026-02-16T05:59:00.000Z",
+        "endDate": "2026-02-16T06:59:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699206ffe23f1dc0e52ca23b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699206ffe23f1dc0e52ca23b/output_720p.mp4",
+            "quality": "720p",
+            "size": 623.7,
+            "_id": "6992ca92e2270e7832fd373c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699206ffe23f1dc0e52ca23b/output_480p.mp4",
+            "quality": "480p",
+            "size": 417.83,
+            "_id": "6992ca92e2270e7832fd373d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699206ffe23f1dc0e52ca23b/output_360p.mp4",
+            "quality": "360p",
+            "size": 305.46,
+            "_id": "6992ca92e2270e7832fd373e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699206ffe23f1dc0e52ca23b/output_240p.mp4",
+            "quality": "240p",
+            "size": 241.18,
+            "_id": "6992ca92e2270e7832fd373f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "highcourt",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/highcourt.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "699206ffe23f1dc0e52ca23b",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -01 || Panchayats by Jeet Rana sir",
+        "description": "",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3657,
+        "startDate": "2026-02-17T06:00:00.000Z",
+        "endDate": "2026-02-17T07:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699342f6e23f1dc0e53a8d27/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699342f6e23f1dc0e53a8d27/output_720p.mp4",
+            "quality": "720p",
+            "size": 516.05,
+            "_id": "69941fbc9ba67f730f68b995"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699342f6e23f1dc0e53a8d27/output_480p.mp4",
+            "quality": "480p",
+            "size": 339.49,
+            "_id": "69941fbc9ba67f730f68b996"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699342f6e23f1dc0e53a8d27/output_360p.mp4",
+            "quality": "360p",
+            "size": 241.88,
+            "_id": "69941fbc9ba67f730f68b997"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699342f6e23f1dc0e53a8d27/output_240p.mp4",
+            "quality": "240p",
+            "size": 183.68,
+            "_id": "69941fbc9ba67f730f68b998"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Panchayats _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Panchayats _.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "699342f6e23f1dc0e53a8d27",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -02 || Panchayats by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3277,
+        "startDate": "2026-02-18T06:15:00.000Z",
+        "endDate": "2026-02-18T07:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69950d8b399756d492432351/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69950d8b399756d492432351/output_720p.mp4",
+            "quality": "720p",
+            "size": 309.16,
+            "_id": "69958437bd84e0869c380a1a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69950d8b399756d492432351/output_480p.mp4",
+            "quality": "480p",
+            "size": 208.32,
+            "_id": "69958437bd84e0869c380a1b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69950d8b399756d492432351/output_360p.mp4",
+            "quality": "360p",
+            "size": 143.72,
+            "_id": "69958437bd84e0869c380a1c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69950d8b399756d492432351/output_240p.mp4",
+            "quality": "240p",
+            "size": 106.13,
+            "_id": "69958437bd84e0869c380a1d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Panchayats 2",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Panchayats 2.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69950d8b399756d492432351",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -01 || Center & State Relation by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3482,
+        "startDate": "2026-02-19T06:00:00.000Z",
+        "endDate": "2026-02-19T07:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699595ea399756d4924d2d7c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699595ea399756d4924d2d7c/output_720p.mp4",
+            "quality": "720p",
+            "size": 554.7,
+            "_id": "6996bed54f6da3d1a2a1b2cd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699595ea399756d4924d2d7c/output_480p.mp4",
+            "quality": "480p",
+            "size": 367.73,
+            "_id": "6996bed54f6da3d1a2a1b2ce"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699595ea399756d4924d2d7c/output_360p.mp4",
+            "quality": "360p",
+            "size": 266.77,
+            "_id": "6996bed54f6da3d1a2a1b2cf"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699595ea399756d4924d2d7c/output_240p.mp4",
+            "quality": "240p",
+            "size": 200.75,
+            "_id": "6996bed54f6da3d1a2a1b2d0"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Center and State Relation",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Center and State Relation.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "699595ea399756d4924d2d7c",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -01 || UPSC by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3969,
+        "startDate": "2026-02-20T06:12:00.000Z",
+        "endDate": "2026-02-20T07:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6996d9ba399756d49257cd73/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6996d9ba399756d49257cd73/output_720p.mp4",
+            "quality": "720p",
+            "size": 634.88,
+            "_id": "699817a84f6da3d1a2e4994d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6996d9ba399756d49257cd73/output_480p.mp4",
+            "quality": "480p",
+            "size": 423.65,
+            "_id": "699817a84f6da3d1a2e4994e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6996d9ba399756d49257cd73/output_360p.mp4",
+            "quality": "360p",
+            "size": 308.86,
+            "_id": "699817a84f6da3d1a2e4994f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6996d9ba399756d49257cd73/output_240p.mp4",
+            "quality": "240p",
+            "size": 241.22,
+            "_id": "699817a84f6da3d1a2e49950"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "UPSC _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/UPSC _.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6996d9ba399756d49257cd73",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -01 || Election Commission by Jeet Rana sir",
+        "description": "",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3693,
+        "startDate": "2026-02-23T06:00:00.000Z",
+        "endDate": "2026-02-23T07:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69995311399756d492727a39/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69995311399756d492727a39/output_720p.mp4",
+            "quality": "720p",
+            "size": 599.28,
+            "_id": "699c041570d04627666a9618"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69995311399756d492727a39/output_480p.mp4",
+            "quality": "480p",
+            "size": 401.4,
+            "_id": "699c041570d04627666a9619"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69995311399756d492727a39/output_360p.mp4",
+            "quality": "360p",
+            "size": 294.12,
+            "_id": "699c041570d04627666a961a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69995311399756d492727a39/output_240p.mp4",
+            "quality": "240p",
+            "size": 229.95,
+            "_id": "699c041570d04627666a961b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "ECI 01",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/ECI 01.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69995311399756d492727a39",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -01 || Language-Provision by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3514,
+        "startDate": "2026-02-24T06:00:00.000Z",
+        "endDate": "2026-02-24T06:55:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699c1fe6399756d492863895/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699c1fe6399756d492863895/output_720p.mp4",
+            "quality": "720p",
+            "size": 565.74,
+            "_id": "699d57554f6da3d1a26f78ed"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699c1fe6399756d492863895/output_480p.mp4",
+            "quality": "480p",
+            "size": 376.87,
+            "_id": "699d57554f6da3d1a26f78ee"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699c1fe6399756d492863895/output_360p.mp4",
+            "quality": "360p",
+            "size": 274.66,
+            "_id": "699d57554f6da3d1a26f78ef"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699c1fe6399756d492863895/output_240p.mp4",
+            "quality": "240p",
+            "size": 207.18,
+            "_id": "699d57554f6da3d1a26f78f0"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Language Provision",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Language Provision.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "699c1fe6399756d492863895",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -01 || Emergency by Jeet Rana sir",
+        "description": "upsi",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3408,
+        "startDate": "2026-02-25T06:00:00.000Z",
+        "endDate": "2026-02-25T07:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699e4eed399756d492a30ade/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699e4eed399756d492a30ade/output_720p.mp4",
+            "quality": "720p",
+            "size": 546.33,
+            "_id": "699eabb2cc56db9e90b738ed"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699e4eed399756d492a30ade/output_480p.mp4",
+            "quality": "480p",
+            "size": 365.92,
+            "_id": "699eabb2cc56db9e90b738ee"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699e4eed399756d492a30ade/output_360p.mp4",
+            "quality": "360p",
+            "size": 267.56,
+            "_id": "699eabb2cc56db9e90b738ef"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699e4eed399756d492a30ade/output_240p.mp4",
+            "quality": "240p",
+            "size": 213.8,
+            "_id": "699eabb2cc56db9e90b738f0"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Emergency_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Emergency _.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "699e4eed399756d492a30ade",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -01 || Polity Final Class by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"\r\nClass -01 || Emergency by Jeet Rana sir",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2717,
+        "startDate": "2026-02-26T06:20:00.000Z",
+        "endDate": "2026-02-26T07:20:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699ecbaba2b1ae04330ef6b3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699ecbaba2b1ae04330ef6b3/output_720p.mp4",
+            "quality": "720p",
+            "size": 412.99,
+            "_id": "699ff6fd0c4acb00f78ee77b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699ecbaba2b1ae04330ef6b3/output_480p.mp4",
+            "quality": "480p",
+            "size": 275.03,
+            "_id": "699ff6fd0c4acb00f78ee77c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699ecbaba2b1ae04330ef6b3/output_360p.mp4",
+            "quality": "360p",
+            "size": 198.86,
+            "_id": "699ff6fd0c4acb00f78ee77d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699ecbaba2b1ae04330ef6b3/output_240p.mp4",
+            "quality": "240p",
+            "size": 155.88,
+            "_id": "699ff6fd0c4acb00f78ee77e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Polity final",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Polity final.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "699ecbaba2b1ae04330ef6b3",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -01 || Non Constitutional Polity Class by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3595,
+        "startDate": "2026-02-27T06:30:00.000Z",
+        "endDate": "2026-02-27T07:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69a00a63a2b1ae04331b021a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a00a63a2b1ae04331b021a/output_720p.mp4",
+            "quality": "720p",
+            "size": 582.71,
+            "_id": "69a15a1f7290e580fcbf39b5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a00a63a2b1ae04331b021a/output_480p.mp4",
+            "quality": "480p",
+            "size": 391.1,
+            "_id": "69a15a1f7290e580fcbf39b6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a00a63a2b1ae04331b021a/output_360p.mp4",
+            "quality": "360p",
+            "size": 285.59,
+            "_id": "69a15a1f7290e580fcbf39b7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a00a63a2b1ae04331b021a/output_240p.mp4",
+            "quality": "240p",
+            "size": 220.75,
+            "_id": "69a15a1f7290e580fcbf39b8"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "NonConstitutional_Bodies_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/NonConstitutional_Bodies_.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69a00a63a2b1ae04331b021a",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 77
+        }
+      }
+    ],
+    "HISTORY": [
+      {
+        "title": "Class -01 || Stone Age (पाषाण युग) || by Jeet Rana sir",
+        "description": "",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 7324,
+        "startDate": "2026-03-11T06:00:00.000Z",
+        "endDate": "2026-03-11T07:14:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69a9c674a2b1ae0433403d13/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a9c674a2b1ae0433403d13/output_720p.mp4",
+            "quality": "720p",
+            "size": 1188.68,
+            "_id": "69b132b414b6b6349bdfe055"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a9c674a2b1ae0433403d13/output_480p.mp4",
+            "quality": "480p",
+            "size": 796.75,
+            "_id": "69b132b414b6b6349bdfe056"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a9c674a2b1ae0433403d13/output_360p.mp4",
+            "quality": "360p",
+            "size": 584.03,
+            "_id": "69b132b414b6b6349bdfe057"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a9c674a2b1ae0433403d13/output_240p.mp4",
+            "quality": "240p",
+            "size": 461.79,
+            "_id": "69b132b414b6b6349bdfe058"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "history class 01 by jeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/tathastu 11 march.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69a9c674a2b1ae0433403d13",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -02 || IVC (सिंधु घाटी सभ्यता) 01 || by Jeet Rana sir",
+        "description": "",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 4251.388,
+        "startDate": "2026-04-09T05:43:00.000Z",
+        "endDate": "2026-04-10T06:43:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69ecb29a22cc6f4d5fe88885/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ecb29a22cc6f4d5fe88885/mp4/_Ancient_History_For_SSC_CGL_2026_Railway_Exams_2026_Tathastu_Complete_GK_2026_by_Jeet_Rana_Sir_240p.mp4",
+            "quality": "240p",
+            "size": 304.61,
+            "_id": "69ecbd082e3616627ae945a9"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ecb29a22cc6f4d5fe88885/mp4/_Ancient_History_For_SSC_CGL_2026_Railway_Exams_2026_Tathastu_Complete_GK_2026_by_Jeet_Rana_Sir_360p.mp4",
+            "quality": "360p",
+            "size": 355.29,
+            "_id": "69ecbd082e3616627ae945aa"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ecb29a22cc6f4d5fe88885/mp4/_Ancient_History_For_SSC_CGL_2026_Railway_Exams_2026_Tathastu_Complete_GK_2026_by_Jeet_Rana_Sir_480p.mp4",
+            "quality": "480p",
+            "size": 479.24,
+            "_id": "69ecbd082e3616627ae945ab"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ecb29a22cc6f4d5fe88885/mp4/_Ancient_History_For_SSC_CGL_2026_Railway_Exams_2026_Tathastu_Complete_GK_2026_by_Jeet_Rana_Sir_720p.mp4",
+            "quality": "720p",
+            "size": 707.94,
+            "_id": "69ecbd082e3616627ae945ac"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "history classs 02 by jeet rana sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/history classs 02 by jeet rana sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69ecb29a22cc6f4d5fe88885",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -03 || IVC (सिंधु घाटी सभ्यता) 02 || by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3142,
+        "startDate": "2026-03-16T06:00:00.000Z",
+        "endDate": "2026-03-16T07:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69b306b89d14466cd0c04d85/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b306b89d14466cd0c04d85/output_720p.mp4",
+            "quality": "720p",
+            "size": 508.29,
+            "_id": "69b7afc85ed5a52b4e725fa2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b306b89d14466cd0c04d85/output_480p.mp4",
+            "quality": "480p",
+            "size": 340.1,
+            "_id": "69b7afc85ed5a52b4e725fa3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b306b89d14466cd0c04d85/output_360p.mp4",
+            "quality": "360p",
+            "size": 248.58,
+            "_id": "69b7afc85ed5a52b4e725fa4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b306b89d14466cd0c04d85/output_240p.mp4",
+            "quality": "240p",
+            "size": 196.82,
+            "_id": "69b7afc85ed5a52b4e725fa5"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "vedic age2",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/vedic age2.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69b306b89d14466cd0c04d85",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -04 || Vedic Period (वैदिक काल) 01 || by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3832,
+        "startDate": "2026-03-17T06:00:00.000Z",
+        "endDate": "2026-03-17T07:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69b8a747dbf4fa27cf768792/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b8a747dbf4fa27cf768792/output_720p.mp4",
+            "quality": "720p",
+            "size": 625.24,
+            "_id": "69babd0052b589c158fdb2e7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b8a747dbf4fa27cf768792/output_480p.mp4",
+            "quality": "480p",
+            "size": 419.36,
+            "_id": "69babd0052b589c158fdb2e8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b8a747dbf4fa27cf768792/output_360p.mp4",
+            "quality": "360p",
+            "size": 307.23,
+            "_id": "69babd0052b589c158fdb2e9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b8a747dbf4fa27cf768792/output_240p.mp4",
+            "quality": "240p",
+            "size": 244.88,
+            "_id": "69babd0052b589c158fdb2ea"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "vedic age_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/vedic age_.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69b8a747dbf4fa27cf768792",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -05 || Vedic Period (वैदिक काल) 02 || by Jeet Rana sir",
+        "description": "",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3968,
+        "startDate": "2026-03-18T06:00:00.000Z",
+        "endDate": "2026-03-18T07:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69b9a98da96048112f404a09/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b9a98da96048112f404a09/output_720p.mp4",
+            "quality": "720p",
+            "size": 606.86,
+            "_id": "69ba570c8f238c1744354892"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b9a98da96048112f404a09/output_480p.mp4",
+            "quality": "480p",
+            "size": 417.09,
+            "_id": "69ba570c8f238c1744354893"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b9a98da96048112f404a09/output_360p.mp4",
+            "quality": "360p",
+            "size": 297.07,
+            "_id": "69ba570c8f238c1744354894"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b9a98da96048112f404a09/output_240p.mp4",
+            "quality": "240p",
+            "size": 222.66,
+            "_id": "69ba570c8f238c1744354895"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Vedic Age BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Vedic Age BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69b9a98da96048112f404a09",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -06 || Later Vedic Period (उत्तर वैदिक काल) || by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 4440,
+        "startDate": "2026-03-19T06:00:00.000Z",
+        "endDate": "2026-03-19T07:02:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69bb4af42086ac9f00c13b15/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69bb4af42086ac9f00c13b15/output_720p.mp4",
+            "quality": "720p",
+            "size": 683.31,
+            "_id": "69bbae0f6ae1a2f455ac8521"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69bb4af42086ac9f00c13b15/output_480p.mp4",
+            "quality": "480p",
+            "size": 471.47,
+            "_id": "69bbae106ae1a2f455ac8522"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69bb4af42086ac9f00c13b15/output_360p.mp4",
+            "quality": "360p",
+            "size": 337.12,
+            "_id": "69bbae106ae1a2f455ac8523"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69bb4af42086ac9f00c13b15/output_240p.mp4",
+            "quality": "240p",
+            "size": 255.73,
+            "_id": "69bbae106ae1a2f455ac8524"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "vedic class 6 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/vedic class 6 pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69bb4af42086ac9f00c13b15",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -07 || Rise of Magadh (मगध का उदय) || by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3973,
+        "startDate": "2026-03-20T06:00:00.000Z",
+        "endDate": "2026-03-20T07:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69bbc1bc02b07cbc32f4fd78/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69bbc1bc02b07cbc32f4fd78/output_720p.mp4",
+            "quality": "720p",
+            "size": 603.68,
+            "_id": "69bcf958fe7c9023998c1beb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69bbc1bc02b07cbc32f4fd78/output_480p.mp4",
+            "quality": "480p",
+            "size": 416.09,
+            "_id": "69bcf958fe7c9023998c1bec"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69bbc1bc02b07cbc32f4fd78/output_360p.mp4",
+            "quality": "360p",
+            "size": 297.08,
+            "_id": "69bcf958fe7c9023998c1bed"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69bbc1bc02b07cbc32f4fd78/output_240p.mp4",
+            "quality": "240p",
+            "size": 224.61,
+            "_id": "69bcf958fe7c9023998c1bee"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "magadha class by jeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/magadha class by jeet sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69bbc1bc02b07cbc32f4fd78",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -08 || Maurya Empire (मौर्य साम्राज्य) 01 by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3841,
+        "startDate": "2026-03-23T06:00:00.000Z",
+        "endDate": "2026-03-23T07:05:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69c07ef47cbd92b8bfee2e6c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c07ef47cbd92b8bfee2e6c/output_720p.mp4",
+            "quality": "720p",
+            "size": 590.41,
+            "_id": "69c0ee977658d5a3d4fa377b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c07ef47cbd92b8bfee2e6c/output_480p.mp4",
+            "quality": "480p",
+            "size": 408.45,
+            "_id": "69c0ee977658d5a3d4fa377c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c07ef47cbd92b8bfee2e6c/output_360p.mp4",
+            "quality": "360p",
+            "size": 292.86,
+            "_id": "69c0ee977658d5a3d4fa377d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c07ef47cbd92b8bfee2e6c/output_240p.mp4",
+            "quality": "240p",
+            "size": 221.38,
+            "_id": "69c0ee977658d5a3d4fa377e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "vedic class 08",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/vedic class 08.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69c07ef47cbd92b8bfee2e6c",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -09 || Maurya Empire (मौर्य साम्राज्य) 02 || by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3885,
+        "startDate": "2026-03-24T06:00:00.000Z",
+        "endDate": "2026-03-24T07:18:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69c12802951392adb8aa0265/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c12802951392adb8aa0265/output_720p.mp4",
+            "quality": "720p",
+            "size": 594.14,
+            "_id": "69c241a5f2f7b01472189bf7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c12802951392adb8aa0265/output_480p.mp4",
+            "quality": "480p",
+            "size": 410.35,
+            "_id": "69c241a5f2f7b01472189bf8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c12802951392adb8aa0265/output_360p.mp4",
+            "quality": "360p",
+            "size": 294,
+            "_id": "69c241a5f2f7b01472189bf9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c12802951392adb8aa0265/output_240p.mp4",
+            "quality": "240p",
+            "size": 222.46,
+            "_id": "69c241a5f2f7b01472189bfa"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Mauryan Final",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Mauryan Final.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69c12802951392adb8aa0265",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -10 || Buddhism (बौद्ध धर्म) || by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 5585,
+        "startDate": "2026-03-25T06:00:00.000Z",
+        "endDate": "2026-03-25T07:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69c12842951392adb8aa2ce3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c12842951392adb8aa2ce3/output_720p.mp4",
+            "quality": "720p",
+            "size": 864.78,
+            "_id": "69c3a31ed284083a664a130d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c12842951392adb8aa2ce3/output_480p.mp4",
+            "quality": "480p",
+            "size": 598.98,
+            "_id": "69c3a31ed284083a664a130e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c12842951392adb8aa2ce3/output_360p.mp4",
+            "quality": "360p",
+            "size": 430.21,
+            "_id": "69c3a31ed284083a664a130f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c12842951392adb8aa2ce3/output_240p.mp4",
+            "quality": "240p",
+            "size": 327.49,
+            "_id": "69c3a31ed284083a664a1310"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "buddhism_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/buddhism_.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69c12842951392adb8aa2ce3",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -11 || Jainism (जैन धर्म) || by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 4155,
+        "startDate": "2026-03-26T07:00:00.000Z",
+        "endDate": "2026-03-26T08:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69c3aac420b6656683fb1999/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c3aac420b6656683fb1999/output_720p.mp4",
+            "quality": "720p",
+            "size": 640.89,
+            "_id": "69c4f3b29b9d81777128ee54"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c3aac420b6656683fb1999/output_480p.mp4",
+            "quality": "480p",
+            "size": 442.96,
+            "_id": "69c4f3b29b9d81777128ee55"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c3aac420b6656683fb1999/output_360p.mp4",
+            "quality": "360p",
+            "size": 317.74,
+            "_id": "69c4f3b29b9d81777128ee56"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c3aac420b6656683fb1999/output_240p.mp4",
+            "quality": "240p",
+            "size": 239.79,
+            "_id": "69c4f3b29b9d81777128ee57"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "jainism__",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/jainism__.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69c3aac420b6656683fb1999",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -12 || Later Mauryas (उत्तर मौर्य काल) 01 || by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3907,
+        "startDate": "2026-03-27T07:00:00.000Z",
+        "endDate": "2026-03-27T08:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69c5d29049ddc27679e26a6f/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c5d29049ddc27679e26a6f/output_720p.mp4",
+            "quality": "720p",
+            "size": 578.28,
+            "_id": "69c641c8c323eab2f42b16bd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c5d29049ddc27679e26a6f/output_480p.mp4",
+            "quality": "480p",
+            "size": 396.38,
+            "_id": "69c641c8c323eab2f42b16be"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c5d29049ddc27679e26a6f/output_360p.mp4",
+            "quality": "360p",
+            "size": 280.85,
+            "_id": "69c641c8c323eab2f42b16bf"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c5d29049ddc27679e26a6f/output_240p.mp4",
+            "quality": "240p",
+            "size": 211.38,
+            "_id": "69c641c8c323eab2f42b16c0"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Later Mauryans_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Later Mauryans_.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69c5d29049ddc27679e26a6f",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -13 || Later Mauryas (उत्तर मौर्य काल) 02 || by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3998,
+        "startDate": "2026-03-30T07:00:00.000Z",
+        "endDate": "2026-03-30T08:09:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69c9f70166923638fcddfb95/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c9f70166923638fcddfb95/output_720p.mp4",
+            "quality": "720p",
+            "size": 619.57,
+            "_id": "69ca3722d5432e914dd04aca"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c9f70166923638fcddfb95/output_480p.mp4",
+            "quality": "480p",
+            "size": 429.25,
+            "_id": "69ca3722d5432e914dd04acb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c9f70166923638fcddfb95/output_360p.mp4",
+            "quality": "360p",
+            "size": 308.74,
+            "_id": "69ca3722d5432e914dd04acc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c9f70166923638fcddfb95/output_240p.mp4",
+            "quality": "240p",
+            "size": 237.89,
+            "_id": "69ca3722d5432e914dd04acd"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Later Mauryans class 2",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Later Mauryans class 2.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69c9f70166923638fcddfb95",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -14 || Later Mauryas (उत्तर मौर्य काल) 03 || by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3838,
+        "startDate": "2026-04-01T07:00:00.000Z",
+        "endDate": "2026-04-01T08:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69cb20e3c7f3b7e3fb71c8fc/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cb20e3c7f3b7e3fb71c8fc/output_720p.mp4",
+            "quality": "720p",
+            "size": 585.63,
+            "_id": "69ccde7c729d39fb91a71b10"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cb20e3c7f3b7e3fb71c8fc/output_480p.mp4",
+            "quality": "480p",
+            "size": 403.31,
+            "_id": "69ccde7c729d39fb91a71b11"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cb20e3c7f3b7e3fb71c8fc/output_360p.mp4",
+            "quality": "360p",
+            "size": 288.82,
+            "_id": "69ccde7c729d39fb91a71b12"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cb20e3c7f3b7e3fb71c8fc/output_240p.mp4",
+            "quality": "240p",
+            "size": 221.07,
+            "_id": "69ccde7c729d39fb91a71b13"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Gupta__",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Gupta__.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69cb20e3c7f3b7e3fb71c8fc",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -15 || Gupta Period (गुप्त काल) 01 || by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 4016,
+        "startDate": "2026-04-02T07:00:00.000Z",
+        "endDate": "2026-04-02T08:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69cdfd6e658aed862442a567/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cdfd6e658aed862442a567/output_720p.mp4",
+            "quality": "720p",
+            "size": 612.26,
+            "_id": "69ce305a729d39fb91d2f047"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cdfd6e658aed862442a567/output_480p.mp4",
+            "quality": "480p",
+            "size": 421.08,
+            "_id": "69ce305a729d39fb91d2f048"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cdfd6e658aed862442a567/output_360p.mp4",
+            "quality": "360p",
+            "size": 301.1,
+            "_id": "69ce305a729d39fb91d2f049"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cdfd6e658aed862442a567/output_240p.mp4",
+            "quality": "240p",
+            "size": 227.57,
+            "_id": "69ce305a729d39fb91d2f04a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Gupta Era__",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Gupta Era__.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69cdfd6e658aed862442a567",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -16 || Gupta Period (गुप्त काल) 02 || by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3282,
+        "startDate": "2026-04-03T06:58:00.000Z",
+        "endDate": "2026-04-03T07:58:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69cf48b1c4fc2e169cf48bea/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cf48b1c4fc2e169cf48bea/output_720p.mp4",
+            "quality": "720p",
+            "size": 505.7,
+            "_id": "69cf79b830735a1ba7e28e3b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cf48b1c4fc2e169cf48bea/output_480p.mp4",
+            "quality": "480p",
+            "size": 349.96,
+            "_id": "69cf79b830735a1ba7e28e3c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cf48b1c4fc2e169cf48bea/output_360p.mp4",
+            "quality": "360p",
+            "size": 251.33,
+            "_id": "69cf79b830735a1ba7e28e3d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cf48b1c4fc2e169cf48bea/output_240p.mp4",
+            "quality": "240p",
+            "size": 192.28,
+            "_id": "69cf79b830735a1ba7e28e3e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "GUPTAS 02",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/GUPTAS 02.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69cf48b1c4fc2e169cf48bea",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -17 || Gupta Period (गुप्त काल) 03 || by Jeet Rana sir",
+        "description": "upsi , mukvidhi , tathastu",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 4270.869466,
+        "startDate": "2026-04-02T07:27:00.000Z",
+        "endDate": "2026-04-02T08:27:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69ef1c6d22cc6f4d5ff34405/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ef1c6d22cc6f4d5ff34405/mp4/_Later_Guptas_One_Shot_Ancient_History_SSC_CGL_2026_Railway_Exams_Tathastu_by_Jeet_Rana_Sir_240p.mp4",
+            "quality": "240p",
+            "size": 310.63,
+            "_id": "69ef245e0e571441339ff2d6"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ef1c6d22cc6f4d5ff34405/mp4/_Later_Guptas_One_Shot_Ancient_History_SSC_CGL_2026_Railway_Exams_Tathastu_by_Jeet_Rana_Sir_360p.mp4",
+            "quality": "360p",
+            "size": 360.77,
+            "_id": "69ef245e0e571441339ff2d7"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ef1c6d22cc6f4d5ff34405/mp4/_Later_Guptas_One_Shot_Ancient_History_SSC_CGL_2026_Railway_Exams_Tathastu_by_Jeet_Rana_Sir_480p.mp4",
+            "quality": "480p",
+            "size": 481.41,
+            "_id": "69ef245e0e571441339ff2d8"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ef1c6d22cc6f4d5ff34405/mp4/_Later_Guptas_One_Shot_Ancient_History_SSC_CGL_2026_Railway_Exams_Tathastu_by_Jeet_Rana_Sir_720p.mp4",
+            "quality": "720p",
+            "size": 693.79,
+            "_id": "69ef245e0e571441339ff2d9"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Guptas 03 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Guptas 03 pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69ef1c6d22cc6f4d5ff34405",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -18 || Rashtrakuta Dynasty राष्ट्रकूट वंश) 01 || by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3478.953,
+        "startDate": "2026-04-07T07:19:00.000Z",
+        "endDate": "2026-04-07T06:19:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69d5e51922cc6f4d5f13a039/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69d5e51922cc6f4d5f13a039/mp4/0408_240p.mp4",
+            "quality": "240p",
+            "size": 261.89,
+            "_id": "69d5ee54923f9ce0c4c67d7f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69d5e51922cc6f4d5f13a039/mp4/0408_360p.mp4",
+            "quality": "360p",
+            "size": 303.92,
+            "_id": "69d5ee54923f9ce0c4c67d80"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69d5e51922cc6f4d5f13a039/mp4/0408_480p.mp4",
+            "quality": "480p",
+            "size": 405.84,
+            "_id": "69d5ee54923f9ce0c4c67d81"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69d5e51922cc6f4d5f13a039/mp4/0408_720p.mp4",
+            "quality": "720p",
+            "size": 593.89,
+            "_id": "69d5ee54923f9ce0c4c67d82"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "vedic class 18",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/vedic class 18.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69d5e51922cc6f4d5f13a039",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -19 || Rashtrakuta Dynasty राष्ट्रकूट वंश) 02 || by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3824,
+        "startDate": "2026-04-08T07:30:00.000Z",
+        "endDate": "2026-04-08T08:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69d5e5a922cc6f4d5f13cef3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d5e5a922cc6f4d5f13cef3/output_720p.mp4",
+            "quality": "720p",
+            "size": 44.71,
+            "_id": "69d61d0ad5432e914d4c24e2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d5e5a922cc6f4d5f13cef3/output_480p.mp4",
+            "quality": "480p",
+            "size": 44.71,
+            "_id": "69d61d0ad5432e914d4c24e3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d5e5a922cc6f4d5f13cef3/output_360p.mp4",
+            "quality": "360p",
+            "size": 44.71,
+            "_id": "69d61d0ad5432e914d4c24e4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d5e5a922cc6f4d5f13cef3/output_240p.mp4",
+            "quality": "240p",
+            "size": 44.71,
+            "_id": "69d61d0ad5432e914d4c24e5"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "vedic class 19",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/vedic class 19.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69d5e5a922cc6f4d5f13cef3",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -20 || South Indian Dynasties (दक्षिण भारतीय वंश) 01 || by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3747,
+        "startDate": "2026-04-09T07:00:00.000Z",
+        "endDate": "2026-04-09T08:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69d72bc322cc6f4d5f284d59/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d72bc322cc6f4d5f284d59/output_720p.mp4",
+            "quality": "720p",
+            "size": 610.48,
+            "_id": "69d8c0402244da6d787c8af5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d72bc322cc6f4d5f284d59/output_480p.mp4",
+            "quality": "480p",
+            "size": 411.5,
+            "_id": "69d8c0402244da6d787c8af6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d72bc322cc6f4d5f284d59/output_360p.mp4",
+            "quality": "360p",
+            "size": 302.33,
+            "_id": "69d8c0402244da6d787c8af7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d72bc322cc6f4d5f284d59/output_240p.mp4",
+            "quality": "240p",
+            "size": 240.68,
+            "_id": "69d8c0402244da6d787c8af8"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "vedic age class 20",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/tathastu-9april.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69d72bc322cc6f4d5f284d59",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -21 || South Indian Dynasties (दक्षिण भारतीय वंश) 02 || by Jeet Rana sir",
+        "description": "\"UPSI BATCH, UPSI 2025 Polity + मूलविधि Batch,\r\nतथास्तु BATCH 2026\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3286,
+        "startDate": "2026-04-10T07:00:00.000Z",
+        "endDate": "2026-04-10T08:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69d881b922cc6f4d5f37aee8/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d881b922cc6f4d5f37aee8/output_720p.mp4",
+            "quality": "720p",
+            "size": 542.44,
+            "_id": "69d8bfb56fd144d8d7939445"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d881b922cc6f4d5f37aee8/output_480p.mp4",
+            "quality": "480p",
+            "size": 366.55,
+            "_id": "69d8bfb56fd144d8d7939446"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d881b922cc6f4d5f37aee8/output_360p.mp4",
+            "quality": "360p",
+            "size": 270.17,
+            "_id": "69d8bfb56fd144d8d7939447"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d881b922cc6f4d5f37aee8/output_240p.mp4",
+            "quality": "240p",
+            "size": 216.02,
+            "_id": "69d8bfb56fd144d8d7939448"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "vedic age class 21",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/ancient0final-tathastu-10april.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69d881b922cc6f4d5f37aee8",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 77
+        }
+      }
+    ],
+    "Mediaeval History": [
+      {
+        "title": "Class -01 | Arabian Attack 01 | by Jeet rana sir",
+        "description": "tathastu batch",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3448.257,
+        "startDate": "2026-04-23T09:51:00.000Z",
+        "endDate": "2026-04-23T10:51:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69f5bfa822cc6f4d5f679f3e/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69f5bfa822cc6f4d5f679f3e/mp4/Medieval_History_Arab_Attack_in_India_SSC_CGL_2026_Railway_Exams_Complete_GK_GS_240p.mp4",
+            "quality": "240p",
+            "size": 249.42,
+            "_id": "69f5c8a24e491c73994cb0e4"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69f5bfa822cc6f4d5f679f3e/mp4/Medieval_History_Arab_Attack_in_India_SSC_CGL_2026_Railway_Exams_Complete_GK_GS_360p.mp4",
+            "quality": "360p",
+            "size": 291.16,
+            "_id": "69f5c8a24e491c73994cb0e5"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69f5bfa822cc6f4d5f679f3e/mp4/Medieval_History_Arab_Attack_in_India_SSC_CGL_2026_Railway_Exams_Complete_GK_GS_480p.mp4",
+            "quality": "480p",
+            "size": 390.87,
+            "_id": "69f5c8a24e491c73994cb0e6"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69f5bfa822cc6f4d5f679f3e/mp4/Medieval_History_Arab_Attack_in_India_SSC_CGL_2026_Railway_Exams_Complete_GK_GS_720p.mp4",
+            "quality": "720p",
+            "size": 576.99,
+            "_id": "69f5c8a24e491c73994cb0e7"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "medieval history class 1 by jeet rana sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/medieval history class 1 by jeet rana sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69f5bfa822cc6f4d5f679f3e",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -02 | Arabian Attack 02 | by Jeet rana sir",
+        "description": "tathasthu batch",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3773.3,
+        "startDate": "2026-04-24T07:00:00.000Z",
+        "endDate": "2026-04-24T08:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69eb131122cc6f4d5fd047f2/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69eb131122cc6f4d5fd047f2/mp4/jeet_turkish_attack_240p.mp4",
+            "quality": "240p",
+            "size": 281.71,
+            "_id": "69eb5a072e698841bdc33bec"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69eb131122cc6f4d5fd047f2/mp4/jeet_turkish_attack_360p.mp4",
+            "quality": "360p",
+            "size": 326.56,
+            "_id": "69eb5a072e698841bdc33bed"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69eb131122cc6f4d5fd047f2/mp4/jeet_turkish_attack_480p.mp4",
+            "quality": "480p",
+            "size": 435.97,
+            "_id": "69eb5a072e698841bdc33bee"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69eb131122cc6f4d5fd047f2/mp4/jeet_turkish_attack_720p.mp4",
+            "quality": "720p",
+            "size": 637.97,
+            "_id": "69eb5a072e698841bdc33bef"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "medieval history  class 2 by jeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/medieval history  class 2 by jeet sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69eb131122cc6f4d5fd047f2",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -03 | Turkish Attack 01 | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3638,
+        "startDate": "2026-04-27T07:00:00.000Z",
+        "endDate": "2026-04-27T08:18:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69eef14522cc6f4d5fee13a5/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69eef14522cc6f4d5fee13a5/output_720p.mp4",
+            "quality": "720p",
+            "size": 549.63,
+            "_id": "69ef202f2e698841bd08363a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69eef14522cc6f4d5fee13a5/output_480p.mp4",
+            "quality": "480p",
+            "size": 379.12,
+            "_id": "69ef202f2e698841bd08363b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69eef14522cc6f4d5fee13a5/output_360p.mp4",
+            "quality": "360p",
+            "size": 272.03,
+            "_id": "69ef202f2e698841bd08363c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69eef14522cc6f4d5fee13a5/output_240p.mp4",
+            "quality": "240p",
+            "size": 209.21,
+            "_id": "69ef202f2e698841bd08363d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "medieval history class 3 by jeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/medieval history class 3 by jeet sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69eef14522cc6f4d5fee13a5",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -04 | Turkish Attack 02 | by Jeet rana sir",
+        "description": "tathastu batch",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3117,
+        "startDate": "2026-04-28T07:00:00.000Z",
+        "endDate": "2026-04-28T08:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69f03cb922cc6f4d5f006acc/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f03cb922cc6f4d5f006acc/output_720p.mp4",
+            "quality": "720p",
+            "size": 471.1,
+            "_id": "69f06cf9d94bc142017c36ed"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f03cb922cc6f4d5f006acc/output_480p.mp4",
+            "quality": "480p",
+            "size": 323.94,
+            "_id": "69f06cf9d94bc142017c36ee"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f03cb922cc6f4d5f006acc/output_360p.mp4",
+            "quality": "360p",
+            "size": 230.68,
+            "_id": "69f06cf9d94bc142017c36ef"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f03cb922cc6f4d5f006acc/output_240p.mp4",
+            "quality": "240p",
+            "size": 171.37,
+            "_id": "69f06cf9d94bc142017c36f0"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "medieval history class 4 by jeet rana sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/medieval history class 4 by jeet rana sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69f03cb922cc6f4d5f006acc",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -05 | Delhi Sultanate 01 | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3771,
+        "startDate": "2026-04-29T07:00:00.000Z",
+        "endDate": "2026-04-29T08:03:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69f19f0f22cc6f4d5f21b4a2/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f19f0f22cc6f4d5f21b4a2/output_720p.mp4",
+            "quality": "720p",
+            "size": 570.48,
+            "_id": "69f1c3790e571441335db40f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f19f0f22cc6f4d5f21b4a2/output_480p.mp4",
+            "quality": "480p",
+            "size": 392.02,
+            "_id": "69f1c3790e571441335db410"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f19f0f22cc6f4d5f21b4a2/output_360p.mp4",
+            "quality": "360p",
+            "size": 280.28,
+            "_id": "69f1c3790e571441335db411"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f19f0f22cc6f4d5f21b4a2/output_240p.mp4",
+            "quality": "240p",
+            "size": 212.72,
+            "_id": "69f1c3790e571441335db412"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "medieval history class 5 by jeet rana sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/medieval history class 5 by jeet rana sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69f19f0f22cc6f4d5f21b4a2",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -06 | Delhi Sultanate 02 | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2977,
+        "startDate": "2026-04-30T07:00:00.000Z",
+        "endDate": "2026-04-30T08:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69f2627d22cc6f4d5f4360b0/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f2627d22cc6f4d5f4360b0/output_720p.mp4",
+            "quality": "720p",
+            "size": 450.69,
+            "_id": "69f3132b0e571441339ca31f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f2627d22cc6f4d5f4360b0/output_480p.mp4",
+            "quality": "480p",
+            "size": 310.33,
+            "_id": "69f3132b0e571441339ca320"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f2627d22cc6f4d5f4360b0/output_360p.mp4",
+            "quality": "360p",
+            "size": 222.42,
+            "_id": "69f3132b0e571441339ca321"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f2627d22cc6f4d5f4360b0/output_240p.mp4",
+            "quality": "240p",
+            "size": 170.6,
+            "_id": "69f3132b0e571441339ca322"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "medieval history class 6 by jeet rana sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/medieval history class 6 by jeet rana sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69f2627d22cc6f4d5f4360b0",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -07 | Delhi Sultanate 03 | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3063,
+        "startDate": "2026-05-01T07:00:00.000Z",
+        "endDate": "2026-05-01T08:08:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69f4353022cc6f4d5f520ef7/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f4353022cc6f4d5f520ef7/output_720p.mp4",
+            "quality": "720p",
+            "size": 468.51,
+            "_id": "69f4660aa6956332ebc6a5cf"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f4353022cc6f4d5f520ef7/output_480p.mp4",
+            "quality": "480p",
+            "size": 323.39,
+            "_id": "69f4660aa6956332ebc6a5d0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f4353022cc6f4d5f520ef7/output_360p.mp4",
+            "quality": "360p",
+            "size": 231.76,
+            "_id": "69f4660aa6956332ebc6a5d1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f4353022cc6f4d5f520ef7/output_240p.mp4",
+            "quality": "240p",
+            "size": 176.92,
+            "_id": "69f4660aa6956332ebc6a5d2"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "medieval history  class 7  by jeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/medieval history  class 7  by jeet sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69f4353022cc6f4d5f520ef7",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -08 | Delhi Sultanate 04 | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2990,
+        "startDate": "2026-05-05T07:00:00.000Z",
+        "endDate": "2026-05-05T08:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69f7243822cc6f4d5f6f675b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f7243822cc6f4d5f6f675b/output_720p.mp4",
+            "quality": "720p",
+            "size": 454.98,
+            "_id": "69faf25386cb896472ee2929"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f7243822cc6f4d5f6f675b/output_480p.mp4",
+            "quality": "480p",
+            "size": 313.68,
+            "_id": "69faf25386cb896472ee292a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f7243822cc6f4d5f6f675b/output_360p.mp4",
+            "quality": "360p",
+            "size": 224.07,
+            "_id": "69faf25386cb896472ee292b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f7243822cc6f4d5f6f675b/output_240p.mp4",
+            "quality": "240p",
+            "size": 169.96,
+            "_id": "69faf25386cb896472ee292c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "medieval history class 08 by jeet rana sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/medieval class 08 by jeet rana sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69f7243822cc6f4d5f6f675b",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -09 | Delhi Sultanate 05 | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3362,
+        "startDate": "2026-05-06T07:00:00.000Z",
+        "endDate": "2026-05-06T08:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69fa36aeb927c1a84a11f829/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fa36aeb927c1a84a11f829/output_720p.mp4",
+            "quality": "720p",
+            "size": 517.74,
+            "_id": "69fafd1c0e57144133ef2d79"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fa36aeb927c1a84a11f829/output_480p.mp4",
+            "quality": "480p",
+            "size": 357.82,
+            "_id": "69fafd1c0e57144133ef2d7a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fa36aeb927c1a84a11f829/output_360p.mp4",
+            "quality": "360p",
+            "size": 256.61,
+            "_id": "69fafd1c0e57144133ef2d7b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fa36aeb927c1a84a11f829/output_240p.mp4",
+            "quality": "240p",
+            "size": 194.39,
+            "_id": "69fafd1c0e57144133ef2d7c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "delhi sultanate class 09",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/delhi sultanate class 09.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69fa36aeb927c1a84a11f829",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -10 | Delhi Sultanate 06 | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3162,
+        "startDate": "2026-05-08T07:00:00.000Z",
+        "endDate": "2026-05-08T08:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69fbe591b927c1a84a26498e/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fbe591b927c1a84a26498e/output_720p.mp4",
+            "quality": "720p",
+            "size": 35.84,
+            "_id": "69fd9ee9b9c39a24654dd5ed"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fbe591b927c1a84a26498e/output_480p.mp4",
+            "quality": "480p",
+            "size": 35.84,
+            "_id": "69fd9ee9b9c39a24654dd5ee"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fbe591b927c1a84a26498e/output_360p.mp4",
+            "quality": "360p",
+            "size": 35.84,
+            "_id": "69fd9ee9b9c39a24654dd5ef"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fbe591b927c1a84a26498e/output_240p.mp4",
+            "quality": "240p",
+            "size": 35.84,
+            "_id": "69fd9ee9b9c39a24654dd5f0"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "delhi sultanate class 10 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/delhi sultanate class 10 pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "69fbe591b927c1a84a26498e",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -11 | Delhi Sultanate 07 | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3967,
+        "startDate": "2026-05-12T07:00:00.000Z",
+        "endDate": "2026-05-12T08:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a00e597b927c1a84a404695/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a00e597b927c1a84a404695/output_720p.mp4",
+            "quality": "720p",
+            "size": 600.71,
+            "_id": "6a02e942b1f27e3aa024db18"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a00e597b927c1a84a404695/output_480p.mp4",
+            "quality": "480p",
+            "size": 413.14,
+            "_id": "6a02e942b1f27e3aa024db19"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a00e597b927c1a84a404695/output_360p.mp4",
+            "quality": "360p",
+            "size": 294.7,
+            "_id": "6a02e942b1f27e3aa024db1a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a00e597b927c1a84a404695/output_240p.mp4",
+            "quality": "240p",
+            "size": 222.06,
+            "_id": "6a02e942b1f27e3aa024db1b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "delhi sultanate class 11 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/delhi sultanate class 11 pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6a00e597b927c1a84a404695",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -12 | Mughals 01 | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3530,
+        "startDate": "2026-05-13T07:00:00.000Z",
+        "endDate": "2026-05-13T08:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a03c0a4b927c1a84a67e528/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a03c0a4b927c1a84a67e528/output_720p.mp4",
+            "quality": "720p",
+            "size": 541.16,
+            "_id": "6a043a3e093622e2bcd0790a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a03c0a4b927c1a84a67e528/output_480p.mp4",
+            "quality": "480p",
+            "size": 373.31,
+            "_id": "6a043a3e093622e2bcd0790b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a03c0a4b927c1a84a67e528/output_360p.mp4",
+            "quality": "360p",
+            "size": 267.4,
+            "_id": "6a043a3e093622e2bcd0790c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a03c0a4b927c1a84a67e528/output_240p.mp4",
+            "quality": "240p",
+            "size": 202.69,
+            "_id": "6a043a3e093622e2bcd0790d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "delhi sultanate class 12 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/delhi sultanate class 12 pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6a03c0a4b927c1a84a67e528",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -13 | Mughals 02 | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3859,
+        "startDate": "2026-05-14T07:00:00.000Z",
+        "endDate": "2026-05-14T08:01:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a044cf0b927c1a84a75c501/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a044cf0b927c1a84a75c501/output_720p.mp4",
+            "quality": "720p",
+            "size": 591.82,
+            "_id": "6a06caf6c6640e0105bc5164"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a044cf0b927c1a84a75c501/output_480p.mp4",
+            "quality": "480p",
+            "size": 408.42,
+            "_id": "6a06caf6c6640e0105bc5165"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a044cf0b927c1a84a75c501/output_360p.mp4",
+            "quality": "360p",
+            "size": 292.59,
+            "_id": "6a06caf6c6640e0105bc5166"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a044cf0b927c1a84a75c501/output_240p.mp4",
+            "quality": "240p",
+            "size": 222.08,
+            "_id": "6a06caf6c6640e0105bc5167"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "delhi sultanate class 13 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/delhi sultanate class 13 pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6a044cf0b927c1a84a75c501",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -14 | Mughals 03 | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3437,
+        "startDate": "2026-05-15T07:00:00.000Z",
+        "endDate": "2026-05-15T08:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a066d53b927c1a84a87b964/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a066d53b927c1a84a87b964/output_720p.mp4",
+            "quality": "720p",
+            "size": 526.15,
+            "_id": "6a06dabdb195bdf6e54985d9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a066d53b927c1a84a87b964/output_480p.mp4",
+            "quality": "480p",
+            "size": 362.86,
+            "_id": "6a06dabdb195bdf6e54985da"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a066d53b927c1a84a87b964/output_360p.mp4",
+            "quality": "360p",
+            "size": 259.81,
+            "_id": "6a06dabdb195bdf6e54985db"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a066d53b927c1a84a87b964/output_240p.mp4",
+            "quality": "240p",
+            "size": 197.05,
+            "_id": "6a06dabdb195bdf6e54985dc"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "medieval class 14 pdf by jeet rana sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/medieval class 14 pdf by jeet rana sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6a066d53b927c1a84a87b964",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -15 | Mughals 04 | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 4064,
+        "startDate": "2026-05-18T07:00:00.000Z",
+        "endDate": "2026-05-18T08:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a085389b927c1a84aac317f/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a085389b927c1a84aac317f/output_720p.mp4",
+            "quality": "720p",
+            "size": 609.91,
+            "_id": "6a0ae9241e37ad5924698063"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a085389b927c1a84aac317f/output_480p.mp4",
+            "quality": "480p",
+            "size": 418.66,
+            "_id": "6a0ae9241e37ad5924698064"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a085389b927c1a84aac317f/output_360p.mp4",
+            "quality": "360p",
+            "size": 299.26,
+            "_id": "6a0ae9241e37ad5924698065"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a085389b927c1a84aac317f/output_240p.mp4",
+            "quality": "240p",
+            "size": 225.91,
+            "_id": "6a0ae9241e37ad5924698066"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "medieval class 15 by jeet rana sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/medieval class 15 by jeet rana sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6a085389b927c1a84aac317f",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -16 | Mughals 05 | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3931,
+        "startDate": "2026-05-19T07:00:00.000Z",
+        "endDate": "2026-05-19T08:07:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a0b98a8b927c1a84ac3fa48/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0b98a8b927c1a84ac3fa48/output_720p.mp4",
+            "quality": "720p",
+            "size": 592.71,
+            "_id": "6a0c24b925fd37dc1c2581f0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0b98a8b927c1a84ac3fa48/output_480p.mp4",
+            "quality": "480p",
+            "size": 406.91,
+            "_id": "6a0c24b925fd37dc1c2581f1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0b98a8b927c1a84ac3fa48/output_360p.mp4",
+            "quality": "360p",
+            "size": 290.9,
+            "_id": "6a0c24b925fd37dc1c2581f2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0b98a8b927c1a84ac3fa48/output_240p.mp4",
+            "quality": "240p",
+            "size": 218.96,
+            "_id": "6a0c24b925fd37dc1c2581f3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "medieval class 16 pdf by jeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/medieval class 16 pdf by jeet sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6a0b98a8b927c1a84ac3fa48",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -17 | Mughals 06 | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3574,
+        "startDate": "2026-05-20T07:00:00.000Z",
+        "endDate": "2026-05-20T08:10:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a0c4adfb927c1a84ad47f55/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0c4adfb927c1a84ad47f55/output_720p.mp4",
+            "quality": "720p",
+            "size": 543.45,
+            "_id": "6a0d72689bacf94093771cc8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0c4adfb927c1a84ad47f55/output_480p.mp4",
+            "quality": "480p",
+            "size": 373.75,
+            "_id": "6a0d72689bacf94093771cc9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0c4adfb927c1a84ad47f55/output_360p.mp4",
+            "quality": "360p",
+            "size": 267.2,
+            "_id": "6a0d72689bacf94093771cca"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0c4adfb927c1a84ad47f55/output_240p.mp4",
+            "quality": "240p",
+            "size": 200.52,
+            "_id": "6a0d72689bacf94093771ccb"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "medieval class 17 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/medieval class 17 pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6a0c4adfb927c1a84ad47f55",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -18 | Mughals 07 | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 0,
+        "startDate": "2026-05-21T07:30:00.000Z",
+        "endDate": "2026-05-21T08:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a0d91c5b927c1a84afba554/playlist.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6a0d91c5b927c1a84afba554",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 77
+        }
+      }
+    ]
+  }
+}

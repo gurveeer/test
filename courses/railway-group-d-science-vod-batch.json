@@ -1,0 +1,2140 @@
+{
+  "courseName": "Railway Group-D Science VOD Batch",
+  "extractedAt": "2026-05-22T09:49:10+0530",
+  "videos": {
+    "BIOLOGY": [
+      {
+        "title": "CLASS-01 || Digestive System (पाचन तंत्र   || Biology | Harish Sir",
+        "description": "RRB Group D Special | Digestive System (पाचन तंत्र) Complete Theory + Practice |Class 01 |Harish Sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-19T07:15:51.544Z",
+        "endDate": "2026-11-19T07:15:51.544Z",
+        "isFree": false,
+        "videoUrl": "https://www.youtube.com/watch?v=gqjzAedwPgg",
+        "mp4Recordings": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "CLASS-01 || DIGESTIVE SYSTEM",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760482429525-1759479757573-DIGESTIVE_SYSTEM_CLASS_01_compressed.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68df50fedfde123324139fe2",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS-02 || Blood (रक्त) और Blood Groups (रक्त समूह) || Biology | Harish sir",
+        "description": "CLASS-02 || Blood (रक्त) और Blood Groups (रक्त समूह) || Biology | Harish sir",
+        "teacherName": "Harish sir",
+        "duration": 0,
+        "startDate": "2025-11-19T07:15:51.544Z",
+        "endDate": "2026-11-19T07:15:51.544Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/68e09f68dfde1233244e7785/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68e09f68dfde1233244e7785/output_480p.mp4",
+            "quality": "480p",
+            "size": 1123.61,
+            "_id": "68e29a6c10c7d67113149d76"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68e09f68dfde1233244e7785/output_360p.mp4",
+            "quality": "360p",
+            "size": 691.48,
+            "_id": "68e29a6c10c7d67113149d77"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "CLASS-02 || Blood and Blood  groups",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760480880955-1759564725779-Blood_and_Blood__groups_(1).pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68e09f68dfde1233244e7785",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS-03 || Circulatory System  (रक्त परिसंचरण तंत्र) || Biology | Harish sir",
+        "description": "रक्त परिसंचरण तंत्र (Circulatory System) || Biology | Harish sir",
+        "teacherName": "Harish sir",
+        "duration": 0,
+        "startDate": "2025-11-19T07:15:51.544Z",
+        "endDate": "2026-11-19T07:15:51.544Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/68e1d6ed10c7d67113f92cc7/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68e1d6ed10c7d67113f92cc7/output_480p.mp4",
+            "quality": "480p",
+            "size": 1072.63,
+            "_id": "68e29b4adfde1233248d16ec"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68e1d6ed10c7d67113f92cc7/output_360p.mp4",
+            "quality": "360p",
+            "size": 655.84,
+            "_id": "68e29b4adfde1233248d16ed"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "CLASS-03 || Blood and Blood  groupsComplete Blood Circulatory System ",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760480811955-1759650156054-BLood_Circulatory_-_complete_pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68e1d6ed10c7d67113f92cc7",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -04 || Respiratory System (श्वसन तंत्र) || Biology | Harish Sir",
+        "description": "CLASS -04 || Respiratory System (श्वसन तंत्र) || Biology | Harish Sir",
+        "teacherName": "Harish sir",
+        "duration": 0,
+        "startDate": "2025-11-19T07:16:01.348Z",
+        "endDate": "2026-11-19T07:16:01.348Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/68e34303dfde1233249b5136/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68e34303dfde1233249b5136/output_480p.mp4",
+            "quality": "480p",
+            "size": 1142.38,
+            "_id": "68e379f910c7d67113364deb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68e34303dfde1233249b5136/output_360p.mp4",
+            "quality": "360p",
+            "size": 685.45,
+            "_id": "68e379f910c7d67113364dec"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "CLASS-04 ||  Respiratory System Board PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760480520414-1759747403711-Respiratory_System_Board_PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68e34303dfde1233249b5136",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS-05 || Skeletal System (कंकाल तंत्र) || Biology | Harish Sir",
+        "description": "CLASS-05 || Skeletal System (कंकाल तंत्र) || Biology | Harish Sir",
+        "teacherName": "HARISH SIR",
+        "duration": 6433.39,
+        "startDate": "2025-11-19T07:16:01.348Z",
+        "endDate": "2026-11-19T07:16:01.348Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68e494fedfde123324da76ca/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68e494fedfde123324da76ca/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 191.24,
+            "_id": "68fd6424bed68c50dd14ca42"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68e494fedfde123324da76ca/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 327.89,
+            "_id": "68fd6424bed68c50dd14ca43"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68e494fedfde123324da76ca/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 483.07,
+            "_id": "68fd6424bed68c50dd14ca44"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68e494fedfde123324da76ca/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 853.82,
+            "_id": "68fd6424bed68c50dd14ca45"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Skeleton system e book pdf ",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760528286295-Skeleton_system_e_book_pdf_biliungual_by_Harish_sir_-_Selection__WAY.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68e494fedfde123324da76ca",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -06 || Excretory System (उत्सर्जन तंत्र) || Biology | Harish sir",
+        "description": "CLASS -06 || Excretory System (उत्सर्जन तंत्र) || Biology | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 7981.983333,
+        "startDate": "2025-11-19T07:16:35.194Z",
+        "endDate": "2026-11-19T07:16:35.194Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68e4f89a10c7d6711380458a/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68e4f89a10c7d6711380458a/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 210.7,
+            "_id": "68fd67edbed68c50dd150883"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68e4f89a10c7d6711380458a/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 357.53,
+            "_id": "68fd67edbed68c50dd150884"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68e4f89a10c7d6711380458a/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 531.25,
+            "_id": "68fd67edbed68c50dd150885"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68e4f89a10c7d6711380458a/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 962.1,
+            "_id": "68fd67edbed68c50dd150886"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Excretory system by Harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760479662918-1759917779510-Excretory_system_by_Harish_sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68e4f89a10c7d6711380458a",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -07 ||Nervous System (स्नायु तंत्र) || Biology | Harish sir",
+        "description": "CLASS -07 ||Nervous System (स्नायु तंत्र) || Biology | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-19T07:16:35.194Z",
+        "endDate": "2026-11-19T07:16:35.194Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/68e68443dfde12332446b164/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68e68443dfde12332446b164/output_480p.mp4",
+            "quality": "480p",
+            "size": 1046.92,
+            "_id": "68e7d96111b2c0380af8df5f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68e68443dfde12332446b164/output_360p.mp4",
+            "quality": "360p",
+            "size": 644.2,
+            "_id": "68e7d96111b2c0380af8df60"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Nervous system by Harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760478927453-1760088399325-Nervous_system_by_Harish_sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68e68443dfde12332446b164",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -08 || Asexual Reproduction (अलैंगिक प्रजनन) | Biology | Harish sir",
+        "description": "CLASS -08 || Asexual Reproduction (अलैंगिक प्रजनन) | Biology | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-19T07:16:35.194Z",
+        "endDate": "2026-11-19T07:16:35.194Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68e7dbe6bbeaefe54d5bedb4/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded265.hranker.com/68e7dbe6bbeaefe54d5bedb4/output_720p.mp4",
+            "quality": "720p",
+            "size": 671.97,
+            "_id": "694028916385517afa7989bc"
+          },
+          {
+            "url": "https://selectionwayrecorded265.hranker.com/68e7dbe6bbeaefe54d5bedb4/output_480p.mp4",
+            "quality": "480p",
+            "size": 347.5,
+            "_id": "694028916385517afa7989bd"
+          },
+          {
+            "url": "https://selectionwayrecorded265.hranker.com/68e7dbe6bbeaefe54d5bedb4/output_360p.mp4",
+            "quality": "360p",
+            "size": 255.27,
+            "_id": "694028916385517afa7989be"
+          },
+          {
+            "url": "https://selectionwayrecorded265.hranker.com/68e7dbe6bbeaefe54d5bedb4/output_240p.mp4",
+            "quality": "240p",
+            "size": 185.51,
+            "_id": "694028916385517afa7989bf"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Asexual Reproduction (अलैंगिक प्रजनन) Board PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760478765520-1760105269353-Asexual_Reproduction__aÌÂ¤_aÌÂ¤Â²aÌÂ¥_aÌÂ¤_aÌÂ¤_aÌÂ¤Â¿aÌÂ¤__aÌÂ¤ÂªaÌÂ¥_aÌÂ¤Â°aÌÂ¤_aÌÂ¤Â¨aÌÂ¤Â¨__Board_PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68e7dbe6bbeaefe54d5bedb4",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -09 || Human Reproduction System (मानव प्रजनन तंत्र) | Biology | Harish sir",
+        "description": "CLASS -09 || Human Reproduction System (मानव प्रजनन तंत्र) | Biology | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 6086.283333,
+        "startDate": "2025-11-19T07:16:35.194Z",
+        "endDate": "2026-11-19T07:16:35.194Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68e9171111b2c0380a2d12e2/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68e9171111b2c0380a2d12e2/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 149.89,
+            "_id": "68fd68f8f179b935b12c6e95"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68e9171111b2c0380a2d12e2/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 253.97,
+            "_id": "68fd68f8f179b935b12c6e96"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68e9171111b2c0380a2d12e2/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 378.21,
+            "_id": "68fd68f8f179b935b12c6e97"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68e9171111b2c0380a2d12e2/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 709.01,
+            "_id": "68fd68f8f179b935b12c6e98"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Human Reproduction System (मानव प्रजनन तंत्र)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760478683784-1760183070854-Human_Reproduction_System__aÌÂ¤Â®aÌÂ¤Â¾aÌÂ¤Â¨aÌÂ¤Âµ_aÌÂ¤ÂªaÌÂ¥_aÌÂ¤Â°aÌÂ¤_aÌÂ¤Â¨aÌÂ¤Â¨_aÌÂ¤Â¤aÌÂ¤_aÌÂ¤Â¤aÌÂ¥_aÌÂ¤Â°__compressed.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68e9171111b2c0380a2d12e2",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -10 || Human Endocrine System  ( मानव अंतःस्रावी तंत्र ) | Biology | Harish sir",
+        "description": "CLASS -10 || Human Endocrine System  ( मानव अंतःस्रावी तंत्र ) | Biology | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-19T07:16:35.194Z",
+        "endDate": "2026-11-19T07:16:35.194Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/68ea6e16a3e6437ce14fcdf2/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68ea6e16a3e6437ce14fcdf2/output_480p.mp4",
+            "quality": "480p",
+            "size": 1294.67,
+            "_id": "68eb67506e69cf1410fd869b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68ea6e16a3e6437ce14fcdf2/output_360p.mp4",
+            "quality": "360p",
+            "size": 797.36,
+            "_id": "68eb67506e69cf1410fd869c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Endocrine System Class 10 - Board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760478644936-1760256419201-Endocrine_System_Class_10_-_Board_pdf_(1).pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68ea6e16a3e6437ce14fcdf2",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -11 || CELL (कोशिका) PART -1 | Biology | Harish sir",
+        "description": "CLASS -11 || CELL (कोशिका) PART -1 | Biology | Harish sir",
+        "teacherName": "Harish sir",
+        "duration": 7078.083333,
+        "startDate": "2025-11-19T07:16:35.194Z",
+        "endDate": "2026-11-19T07:16:35.194Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68ebe64f86770365f3763da8/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ebe64f86770365f3763da8/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 189.88,
+            "_id": "68fd66bdaed5b4af7a5187e9"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ebe64f86770365f3763da8/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 325.69,
+            "_id": "68fd66bdaed5b4af7a5187ea"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ebe64f86770365f3763da8/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 491.94,
+            "_id": "68fd66bdaed5b4af7a5187eb"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ebe64f86770365f3763da8/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 904.88,
+            "_id": "68fd66bdaed5b4af7a5187ec"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Cell Part 01 Class BIOLOGY Harish Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760478453886-1760344418429-Cell_Part_01__-__Class_BIOLOGY_Harish_Sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68ebe64f86770365f3763da8",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -12 || CELL (कोशिका) PART -2 | Biology | Harish sir",
+        "description": "CLASS -12 || CELL (कोशिका) PART -2 | Biology | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-19T07:16:35.194Z",
+        "endDate": "2026-11-19T07:16:35.194Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/68ed118286770365f3aad87f/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68ed118286770365f3aad87f/output_480p.mp4",
+            "quality": "480p",
+            "size": 1075.51,
+            "_id": "68ee036ea3e6437ce1ded64d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68ed118286770365f3aad87f/output_360p.mp4",
+            "quality": "360p",
+            "size": 659.34,
+            "_id": "68ee036ea3e6437ce1ded64e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "CELL TOPIC",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760458070994-CELL_TOPIC.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68ed118286770365f3aad87f",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -13 || Plant Tissue ( पादप ऊतक )  | Biology | Harish sir",
+        "description": "CLASS -13 || Plant Tissue ( पादप ऊतक )  | Biology | Harish sir",
+        "teacherName": "Harish sir",
+        "duration": 6599.883333,
+        "startDate": "2025-11-19T07:16:35.194Z",
+        "endDate": "2026-11-19T07:16:35.194Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68ee64e5d2cc753eb299ff0d/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ee64e5d2cc753eb299ff0d/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 161.36,
+            "_id": "68fd71382ea1b0628999940e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ee64e5d2cc753eb299ff0d/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 271.6,
+            "_id": "68fd71382ea1b0628999940f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ee64e5d2cc753eb299ff0d/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 403.55,
+            "_id": "68fd71382ea1b06289999410"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ee64e5d2cc753eb299ff0d/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 714.05,
+            "_id": "68fd71382ea1b06289999411"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Plant Tissue BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760529102764-Plant_Tissue_by_Harish_Tiwari_Sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68ee64e5d2cc753eb299ff0d",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -14 || Animal Tissue (जंतु ऊतक) | Biology | Harish sir",
+        "description": "CLASS -14 || Animal Tissue (जंतु ऊतक) | Biology | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 6078.933333,
+        "startDate": "2025-11-19T07:16:35.194Z",
+        "endDate": "2026-11-19T07:16:35.194Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68efcd42d3d74585a62573c8/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68efcd42d3d74585a62573c8/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 150.26,
+            "_id": "68fd69e8bd782a2af1145243"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68efcd42d3d74585a62573c8/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 253.91,
+            "_id": "68fd69e8bd782a2af1145244"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68efcd42d3d74585a62573c8/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 376.9,
+            "_id": "68fd69e8bd782a2af1145245"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68efcd42d3d74585a62573c8/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 671.98,
+            "_id": "68fd69e8bd782a2af1145246"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "ANIMAL TISSUE BY HARISH SIR BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760601865722-ANIMAL_TISSUE_BY_HARISH_SIR_compressed.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68efcd42d3d74585a62573c8",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -15 ||  Nutrient (पोषक पदार्थ ) PART - 1 | Biology | Harish sir",
+        "description": "CLASS -15 ||  Nutrient (पोषक पदार्थ ) PART - 1 | Biology | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 7991.147007,
+        "startDate": "2025-11-19T07:16:35.194Z",
+        "endDate": "2026-11-19T07:16:35.194Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68f107e604ae4ee13a00ddab/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f107e604ae4ee13a00ddab/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 200.96,
+            "_id": "68fd7be22ea1b062899b1dff"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f107e604ae4ee13a00ddab/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 341.98,
+            "_id": "68fd7be22ea1b062899b1e00"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f107e604ae4ee13a00ddab/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 510.85,
+            "_id": "68fd7be22ea1b062899b1e01"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f107e604ae4ee13a00ddab/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 894.08,
+            "_id": "68fd7be22ea1b062899b1e02"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Nutrients (पोषक पदार्थ)  PART -1 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760744824873-Nutrients__à¤ªà¥à¤·à¤_à¤ªà¤¦à¤¾à¤°à¥à¤¥___Class_01_compressed.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68f107e604ae4ee13a00ddab",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -16 ||  Nutrient (पोषक पदार्थ ) PART - 2 | Biology | Harish sir",
+        "description": "CLASS -16 ||  Nutrient (पोषक पदार्थ ) PART - 2 | Biology | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 7579.083333,
+        "startDate": "2025-11-19T07:16:35.194Z",
+        "endDate": "2026-11-19T07:16:35.194Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68f2e6f204ae4ee13a522f97/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f2e6f204ae4ee13a522f97/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 183.32,
+            "_id": "68fd6e50aed5b4af7a52302e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f2e6f204ae4ee13a522f97/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 310.66,
+            "_id": "68fd6e50aed5b4af7a52302f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f2e6f204ae4ee13a522f97/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 458.5,
+            "_id": "68fd6e50aed5b4af7a523030"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f2e6f204ae4ee13a522f97/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 814.27,
+            "_id": "68fd6e50aed5b4af7a523031"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Nutrient  ( पोषक तत्व ) PART -2 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760848757700-Nutrient__à¤ªà¥à¤·à¤_à¤¤à¤¤à¥à¤µ_Part_02_compressed.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68f2e6f204ae4ee13a522f97",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -17 || Plant Kingdom (पादप जगत | Biology | Harish sir",
+        "description": "CLASS -17 || Plant Kingdom (पादप जगत | Biology | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 7411.783333,
+        "startDate": "2025-11-19T07:16:35.194Z",
+        "endDate": "2026-11-19T07:16:35.194Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68f45406cadb3e241fd3ec22/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f45406cadb3e241fd3ec22/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 191.19,
+            "_id": "68fd81e42ea1b062899c23e8"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f45406cadb3e241fd3ec22/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 331.18,
+            "_id": "68fd81e42ea1b062899c23e9"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f45406cadb3e241fd3ec22/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 503.23,
+            "_id": "68fd81e42ea1b062899c23ea"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f45406cadb3e241fd3ec22/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 881.08,
+            "_id": "68fd81e42ea1b062899c23eb"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Plant Kingdom (पादप जगत) BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761031214089-PLANT_KINGDOM_by_Harish_Tiwari_BOARD_PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68f45406cadb3e241fd3ec22",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -18 || Plant Morphology (पादप आकारिकी) PART - 1 | Biology | Harish sir",
+        "description": "CLASS -18 || Plant Morphology (पादप आकारिकी) PART - 1 | Biology | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 3445.233333,
+        "startDate": "2025-11-19T07:16:35.194Z",
+        "endDate": "2026-11-19T07:16:35.194Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68f58fb33cb385cafce5251c/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f58fb33cb385cafce5251c/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 85.56,
+            "_id": "68fd6a86bed68c50dd15430b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f58fb33cb385cafce5251c/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 148.44,
+            "_id": "68fd6a86bed68c50dd15430c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f58fb33cb385cafce5251c/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 225.33,
+            "_id": "68fd6a86bed68c50dd15430d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f58fb33cb385cafce5251c/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 406.66,
+            "_id": "68fd6a86bed68c50dd15430e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Plant Morphology (पादप आकारिकी) PART -1 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761031432020-last_class_biology.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68f58fb33cb385cafce5251c",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -19 || Plant Morphology (पादप आकारिकी) PART - 2 | Biology | Harish sir",
+        "description": "CLASS -19 || Plant Morphology (पादप आकारिकी) PART - 2 | Biology | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 5279.783333,
+        "startDate": "2025-11-19T07:16:35.194Z",
+        "endDate": "2026-11-19T07:16:35.194Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68f701f5cadb3e241f35891c/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f701f5cadb3e241f35891c/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 137.36,
+            "_id": "68fd75c62ea1b062899a2de8"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f701f5cadb3e241f35891c/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 241.03,
+            "_id": "68fd75c62ea1b062899a2de9"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f701f5cadb3e241f35891c/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 370.44,
+            "_id": "68fd75c62ea1b062899a2dea"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f701f5cadb3e241f35891c/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 646.17,
+            "_id": "68fd75c62ea1b062899a2deb"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Plant Morphology class 19 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761187502397-Plant_Morphology_class_19_-_reduce.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68f701f5cadb3e241f35891c",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -20 || Plant Morphology (पादप आकारिकी) PART - 3 | Biology | Harish sir",
+        "description": "CLASS -20 || Plant Morphology (पादप आकारिकी) PART - 3 | Biology | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 5740.983333,
+        "startDate": "2025-11-19T07:16:35.194Z",
+        "endDate": "2026-11-19T07:16:35.194Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68f7a3c3cadb3e241f635691/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f7a3c3cadb3e241f635691/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 138.93,
+            "_id": "68fd6981bed68c50dd152bfd"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f7a3c3cadb3e241f635691/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 238.42,
+            "_id": "68fd6981bed68c50dd152bfe"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f7a3c3cadb3e241f635691/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 354.69,
+            "_id": "68fd6981bed68c50dd152bff"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f7a3c3cadb3e241f635691/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 630.32,
+            "_id": "68fd6981bed68c50dd152c00"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Plant Morphology class 20 Board PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761189557977-Plant_Morphology_class_20_pdf_-_reduce_compressed.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68f7a3c3cadb3e241f635691",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -21 || Plant Physiology (पादप कार्यिकी) | Biology | Harish sir",
+        "description": "CLASS -21 || Plant Physiology (पादप कार्यिकी) | Biology | Harish sir",
+        "teacherName": "Harish sir",
+        "duration": 6193.066667,
+        "startDate": "2025-11-19T07:16:35.194Z",
+        "endDate": "2026-11-19T07:16:35.194Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68f91307b7edd42fab00cf9a/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f91307b7edd42fab00cf9a/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 133.74,
+            "_id": "68fd79a7aed5b4af7a53ab24"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f91307b7edd42fab00cf9a/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 223.9,
+            "_id": "68fd79a7aed5b4af7a53ab25"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f91307b7edd42fab00cf9a/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 323.77,
+            "_id": "68fd79a7aed5b4af7a53ab26"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f91307b7edd42fab00cf9a/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 533.97,
+            "_id": "68fd79a7aed5b4af7a53ab27"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class -21 plant Harmones BOARD PDF ",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761220524160-Plant_Harmones_compressed.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68f91307b7edd42fab00cf9a",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "✅Important update Biology syllabus completed",
+        "description": "✅Important update Biology syllabus completed",
+        "teacherName": "HARISH SIR",
+        "duration": 245.416009,
+        "startDate": "2025-11-19T07:17:03.272Z",
+        "endDate": "2026-11-19T07:17:03.272Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68f9fd09aed5b4af7a6bc1ca/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f9fd09aed5b4af7a6bc1ca/mp4/1000179715_240p.mp4",
+            "quality": "240p",
+            "size": 7.49,
+            "_id": "68fa0bf2bed68c50dd31d8fe"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f9fd09aed5b4af7a6bc1ca/mp4/1000179715_360p.mp4",
+            "quality": "360p",
+            "size": 11.85,
+            "_id": "68fa0bf2bed68c50dd31d8ff"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f9fd09aed5b4af7a6bc1ca/mp4/1000179715_480p.mp4",
+            "quality": "480p",
+            "size": 16.62,
+            "_id": "68fa0bf2bed68c50dd31d900"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f9fd09aed5b4af7a6bc1ca/mp4/1000179715_720p.mp4",
+            "quality": "720p",
+            "size": 24.84,
+            "_id": "68fa0bf2bed68c50dd31d901"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68f9fd09aed5b4af7a6bc1ca",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 86
+        }
+      }
+    ],
+    "Chemistry": [
+      {
+        "title": "CLASS -01 || Matter in Our Surroundings (हमारे आस-पास के पदार्थ) | Chemistry | Harish sir",
+        "description": "CLASS -01 || Matter in Our Surroundings (हमारे आस-पास के पदार्थ) | Chemistry | Harish sir",
+        "teacherName": "Harish sir",
+        "duration": 8590.4,
+        "startDate": "2025-11-19T07:18:06.662Z",
+        "endDate": "2026-11-19T07:18:06.662Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68fa5f7bbed68c50dd46b37f/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fa5f7bbed68c50dd46b37f/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 187.74,
+            "_id": "68fd708bf179b935b12d0f9e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fa5f7bbed68c50dd46b37f/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 311.58,
+            "_id": "68fd708bf179b935b12d0f9f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fa5f7bbed68c50dd46b37f/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 450.07,
+            "_id": "68fd708bf179b935b12d0fa0"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fa5f7bbed68c50dd46b37f/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 732.96,
+            "_id": "68fd708bf179b935b12d0fa1"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "CLASS -1 MATTER IN OUR SURROUNDINGS BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761295692589-CLASS_-1_MATTER_IN_OUR_SURROUNDINGS_BOARD_PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68fa5f7bbed68c50dd46b37f",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -02 || Is Matter Around Us Pure? (क्या हमारे आस-पास का पदार्थ शुद्ध है?) | Chemistry | Harish sir",
+        "description": "CLASS -02 || Is Matter Around Us Pure? (क्या हमारे आस-पास का पदार्थ शुद्ध है?) | Chemistry | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 6673.439,
+        "startDate": "2025-11-19T07:18:06.662Z",
+        "endDate": "2026-11-19T07:18:06.662Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68fc5036bed68c50ddc1a339/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fc5036bed68c50ddc1a339/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 137.58,
+            "_id": "68fd61c3bed68c50dd14a464"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fc5036bed68c50ddc1a339/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 225.5,
+            "_id": "68fd61c3bed68c50dd14a465"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fc5036bed68c50ddc1a339/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 320.73,
+            "_id": "68fd61c3bed68c50dd14a466"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fc5036bed68c50ddc1a339/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 503.68,
+            "_id": "68fd61c3bed68c50dd14a467"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "CLASS -02 IS MATTER AROUND US PURE ? BOARD PDF ",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761386148773-is_matter_around_us_Pure_REDUCE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68fc5036bed68c50ddc1a339",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -03 || Atoms and Molecules ( परमाणु एवं अणु ) PART- 1 | Chemistry | Harish sir",
+        "description": "CLASS -03 || Atoms and Molecules ( परमाणु एवं अणु ) PART- 1 | Chemistry | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 5597.633991,
+        "startDate": "2025-11-19T07:18:06.662Z",
+        "endDate": "2026-11-19T07:18:06.662Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68fcdb9cbed68c50ddfe8905/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fcdb9cbed68c50ddfe8905/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 109.81,
+            "_id": "68fdcf3fbd782a2af133815e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fcdb9cbed68c50ddfe8905/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 188.96,
+            "_id": "68fdcf3fbd782a2af133815f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fcdb9cbed68c50ddfe8905/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 278.12,
+            "_id": "68fdcf3fbd782a2af1338160"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fcdb9cbed68c50ddfe8905/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 518.32,
+            "_id": "68fdcf3fbd782a2af1338161"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class -03 ATOM AND MOLECULE BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761477119831-Class_-03_ATOM_AND_MOLECULE_BOARD_PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68fcdb9cbed68c50ddfe8905",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "Atoms and Molecules ( परमाणु एवं अणु ) PART- 2 | Chemistry | Harish sir",
+        "description": "Atoms and Molecules ( परमाणु एवं अणु ) PART- 2 | Chemistry | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 3615.133,
+        "startDate": "2025-11-19T07:32:59.157Z",
+        "endDate": "2026-11-19T07:32:59.157Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68fe04a8bed68c50dd463f61/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fe04a8bed68c50dd463f61/mp4/Atom_and_Molecules_High_Level_Concept_240p.mp4",
+            "quality": "240p",
+            "size": 89.64,
+            "_id": "68fe145aaed5b4af7a886bb8"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fe04a8bed68c50dd463f61/mp4/Atom_and_Molecules_High_Level_Concept_360p.mp4",
+            "quality": "360p",
+            "size": 163.47,
+            "_id": "68fe145aaed5b4af7a886bb9"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fe04a8bed68c50dd463f61/mp4/Atom_and_Molecules_High_Level_Concept_480p.mp4",
+            "quality": "480p",
+            "size": 259.72,
+            "_id": "68fe145aaed5b4af7a886bba"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fe04a8bed68c50dd463f61/mp4/Atom_and_Molecules_High_Level_Concept_720p.mp4",
+            "quality": "720p",
+            "size": 620.84,
+            "_id": "68fe145aaed5b4af7a886bbb"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": " Atoms and Molecules ( परमाणु एवं अणु ) PART- 2 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761479858008-2025-04-01-0.8532996494678311_RE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68fe04a8bed68c50dd463f61",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -04 || Structure of the Atom (परमाणु की संरचना) PART -1 | Chemistry | Harish sir",
+        "description": "CLASS -04 || Structure of the Atom (परमाणु की संरचना) PART -1 | Chemistry | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-19T07:18:06.662Z",
+        "endDate": "2026-11-19T07:18:06.662Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/68fedff4f179b935b187814d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68fedff4f179b935b187814d/output_720p.mp4",
+            "quality": "720p",
+            "size": 895.63,
+            "_id": "68ff1c5fbd782a2af196d3d1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68fedff4f179b935b187814d/output_480p.mp4",
+            "quality": "480p",
+            "size": 570.99,
+            "_id": "68ff1c5fbd782a2af196d3d2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68fedff4f179b935b187814d/output_360p.mp4",
+            "quality": "360p",
+            "size": 498.82,
+            "_id": "68ff1c5fbd782a2af196d3d3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68fedff4f179b935b187814d/output_240p.mp4",
+            "quality": "240p",
+            "size": 390.69,
+            "_id": "68ff1c5fbd782a2af196d3d4"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "CLASS -04 || Structure of the Atom (परमाणु की संरचना) BOARD PDF\t",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761563743463-ATOMIC__STRUCTURE_reduce_pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68fedff4f179b935b187814d",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "Structure of the Atom (परमाणु की संरचना) PART-2 | Chemistry | Harish sir",
+        "description": "Structure of the Atom (परमाणु की संरचना) PART-2 | Chemistry | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 12868,
+        "startDate": "2025-11-19T07:32:59.157Z",
+        "endDate": "2026-11-19T07:32:59.157Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68ffacd7bed68c50ddef3fda/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ffacd7bed68c50ddef3fda/mp4/ATOMIC_STRUCTURE_MCQ_SESSION_240p.mp4",
+            "quality": "240p",
+            "size": 305.86,
+            "_id": "68ffda54f179b935b111c01d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ffacd7bed68c50ddef3fda/mp4/ATOMIC_STRUCTURE_MCQ_SESSION_360p.mp4",
+            "quality": "360p",
+            "size": 492.84,
+            "_id": "68ffda54f179b935b111c01e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ffacd7bed68c50ddef3fda/mp4/ATOMIC_STRUCTURE_MCQ_SESSION_480p.mp4",
+            "quality": "480p",
+            "size": 698.4,
+            "_id": "68ffda54f179b935b111c01f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ffacd7bed68c50ddef3fda/mp4/ATOMIC_STRUCTURE_MCQ_SESSION_720p.mp4",
+            "quality": "720p",
+            "size": 1139.09,
+            "_id": "68ffda54f179b935b111c020"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Structure of the Atom (परमाणु की संरचना) PART-2 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761621612886-01_02_03_05_merged_removed_REDU.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68ffacd7bed68c50ddef3fda",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -05 || Chemical Bond ( रासायनिक बंधन ) | Chemistry | Harish sir",
+        "description": "CLASS -05 || Chemical Bond ( रासायनिक बंधन ) | Chemistry | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-19T07:18:06.662Z",
+        "endDate": "2026-11-19T07:18:06.662Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/68ff95bdbd782a2af1e1765d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68ff95bdbd782a2af1e1765d/output_720p.mp4",
+            "quality": "720p",
+            "size": 1088.48,
+            "_id": "69007bb919fedfd66304a8a0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68ff95bdbd782a2af1e1765d/output_480p.mp4",
+            "quality": "480p",
+            "size": 694.86,
+            "_id": "69007bb919fedfd66304a8a1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68ff95bdbd782a2af1e1765d/output_360p.mp4",
+            "quality": "360p",
+            "size": 606.64,
+            "_id": "69007bb919fedfd66304a8a2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68ff95bdbd782a2af1e1765d/output_240p.mp4",
+            "quality": "240p",
+            "size": 475.67,
+            "_id": "69007bb919fedfd66304a8a3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "CLASS -05 || Chemical Bond BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761670541945-Chemical_Bonds_REDUCE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "68ff95bdbd782a2af1e1765d",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -06 || Chemical Reaction ( रासायनिक अभिक्रिया ) | Chemistry | Harish sir",
+        "description": "CLASS -06 || Chemical Reaction ( रासायनिक अभिक्रिया ) | Chemistry | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-19T07:18:06.662Z",
+        "endDate": "2026-11-19T07:18:06.662Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6900dd7519fedfd663466ff1/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6900dd7519fedfd663466ff1/output_720p.mp4",
+            "quality": "720p",
+            "size": 1023.19,
+            "_id": "690311d419fedfd6632fc315"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6900dd7519fedfd663466ff1/output_480p.mp4",
+            "quality": "480p",
+            "size": 653.71,
+            "_id": "690311d419fedfd6632fc316"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6900dd7519fedfd663466ff1/output_360p.mp4",
+            "quality": "360p",
+            "size": 571.09,
+            "_id": "690311d419fedfd6632fc317"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6900dd7519fedfd663466ff1/output_240p.mp4",
+            "quality": "240p",
+            "size": 447.86,
+            "_id": "690311d419fedfd6632fc318"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Chemical Reaction BOARD PDF ",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761824279523-chemical_reaction_pdf_RE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "6900dd7519fedfd663466ff1",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -07 || Acid, Base and Salt (अम्ल, क्षार और लवण) | Chemistry | Harish sir",
+        "description": "CLASS -07 || Acid, Base and Salt (अम्ल, क्षार और लवण) | Chemistry | Harish sir",
+        "teacherName": "Harish sir",
+        "duration": 0,
+        "startDate": "2025-11-19T07:18:06.662Z",
+        "endDate": "2026-11-19T07:18:06.662Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/690371c06aeca24e939238c1/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690371c06aeca24e939238c1/output_720p.mp4",
+            "quality": "720p",
+            "size": 972.04,
+            "_id": "6904603bf48d1caffd6d9da3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690371c06aeca24e939238c1/output_480p.mp4",
+            "quality": "480p",
+            "size": 622.8,
+            "_id": "6904603bf48d1caffd6d9da4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690371c06aeca24e939238c1/output_360p.mp4",
+            "quality": "360p",
+            "size": 544.15,
+            "_id": "6904603bf48d1caffd6d9da5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690371c06aeca24e939238c1/output_240p.mp4",
+            "quality": "240p",
+            "size": 427.9,
+            "_id": "6904603bf48d1caffd6d9da6"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "ACID, BASE and SALT Board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761906647275-ACID,_BASE_and_SALT_Board_pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "690371c06aeca24e939238c1",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -08 || Periodic Table and Chemical Formula (आवर्त सारणी और रासायनिक सूत्र) | Chemistry | Harish sir",
+        "description": "CLASS -08 || Periodic Table and Chemical Formula (आवर्त सारणी और रासायनिक सूत्र) | Chemistry | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-19T07:18:06.662Z",
+        "endDate": "2026-11-19T07:18:06.662Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/690543516aeca24e93519f96/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690543516aeca24e93519f96/output_720p.mp4",
+            "quality": "720p",
+            "size": 653.74,
+            "_id": "6905a82e563adc39b9522074"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690543516aeca24e93519f96/output_480p.mp4",
+            "quality": "480p",
+            "size": 418.85,
+            "_id": "6905a82e563adc39b9522075"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690543516aeca24e93519f96/output_360p.mp4",
+            "quality": "360p",
+            "size": 366.09,
+            "_id": "6905a82e563adc39b9522076"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690543516aeca24e93519f96/output_240p.mp4",
+            "quality": "240p",
+            "size": 287.68,
+            "_id": "6905a82e563adc39b9522077"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Periodic Table BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1762151454247-Periodic_Table_BOARD_PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "690543516aeca24e93519f96",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -09 || Metals and Non-metals (धातु और अधातु ) PART-1 | Chemistry | Harish sir",
+        "description": "CLASS -09 || Metals and Non-metals (धातु और अधातु ) PART-1 | Chemistry | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-19T07:18:06.662Z",
+        "endDate": "2026-11-19T07:18:06.662Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69060d5619fedfd66395276a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69060d5619fedfd66395276a/output_720p.mp4",
+            "quality": "720p",
+            "size": 528.25,
+            "_id": "690763e819fedfd663fed138"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69060d5619fedfd66395276a/output_480p.mp4",
+            "quality": "480p",
+            "size": 338.48,
+            "_id": "690763e819fedfd663fed139"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69060d5619fedfd66395276a/output_360p.mp4",
+            "quality": "360p",
+            "size": 295.98,
+            "_id": "690763e819fedfd663fed13a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69060d5619fedfd66395276a/output_240p.mp4",
+            "quality": "240p",
+            "size": 232.81,
+            "_id": "690763e819fedfd663fed13b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "COMPLETE Metals and Non Metals BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1762166568455-Metals_and_Non_Metals_BOARD_PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "69060d5619fedfd66395276a",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -10 || Metals and Non-metals (धातु और अधातु ) PART-2 | Chemistry | Harish sir",
+        "description": "CLASS -10 || Metals and Non-metals (धातु और अधातु ) PART-2 | Chemistry | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-19T07:18:06.662Z",
+        "endDate": "2026-11-19T07:18:06.662Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/690753bb50853877308e3fd9/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690753bb50853877308e3fd9/output_720p.mp4",
+            "quality": "720p",
+            "size": 975.03,
+            "_id": "6908548919fedfd663489b2c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690753bb50853877308e3fd9/output_480p.mp4",
+            "quality": "480p",
+            "size": 625.08,
+            "_id": "6908548919fedfd663489b2d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690753bb50853877308e3fd9/output_360p.mp4",
+            "quality": "360p",
+            "size": 546.57,
+            "_id": "6908548919fedfd663489b2e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690753bb50853877308e3fd9/output_240p.mp4",
+            "quality": "240p",
+            "size": 429.53,
+            "_id": "6908548919fedfd663489b2f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "COMPLETE Metals and Non Metals BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1762166568455-Metals_and_Non_Metals_BOARD_PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "690753bb50853877308e3fd9",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -11 || Carbon and Its Compounds ( कार्बन और इसके यौगिक ) PART-1 | Chemistry | Harish sir",
+        "description": "CLASS -11 || Carbon and Its Compounds ( कार्बन और इसके यौगिक ) PART-1 | Chemistry | Harish sir",
+        "teacherName": "Harish sir",
+        "duration": 0,
+        "startDate": "2025-11-19T07:18:06.662Z",
+        "endDate": "2026-11-19T07:18:06.662Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6908e409563adc39b98fb629/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6908e409563adc39b98fb629/output_720p.mp4",
+            "quality": "720p",
+            "size": 917.43,
+            "_id": "6909a5336aeca24e93f6eb52"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6908e409563adc39b98fb629/output_480p.mp4",
+            "quality": "480p",
+            "size": 587.67,
+            "_id": "6909a5336aeca24e93f6eb53"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6908e409563adc39b98fb629/output_360p.mp4",
+            "quality": "360p",
+            "size": 513.73,
+            "_id": "6909a5336aeca24e93f6eb54"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6908e409563adc39b98fb629/output_240p.mp4",
+            "quality": "240p",
+            "size": 403.8,
+            "_id": "6909a5336aeca24e93f6eb55"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "CARBON AND ITS COMPOUND BOARD PDF ",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1762249214074-CARBON_AND_ITS_COMPOUND_BOARD_PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "6908e409563adc39b98fb629",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -12 || Carbon and Its Compounds ( कार्बन और इसके यौगिक ) PART-2 | Chemistry | Harish sir",
+        "description": "CLASS -12 || Carbon and Its Compounds ( कार्बन और इसके यौगिक ) PART-2 | Chemistry | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-19T07:18:06.662Z",
+        "endDate": "2026-11-19T07:18:06.662Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/690a1b356aeca24e9340b563/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690a1b356aeca24e9340b563/output_720p.mp4",
+            "quality": "720p",
+            "size": 844.4,
+            "_id": "690afadff48d1caffd0ad7ca"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690a1b356aeca24e9340b563/output_480p.mp4",
+            "quality": "480p",
+            "size": 540.86,
+            "_id": "690afadff48d1caffd0ad7cb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690a1b356aeca24e9340b563/output_360p.mp4",
+            "quality": "360p",
+            "size": 472.84,
+            "_id": "690afadff48d1caffd0ad7cc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690a1b356aeca24e9340b563/output_240p.mp4",
+            "quality": "240p",
+            "size": 371.91,
+            "_id": "690afadff48d1caffd0ad7cd"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "CARBON AND ITS COMPOUND PART -2 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1762397971032-CARBON_AND_ITS_COMPOUND_PART_-2_BOARD_PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "690a1b356aeca24e9340b563",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 86
+        }
+      }
+    ],
+    "Physics": [
+      {
+        "title": "CLASS -01 ||  Unit and Dimension ( मात्रक और विमाएँ ) | Physics | Harish sir",
+        "description": "CLASS -01 ||  Unit and Dimension ( मात्रक और विमाएँ ) | Physics | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-19T07:27:04.112Z",
+        "endDate": "2026-11-19T07:27:04.112Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/690b67b3f48d1caffd4d3b18/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690b67b3f48d1caffd4d3b18/output_720p.mp4",
+            "quality": "720p",
+            "size": 898.89,
+            "_id": "690c47f5f48d1caffd99999a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690b67b3f48d1caffd4d3b18/output_480p.mp4",
+            "quality": "480p",
+            "size": 576.19,
+            "_id": "690c47f5f48d1caffd99999b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690b67b3f48d1caffd4d3b18/output_360p.mp4",
+            "quality": "360p",
+            "size": 503.68,
+            "_id": "690c47f5f48d1caffd99999c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690b67b3f48d1caffd4d3b18/output_240p.mp4",
+            "quality": "240p",
+            "size": 396.21,
+            "_id": "690c47f5f48d1caffd99999d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Unit and Dimension class -01 BOARD pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1762415080848-Unit_and_Dimension_class_-01_pdf_RE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "690b67b3f48d1caffd4d3b18",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 86
+        }
+      }
+    ],
+    "PHYSICS": [
+      {
+        "title": "CLASS -02 || Light: Reflection and Refraction ( परावर्तन और अपवर्तन ) |  Physics | Harish Sir",
+        "description": "CLASS -02 || Light: Reflection and Refraction ( परावर्तन और अपवर्तन ) |  Physics | Harish Sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-19T07:27:14.048Z",
+        "endDate": "2026-11-19T07:27:14.048Z",
+        "isFree": false,
+        "videoUrl": "https://www.youtube.com/watch?v=uwqGQh93hZU",
+        "mp4Recordings": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LIGHT  class 02 & 03 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1762572401913-Light_pdf_01_re.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "690cdfc2f48d1caffdf1964a",
+          "topicId": "690c0e08f48d1caffd6f7553",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS -03 || Reflection  of light and lens ( प्रकाश का परावर्तन एवं लेंस ) | Physics | Harish sir",
+        "description": "CLASS -03 || Reflection  of light and lens ( प्रकाश का परावर्तन एवं लेंस ) | Physics | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-19T07:27:14.048Z",
+        "endDate": "2026-11-19T07:27:14.048Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/690eb66af48d1caffd9632e7/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690eb66af48d1caffd9632e7/output_720p.mp4",
+            "quality": "720p",
+            "size": 1178.88,
+            "_id": "690ef4515085387730b78e19"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690eb66af48d1caffd9632e7/output_480p.mp4",
+            "quality": "480p",
+            "size": 755.05,
+            "_id": "690ef4515085387730b78e1a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690eb66af48d1caffd9632e7/output_360p.mp4",
+            "quality": "360p",
+            "size": 659.91,
+            "_id": "690ef4515085387730b78e1b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690eb66af48d1caffd9632e7/output_240p.mp4",
+            "quality": "240p",
+            "size": 518.73,
+            "_id": "690ef4515085387730b78e1c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LIGHT  class 02 & 03 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1762572401913-Light_pdf_01_re.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "690eb66af48d1caffd9632e7",
+          "topicId": "690c0e08f48d1caffd6f7553",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS - 04 || Sound ( ध्वनि ) | Physics | Harish sir",
+        "description": "CLASS - 04 || Sound ( ध्वनि ) | Physics | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-19T07:29:16.874Z",
+        "endDate": "2026-11-19T07:29:16.874Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/691019f5932c0deb702f3455/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/691019f5932c0deb702f3455/output_720p.mp4",
+            "quality": "720p",
+            "size": 767.43,
+            "_id": "691069d2932c0deb70153712"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/691019f5932c0deb702f3455/output_480p.mp4",
+            "quality": "480p",
+            "size": 491.31,
+            "_id": "691069d2932c0deb70153713"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/691019f5932c0deb702f3455/output_360p.mp4",
+            "quality": "360p",
+            "size": 429.26,
+            "_id": "691069d2932c0deb70153714"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/691019f5932c0deb702f3455/output_240p.mp4",
+            "quality": "240p",
+            "size": 337.15,
+            "_id": "691069d2932c0deb70153715"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "sound full board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sound full concept pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "691019f5932c0deb702f3455",
+          "topicId": "690c0e08f48d1caffd6f7553",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS - 05 || Electricity ( विद्युत ) PART -01 | Physics | Harish sir",
+        "description": "CLASS - 05 || Electricity ( विद्युत ) PART -01 | Physics | Harish sir",
+        "teacherName": "Harish sir",
+        "duration": 0,
+        "startDate": "2025-11-19T07:29:16.874Z",
+        "endDate": "2026-11-19T07:29:16.874Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69109a11932c0deb70824311/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69109a11932c0deb70824311/output_720p.mp4",
+            "quality": "720p",
+            "size": 1008,
+            "_id": "6911f402932c0deb70e0feaf"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69109a11932c0deb70824311/output_480p.mp4",
+            "quality": "480p",
+            "size": 646.02,
+            "_id": "6911f402932c0deb70e0feb0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69109a11932c0deb70824311/output_360p.mp4",
+            "quality": "360p",
+            "size": 564.71,
+            "_id": "6911f402932c0deb70e0feb1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69109a11932c0deb70824311/output_240p.mp4",
+            "quality": "240p",
+            "size": 443.83,
+            "_id": "6911f402932c0deb70e0feb2"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "electricity board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/current pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "69109a11932c0deb70824311",
+          "topicId": "690c0e08f48d1caffd6f7553",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS - 06 || Electricity ( विद्युत ) PART - 02 | Physics | Harish sir",
+        "description": "CLASS - 06 || Electricity ( विद्युत ) PART - 02 | Physics | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 1732.716009,
+        "startDate": "2025-11-19T07:29:16.874Z",
+        "endDate": "2026-11-19T07:29:16.874Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69156886932c0deb702d0235/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69156886932c0deb702d0235/mp4/CLASS_06_Electricity_PART_02_Physics_Harish_sir_240p.mp4",
+            "quality": "240p",
+            "size": 37.47,
+            "_id": "6915c6dd932c0deb706d2f76"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69156886932c0deb702d0235/mp4/CLASS_06_Electricity_PART_02_Physics_Harish_sir_360p.mp4",
+            "quality": "360p",
+            "size": 60.36,
+            "_id": "6915c6dd932c0deb706d2f77"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69156886932c0deb702d0235/mp4/CLASS_06_Electricity_PART_02_Physics_Harish_sir_480p.mp4",
+            "quality": "480p",
+            "size": 85.3,
+            "_id": "6915c6dd932c0deb706d2f78"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69156886932c0deb702d0235/mp4/CLASS_06_Electricity_PART_02_Physics_Harish_sir_720p.mp4",
+            "quality": "720p",
+            "size": 135.14,
+            "_id": "6915c6dd932c0deb706d2f79"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "electricity class part 2",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/electricity class part 2.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "69156886932c0deb702d0235",
+          "topicId": "690c0e08f48d1caffd6f7553",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS - 07 || Magnetism ( चुंबकत्व ) | Physics | Harish sir",
+        "description": "CLASS - 07 || Magnetism ( चुंबकत्व ) | Physics | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-19T07:29:16.874Z",
+        "endDate": "2026-11-19T07:29:16.874Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69120acd932c0deb702f36c5/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69120acd932c0deb702f36c5/output_720p.mp4",
+            "quality": "720p",
+            "size": 951.77,
+            "_id": "6912f727932c0deb7082a620"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69120acd932c0deb702f36c5/output_480p.mp4",
+            "quality": "480p",
+            "size": 610.65,
+            "_id": "6912f727932c0deb7082a621"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69120acd932c0deb702f36c5/output_360p.mp4",
+            "quality": "360p",
+            "size": 533.65,
+            "_id": "6912f727932c0deb7082a622"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69120acd932c0deb702f36c5/output_240p.mp4",
+            "quality": "240p",
+            "size": 419.3,
+            "_id": "6912f727932c0deb7082a623"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "magnetism board",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/magnetism board.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "69120acd932c0deb702f36c5",
+          "topicId": "690c0e08f48d1caffd6f7553",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS - 08 || Motion ( गति ) | Physics | Harish sir",
+        "description": "CLASS - 08 || Motion ( गति ) | Physics | Harish sir",
+        "teacherName": "Gagan Sir",
+        "duration": 0,
+        "startDate": "2025-11-19T07:29:16.874Z",
+        "endDate": "2026-11-19T07:29:16.874Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69133883932c0deb70adb2ab/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69133883932c0deb70adb2ab/output_720p.mp4",
+            "quality": "720p",
+            "size": 893.29,
+            "_id": "69144431932c0deb70ac4c37"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69133883932c0deb70adb2ab/output_480p.mp4",
+            "quality": "480p",
+            "size": 571.43,
+            "_id": "69144431932c0deb70ac4c38"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69133883932c0deb70adb2ab/output_360p.mp4",
+            "quality": "360p",
+            "size": 499.03,
+            "_id": "69144431932c0deb70ac4c39"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69133883932c0deb70adb2ab/output_240p.mp4",
+            "quality": "240p",
+            "size": 391.29,
+            "_id": "69144431932c0deb70ac4c3a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "motion pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/motion pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "69133883932c0deb70adb2ab",
+          "topicId": "690c0e08f48d1caffd6f7553",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS - 09 || Work and Gravitation and Pressure ( कार्य तथा गुरुत्वाकर्षण तथा दबाव ) | Physics | Harish sir",
+        "description": "CLASS - 09 || Work and Gravitation and Pressure ( कार्य तथा गुरुत्वाकर्षण तथा दबाव ) | Physics | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-19T07:29:16.874Z",
+        "endDate": "2026-11-19T07:29:16.874Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69174646932c0deb70bfcae5/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69174646932c0deb70bfcae5/output_720p.mp4",
+            "quality": "720p",
+            "size": 981.57,
+            "_id": "69184850932c0deb70f53c11"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69174646932c0deb70bfcae5/output_480p.mp4",
+            "quality": "480p",
+            "size": 628.36,
+            "_id": "69184850932c0deb70f53c12"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69174646932c0deb70bfcae5/output_360p.mp4",
+            "quality": "360p",
+            "size": 548.87,
+            "_id": "69184850932c0deb70f53c13"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69174646932c0deb70bfcae5/output_240p.mp4",
+            "quality": "240p",
+            "size": 430.67,
+            "_id": "69184850932c0deb70f53c14"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class 09  pdf Group d batch",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Class 09  pdf Group d batch.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "69174646932c0deb70bfcae5",
+          "topicId": "690c0e08f48d1caffd6f7553",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "CLASS - 10 || Physics Miscellaneous  (भौतिकी विविध) | Physics | Harish sir",
+        "description": "CLASS - 10 || Physics Miscellaneous  (भौतिकी विविध) | Physics | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-19T07:29:16.874Z",
+        "endDate": "2026-11-19T07:29:16.874Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/691a0bda932c0deb70efe0d5/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/691a0bda932c0deb70efe0d5/output_720p.mp4",
+            "quality": "720p",
+            "size": 599.67,
+            "_id": "691ac739932c0deb706f64fd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/691a0bda932c0deb70efe0d5/output_480p.mp4",
+            "quality": "480p",
+            "size": 384.37,
+            "_id": "691ac739932c0deb706f64fe"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/691a0bda932c0deb70efe0d5/output_360p.mp4",
+            "quality": "360p",
+            "size": 335.98,
+            "_id": "691ac739932c0deb706f64ff"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/691a0bda932c0deb70efe0d5/output_240p.mp4",
+            "quality": "240p",
+            "size": 263.82,
+            "_id": "691ac739932c0deb706f6500"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "physics class 10 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/physics class 10 pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "691d6de4dd258fd32356421a",
+          "classId": "691a0bda932c0deb70efe0d5",
+          "topicId": "690c0e08f48d1caffd6f7553",
+          "rawRecordIndex": 86
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,404 @@
+{
+  "courseName": "SSC Recorded Batch",
+  "extractedAt": "2026-05-22T09:49:10+0530",
+  "videos": {
+    "Most Important": [
+      {
+        "title": "Algebra and Linear Equations",
+        "description": "Solving linear equations, quadratic equations, and algebraic identities",
+        "teacherName": "683def9c2f4523ef6c8b18a8",
+        "duration": 0,
+        "startDate": "",
+        "endDate": "",
+        "isFree": true,
+        "videoUrl": "https://s3.ap-south-1.amazonaws.com/livestream-selectionway/561/683def9c2f4523ef6c8b18d3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "684050f55db342bb13da8211",
+          "classId": "683def9c2f4523ef6c8b18d3",
+          "topicId": "683def9c2f4523ef6c8b189e",
+          "rawRecordIndex": 88
+        }
+      },
+      {
+        "title": "Got selection after reading from YOUTUBE ▶️ 😎 SSC CGL 2024 AIR-16 🔥 FULL INTERVIEW with Gagan Pra...",
+        "description": "Got selection after reading from YOUTUBE ▶️ 😎 SSC CGL 2024 AIR-16 🔥 FULL INTERVIEW with Gagan Pra...",
+        "teacherName": "Prof. Albert Einstein",
+        "duration": 0,
+        "startDate": "2025-07-16T11:56:16.876Z",
+        "endDate": "2026-07-16T11:56:16.876Z",
+        "isFree": false,
+        "videoUrl": "https://www.youtube.com/watch?v=RKdloMsbLOk",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_360p.mp4",
+            "quality": "360p",
+            "size": 264.42,
+            "_id": "6893322583c5f1d185043283"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_480p.mp4",
+            "quality": "480p",
+            "size": 380.86,
+            "_id": "6893322583c5f1d185043284"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_720p.mp4",
+            "quality": "720p",
+            "size": 632.1,
+            "_id": "6893322583c5f1d185043285"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "684050f55db342bb13da8211",
+          "classId": "683def9c2f4523ef6c8b18d2",
+          "topicId": "683def9c2f4523ef6c8b189e",
+          "rawRecordIndex": 88
+        }
+      },
+      {
+        "title": "Quantitative Aptitude for Banking",
+        "description": "Mathematical concepts specifically for banking examinations",
+        "teacherName": "683def9c2f4523ef6c8b18ac",
+        "duration": 3216.340998,
+        "startDate": "2025-07-16T11:56:17.709Z",
+        "endDate": "2026-07-16T11:56:17.709Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_360p.mp4",
+            "quality": "360p",
+            "size": 264.42,
+            "_id": "6893322583c5f1d185043283"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_480p.mp4",
+            "quality": "480p",
+            "size": 380.86,
+            "_id": "6893322583c5f1d185043284"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_720p.mp4",
+            "quality": "720p",
+            "size": 632.1,
+            "_id": "6893322583c5f1d185043285"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "684050f55db342bb13da8211",
+          "classId": "683def9c2f4523ef6c8b18dd",
+          "topicId": "683def9c2f4523ef6c8b189e",
+          "rawRecordIndex": 88
+        }
+      }
+    ],
+    "Success Stories": [
+      {
+        "title": "SSC CGL TOPPER Prince Tyagi ALL INDIA RANK - 2 || FULL INTERVIEW By Gagan Pratap Sir #ssc #cgl",
+        "description": "SSC CGL TOPPER Prince Tyagi ALL INDIA RANK - 2 || FULL INTERVIEW By Gagan Pratap Sir #ssc #cgl",
+        "teacherName": "gagan pratap",
+        "duration": 0,
+        "startDate": "",
+        "endDate": "",
+        "isFree": false,
+        "videoUrl": "https://www.youtube.com/watch?v=52Q5NdjTplI",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_360p.mp4",
+            "quality": "360p",
+            "size": 264.42,
+            "_id": "6893322583c5f1d185043283"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_480p.mp4",
+            "quality": "480p",
+            "size": 380.86,
+            "_id": "6893322583c5f1d185043284"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_720p.mp4",
+            "quality": "720p",
+            "size": 632.1,
+            "_id": "6893322583c5f1d185043285"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Ancient_History_Hindi",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760519691778-Ancient_History_Hindi_(1).pdf"
+          },
+          {
+            "priority": 2,
+            "name": "alegbra03",
+            "url": "https://archive.mu.ac.in/myweb_test/MCA%20study%20material/M.C.A.%20(Sem%20-%20IV)-%20Java%20Programming.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "684050f55db342bb13da8211",
+          "classId": "683def9c2f4523ef6c8b18dc",
+          "topicId": "683def9c2f4523ef6c8b18a5",
+          "rawRecordIndex": 88
+        }
+      }
+    ],
+    "Most Watched": [
+      {
+        "title": "maths live class -06",
+        "description": "maths live class -06",
+        "teacherName": "Dr. Emily Davis",
+        "duration": 3216.340998,
+        "startDate": "2025-07-09T10:26:27.752Z",
+        "endDate": "2026-07-09T10:26:27.752Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_360p.mp4",
+            "quality": "360p",
+            "size": 264.42,
+            "_id": "6893322583c5f1d185043283"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_480p.mp4",
+            "quality": "480p",
+            "size": 380.86,
+            "_id": "6893322583c5f1d185043284"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_720p.mp4",
+            "quality": "720p",
+            "size": 632.1,
+            "_id": "6893322583c5f1d185043285"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "684050f55db342bb13da8211",
+          "classId": "6842df05c7919f510c472eff",
+          "topicId": "683def9c2f4523ef6c8b18a0",
+          "rawRecordIndex": 88
+        }
+      },
+      {
+        "title": "ये है असली भौकाल🔥 1st Attempt में कैसे लिया Selection 👍 Sachin Gujjar (GST INSPECTOR)",
+        "description": "ये है असली भौकाल🔥 1st Attempt में कैसे लिया Selection 👍 Sachin Gujjar (GST INSPECTOR)",
+        "teacherName": "683def9c2f4523ef6c8b18a8",
+        "duration": 0,
+        "startDate": "2025-07-16T11:56:14.207Z",
+        "endDate": "2026-07-16T11:56:14.207Z",
+        "isFree": false,
+        "videoUrl": "https://www.youtube.com/watch?v=WJ8CsYddEVY",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_360p.mp4",
+            "quality": "360p",
+            "size": 264.42,
+            "_id": "6893322583c5f1d185043283"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_480p.mp4",
+            "quality": "480p",
+            "size": 380.86,
+            "_id": "6893322583c5f1d185043284"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_720p.mp4",
+            "quality": "720p",
+            "size": 632.1,
+            "_id": "6893322583c5f1d185043285"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "684050f55db342bb13da8211",
+          "classId": "683def9c2f4523ef6c8b18d5",
+          "topicId": "683def9c2f4523ef6c8b18a0",
+          "rawRecordIndex": 88
+        }
+      }
+    ],
+    "Algebra": [
+      {
+        "title": "Geometry and Mensuration-03",
+        "description": "An introductory class covering the basics ofgeometry",
+        "teacherName": "Dr. Olivia Smith",
+        "duration": 3216.340998,
+        "startDate": "2025-07-16T11:56:14.591Z",
+        "endDate": "2026-07-16T11:56:14.591Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_360p.mp4",
+            "quality": "360p",
+            "size": 264.42,
+            "_id": "6893322583c5f1d185043283"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_480p.mp4",
+            "quality": "480p",
+            "size": 380.86,
+            "_id": "6893322583c5f1d185043284"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_720p.mp4",
+            "quality": "720p",
+            "size": 632.1,
+            "_id": "6893322583c5f1d185043285"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "684050f55db342bb13da8211",
+          "classId": "683fe8cc2048a1c1e42940cc",
+          "topicId": "683def9c2f4523ef6c8b18a6",
+          "rawRecordIndex": 88
+        }
+      }
+    ],
+    "maths topic-2": [
+      {
+        "title": "Live Test Class 1 - Math (11:40 PM - 12:40 AM)",
+        "description": "Test class for live functionality - Mathematics session",
+        "teacherName": "Prof. Test Teacher 1",
+        "duration": 3216.340998,
+        "startDate": "2025-07-16T11:56:15.161Z",
+        "endDate": "2026-07-16T11:56:15.161Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_360p.mp4",
+            "quality": "360p",
+            "size": 264.42,
+            "_id": "6893322583c5f1d185043283"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_480p.mp4",
+            "quality": "480p",
+            "size": 380.86,
+            "_id": "6893322583c5f1d185043284"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_720p.mp4",
+            "quality": "720p",
+            "size": 632.1,
+            "_id": "6893322583c5f1d185043285"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "684050f55db342bb13da8211",
+          "classId": "6843da2f3b10b166b5e3145f",
+          "topicId": "683def9c2f4523ef6c8b18a3",
+          "rawRecordIndex": 88
+        }
+      },
+      {
+        "title": "Live Test Class 2 - maths (11:40 PM - 12:40 AM)",
+        "description": "Test class for live functionality - Science laboratory session",
+        "teacherName": "Dr. Test Teacher 2",
+        "duration": 3216.340998,
+        "startDate": "2025-07-16T11:56:15.742Z",
+        "endDate": "2026-07-16T11:56:15.742Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_360p.mp4",
+            "quality": "360p",
+            "size": 264.42,
+            "_id": "6893322583c5f1d185043283"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_480p.mp4",
+            "quality": "480p",
+            "size": 380.86,
+            "_id": "6893322583c5f1d185043284"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/683def9c2f4523ef6c8b18d6/mp4/Mock_test_1_720p.mp4",
+            "quality": "720p",
+            "size": 632.1,
+            "_id": "6893322583c5f1d185043285"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "684050f55db342bb13da8211",
+          "classId": "6843da2f3b10b166b5e31460",
+          "topicId": "683def9c2f4523ef6c8b18a3",
+          "rawRecordIndex": 88
+        }
+      },
+      {
+        "title": "Live Test Class 3 - maths (11:40 PM - 12:40 AM)",
+        "description": "Test class for  functionality - maths discussion",
+        "teacherName": "Ms. Test Teacher 3",
+        "duration": 24.542993,
+        "startDate": "2025-07-16T11:56:16.463Z",
+        "endDate": "2026-07-16T11:56:16.463Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6843da2f3b10b166b5e31461/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6843da2f3b10b166b5e31461/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 0.29,
+            "_id": "68fd50fabd782a2af1131290"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6843da2f3b10b166b5e31461/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 0.45,
+            "_id": "68fd50fabd782a2af1131291"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6843da2f3b10b166b5e31461/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 0.63,
+            "_id": "68fd50fabd782a2af1131292"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6843da2f3b10b166b5e31461/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 0.82,
+            "_id": "68fd50fabd782a2af1131293"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "684050f55db342bb13da8211",
+          "classId": "6843da2f3b10b166b5e31461",
+          "topicId": "683def9c2f4523ef6c8b18a3",
+          "rawRecordIndex": 88
+        }
+      }
+    ],
+    "Uncategorized": [
+      {
+        "title": "4 साल का CI Golden Ratio से चुटकियों में निकालें By Gagan Pratap sir #ssc #cgl #chsl #mts #shorts",
+        "description": "4 साल का CI Golden Ratio से चुटकियों में निकालें By Gagan Pratap sir #ssc #cgl #chsl #mts #shorts",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2025-09-30T18:48:59.321Z",
+        "endDate": "2026-09-30T18:48:59.321Z",
+        "isFree": false,
+        "videoUrl": "https://www.youtube.com/watch?v=83fS54uQfLI",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "684050f55db342bb13da8211",
+          "classId": "68d132fe0d16a9ec9f06fe42",
+          "topicId": "",
+          "rawRecordIndex": 88
+        }
+      }
+    ]
+  }
+}

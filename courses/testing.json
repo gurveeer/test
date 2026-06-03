@@ -1,0 +1,44 @@
+{
+  "courseName": "testing",
+  "extractedAt": "2026-05-22T09:49:10+0530",
+  "videos": {
+    "123456": [
+      {
+        "title": "tesing 0222",
+        "description": "",
+        "teacherName": "test",
+        "duration": 0,
+        "startDate": "2026-04-17T07:28:40.394Z",
+        "endDate": "2027-04-17T07:28:40.394Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/693cdecd6385517afa6a7014/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "69e0c897e59683658c6e86e9",
+          "classId": "693cdecd6385517afa6a7014",
+          "topicId": "68c26ca0a721af475c9bd2ab",
+          "rawRecordIndex": 2
+        }
+      },
+      {
+        "title": "testing 0021",
+        "description": "",
+        "teacherName": "test",
+        "duration": 0,
+        "startDate": "2026-04-17T07:45:09.910Z",
+        "endDate": "2026-04-17T08:45:09.910Z",
+        "isFree": false,
+        "videoUrl": "https://www.youtube.com/watch?v=DyRzNjkTZHY",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "69e0c897e59683658c6e86e9",
+          "classId": "68ee131c6e69cf14107a4ac5",
+          "topicId": "68c26ca0a721af475c9bd2ab",
+          "rawRecordIndex": 2
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "courseName": "Railways- all in one",
+  "extractedAt": "2026-05-22T09:49:10+0530",
+  "videos": {
+    "Most Important": [
+      {
+        "title": "Algebra and Linear Equations",
+        "description": "Solving linear equations, quadratic equations, and algebraic identities",
+        "teacherName": "683def9c2f4523ef6c8b18a8",
+        "duration": 0,
+        "startDate": "",
+        "endDate": "",
+        "isFree": true,
+        "videoUrl": "https://s3.ap-south-1.amazonaws.com/livestream-selectionway/561/683def9c2f4523ef6c8b18d3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "683def9c2f4523ef6c8b18bd",
+          "classId": "683def9c2f4523ef6c8b18d3",
+          "topicId": "683def9c2f4523ef6c8b189e",
+          "rawRecordIndex": 52
+        }
+      }
+    ]
+  }
+}

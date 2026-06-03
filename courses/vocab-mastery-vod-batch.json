@@ -1,0 +1,3232 @@
+{
+  "courseName": "Vocab Mastery VOD Batch",
+  "extractedAt": "2026-05-22T09:49:10+0530",
+  "videos": {
+    "Vocab": [
+      {
+        "title": "Anto_Syno.Lec-1",
+        "description": "Video: Anto_Syno.Lec-1",
+        "teacherName": "Admin",
+        "duration": 3571.370667,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e75/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e75/mp4/Anto_Syno_Lec_1_240p.mp4",
+            "quality": "240p",
+            "size": 248.72,
+            "_id": "699640c54f6da3d1a20d137b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e75/mp4/Anto_Syno_Lec_1_360p.mp4",
+            "quality": "360p",
+            "size": 294.28,
+            "_id": "699640c54f6da3d1a20d137c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e75/mp4/Anto_Syno_Lec_1_480p.mp4",
+            "quality": "480p",
+            "size": 400.82,
+            "_id": "699640c54f6da3d1a20d137d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e75/mp4/Anto_Syno_Lec_1_720p.mp4",
+            "quality": "720p",
+            "size": 599.77,
+            "_id": "699640c54f6da3d1a20d137e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-1 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772010343538-ANT_SYN_LEC-1_SLIDE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-1 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772012692929-SYN_ANT_LECTURE_â_01.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e75",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Class -1 | homonyms CGL 2025 | by Aman sir",
+        "description": "sb12345",
+        "teacherName": "AMAN SIR",
+        "duration": 4408.355,
+        "startDate": "2026-02-20T10:49:00.000Z",
+        "endDate": "2026-02-19T11:49:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6996fefc399756d4925af9cd/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6996fefc399756d4925af9cd/mp4/SSC_MAINS_2025_CLASS_37_Homonyms_01_AMAN_SIR_720p_class_01_240p.mp4",
+            "quality": "240p",
+            "size": 327.39,
+            "_id": "6997b4df70d0462766a96a08"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6996fefc399756d4925af9cd/mp4/SSC_MAINS_2025_CLASS_37_Homonyms_01_AMAN_SIR_720p_class_01_360p.mp4",
+            "quality": "360p",
+            "size": 377.58,
+            "_id": "6997b4df70d0462766a96a09"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6996fefc399756d4925af9cd/mp4/SSC_MAINS_2025_CLASS_37_Homonyms_01_AMAN_SIR_720p_class_01_480p.mp4",
+            "quality": "480p",
+            "size": 506.41,
+            "_id": "6997b4df70d0462766a96a0a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6996fefc399756d4925af9cd/mp4/SSC_MAINS_2025_CLASS_37_Homonyms_01_AMAN_SIR_720p_class_01_720p.mp4",
+            "quality": "720p",
+            "size": 742.85,
+            "_id": "6997b4df70d0462766a96a0b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Homonyms ssc cgl 2025",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Homonyms ssc cgl 2025.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6996fefc399756d4925af9cd",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Class -2 | idioms 2025 part 1 | by Aman sir",
+        "description": "sb12345",
+        "teacherName": "AMAN SIR",
+        "duration": 3569.233,
+        "startDate": "2026-02-20T10:51:00.000Z",
+        "endDate": "2026-02-19T11:51:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6996ff23399756d4925b1c6d/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6996ff23399756d4925b1c6d/mp4/SSC_MAINS_2025_CLASS_38_IDIOMS_CGL_25_AMAN_SIR_720p_02_240p.mp4",
+            "quality": "240p",
+            "size": 268.77,
+            "_id": "6997baaf4f6da3d1a255508a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6996ff23399756d4925b1c6d/mp4/SSC_MAINS_2025_CLASS_38_IDIOMS_CGL_25_AMAN_SIR_720p_02_360p.mp4",
+            "quality": "360p",
+            "size": 310.68,
+            "_id": "6997baaf4f6da3d1a255508b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6996ff23399756d4925b1c6d/mp4/SSC_MAINS_2025_CLASS_38_IDIOMS_CGL_25_AMAN_SIR_720p_02_480p.mp4",
+            "quality": "480p",
+            "size": 415.56,
+            "_id": "6997baaf4f6da3d1a255508c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6996ff23399756d4925b1c6d/mp4/SSC_MAINS_2025_CLASS_38_IDIOMS_CGL_25_AMAN_SIR_720p_02_720p.mp4",
+            "quality": "720p",
+            "size": 605.49,
+            "_id": "6997baaf4f6da3d1a255508d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "IDIOMS mains pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/IDIOMS mains pdf.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "IDIOMS (2025 PART - 01)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/IDIOMS (2025 PART - 01).pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6996ff23399756d4925b1c6d",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Idioms . lec-01",
+        "description": "Video: Idioms . lec-01",
+        "teacherName": "Admin",
+        "duration": 3420.330667,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db28/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db28/mp4/Idiom_lec_01_240p.mp4",
+            "quality": "240p",
+            "size": 258.34,
+            "_id": "69930aadbc2aae3cc37bebf0"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db28/mp4/Idiom_lec_01_360p.mp4",
+            "quality": "360p",
+            "size": 298.79,
+            "_id": "69930aadbc2aae3cc37bebf1"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db28/mp4/Idiom_lec_01_480p.mp4",
+            "quality": "480p",
+            "size": 399.2,
+            "_id": "69930aadbc2aae3cc37bebf2"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db28/mp4/Idiom_lec_01_720p.mp4",
+            "quality": "720p",
+            "size": 583.89,
+            "_id": "69930aadbc2aae3cc37bebf3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-1 CONCISE idioms",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856643305-IDIOMS_LECTURE_-01_CONCISE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-1 SLIDE idioms",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774901936495-IDIOM_LEC-1_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6992fc4f138d4a09fe10db28",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Idioms . lec-02",
+        "description": "Video: Idioms . lec-02",
+        "teacherName": "Admin",
+        "duration": 3259.669333,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db29/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db29/mp4/Idiom_lec_02_240p.mp4",
+            "quality": "240p",
+            "size": 239.7,
+            "_id": "6993037cdc4cae547964915a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db29/mp4/Idiom_lec_02_360p.mp4",
+            "quality": "360p",
+            "size": 278.44,
+            "_id": "6993037cdc4cae547964915b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db29/mp4/Idiom_lec_02_480p.mp4",
+            "quality": "480p",
+            "size": 373.09,
+            "_id": "6993037cdc4cae547964915c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db29/mp4/Idiom_lec_02_720p.mp4",
+            "quality": "720p",
+            "size": 550.07,
+            "_id": "6993037cdc4cae547964915d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-2 SLIDE idioms",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774901693631-IDIOM_LEC-2_SLIDE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-2 CONCISE idioms",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856683854-IDIOMS_LECTURE_-02_CONCISE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6992fc4f138d4a09fe10db29",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Idioms . lec-03",
+        "description": "Video: Idioms . lec-03",
+        "teacherName": "Admin",
+        "duration": 4028.501333,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db2a/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db2a/mp4/Idiom_lec_03_240p.mp4",
+            "quality": "240p",
+            "size": 276.61,
+            "_id": "699321d208fc838a42aea2a7"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db2a/mp4/Idiom_lec_03_360p.mp4",
+            "quality": "360p",
+            "size": 326.14,
+            "_id": "699321d208fc838a42aea2a8"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db2a/mp4/Idiom_lec_03_480p.mp4",
+            "quality": "480p",
+            "size": 441.71,
+            "_id": "699321d208fc838a42aea2a9"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db2a/mp4/Idiom_lec_03_720p.mp4",
+            "quality": "720p",
+            "size": 659.25,
+            "_id": "699321d208fc838a42aea2aa"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-3 CONCISE IDIOMS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856710505-IDIOMS_LECTURE_-03_CONCISE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-3 SLIDE IDIOMS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774902090785-IDIOM_LEC-3_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6992fc4f138d4a09fe10db2a",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Idioms . lec-04",
+        "description": "Video: Idioms . lec-04",
+        "teacherName": "Admin",
+        "duration": 3347.904,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db2b/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db2b/mp4/Idiom_lec_04_240p.mp4",
+            "quality": "240p",
+            "size": 254.41,
+            "_id": "699311da08fc838a426fd629"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db2b/mp4/Idiom_lec_04_360p.mp4",
+            "quality": "360p",
+            "size": 293.84,
+            "_id": "699311da08fc838a426fd62a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db2b/mp4/Idiom_lec_04_480p.mp4",
+            "quality": "480p",
+            "size": 392.14,
+            "_id": "699311da08fc838a426fd62b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db2b/mp4/Idiom_lec_04_720p.mp4",
+            "quality": "720p",
+            "size": 573.1,
+            "_id": "699311da08fc838a426fd62c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-4 CONCISE idioms",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856737825-IDIOMS_LECTURE_-04_CONCISE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-4 SLIDE idioms",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774901783050-IDIOM_LEC-4_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6992fc4f138d4a09fe10db2b",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Idioms . lec-05",
+        "description": "Video: Idioms . lec-05",
+        "teacherName": "Admin",
+        "duration": 0,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db2c/hls/master.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-5 SLIDE IDIOMS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774902065088-IDIOM_LEC-5_SLIDE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-5 CONCISE IDIOMS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856759961-IDIOMS_LECTURE_-05_CONCISE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6992fc4f138d4a09fe10db2c",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Idioms . lec-06",
+        "description": "Video: \tIdioms . lec-06",
+        "teacherName": "Admin",
+        "duration": 3361.408,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e55/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e55/mp4/Idiom_lec_06_240p.mp4",
+            "quality": "240p",
+            "size": 253.93,
+            "_id": "6994a692812fb6b7ef4e4724"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e55/mp4/Idiom_lec_06_360p.mp4",
+            "quality": "360p",
+            "size": 293.51,
+            "_id": "6994a692812fb6b7ef4e4725"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e55/mp4/Idiom_lec_06_480p.mp4",
+            "quality": "480p",
+            "size": 392.37,
+            "_id": "6994a692812fb6b7ef4e4726"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e55/mp4/Idiom_lec_06_720p.mp4",
+            "quality": "720p",
+            "size": 574.09,
+            "_id": "6994a692812fb6b7ef4e4727"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-6 SLIDE  idioms",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774902301215-IDIOM_LEC-6_SLIDE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-6 CONCISE IDIOMS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856779140-IDIOMS_LECTURE_-06_CONCISE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "699411236009f88a5c2b2e55",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Idioms . lec-07",
+        "description": "Video: \tIdioms . lec-07",
+        "teacherName": "Admin",
+        "duration": 3399.488,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e56/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e56/mp4/Idiom_lec_07_240p.mp4",
+            "quality": "240p",
+            "size": 255.53,
+            "_id": "699471cded387fa48e62d355"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e56/mp4/Idiom_lec_07_360p.mp4",
+            "quality": "360p",
+            "size": 295.7,
+            "_id": "699471cded387fa48e62d356"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e56/mp4/Idiom_lec_07_480p.mp4",
+            "quality": "480p",
+            "size": 395.52,
+            "_id": "699471cded387fa48e62d357"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e56/mp4/Idiom_lec_07_720p.mp4",
+            "quality": "720p",
+            "size": 579.34,
+            "_id": "699471cded387fa48e62d358"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-7 CONCISE idioms",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856835341-IDIOMS_LECTURE_-07_CONCISE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-7 SLDIE IDIOMS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774902175593-IDIOM_LEC-7_SLDIE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "699411236009f88a5c2b2e56",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Idioms . lec-08",
+        "description": "Video: \tIdioms . lec-08",
+        "teacherName": "Admin",
+        "duration": 3058.837333,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e57/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e57/mp4/Idiom_lec_08_240p.mp4",
+            "quality": "240p",
+            "size": 230.93,
+            "_id": "69948722dc4cae547932d448"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e57/mp4/Idiom_lec_08_360p.mp4",
+            "quality": "360p",
+            "size": 266.82,
+            "_id": "69948722dc4cae547932d449"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e57/mp4/Idiom_lec_08_480p.mp4",
+            "quality": "480p",
+            "size": 356.32,
+            "_id": "69948722dc4cae547932d44a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e57/mp4/Idiom_lec_08_720p.mp4",
+            "quality": "720p",
+            "size": 521.7,
+            "_id": "69948722dc4cae547932d44b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-8 SLIDE IDIOMS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774901959523-IDIOM_LEC-8_SLIDE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-8 CONCISE IDIOMS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856860365-IDIOMS_LECTURE_-08_CONCISE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "699411236009f88a5c2b2e57",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Idioms . lec-09",
+        "description": "Video: \tIdioms . lec-09",
+        "teacherName": "Admin",
+        "duration": 3363.328,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e58/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e58/mp4/Idiom_lec_09_240p.mp4",
+            "quality": "240p",
+            "size": 254.91,
+            "_id": "699449dfdc4cae547934f284"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e58/mp4/Idiom_lec_09_360p.mp4",
+            "quality": "360p",
+            "size": 294.4,
+            "_id": "699449dfdc4cae547934f285"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e58/mp4/Idiom_lec_09_480p.mp4",
+            "quality": "480p",
+            "size": 392.78,
+            "_id": "699449dfdc4cae547934f286"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e58/mp4/Idiom_lec_09_720p.mp4",
+            "quality": "720p",
+            "size": 574.79,
+            "_id": "699449dfdc4cae547934f287"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-9 CONCISE IDIOMS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856880136-IDIOMS_LECTURE_-09_CONCISE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-9 SLIDE IDIOMS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774902148239-IDIOM_LEC-9_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "699411236009f88a5c2b2e58",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Idioms . lec-10",
+        "description": "Video: \tIdioms . lec-10",
+        "teacherName": "Admin",
+        "duration": 3255.936,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e59/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e59/mp4/Idiom_lec_10_240p.mp4",
+            "quality": "240p",
+            "size": 246,
+            "_id": "699458c6ed387fa48e025e12"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e59/mp4/Idiom_lec_10_360p.mp4",
+            "quality": "360p",
+            "size": 284.31,
+            "_id": "699458c6ed387fa48e025e13"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e59/mp4/Idiom_lec_10_480p.mp4",
+            "quality": "480p",
+            "size": 379.55,
+            "_id": "699458c6ed387fa48e025e14"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e59/mp4/Idiom_lec_10_720p.mp4",
+            "quality": "720p",
+            "size": 555.47,
+            "_id": "699458c6ed387fa48e025e15"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-10 CONCISE idioms",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856900703-IDIOMS_LECTURE_-10_CONCISE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-10 SLIDE idioms",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774901714055-IDIOM_LEC-10_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "699411236009f88a5c2b2e59",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Idioms . lec-11",
+        "description": "Video: \tIdioms . lec-11",
+        "teacherName": "Admin",
+        "duration": 3785.173333,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5a/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5a/mp4/Idiom_lec_11_240p.mp4",
+            "quality": "240p",
+            "size": 286.68,
+            "_id": "69947b11dc4cae5479fc1a43"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5a/mp4/Idiom_lec_11_360p.mp4",
+            "quality": "360p",
+            "size": 331.2,
+            "_id": "69947b11dc4cae5479fc1a44"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5a/mp4/Idiom_lec_11_480p.mp4",
+            "quality": "480p",
+            "size": 441.79,
+            "_id": "69947b11dc4cae5479fc1a45"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5a/mp4/Idiom_lec_11_720p.mp4",
+            "quality": "720p",
+            "size": 646.56,
+            "_id": "69947b11dc4cae5479fc1a46"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-11 SLIDE idioms",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774902027144-IDIOM_LEC-11_SLIDE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-11 CONCISE idioms",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856921361-IDIOMS_LECTURE_-11_CONCISE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "699411236009f88a5c2b2e5a",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Idioms . lec-12",
+        "description": "Video: \tIdioms . lec-12",
+        "teacherName": "Admin",
+        "duration": 4621.568,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5b/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5b/mp4/Idiom_lec_12_240p.mp4",
+            "quality": "240p",
+            "size": 350.03,
+            "_id": "699491e782e16e0f9c8c9e05"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5b/mp4/Idiom_lec_12_360p.mp4",
+            "quality": "360p",
+            "size": 404.36,
+            "_id": "699491e782e16e0f9c8c9e06"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5b/mp4/Idiom_lec_12_480p.mp4",
+            "quality": "480p",
+            "size": 539.69,
+            "_id": "699491e782e16e0f9c8c9e07"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5b/mp4/Idiom_lec_12_720p.mp4",
+            "quality": "720p",
+            "size": 789.76,
+            "_id": "699491e782e16e0f9c8c9e08"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-12 SLide idioms",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774901805553-IDIOM_LEC-12_SLIDE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-12 CONCISE IDIOMS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760886387917-LEC-12_CONCISE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "699411236009f88a5c2b2e5b",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Idioms . lec-13",
+        "description": "Video: \tIdioms . lec-13",
+        "teacherName": "Admin",
+        "duration": 4695.637333,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5c/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5c/mp4/Idiom_lec_13_240p.mp4",
+            "quality": "240p",
+            "size": 354.29,
+            "_id": "69951c9cbc2aae3cc305e0e7"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5c/mp4/Idiom_lec_13_360p.mp4",
+            "quality": "360p",
+            "size": 409.68,
+            "_id": "69951c9cbc2aae3cc305e0e8"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5c/mp4/Idiom_lec_13_480p.mp4",
+            "quality": "480p",
+            "size": 547.14,
+            "_id": "69951c9cbc2aae3cc305e0e9"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5c/mp4/Idiom_lec_13_720p.mp4",
+            "quality": "720p",
+            "size": 801.15,
+            "_id": "69951c9cbc2aae3cc305e0ea"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-13 SLIDE IDIOMS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774901977726-IDIOM_LEC-13_SLIDE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-13 CONCISE idioms",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856997214-IDIOMS_LECTURE_-13_CONCISE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "699411236009f88a5c2b2e5c",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Idioms . lec-15",
+        "description": "Video: \tIdioms . lec-15",
+        "teacherName": "Admin",
+        "duration": 4743.701333,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5d/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5d/mp4/Idiom_lec_14_240p.mp4",
+            "quality": "240p",
+            "size": 358.46,
+            "_id": "6994ba7bbc2aae3cc3c11c3f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5d/mp4/Idiom_lec_14_360p.mp4",
+            "quality": "360p",
+            "size": 414.7,
+            "_id": "6994ba7bbc2aae3cc3c11c40"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5d/mp4/Idiom_lec_14_480p.mp4",
+            "quality": "480p",
+            "size": 553.97,
+            "_id": "6994ba7bbc2aae3cc3c11c41"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5d/mp4/Idiom_lec_14_720p.mp4",
+            "quality": "720p",
+            "size": 810.63,
+            "_id": "6994ba7bbc2aae3cc3c11c42"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-15 CONCISE idioms",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774857041920-IDIOMS_LECTURE_-15_CONCISE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-15 SLIDE idioms",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774901899463-IDIOM_LEC-15_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "699411236009f88a5c2b2e5d",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Idioms . lec-14",
+        "description": "Video: \tIdioms . lec-14",
+        "teacherName": "Admin",
+        "duration": 4583.296,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5e/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5e/mp4/Idiom_lec_15_240p.mp4",
+            "quality": "240p",
+            "size": 348.12,
+            "_id": "6994b06e812fb6b7ef6463b7"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5e/mp4/Idiom_lec_15_360p.mp4",
+            "quality": "360p",
+            "size": 402.25,
+            "_id": "6994b06e812fb6b7ef6463b8"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5e/mp4/Idiom_lec_15_480p.mp4",
+            "quality": "480p",
+            "size": 536.82,
+            "_id": "6994b06e812fb6b7ef6463b9"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699411236009f88a5c2b2e5e/mp4/Idiom_lec_15_720p.mp4",
+            "quality": "720p",
+            "size": 784.54,
+            "_id": "6994b06e812fb6b7ef6463ba"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-14 SLIDE idioms",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774901867390-IDIOM_LEC-14_SLIDE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-14 CONCISE idioms",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774857020244-IDIOMS_LECTURE_-14_CONCISE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "699411236009f88a5c2b2e5e",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-2",
+        "description": "Video: Anto_Syno.Lec-2",
+        "teacherName": "Admin",
+        "duration": 4356.906667,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e76/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e76/mp4/Anto_Syno_Lec_2_240p.mp4",
+            "quality": "240p",
+            "size": 286.1,
+            "_id": "6995ec6470d04627660de29f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e76/mp4/Anto_Syno_Lec_2_360p.mp4",
+            "quality": "360p",
+            "size": 341.86,
+            "_id": "6995ec6470d04627660de2a0"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e76/mp4/Anto_Syno_Lec_2_480p.mp4",
+            "quality": "480p",
+            "size": 469.85,
+            "_id": "6995ec6470d04627660de2a1"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e76/mp4/Anto_Syno_Lec_2_720p.mp4",
+            "quality": "720p",
+            "size": 711.44,
+            "_id": "6995ec6470d04627660de2a2"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-2 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772012726864-SYN_ANT_LECTURE_â_02.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-2 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772010372370-ANT_SYN_LEC-2_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e76",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-3",
+        "description": "Video: Anto_Syno.Lec-3",
+        "teacherName": "Admin",
+        "duration": 3722.965333,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e77/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e77/mp4/Anto_Syno_Lec_3_240p.mp4",
+            "quality": "240p",
+            "size": 244.35,
+            "_id": "699623c4ebd7859032c55237"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e77/mp4/Anto_Syno_Lec_3_360p.mp4",
+            "quality": "360p",
+            "size": 292,
+            "_id": "699623c4ebd7859032c55238"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e77/mp4/Anto_Syno_Lec_3_480p.mp4",
+            "quality": "480p",
+            "size": 400.97,
+            "_id": "699623c4ebd7859032c55239"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e77/mp4/Anto_Syno_Lec_3_720p.mp4",
+            "quality": "720p",
+            "size": 606.08,
+            "_id": "699623c4ebd7859032c5523a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-3 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772012792339-SYN_ANT_LECTURE_â_03.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-3 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772010436694-ANT_SYN_LEC-3_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e77",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-4",
+        "description": "Video: Anto_Syno.Lec-4",
+        "teacherName": "Admin",
+        "duration": 3352.192,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e78/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e78/mp4/Anto_Syno_Lec_4_240p.mp4",
+            "quality": "240p",
+            "size": 253.64,
+            "_id": "6995fe8eebd7859032a1311e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e78/mp4/Anto_Syno_Lec_4_360p.mp4",
+            "quality": "360p",
+            "size": 293.19,
+            "_id": "6995fe8eebd7859032a1311f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e78/mp4/Anto_Syno_Lec_4_480p.mp4",
+            "quality": "480p",
+            "size": 391.84,
+            "_id": "6995fe8eebd7859032a13120"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e78/mp4/Anto_Syno_Lec_4_720p.mp4",
+            "quality": "720p",
+            "size": 573.25,
+            "_id": "6995fe8eebd7859032a13121"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-4 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772012813158-SYN_ANT_LECTURE_â_04.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-4 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772010463332-ANT_SYN_LEC-4_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e78",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-5",
+        "description": "Video: Anto_Syno.Lec-5",
+        "teacherName": "Admin",
+        "duration": 3142.698667,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e79/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e79/mp4/Anto_Syno_Lec_5_240p.mp4",
+            "quality": "240p",
+            "size": 237.24,
+            "_id": "69960d699119ee84e247fa3a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e79/mp4/Anto_Syno_Lec_5_360p.mp4",
+            "quality": "360p",
+            "size": 274.26,
+            "_id": "69960d699119ee84e247fa3b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e79/mp4/Anto_Syno_Lec_5_480p.mp4",
+            "quality": "480p",
+            "size": 366.57,
+            "_id": "69960d699119ee84e247fa3c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e79/mp4/Anto_Syno_Lec_5_720p.mp4",
+            "quality": "720p",
+            "size": 536.83,
+            "_id": "69960d699119ee84e247fa3d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-5 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772010669944-ANT_SYN_LEC-5_SLIDE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-5 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772012834882-SYN_ANT_LECTURE_â_05.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e79",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-6",
+        "description": "Video: Anto_Syno.Lec-6",
+        "teacherName": "Admin",
+        "duration": 3249.941333,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7a/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7a/mp4/Anto_Syno_Lec_6_240p.mp4",
+            "quality": "240p",
+            "size": 245.84,
+            "_id": "699614440c4acb00f791b720"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7a/mp4/Anto_Syno_Lec_6_360p.mp4",
+            "quality": "360p",
+            "size": 284.2,
+            "_id": "699614440c4acb00f791b721"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7a/mp4/Anto_Syno_Lec_6_480p.mp4",
+            "quality": "480p",
+            "size": 379.59,
+            "_id": "699614440c4acb00f791b722"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7a/mp4/Anto_Syno_Lec_6_720p.mp4",
+            "quality": "720p",
+            "size": 555.62,
+            "_id": "699614440c4acb00f791b723"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-6 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772012858521-SYN_ANT_LECTURE_â_06.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-6 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772010700123-ANT_SYN_LEC-6_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e7a",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-7",
+        "description": "Video: Anto_Syno.Lec-7",
+        "teacherName": "Admin",
+        "duration": 3327.061333,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7b/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7b/mp4/Anto_Syno_Lec_7_240p.mp4",
+            "quality": "240p",
+            "size": 252.25,
+            "_id": "69962ace82e16e0f9c1283de"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7b/mp4/Anto_Syno_Lec_7_360p.mp4",
+            "quality": "360p",
+            "size": 291.31,
+            "_id": "69962ace82e16e0f9c1283df"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7b/mp4/Anto_Syno_Lec_7_480p.mp4",
+            "quality": "480p",
+            "size": 389.11,
+            "_id": "69962ace82e16e0f9c1283e0"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7b/mp4/Anto_Syno_Lec_7_720p.mp4",
+            "quality": "720p",
+            "size": 569.34,
+            "_id": "69962ace82e16e0f9c1283e1"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-7 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772010745739-ANT_SYN_LEC-7_SLIDE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-7 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772012898329-SYN_ANT_LECTURE_â_07.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e7b",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-8",
+        "description": "Video: Anto_Syno.Lec-8",
+        "teacherName": "Admin",
+        "duration": 3445.738667,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7c/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7c/mp4/Anto_Syno_Lec_8_240p.mp4",
+            "quality": "240p",
+            "size": 260.53,
+            "_id": "699632293aa82ff1ff9b353d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7c/mp4/Anto_Syno_Lec_8_360p.mp4",
+            "quality": "360p",
+            "size": 301.1,
+            "_id": "699632293aa82ff1ff9b353e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7c/mp4/Anto_Syno_Lec_8_480p.mp4",
+            "quality": "480p",
+            "size": 402.2,
+            "_id": "699632293aa82ff1ff9b353f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7c/mp4/Anto_Syno_Lec_8_720p.mp4",
+            "quality": "720p",
+            "size": 588.7,
+            "_id": "699632293aa82ff1ff9b3540"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-8 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772012918948-SYN_ANT_LECTURE_â_08.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-8 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772010793336-ANT_SYN_LEC-8_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e7c",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-9",
+        "description": "Video: Anto_Syno.Lec-9",
+        "teacherName": "Admin",
+        "duration": 3340.074667,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7d/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7d/mp4/Anto_Syno_Lec_9_240p.mp4",
+            "quality": "240p",
+            "size": 252.86,
+            "_id": "699647e54f6da3d1a20f451a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7d/mp4/Anto_Syno_Lec_9_360p.mp4",
+            "quality": "360p",
+            "size": 292.21,
+            "_id": "699647e54f6da3d1a20f451b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7d/mp4/Anto_Syno_Lec_9_480p.mp4",
+            "quality": "480p",
+            "size": 390.25,
+            "_id": "699647e54f6da3d1a20f451c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7d/mp4/Anto_Syno_Lec_9_720p.mp4",
+            "quality": "720p",
+            "size": 570.96,
+            "_id": "699647e54f6da3d1a20f451d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-9 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772012942557-SYN_ANT_LECTURE_â_09.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-9 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772010862008-ANT_SYN_LEC-9_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e7d",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-10",
+        "description": "Video: Anto_Syno.Lec-10",
+        "teacherName": "Admin",
+        "duration": 3262.336,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7e/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7e/mp4/Anto_Syno_Lec_10_240p.mp4",
+            "quality": "240p",
+            "size": 246.31,
+            "_id": "69964ec13aa82ff1ffa37639"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7e/mp4/Anto_Syno_Lec_10_360p.mp4",
+            "quality": "360p",
+            "size": 284.78,
+            "_id": "69964ec13aa82ff1ffa3763a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7e/mp4/Anto_Syno_Lec_10_480p.mp4",
+            "quality": "480p",
+            "size": 380.57,
+            "_id": "69964ec13aa82ff1ffa3763b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7e/mp4/Anto_Syno_Lec_10_720p.mp4",
+            "quality": "720p",
+            "size": 557.18,
+            "_id": "69964ec13aa82ff1ffa3763c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-10 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772012967732-SYN_ANT_LECTURE_â_10.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-10 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772010891590-ANT_SYN_LEC-10_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e7e",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-11",
+        "description": "Video: Anto_Syno.Lec-11",
+        "teacherName": "Admin",
+        "duration": 3773.994667,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7f/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7f/mp4/Anto_Syno_Lec_11_240p.mp4",
+            "quality": "240p",
+            "size": 283.64,
+            "_id": "6996568c0c4acb00f7acadd3"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7f/mp4/Anto_Syno_Lec_11_360p.mp4",
+            "quality": "360p",
+            "size": 328.12,
+            "_id": "6996568c0c4acb00f7acadd4"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7f/mp4/Anto_Syno_Lec_11_480p.mp4",
+            "quality": "480p",
+            "size": 438.91,
+            "_id": "6996568c0c4acb00f7acadd5"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e7f/mp4/Anto_Syno_Lec_11_720p.mp4",
+            "quality": "720p",
+            "size": 643.23,
+            "_id": "6996568c0c4acb00f7acadd6"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-11 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772011089766-ANT_SYN_LEC-11_SLIDE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-11 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772012998037-SYN_ANT_LECTURE_â_11.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e7f",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-12",
+        "description": "Video: Anto_Syno.Lec-12",
+        "teacherName": "Admin",
+        "duration": 3334.570667,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e80/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e80/mp4/Anto_Syno_Lec_12_240p.mp4",
+            "quality": "240p",
+            "size": 251.25,
+            "_id": "69965d9e82e16e0f9c26e13e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e80/mp4/Anto_Syno_Lec_12_360p.mp4",
+            "quality": "360p",
+            "size": 290.52,
+            "_id": "69965d9e82e16e0f9c26e13f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e80/mp4/Anto_Syno_Lec_12_480p.mp4",
+            "quality": "480p",
+            "size": 388.46,
+            "_id": "69965d9e82e16e0f9c26e140"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e80/mp4/Anto_Syno_Lec_12_720p.mp4",
+            "quality": "720p",
+            "size": 568.86,
+            "_id": "69965d9e82e16e0f9c26e141"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-12 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772013017096-SYN_ANT_LECTURE_â_12.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-12 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772011122775-ANT_SYN_LEC-12_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e80",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-13",
+        "description": "Video: Anto_Syno.Lec-13",
+        "teacherName": "Admin",
+        "duration": 3352.938667,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e81/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e81/mp4/Anto_Syno_Lec_13_240p.mp4",
+            "quality": "240p",
+            "size": 252.22,
+            "_id": "6996649f9119ee84e2766b02"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e81/mp4/Anto_Syno_Lec_13_360p.mp4",
+            "quality": "360p",
+            "size": 291.78,
+            "_id": "6996649f9119ee84e2766b03"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e81/mp4/Anto_Syno_Lec_13_480p.mp4",
+            "quality": "480p",
+            "size": 390.36,
+            "_id": "6996649f9119ee84e2766b04"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e81/mp4/Anto_Syno_Lec_13_720p.mp4",
+            "quality": "720p",
+            "size": 571.83,
+            "_id": "6996649f9119ee84e2766b05"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-13 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772011241011-ANT_SYN_LEC-13_SLIDE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-13 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772013033502-SYN_ANT_LECTURE_â_13.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e81",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-14",
+        "description": "Video: Anto_Syno.Lec-14",
+        "teacherName": "Admin",
+        "duration": 3324.928,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e82/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e82/mp4/Anto_Syno_Lec_14_240p.mp4",
+            "quality": "240p",
+            "size": 251.39,
+            "_id": "69966b8170d04627668ff902"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e82/mp4/Anto_Syno_Lec_14_360p.mp4",
+            "quality": "360p",
+            "size": 290.51,
+            "_id": "69966b8170d04627668ff903"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e82/mp4/Anto_Syno_Lec_14_480p.mp4",
+            "quality": "480p",
+            "size": 388.22,
+            "_id": "69966b8170d04627668ff904"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e82/mp4/Anto_Syno_Lec_14_720p.mp4",
+            "quality": "720p",
+            "size": 568.36,
+            "_id": "69966b8170d04627668ff905"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-14 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772013101581-SYN_ANT_LECTURE_â_14.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-14 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772011754586-ANT_SYN_LEC-14_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e82",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-15",
+        "description": "Video: Anto_Syno.Lec-15",
+        "teacherName": "Admin",
+        "duration": 2857.621333,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e83/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e83/mp4/Anto_Syno_Lec_15_240p.mp4",
+            "quality": "240p",
+            "size": 216.18,
+            "_id": "699677da0c4acb00f7e27efd"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e83/mp4/Anto_Syno_Lec_15_360p.mp4",
+            "quality": "360p",
+            "size": 249.84,
+            "_id": "699677da0c4acb00f7e27efe"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e83/mp4/Anto_Syno_Lec_15_480p.mp4",
+            "quality": "480p",
+            "size": 333.68,
+            "_id": "699677da0c4acb00f7e27eff"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e83/mp4/Anto_Syno_Lec_15_720p.mp4",
+            "quality": "720p",
+            "size": 488.48,
+            "_id": "699677da0c4acb00f7e27f00"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-15 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772013119663-SYN_ANT_LECTURE_â_15.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-15 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772011782684-ANT_SYN_LEC-15_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e83",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-16",
+        "description": "Video: Anto_Syno.Lec-16",
+        "teacherName": "Admin",
+        "duration": 2858.389333,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e84/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e84/mp4/Anto_Syno_Lec_16_240p.mp4",
+            "quality": "240p",
+            "size": 216.02,
+            "_id": "69967183bd84e0869c6ccd90"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e84/mp4/Anto_Syno_Lec_16_360p.mp4",
+            "quality": "360p",
+            "size": 249.73,
+            "_id": "69967183bd84e0869c6ccd91"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e84/mp4/Anto_Syno_Lec_16_480p.mp4",
+            "quality": "480p",
+            "size": 333.59,
+            "_id": "69967183bd84e0869c6ccd92"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e84/mp4/Anto_Syno_Lec_16_720p.mp4",
+            "quality": "720p",
+            "size": 488.53,
+            "_id": "69967183bd84e0869c6ccd93"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-16 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772013137019-SYN_ANT_LECTURE_â_16.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-16 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772011810550-ANT_SYN_LEC-16_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e84",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-17",
+        "description": "Video: Anto_Syno.Lec-17",
+        "teacherName": "Admin",
+        "duration": 4055.594667,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e85/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e85/mp4/Anto_Syno_Lec_17_240p.mp4",
+            "quality": "240p",
+            "size": 305.13,
+            "_id": "699686c3bd84e0869cae5f2c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e85/mp4/Anto_Syno_Lec_17_360p.mp4",
+            "quality": "360p",
+            "size": 352.84,
+            "_id": "699686c3bd84e0869cae5f2d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e85/mp4/Anto_Syno_Lec_17_480p.mp4",
+            "quality": "480p",
+            "size": 471.63,
+            "_id": "699686c3bd84e0869cae5f2e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e85/mp4/Anto_Syno_Lec_17_720p.mp4",
+            "quality": "720p",
+            "size": 691.07,
+            "_id": "699686c3bd84e0869cae5f2f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-17 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772013156397-SYN_ANT_LECTURE_â_17.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-17 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772011832827-ANT_SYN_LEC-17_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e85",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-18",
+        "description": "Video: Anto_Syno.Lec-18",
+        "teacherName": "Admin",
+        "duration": 3798.954667,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e86/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e86/mp4/Anto_Syno_Lec_18_240p.mp4",
+            "quality": "240p",
+            "size": 287.28,
+            "_id": "69967fec3aa82ff1fff8d702"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e86/mp4/Anto_Syno_Lec_18_360p.mp4",
+            "quality": "360p",
+            "size": 332.07,
+            "_id": "69967fec3aa82ff1fff8d703"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e86/mp4/Anto_Syno_Lec_18_480p.mp4",
+            "quality": "480p",
+            "size": 443.62,
+            "_id": "69967fec3aa82ff1fff8d704"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e86/mp4/Anto_Syno_Lec_18_720p.mp4",
+            "quality": "720p",
+            "size": 649.3,
+            "_id": "69967fec3aa82ff1fff8d705"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-18 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772013173461-SYN_ANT_LECTURE_â_18.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-18 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772011858685-ANT_SYN_LEC-18_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e86",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno_Lec_19",
+        "description": "Video: Anto_Syno_Lec_19",
+        "teacherName": "Admin",
+        "duration": 3742.954667,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e87/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e87/mp4/Anto_Syno_Lec_19_240p.mp4",
+            "quality": "240p",
+            "size": 281.35,
+            "_id": "69969e774f6da3d1a2f4b4e3"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e87/mp4/Anto_Syno_Lec_19_360p.mp4",
+            "quality": "360p",
+            "size": 325.74,
+            "_id": "69969e774f6da3d1a2f4b4e4"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e87/mp4/Anto_Syno_Lec_19_480p.mp4",
+            "quality": "480p",
+            "size": 435.33,
+            "_id": "69969e774f6da3d1a2f4b4e5"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e87/mp4/Anto_Syno_Lec_19_720p.mp4",
+            "quality": "720p",
+            "size": 638.31,
+            "_id": "69969e774f6da3d1a2f4b4e6"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-19 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772011879202-ANT_SYN_LEC-19_SLIDE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-19 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772013192977-SYN_ANT_LECTURE_â_19.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e87",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-20",
+        "description": "Video: Anto_Syno.Lec-20",
+        "teacherName": "Admin",
+        "duration": 3759.232,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e88/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e88/mp4/Anto_Syno_Lec_20_240p.mp4",
+            "quality": "240p",
+            "size": 285.22,
+            "_id": "6996df1770d04627669b94ef"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e88/mp4/Anto_Syno_Lec_20_360p.mp4",
+            "quality": "360p",
+            "size": 329.53,
+            "_id": "6996df1770d04627669b94f0"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e88/mp4/Anto_Syno_Lec_20_480p.mp4",
+            "quality": "480p",
+            "size": 439.98,
+            "_id": "6996df1770d04627669b94f1"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e88/mp4/Anto_Syno_Lec_20_720p.mp4",
+            "quality": "720p",
+            "size": 643.35,
+            "_id": "6996df1770d04627669b94f2"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-20 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772011899465-ANT_SYN_LEC-20_SLIDE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-20 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772013211983-SYN_ANT_LECTURE_â_20.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e88",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-21",
+        "description": "Video: Anto_Syno.Lec-21",
+        "teacherName": "Admin",
+        "duration": 3323.605333,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e89/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e89/mp4/Anto_Syno_Lec_21_240p.mp4",
+            "quality": "240p",
+            "size": 250.6,
+            "_id": "6996b1a570d0462766b3cadc"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e89/mp4/Anto_Syno_Lec_21_360p.mp4",
+            "quality": "360p",
+            "size": 289.84,
+            "_id": "6996b1a570d0462766b3cadd"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e89/mp4/Anto_Syno_Lec_21_480p.mp4",
+            "quality": "480p",
+            "size": 387.41,
+            "_id": "6996b1a570d0462766b3cade"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e89/mp4/Anto_Syno_Lec_21_720p.mp4",
+            "quality": "720p",
+            "size": 567.29,
+            "_id": "6996b1a570d0462766b3cadf"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-21 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772012288692-ANT_SYN_LEC-21_SLIDE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-21 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772013233404-SYN_ANT_LECTURE_â_21.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e89",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-22",
+        "description": "Video: Anto_Syno.Lec-22",
+        "teacherName": "Admin",
+        "duration": 3374.101333,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8a/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8a/mp4/Anto_Syno_Lec_22_240p.mp4",
+            "quality": "240p",
+            "size": 253.92,
+            "_id": "6996a5a79119ee84e269ad7e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8a/mp4/Anto_Syno_Lec_22_360p.mp4",
+            "quality": "360p",
+            "size": 294.02,
+            "_id": "6996a5a79119ee84e269ad7f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8a/mp4/Anto_Syno_Lec_22_480p.mp4",
+            "quality": "480p",
+            "size": 393.13,
+            "_id": "6996a5a79119ee84e269ad80"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8a/mp4/Anto_Syno_Lec_22_720p.mp4",
+            "quality": "720p",
+            "size": 575.96,
+            "_id": "6996a5a79119ee84e269ad81"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-22 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772012331638-ANT_SYN_LEC-23_SLIDE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-22 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772013273223-SYN_ANT_LECTURE_â_23.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e8a",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-23",
+        "description": "Video: Anto_Syno.Lec-23",
+        "teacherName": "Admin",
+        "duration": 3364.16,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8b/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8b/mp4/Anto_Syno_Lec_23_240p.mp4",
+            "quality": "240p",
+            "size": 251.86,
+            "_id": "69970bfe9119ee84e2520079"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8b/mp4/Anto_Syno_Lec_23_360p.mp4",
+            "quality": "360p",
+            "size": 291.76,
+            "_id": "69970bfe9119ee84e252007a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8b/mp4/Anto_Syno_Lec_23_480p.mp4",
+            "quality": "480p",
+            "size": 389.61,
+            "_id": "69970bfe9119ee84e252007b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8b/mp4/Anto_Syno_Lec_23_720p.mp4",
+            "quality": "720p",
+            "size": 571.52,
+            "_id": "69970bfe9119ee84e252007c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-23 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772013251969-SYN_ANT_LECTURE_â_22.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-23 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772012309267-ANT_SYN_LEC-22_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e8b",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-24",
+        "description": "Video: Anto_Syno.Lec-24",
+        "teacherName": "Admin",
+        "duration": 3454.4,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8c/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8c/mp4/Anto_Syno_Lec_24_240p.mp4",
+            "quality": "240p",
+            "size": 260.58,
+            "_id": "6996caa5bd84e0869c0f5623"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8c/mp4/Anto_Syno_Lec_24_360p.mp4",
+            "quality": "360p",
+            "size": 301.99,
+            "_id": "6996caa5bd84e0869c0f5624"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8c/mp4/Anto_Syno_Lec_24_480p.mp4",
+            "quality": "480p",
+            "size": 403.51,
+            "_id": "6996caa5bd84e0869c0f5625"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8c/mp4/Anto_Syno_Lec_24_720p.mp4",
+            "quality": "720p",
+            "size": 590.69,
+            "_id": "6996caa5bd84e0869c0f5626"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-24 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772013294588-SYN_ANT_LECTURE_â_24.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-24 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772012352211-ANT_SYN_LEC-24_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e8c",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-25",
+        "description": "Video: Anto_Syno.Lec-25",
+        "teacherName": "Admin",
+        "duration": 4152.469333,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8d/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8d/mp4/Anto_Syno_Lec_25_240p.mp4",
+            "quality": "240p",
+            "size": 313.25,
+            "_id": "6996eb280c4acb00f7113baf"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8d/mp4/Anto_Syno_Lec_25_360p.mp4",
+            "quality": "360p",
+            "size": 362.4,
+            "_id": "6996eb280c4acb00f7113bb0"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8d/mp4/Anto_Syno_Lec_25_480p.mp4",
+            "quality": "480p",
+            "size": 484.56,
+            "_id": "6996eb280c4acb00f7113bb1"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8d/mp4/Anto_Syno_Lec_25_720p.mp4",
+            "quality": "720p",
+            "size": 709.58,
+            "_id": "6996eb280c4acb00f7113bb2"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-25 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772012377529-ANT_SYN_LEC-25_SLIDE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-25 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772013311573-SYN_ANT_LECTURE_â_25.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e8d",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Anto_Syno.Lec-26",
+        "description": "Video: Anto_Syno.Lec-26",
+        "teacherName": "Admin",
+        "duration": 5526.997333,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8e/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8e/mp4/Anto_Syno_Lec_26_240p.mp4",
+            "quality": "240p",
+            "size": 415.92,
+            "_id": "6996fb6e82e16e0f9ccc370c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8e/mp4/Anto_Syno_Lec_26_360p.mp4",
+            "quality": "360p",
+            "size": 481.95,
+            "_id": "6996fb6e82e16e0f9ccc370d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8e/mp4/Anto_Syno_Lec_26_480p.mp4",
+            "quality": "480p",
+            "size": 644.44,
+            "_id": "6996fb6e82e16e0f9ccc370e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6994399c6009f88a5c2b2e8e/mp4/Anto_Syno_Lec_26_720p.mp4",
+            "quality": "720p",
+            "size": 943.36,
+            "_id": "6996fb6e82e16e0f9ccc370f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-26 SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772012411570-ANT_SYN_LEC-26_SLIDE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-26 CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1772013328122-SYN_ANT_LECTURE_â_26.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "6994399c6009f88a5c2b2e8e",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Root_words.Lec-1",
+        "description": "Video: Root_words.Lec-1",
+        "teacherName": "Admin",
+        "duration": 3546.837333,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e6f/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e6f/mp4/Root_words_Lec_1_240p.mp4",
+            "quality": "240p",
+            "size": 269.34,
+            "_id": "6995acde3aa82ff1ff558e59"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e6f/mp4/Root_words_Lec_1_360p.mp4",
+            "quality": "360p",
+            "size": 311.39,
+            "_id": "6995acde3aa82ff1ff558e5a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e6f/mp4/Root_words_Lec_1_480p.mp4",
+            "quality": "480p",
+            "size": 415.55,
+            "_id": "6995acde3aa82ff1ff558e5b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e6f/mp4/Root_words_Lec_1_720p.mp4",
+            "quality": "720p",
+            "size": 607.34,
+            "_id": "6995acde3aa82ff1ff558e5c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-1 RW SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774855317065-ROOT_WORD_LEC-1_RW_SLIDE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-1 RW CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774855336917-ROOT_WORD_LECTURE_â_01_CONCISE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "69941e036009f88a5c2b2e6f",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Root_words.Lec-2",
+        "description": "Video: Root_words.Lec-2",
+        "teacherName": "Admin",
+        "duration": 2811.904,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e70/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e70/mp4/Root_words_Lec_2_240p.mp4",
+            "quality": "240p",
+            "size": 212.14,
+            "_id": "6995c1ca82e16e0f9c1a1350"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e70/mp4/Root_words_Lec_2_360p.mp4",
+            "quality": "360p",
+            "size": 245.5,
+            "_id": "6995c1ca82e16e0f9c1a1351"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e70/mp4/Root_words_Lec_2_480p.mp4",
+            "quality": "480p",
+            "size": 327.99,
+            "_id": "6995c1ca82e16e0f9c1a1352"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e70/mp4/Root_words_Lec_2_720p.mp4",
+            "quality": "720p",
+            "size": 480.37,
+            "_id": "6995c1ca82e16e0f9c1a1353"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-2 RW CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774855391268-ROOT_WORD_LECTURE_â_02_CONCISE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-2 RW SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774855370988-ROOT_WORD_LEC-2_RW_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "69941e036009f88a5c2b2e70",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Root_words.Lec-3",
+        "description": "Video: Root_words.Lec-3",
+        "teacherName": "Admin",
+        "duration": 4035.2,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e71/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e71/mp4/Root_words_Lec_3_240p.mp4",
+            "quality": "240p",
+            "size": 304.98,
+            "_id": "6995d53f82e16e0f9c679888"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e71/mp4/Root_words_Lec_3_360p.mp4",
+            "quality": "360p",
+            "size": 352.64,
+            "_id": "6995d53f82e16e0f9c679889"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e71/mp4/Root_words_Lec_3_480p.mp4",
+            "quality": "480p",
+            "size": 470.97,
+            "_id": "6995d53f82e16e0f9c67988a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e71/mp4/Root_words_Lec_3_720p.mp4",
+            "quality": "720p",
+            "size": 689.38,
+            "_id": "6995d53f82e16e0f9c67988b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-3 RW CONCISE OWS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774855456491-ROOT_WORD_LECTURE_â_03_CONCISE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-3 RW SLIDE OWS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774855431781-ROOT_WORD_LEC-3_RW_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "69941e036009f88a5c2b2e71",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Root_words.Lec-4",
+        "description": "Video: Root_words.Lec-4",
+        "teacherName": "Admin",
+        "duration": 4237.866667,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e72/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e72/mp4/Root_words_Lec_4_240p.mp4",
+            "quality": "240p",
+            "size": 320.38,
+            "_id": "6995b8e070d04627664ad124"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e72/mp4/Root_words_Lec_4_360p.mp4",
+            "quality": "360p",
+            "size": 370.56,
+            "_id": "6995b8e070d04627664ad125"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e72/mp4/Root_words_Lec_4_480p.mp4",
+            "quality": "480p",
+            "size": 495,
+            "_id": "6995b8e070d04627664ad126"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e72/mp4/Root_words_Lec_4_720p.mp4",
+            "quality": "720p",
+            "size": 724.39,
+            "_id": "6995b8e070d04627664ad127"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-4 RW CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774855498358-ROOT_WORD_LECTURE_â_04_CONCISE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-4 RW SLIDE ",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774855481272-ROOT_WORD_LEC-4_RW_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "69941e036009f88a5c2b2e72",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Root_words.Lec-5",
+        "description": "Video: Root_words.Lec-5",
+        "teacherName": "Admin",
+        "duration": 3233.962667,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e73/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e73/mp4/Root_words_Lec_5_240p.mp4",
+            "quality": "240p",
+            "size": 243.52,
+            "_id": "6995c94682e16e0f9c36043a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e73/mp4/Root_words_Lec_5_360p.mp4",
+            "quality": "360p",
+            "size": 281.75,
+            "_id": "6995c94682e16e0f9c36043b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e73/mp4/Root_words_Lec_5_480p.mp4",
+            "quality": "480p",
+            "size": 376.47,
+            "_id": "6995c94682e16e0f9c36043c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941e036009f88a5c2b2e73/mp4/Root_words_Lec_5_720p.mp4",
+            "quality": "720p",
+            "size": 551.43,
+            "_id": "6995c94682e16e0f9c36043d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-5 RW CONCISE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774855535924-ROOT_WORD_LECTURE_â_05_CONCISE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-5 RW SLIDE",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774855518110-ROOT_WORD_LEC-5_RW_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "69941e036009f88a5c2b2e73",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Phrasal_verb.Lec-1",
+        "description": "Video: Phrasal_verb.Lec-1",
+        "teacherName": "Admin",
+        "duration": 2920.789333,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69941af86009f88a5c2b2e67/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941af86009f88a5c2b2e67/mp4/Phrasal_verb_Lec_1_240p.mp4",
+            "quality": "240p",
+            "size": 221.77,
+            "_id": "69956a98e2270e7832ea338c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941af86009f88a5c2b2e67/mp4/Phrasal_verb_Lec_1_360p.mp4",
+            "quality": "360p",
+            "size": 256.2,
+            "_id": "69956a98e2270e7832ea338d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941af86009f88a5c2b2e67/mp4/Phrasal_verb_Lec_1_480p.mp4",
+            "quality": "480p",
+            "size": 341.8,
+            "_id": "69956a98e2270e7832ea338e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941af86009f88a5c2b2e67/mp4/Phrasal_verb_Lec_1_720p.mp4",
+            "quality": "720p",
+            "size": 499.7,
+            "_id": "69956a98e2270e7832ea338f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-1 CONCISE phrasal verbs",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/LEC-1 CONCISE phrasal verbs.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-1 SLIDE phrasal verbs",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/LEC-1 SLIDE phrasal verbs.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "69941af86009f88a5c2b2e67",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Phrasal_verb.Lec-2",
+        "description": "Video: Phrasal_verb.Lec-2",
+        "teacherName": "Admin",
+        "duration": 3049.130667,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69941af86009f88a5c2b2e68/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941af86009f88a5c2b2e68/mp4/Phrasal_verb_Lec_2_240p.mp4",
+            "quality": "240p",
+            "size": 230.37,
+            "_id": "6995783e4f6da3d1a2c716e4"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941af86009f88a5c2b2e68/mp4/Phrasal_verb_Lec_2_360p.mp4",
+            "quality": "360p",
+            "size": 266.45,
+            "_id": "6995783e4f6da3d1a2c716e5"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941af86009f88a5c2b2e68/mp4/Phrasal_verb_Lec_2_480p.mp4",
+            "quality": "480p",
+            "size": 355.93,
+            "_id": "6995783e4f6da3d1a2c716e6"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941af86009f88a5c2b2e68/mp4/Phrasal_verb_Lec_2_720p.mp4",
+            "quality": "720p",
+            "size": 520.69,
+            "_id": "6995783e4f6da3d1a2c716e7"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-2 SLIDE phrasal verbs",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/LEC-3 SLIDE phrasal verbs.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-2 CONCISE phrasal verbs",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/LEC-3 CONCISE phrasal verbs.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "69941af86009f88a5c2b2e68",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Phrasal_verb.Lec-3",
+        "description": "Video: Phrasal_verb.Lec-3",
+        "teacherName": "Admin",
+        "duration": 2995.669333,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69941af86009f88a5c2b2e69/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941af86009f88a5c2b2e69/mp4/Phrasal_verb_Lec_3_240p.mp4",
+            "quality": "240p",
+            "size": 227.02,
+            "_id": "69957fbf3aa82ff1ff8661a9"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941af86009f88a5c2b2e69/mp4/Phrasal_verb_Lec_3_360p.mp4",
+            "quality": "360p",
+            "size": 262.17,
+            "_id": "69957fbf3aa82ff1ff8661aa"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941af86009f88a5c2b2e69/mp4/Phrasal_verb_Lec_3_480p.mp4",
+            "quality": "480p",
+            "size": 349.71,
+            "_id": "69957fbf3aa82ff1ff8661ab"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941af86009f88a5c2b2e69/mp4/Phrasal_verb_Lec_3_720p.mp4",
+            "quality": "720p",
+            "size": 510.96,
+            "_id": "69957fbf3aa82ff1ff8661ac"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-3 SLIDE phrasal verbs",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/LEC-2 SLIDE phrasal verbs.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-3 CONCISE phrasal verbs.",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/LEC-2 CONCISE phrasal verbs.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "69941af86009f88a5c2b2e69",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Phrasal_verb.practice",
+        "description": "Video: Phrasal_verb.practice",
+        "teacherName": "Admin",
+        "duration": 16510.549333,
+        "startDate": "2026-02-22T18:30:00.000Z",
+        "endDate": "2026-02-22T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69941af86009f88a5c2b2e6a/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941af86009f88a5c2b2e6a/mp4/Phrasal_verb_practice_240p.mp4",
+            "quality": "240p",
+            "size": 1012.99,
+            "_id": "6995a7104f6da3d1a2a359f8"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941af86009f88a5c2b2e6a/mp4/Phrasal_verb_practice_360p.mp4",
+            "quality": "360p",
+            "size": 1204.52,
+            "_id": "6995a7104f6da3d1a2a359f9"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941af86009f88a5c2b2e6a/mp4/Phrasal_verb_practice_480p.mp4",
+            "quality": "480p",
+            "size": 1684.67,
+            "_id": "6995a7104f6da3d1a2a359fa"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69941af86009f88a5c2b2e6a/mp4/Phrasal_verb_practice_720p.mp4",
+            "quality": "720p",
+            "size": 2483.89,
+            "_id": "6995a7104f6da3d1a2a359fb"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Phrasal Verbs 240  Paid and Yt CL",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Phrasal Verbs 240  Paid and Yt CL.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "69941af86009f88a5c2b2e6a",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Spelling Correction | by Aman sir",
+        "description": "",
+        "teacherName": "AMAN SIR",
+        "duration": 313.423,
+        "startDate": "2026-03-16T15:26:00.000Z",
+        "endDate": "2026-03-16T13:26:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69b81f9ddbf4fa27cf74d0a1/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b81f9ddbf4fa27cf74d0a1/mp4/Spelling_correction_240p.mp4",
+            "quality": "240p",
+            "size": 23.75,
+            "_id": "69b82137fe7c902399059aad"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b81f9ddbf4fa27cf74d0a1/mp4/Spelling_correction_360p.mp4",
+            "quality": "360p",
+            "size": 27.38,
+            "_id": "69b82137fe7c902399059aae"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b81f9ddbf4fa27cf74d0a1/mp4/Spelling_correction_480p.mp4",
+            "quality": "480p",
+            "size": 36.62,
+            "_id": "69b82137fe7c902399059aaf"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b81f9ddbf4fa27cf74d0a1/mp4/Spelling_correction_720p.mp4",
+            "quality": "720p",
+            "size": 53.41,
+            "_id": "69b82137fe7c902399059ab0"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "SPELLING CORRECTION   (ALL PYQs)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/SPELLING CORRECTION   (ALL PYQs).pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "69b81f9ddbf4fa27cf74d0a1",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "OWS Lec - 1",
+        "description": "OWS Lec - 1",
+        "teacherName": "Aman sir",
+        "duration": 2794.581,
+        "startDate": "2026-03-17T18:30:00.000Z",
+        "endDate": "2026-03-17T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68f4c53e35a531ec8df5c812/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f4c53e35a531ec8df5c812/mp4/OWS_Lec_8_720p_240p.mp4",
+            "quality": "240p",
+            "size": 59.26,
+            "_id": "6910b456932c0deb70be3114"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f4c53e35a531ec8df5c812/mp4/OWS_Lec_8_720p_360p.mp4",
+            "quality": "360p",
+            "size": 94.69,
+            "_id": "6910b456932c0deb70be3115"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f4c53e35a531ec8df5c812/mp4/OWS_Lec_8_720p_480p.mp4",
+            "quality": "480p",
+            "size": 136.5,
+            "_id": "6910b456932c0deb70be3116"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f4c53e35a531ec8df5c812/mp4/OWS_Lec_8_720p_720p.mp4",
+            "quality": "720p",
+            "size": 231.95,
+            "_id": "6910b456932c0deb70be3117"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-6 CONCISE OWS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856019480-OWS_LEC_-06_CONCISE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-6 SLIDE OWS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774855986651-OWS_LEC-6_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "68f4c53e35a531ec8df5c812",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "OWS Lec - 2",
+        "description": "OWS Lec - 2",
+        "teacherName": "Aman sir",
+        "duration": 3330.433333,
+        "startDate": "2026-03-17T18:30:00.000Z",
+        "endDate": "2026-03-17T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc9/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc9/mp4/OWS_Lec_7_360p.mp4",
+            "quality": "360p",
+            "size": 182.46,
+            "_id": "68f09b0004ae4ee13ae0eca1"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc9/mp4/OWS_Lec_7_480p.mp4",
+            "quality": "480p",
+            "size": 262.57,
+            "_id": "68f09b0004ae4ee13ae0eca2"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc9/mp4/OWS_Lec_7_720p.mp4",
+            "quality": "720p",
+            "size": 481.56,
+            "_id": "68f09b0004ae4ee13ae0eca3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-7 CONCISE OWS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856093840-OWS_LEC_-07_CONCISE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-7 SLIDE OWS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856066872-OWS_LEC-7_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "68f07f4951236b2723e3dbc9",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "OWS Lec - 3",
+        "description": "OWS Lec - 3",
+        "teacherName": "Aman sir",
+        "duration": 2949.5,
+        "startDate": "2026-03-17T18:30:00.000Z",
+        "endDate": "2026-03-17T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc8/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc8/mp4/OWS_Lec_6_360p.mp4",
+            "quality": "360p",
+            "size": 156.55,
+            "_id": "68f098c1b7edd42fab74f9d2"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc8/mp4/OWS_Lec_6_480p.mp4",
+            "quality": "480p",
+            "size": 224.23,
+            "_id": "68f098c1b7edd42fab74f9d3"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc8/mp4/OWS_Lec_6_720p.mp4",
+            "quality": "720p",
+            "size": 406.76,
+            "_id": "68f098c1b7edd42fab74f9d4"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-8 SLIDE OWS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856120372-OWS_LEC-8_SLIDE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-8 CONCISE OWS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856163875-OWS_LEC_-08_CONCISE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "68f07f4951236b2723e3dbc8",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "OWS Lec - 4",
+        "description": "OWS Lec - 4",
+        "teacherName": "Aman sir",
+        "duration": 3572.466667,
+        "startDate": "2026-03-17T18:30:00.000Z",
+        "endDate": "2026-03-17T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc7/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc7/mp4/OWS_Lec_5_360p.mp4",
+            "quality": "360p",
+            "size": 188.74,
+            "_id": "68f09c7135a531ec8d35380f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc7/mp4/OWS_Lec_5_480p.mp4",
+            "quality": "480p",
+            "size": 272.86,
+            "_id": "68f09c7135a531ec8d353810"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc7/mp4/OWS_Lec_5_720p.mp4",
+            "quality": "720p",
+            "size": 499.22,
+            "_id": "68f09c7135a531ec8d353811"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-9 CONCISE OWS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856236768-OWS_LEC_-09_CONCISE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-9 SLIDE OWS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856204036-OWS_LEC-9_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "68f07f4951236b2723e3dbc7",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "OWS Lec - 5",
+        "description": "OWS Lec - 5",
+        "teacherName": "Aman sir",
+        "duration": 4049.7,
+        "startDate": "2026-03-17T18:30:00.000Z",
+        "endDate": "2026-03-17T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc6/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc6/mp4/OWS_Lec_4_360p.mp4",
+            "quality": "360p",
+            "size": 218.42,
+            "_id": "68f09e3804ae4ee13ae1fa13"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc6/mp4/OWS_Lec_4_480p.mp4",
+            "quality": "480p",
+            "size": 312.74,
+            "_id": "68f09e3804ae4ee13ae1fa14"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc6/mp4/OWS_Lec_4_720p.mp4",
+            "quality": "720p",
+            "size": 563.06,
+            "_id": "68f09e3804ae4ee13ae1fa15"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-10 CONCISE OWS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856291629-OWS_LEC_-10_CONCISE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-10 SLIDE OWS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856263234-OWS_LEC-10_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "68f07f4951236b2723e3dbc6",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "OWS Lec - 6",
+        "description": "OWS Lec - 6",
+        "teacherName": "Aman sir",
+        "duration": 3943.7,
+        "startDate": "2026-03-17T18:30:00.000Z",
+        "endDate": "2026-03-17T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc5/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc5/mp4/OWS_Lec_3_360p.mp4",
+            "quality": "360p",
+            "size": 208.93,
+            "_id": "68f09e7bb7edd42fab7740ab"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc5/mp4/OWS_Lec_3_480p.mp4",
+            "quality": "480p",
+            "size": 299.62,
+            "_id": "68f09e7bb7edd42fab7740ac"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc5/mp4/OWS_Lec_3_720p.mp4",
+            "quality": "720p",
+            "size": 539.56,
+            "_id": "68f09e7bb7edd42fab7740ad"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-11 CONCISE OWS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856345851-OWS_LEC_-11_CONCISE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-11 SLIDE OWS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856317640-OWS_LEC-11_SLIDE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "68f07f4951236b2723e3dbc5",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "OWS Lec - 7",
+        "description": "OWS Lec - 7",
+        "teacherName": "Aman sir",
+        "duration": 4218.304,
+        "startDate": "2026-03-17T18:30:00.000Z",
+        "endDate": "2026-03-17T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc4/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc4/mp4/OWS_Lec_2_720p_240p.mp4",
+            "quality": "240p",
+            "size": 94.19,
+            "_id": "6910ba45932c0deb70ca6efb"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc4/mp4/OWS_Lec_2_720p_360p.mp4",
+            "quality": "360p",
+            "size": 150.18,
+            "_id": "6910ba45932c0deb70ca6efc"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc4/mp4/OWS_Lec_2_720p_480p.mp4",
+            "quality": "480p",
+            "size": 215.12,
+            "_id": "6910ba45932c0deb70ca6efd"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f07f4951236b2723e3dbc4/mp4/OWS_Lec_2_720p_720p.mp4",
+            "quality": "720p",
+            "size": 355.09,
+            "_id": "6910ba45932c0deb70ca6efe"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LEC-12 SLIDE OWS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856382255-OWS_LEC-12_SLIDE.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "LEC-12 CONCISE OWS",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774856404678-OWS_LEC_-12_CONCISE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "68f07f4951236b2723e3dbc4",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Class -03 | idioms 2025 | by Aman sir",
+        "description": "",
+        "teacherName": "AMAN SIR",
+        "duration": 2587.214,
+        "startDate": "2026-04-23T05:32:00.000Z",
+        "endDate": "2026-04-23T03:32:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69e96f7622cc6f4d5fbc00f7/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69e96f7622cc6f4d5fbc00f7/mp4/idioms_2025_240p.mp4",
+            "quality": "240p",
+            "size": 195.14,
+            "_id": "69eefe5b2e698841bddc681d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69e96f7622cc6f4d5fbc00f7/mp4/idioms_2025_360p.mp4",
+            "quality": "360p",
+            "size": 225.54,
+            "_id": "69eefe5b2e698841bddc681e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69e96f7622cc6f4d5fbc00f7/mp4/idioms_2025_480p.mp4",
+            "quality": "480p",
+            "size": 301.69,
+            "_id": "69eefe5b2e698841bddc681f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69e96f7622cc6f4d5fbc00f7/mp4/idioms_2025_720p.mp4",
+            "quality": "720p",
+            "size": 441.33,
+            "_id": "69eefe5b2e698841bddc6820"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "IDIOMS (2025 PART - 02)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/IDIOMS (2025 PART - 02).pdf"
+          },
+          {
+            "priority": 2,
+            "name": "idioms 2025 part 2",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/idioms 2025 part 2.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ef76338b84905b84eebde7",
+          "classId": "69e96f7622cc6f4d5fbc00f7",
+          "topicId": "6989b0a35b61b5fe000acd30",
+          "rawRecordIndex": 76
+        }
+      }
+    ]
+  }
+}

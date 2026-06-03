@@ -1,0 +1,456 @@
+{
+  "courseName": "Reasoning Special-8",
+  "extractedAt": "2026-05-22T09:49:10+0530",
+  "videos": {
+    "Verbal": [
+      {
+        "title": "Class-01 | Letter basics | Letter Based reasoning | by balram sir",
+        "description": "\"Reasoning  Special  05, 06  & 07\r\n Selection Batch 05 , 06 & 07\"",
+        "teacherName": "Balram Sir",
+        "duration": 4383,
+        "startDate": "2026-05-11T04:00:00.000Z",
+        "endDate": "2026-05-11T05:09:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a00e463b927c1a84a3f4165/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a00e463b927c1a84a3f4165/output_720p.mp4",
+            "quality": "720p",
+            "size": 719.35,
+            "_id": "6a016946959355063eb22275"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a00e463b927c1a84a3f4165/output_480p.mp4",
+            "quality": "480p",
+            "size": 482.2,
+            "_id": "6a016946959355063eb22276"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a00e463b927c1a84a3f4165/output_360p.mp4",
+            "quality": "360p",
+            "size": 351.87,
+            "_id": "6a016946959355063eb22277"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a00e463b927c1a84a3f4165/output_240p.mp4",
+            "quality": "240p",
+            "size": 254.39,
+            "_id": "6a016946959355063eb22278"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Letter Basics  BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Letter Basics  BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Letter Basics without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Letter Basics without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e0b927c1a84afcbfed",
+          "classId": "6a00e463b927c1a84a3f4165",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 31
+        }
+      },
+      {
+        "title": "Class-02 | Letter basics | Letter Based reasoning | by balram sir",
+        "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08\r\n Selection Batch 02.03,04  05, 06  & 07, 08\"",
+        "teacherName": "Balram Sir",
+        "duration": 5102,
+        "startDate": "2026-05-12T04:00:00.000Z",
+        "endDate": "2026-05-12T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a01a3ccb927c1a84a4b0783/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a01a3ccb927c1a84a4b0783/output_720p.mp4",
+            "quality": "720p",
+            "size": 835.76,
+            "_id": "6a02beadb1f27e3aa04f5cb1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a01a3ccb927c1a84a4b0783/output_480p.mp4",
+            "quality": "480p",
+            "size": 559.66,
+            "_id": "6a02beadb1f27e3aa04f5cb2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a01a3ccb927c1a84a4b0783/output_360p.mp4",
+            "quality": "360p",
+            "size": 407.51,
+            "_id": "6a02beadb1f27e3aa04f5cb3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a01a3ccb927c1a84a4b0783/output_240p.mp4",
+            "quality": "240p",
+            "size": 294.5,
+            "_id": "6a02beadb1f27e3aa04f5cb4"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Letter Basics  02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Letter Basics  02 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e0b927c1a84afcbfed",
+          "classId": "6a01a3ccb927c1a84a4b0783",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 31
+        }
+      },
+      {
+        "title": "class-01 | Coding Decoding | Demo Class | by Balram sir",
+        "description": "sb 8",
+        "teacherName": "Balram Sir",
+        "duration": 0,
+        "startDate": "2026-05-13T04:00:00.000Z",
+        "endDate": "2026-05-13T05:14:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://www.youtube.com/watch?v=FDmuBbpZzTU",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "69f990e0b927c1a84afcbfed",
+          "classId": "6a03c258b927c1a84a69beb1",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 31
+        }
+      },
+      {
+        "title": "Class-02 | Coding Decoding | Letter based reasoning| by balram sir",
+        "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08\r\n Selection Batch 02.03,04  05, 06  & 07, 08\"",
+        "teacherName": "Balram Sir",
+        "duration": 4125,
+        "startDate": "2026-05-14T04:00:00.000Z",
+        "endDate": "2026-05-14T05:16:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a044bcab927c1a84a74887b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a044bcab927c1a84a74887b/output_720p.mp4",
+            "quality": "720p",
+            "size": 670.22,
+            "_id": "6a055ddab195bdf6e55f0f9c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a044bcab927c1a84a74887b/output_480p.mp4",
+            "quality": "480p",
+            "size": 447.66,
+            "_id": "6a055ddab195bdf6e55f0f9d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a044bcab927c1a84a74887b/output_360p.mp4",
+            "quality": "360p",
+            "size": 324.35,
+            "_id": "6a055ddab195bdf6e55f0f9e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a044bcab927c1a84a74887b/output_240p.mp4",
+            "quality": "240p",
+            "size": 234.69,
+            "_id": "6a055ddab195bdf6e55f0f9f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Coding Decoding 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Coding Decoding 02 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e0b927c1a84afcbfed",
+          "classId": "6a044bcab927c1a84a74887b",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 31
+        }
+      },
+      {
+        "title": "Class-03 | Coding Decoding | Letter based reasoning| by balram sir",
+        "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08\r\n Selection Batch 02.03,04  05, 06  & 07, 08\"",
+        "teacherName": "Balram Sir",
+        "duration": 4805,
+        "startDate": "2026-05-15T04:00:00.000Z",
+        "endDate": "2026-05-15T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a059d09b927c1a84a8108eb/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a059d09b927c1a84a8108eb/output_720p.mp4",
+            "quality": "720p",
+            "size": 771.45,
+            "_id": "6a06b2b2a7021a69ba777750"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a059d09b927c1a84a8108eb/output_480p.mp4",
+            "quality": "480p",
+            "size": 507.9,
+            "_id": "6a06b2b2a7021a69ba777751"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a059d09b927c1a84a8108eb/output_360p.mp4",
+            "quality": "360p",
+            "size": 363.21,
+            "_id": "6a06b2b2a7021a69ba777752"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a059d09b927c1a84a8108eb/output_240p.mp4",
+            "quality": "240p",
+            "size": 251.94,
+            "_id": "6a06b2b2a7021a69ba777753"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Coding Decoding 03 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Coding Decoding 03 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e0b927c1a84afcbfed",
+          "classId": "6a059d09b927c1a84a8108eb",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 31
+        }
+      },
+      {
+        "title": "Class-04 | Coding Decoding | Letter based reasoning| by balram sir",
+        "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08\r\n Selection Batch 02.03,04  05, 06  & 07, 08\"",
+        "teacherName": "Balram Sir",
+        "duration": 4372,
+        "startDate": "2026-05-18T04:00:00.000Z",
+        "endDate": "2026-05-18T05:13:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a0851f3b927c1a84aab58d6/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0851f3b927c1a84aab58d6/output_720p.mp4",
+            "quality": "720p",
+            "size": 709.22,
+            "_id": "6a0aa415b6394c6644b94644"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0851f3b927c1a84aab58d6/output_480p.mp4",
+            "quality": "480p",
+            "size": 472.3,
+            "_id": "6a0aa415b6394c6644b94645"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0851f3b927c1a84aab58d6/output_360p.mp4",
+            "quality": "360p",
+            "size": 338.9,
+            "_id": "6a0aa415b6394c6644b94646"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0851f3b927c1a84aab58d6/output_240p.mp4",
+            "quality": "240p",
+            "size": 234.46,
+            "_id": "6a0aa415b6394c6644b94647"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Coding Decoding 04 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Coding Decoding 04 BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Coding Decoding 04 BOARD PDF _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Coding Decoding 04 BOARD PDF _.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e0b927c1a84afcbfed",
+          "classId": "6a0851f3b927c1a84aab58d6",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 31
+        }
+      },
+      {
+        "title": "Class-05 | Coding Decoding | Letter based reasoning| by balram sir",
+        "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08\r\n Selection Batch 02.03,04  05, 06  & 07, 08\"",
+        "teacherName": "Balram Sir",
+        "duration": 4402,
+        "startDate": "2026-05-19T04:00:00.000Z",
+        "endDate": "2026-05-19T04:58:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a0b965ab927c1a84ac3240c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0b965ab927c1a84ac3240c/output_720p.mp4",
+            "quality": "720p",
+            "size": 720.5,
+            "_id": "6a0bf6711e37ad592481bce2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0b965ab927c1a84ac3240c/output_480p.mp4",
+            "quality": "480p",
+            "size": 482.66,
+            "_id": "6a0bf6711e37ad592481bce3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0b965ab927c1a84ac3240c/output_360p.mp4",
+            "quality": "360p",
+            "size": 351.68,
+            "_id": "6a0bf6711e37ad592481bce4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0b965ab927c1a84ac3240c/output_240p.mp4",
+            "quality": "240p",
+            "size": 250.65,
+            "_id": "6a0bf6711e37ad592481bce5"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Coding Decoding 05 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Coding Decoding 05 BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Coding Decoding without anno 05",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Coding Decoding without anno 05.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e0b927c1a84afcbfed",
+          "classId": "6a0b965ab927c1a84ac3240c",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 31
+        }
+      },
+      {
+        "title": "Class-06 | Coding Decoding | Letter based reasoning| by balram sir",
+        "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08\r\n Selection Batch 02.03,04  05, 06  & 07, 08\"",
+        "teacherName": "Balram Sir",
+        "duration": 4870,
+        "startDate": "2026-05-20T04:00:00.000Z",
+        "endDate": "2026-05-20T04:56:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a0c49deb927c1a84ad3735b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0c49deb927c1a84ad3735b/output_720p.mp4",
+            "quality": "720p",
+            "size": 768.85,
+            "_id": "6a0d495ee0181e2f58ffcd8d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0c49deb927c1a84ad3735b/output_480p.mp4",
+            "quality": "480p",
+            "size": 503.1,
+            "_id": "6a0d495ee0181e2f58ffcd8e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0c49deb927c1a84ad3735b/output_360p.mp4",
+            "quality": "360p",
+            "size": 357.77,
+            "_id": "6a0d495ee0181e2f58ffcd8f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0c49deb927c1a84ad3735b/output_240p.mp4",
+            "quality": "240p",
+            "size": 246.3,
+            "_id": "6a0d495ee0181e2f58ffcd90"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Coding Decoding 06 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Coding Decoding 06 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e0b927c1a84afcbfed",
+          "classId": "6a0c49deb927c1a84ad3735b",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 31
+        }
+      },
+      {
+        "title": "Class-07 | Coding Decoding | Letter based reasoning| by balram sir",
+        "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08\r\n Selection Batch 02.03,04  05, 06  & 07, 08\"",
+        "teacherName": "Balram Sir",
+        "duration": 4793,
+        "startDate": "2026-05-21T04:00:00.000Z",
+        "endDate": "2026-05-21T05:13:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a0d8150b927c1a84af79ea1/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0d8150b927c1a84af79ea1/output_720p.mp4",
+            "quality": "720p",
+            "size": 738.51,
+            "_id": "6a0e9b24e0181e2f581bba48"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0d8150b927c1a84af79ea1/output_480p.mp4",
+            "quality": "480p",
+            "size": 509.27,
+            "_id": "6a0e9b24e0181e2f581bba49"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0d8150b927c1a84af79ea1/output_360p.mp4",
+            "quality": "360p",
+            "size": 364.59,
+            "_id": "6a0e9b24e0181e2f581bba4a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0d8150b927c1a84af79ea1/output_240p.mp4",
+            "quality": "240p",
+            "size": 268.37,
+            "_id": "6a0e9b24e0181e2f581bba4b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Coding Decoding without anno 07",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Coding Decoding without anno 07.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Coding Decoding 07 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Coding Decoding 07 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e0b927c1a84afcbfed",
+          "classId": "6a0d8150b927c1a84af79ea1",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 31
+        }
+      },
+      {
+        "title": "Class-08 | Coding Decoding | Letter based reasoning| by balram sir",
+        "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08\r\n Selection Batch 02.03,04  05, 06  & 07, 08\"",
+        "teacherName": "Balram Sir",
+        "duration": 0,
+        "startDate": "2026-05-22T04:00:00.000Z",
+        "endDate": "2026-05-22T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a0ec99ab927c1a84a06efe8/playlist.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "69f990e0b927c1a84afcbfed",
+          "classId": "6a0ec99ab927c1a84a06efe8",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 31
+        }
+      }
+    ]
+  }
+}

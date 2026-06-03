@@ -1,0 +1,1280 @@
+{
+  "courseName": "GS Special - 7",
+  "extractedAt": "2026-05-22T09:49:10+0530",
+  "videos": {
+    "HISTORY": [
+      {
+        "title": "Class-01 || History Introduction  by Varun sir",
+        "description": "\" GS Special- 02,03,04,05  &\r\n Selection Batch -02,03,04,05\"",
+        "teacherName": "Varun Sir",
+        "duration": 2153,
+        "startDate": "2026-04-13T03:00:00.000Z",
+        "endDate": "2026-04-13T04:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69db849622cc6f4d5f46d78a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69db849622cc6f4d5f46d78a/output_720p.mp4",
+            "quality": "720p",
+            "size": 359.18,
+            "_id": "69dc6845bcd47007cd217c2f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69db849622cc6f4d5f46d78a/output_480p.mp4",
+            "quality": "480p",
+            "size": 243.38,
+            "_id": "69dc6845bcd47007cd217c30"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69db849622cc6f4d5f46d78a/output_360p.mp4",
+            "quality": "360p",
+            "size": 179.96,
+            "_id": "69dc6845bcd47007cd217c31"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69db849622cc6f4d5f46d78a/output_240p.mp4",
+            "quality": "240p",
+            "size": 144.88,
+            "_id": "69dc6845bcd47007cd217c32"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "History Intro BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/History Intro BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "69db849622cc6f4d5f46d78a",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class-02 || Pre-History & Stone Age Varun sir",
+        "description": "\" GS Special- 04,05  & 06 07\r\n Selection Batch -04,05 , 06 , 07\"",
+        "teacherName": "Varun Sir",
+        "duration": 4333.358,
+        "startDate": "2026-04-14T03:00:00.000Z",
+        "endDate": "2026-04-14T04:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69dcc74422cc6f4d5f58a409/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69dcc74422cc6f4d5f58a409/mp4/varun_history_240p.mp4",
+            "quality": "240p",
+            "size": 326.96,
+            "_id": "69ddea8f923f9ce0c431eb37"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69dcc74422cc6f4d5f58a409/mp4/varun_history_360p.mp4",
+            "quality": "360p",
+            "size": 377.7,
+            "_id": "69ddea8f923f9ce0c431eb38"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69dcc74422cc6f4d5f58a409/mp4/varun_history_480p.mp4",
+            "quality": "480p",
+            "size": 504.49,
+            "_id": "69ddea8f923f9ce0c431eb39"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69dcc74422cc6f4d5f58a409/mp4/varun_history_720p.mp4",
+            "quality": "720p",
+            "size": 737.03,
+            "_id": "69ddea8f923f9ce0c431eb3a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Pre History  BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Pre History  BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "69dcc74422cc6f4d5f58a409",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class-03 || Indus Valley Civilization Varun sir",
+        "description": "\" GS Special- 04,05  & 06 07\r\n Selection Batch -04,05 , 06 , 07\"",
+        "teacherName": "Varun Sir",
+        "duration": 3742,
+        "startDate": "2026-04-15T03:00:00.000Z",
+        "endDate": "2026-04-15T04:19:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69ded95a22cc6f4d5f6a55c0/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ded95a22cc6f4d5f6a55c0/output_720p.mp4",
+            "quality": "720p",
+            "size": 623,
+            "_id": "69df112c6fd144d8d7dc06e8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ded95a22cc6f4d5f6a55c0/output_480p.mp4",
+            "quality": "480p",
+            "size": 422.29,
+            "_id": "69df112c6fd144d8d7dc06e9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ded95a22cc6f4d5f6a55c0/output_360p.mp4",
+            "quality": "360p",
+            "size": 312.18,
+            "_id": "69df112c6fd144d8d7dc06ea"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ded95a22cc6f4d5f6a55c0/output_240p.mp4",
+            "quality": "240p",
+            "size": 255.04,
+            "_id": "69df112c6fd144d8d7dc06eb"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Indus valley civilization BOARD PDF _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Indus valley civilization BOARD PDF _.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "69ded95a22cc6f4d5f6a55c0",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class-04 || Stone Age & IVC Question Practice Varun sir",
+        "description": "\" GS Special- 04,05  & 06 07\r\n Selection Batch -04,05 , 06 , 07\"",
+        "teacherName": "Varun Sir",
+        "duration": 3733,
+        "startDate": "2026-04-17T03:00:00.000Z",
+        "endDate": "2026-04-17T04:13:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69e01a4c22cc6f4d5f726425/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e01a4c22cc6f4d5f726425/output_720p.mp4",
+            "quality": "720p",
+            "size": 616.63,
+            "_id": "69e1b4540e5714413336b23d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e01a4c22cc6f4d5f726425/output_480p.mp4",
+            "quality": "480p",
+            "size": 417.6,
+            "_id": "69e1b4540e5714413336b23e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e01a4c22cc6f4d5f726425/output_360p.mp4",
+            "quality": "360p",
+            "size": 307.64,
+            "_id": "69e1b4540e5714413336b23f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e01a4c22cc6f4d5f726425/output_240p.mp4",
+            "quality": "240p",
+            "size": 246.25,
+            "_id": "69e1b4540e5714413336b240"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Stone age and Ivc Question practice  BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Stone age & Ivc Question practice  BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "69e01a4c22cc6f4d5f726425",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class-05 || Vedic Period Varun sir",
+        "description": "\" GS Special- 04,05  & 06 07\r\n Selection Batch -04,05 , 06 , 07\"",
+        "teacherName": "Varun Sir",
+        "duration": 3276,
+        "startDate": "2026-04-18T03:00:00.000Z",
+        "endDate": "2026-04-18T03:56:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69e2d54622cc6f4d5f88e5fe/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e2d54622cc6f4d5f88e5fe/output_720p.mp4",
+            "quality": "720p",
+            "size": 529.23,
+            "_id": "69e3048001288a19fb4e406b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e2d54622cc6f4d5f88e5fe/output_480p.mp4",
+            "quality": "480p",
+            "size": 358.1,
+            "_id": "69e3048001288a19fb4e406c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e2d54622cc6f4d5f88e5fe/output_360p.mp4",
+            "quality": "360p",
+            "size": 264.02,
+            "_id": "69e3048001288a19fb4e406d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e2d54622cc6f4d5f88e5fe/output_240p.mp4",
+            "quality": "240p",
+            "size": 213.88,
+            "_id": "69e3048001288a19fb4e406e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Vedic Period BOARD PDF __",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Vedic Period BOARD PDF __.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "69e2d54622cc6f4d5f88e5fe",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class-06 || Vedic Period II Varun sir",
+        "description": "\" GS Special- 04,05  & 06 07\r\n Selection Batch -04,05 , 06 , 07\"",
+        "teacherName": "Varun Sir",
+        "duration": 3600,
+        "startDate": "2026-04-20T03:00:00.000Z",
+        "endDate": "2026-04-20T04:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69e5768522cc6f4d5f8c082d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e5768522cc6f4d5f8c082d/output_720p.mp4",
+            "quality": "720p",
+            "size": 597.23,
+            "_id": "69e5a8ced94bc14201ccddad"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e5768522cc6f4d5f8c082d/output_480p.mp4",
+            "quality": "480p",
+            "size": 403.16,
+            "_id": "69e5a8ced94bc14201ccddae"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e5768522cc6f4d5f8c082d/output_360p.mp4",
+            "quality": "360p",
+            "size": 297.13,
+            "_id": "69e5a8ced94bc14201ccddaf"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e5768522cc6f4d5f8c082d/output_240p.mp4",
+            "quality": "240p",
+            "size": 241.32,
+            "_id": "69e5a8ced94bc14201ccddb0"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Vedic Period 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Vedic Period 02 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "69e5768522cc6f4d5f8c082d",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class-07 || Jainism & Buddhism Varun sir",
+        "description": "\" GS Special- 04,05  & 06 07\r\n Selection Batch -04,05 , 06 , 07\"",
+        "teacherName": "Varun Sir",
+        "duration": 4108,
+        "startDate": "2026-04-22T03:00:00.000Z",
+        "endDate": "2026-04-22T04:28:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69e6c81822cc6f4d5f9edaa0/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e6c81822cc6f4d5f9edaa0/output_720p.mp4",
+            "quality": "720p",
+            "size": 683.46,
+            "_id": "69e84e6dd94bc142017e6c9a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e6c81822cc6f4d5f9edaa0/output_480p.mp4",
+            "quality": "480p",
+            "size": 464.42,
+            "_id": "69e84e6dd94bc142017e6c9b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e6c81822cc6f4d5f9edaa0/output_360p.mp4",
+            "quality": "360p",
+            "size": 344.59,
+            "_id": "69e84e6dd94bc142017e6c9c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e6c81822cc6f4d5f9edaa0/output_240p.mp4",
+            "quality": "240p",
+            "size": 295.24,
+            "_id": "69e84e6dd94bc142017e6c9d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Jainism and Buddhism BOARD PDF_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Jainism and Buddhism BOARD PDF_.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "69e6c81822cc6f4d5f9edaa0",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class-08 || Ancient Dynasties I Varun sir",
+        "description": "\" GS Special- 04,05  & 06 07\r\n Selection Batch -04,05 , 06 , 07\"",
+        "teacherName": "Varun Sir",
+        "duration": 4225,
+        "startDate": "2026-04-23T03:00:00.000Z",
+        "endDate": "2026-04-23T03:53:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69e185c722cc6f4d5f7eaa05/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e185c722cc6f4d5f7eaa05/output_720p.mp4",
+            "quality": "720p",
+            "size": 703.78,
+            "_id": "69e9a0a1d94bc1420192e5f4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e185c722cc6f4d5f7eaa05/output_480p.mp4",
+            "quality": "480p",
+            "size": 478.18,
+            "_id": "69e9a0a1d94bc1420192e5f5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e185c722cc6f4d5f7eaa05/output_360p.mp4",
+            "quality": "360p",
+            "size": 354.67,
+            "_id": "69e9a0a1d94bc1420192e5f6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e185c722cc6f4d5f7eaa05/output_240p.mp4",
+            "quality": "240p",
+            "size": 303.48,
+            "_id": "69e9a0a1d94bc1420192e5f7"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Ancient Dynasties BOARD PDF _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Ancient Dynasties BOARD PDF _.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "69e185c722cc6f4d5f7eaa05",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class-09 || Ancient Dynasties II Varun sir",
+        "description": "\" GS Special- 04,05  & 06 07\r\n Selection Batch -04,05 , 06 , 07\"",
+        "teacherName": "Varun Sir",
+        "duration": 3600,
+        "startDate": "2026-04-24T03:00:00.000Z",
+        "endDate": "2026-04-24T04:28:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69eac35d22cc6f4d5fc9e465/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69eac35d22cc6f4d5fc9e465/output_720p.mp4",
+            "quality": "720p",
+            "size": 595.49,
+            "_id": "69eaee852e698841bd1af348"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69eac35d22cc6f4d5fc9e465/output_480p.mp4",
+            "quality": "480p",
+            "size": 402.37,
+            "_id": "69eaee852e698841bd1af349"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69eac35d22cc6f4d5fc9e465/output_360p.mp4",
+            "quality": "360p",
+            "size": 296.3,
+            "_id": "69eaee852e698841bd1af34a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69eac35d22cc6f4d5fc9e465/output_240p.mp4",
+            "quality": "240p",
+            "size": 231.5,
+            "_id": "69eaee852e698841bd1af34b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Ancient Dynasties  02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Ancient Dynasties  02 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "69eac35d22cc6f4d5fc9e465",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class-10 || Ancient Dynasties Question Practice || Varun sir",
+        "description": "\" GS Special- 04,05  & 06 07\r\n Selection Batch -04,05 , 06 , 07\"",
+        "teacherName": "Varun Sir",
+        "duration": 3950,
+        "startDate": "2026-04-28T03:00:00.000Z",
+        "endDate": "2026-04-28T04:08:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69ec1d8422cc6f4d5fde180a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ec1d8422cc6f4d5fde180a/output_720p.mp4",
+            "quality": "720p",
+            "size": 649.14,
+            "_id": "69f0366e58eb8d9db2a70f77"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ec1d8422cc6f4d5fde180a/output_480p.mp4",
+            "quality": "480p",
+            "size": 437.07,
+            "_id": "69f0366e58eb8d9db2a70f78"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ec1d8422cc6f4d5fde180a/output_360p.mp4",
+            "quality": "360p",
+            "size": 319.31,
+            "_id": "69f0366f58eb8d9db2a70f79"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ec1d8422cc6f4d5fde180a/output_240p.mp4",
+            "quality": "240p",
+            "size": 238.94,
+            "_id": "69f0366f58eb8d9db2a70f7a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Quesion  Practice BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Quesion  Practice BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "69ec1d8422cc6f4d5fde180a",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class-11 || Ancient Dynasties III Varun sir",
+        "description": "\" GS Special- 04,05  & 06 07\r\n Selection Batch -04,05 , 06 , 07\"",
+        "teacherName": "Varun Sir",
+        "duration": 3800,
+        "startDate": "2026-04-29T03:00:00.000Z",
+        "endDate": "2026-04-29T04:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69f08b7e22cc6f4d5f0e6189/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f08b7e22cc6f4d5f0e6189/output_720p.mp4",
+            "quality": "720p",
+            "size": 633.03,
+            "_id": "69f186d2a6956332ebd10a20"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f08b7e22cc6f4d5f0e6189/output_480p.mp4",
+            "quality": "480p",
+            "size": 428.84,
+            "_id": "69f186d2a6956332ebd10a21"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f08b7e22cc6f4d5f0e6189/output_360p.mp4",
+            "quality": "360p",
+            "size": 316.88,
+            "_id": "69f186d2a6956332ebd10a22"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f08b7e22cc6f4d5f0e6189/output_240p.mp4",
+            "quality": "240p",
+            "size": 256.74,
+            "_id": "69f186d2a6956332ebd10a23"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Ancient Dynasties  03 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Ancient Dynasties  03 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "69f08b7e22cc6f4d5f0e6189",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class-12 || Ancient Dynasties IV Varun sir",
+        "description": "\" GS Special- 04,05  & 06 07\r\n Selection Batch -04,05 , 06 , 07\"",
+        "teacherName": "Varun Sir",
+        "duration": 2977,
+        "startDate": "2026-04-30T03:00:00.000Z",
+        "endDate": "2026-04-30T04:08:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69f262be22cc6f4d5f43934d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f262be22cc6f4d5f43934d/output_720p.mp4",
+            "quality": "720p",
+            "size": 488.91,
+            "_id": "69f2d4c158eb8d9db2805e71"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f262be22cc6f4d5f43934d/output_480p.mp4",
+            "quality": "480p",
+            "size": 331.74,
+            "_id": "69f2d4c158eb8d9db2805e72"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f262be22cc6f4d5f43934d/output_360p.mp4",
+            "quality": "360p",
+            "size": 245.85,
+            "_id": "69f2d4c158eb8d9db2805e73"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f262be22cc6f4d5f43934d/output_240p.mp4",
+            "quality": "240p",
+            "size": 209.92,
+            "_id": "69f2d4c158eb8d9db2805e74"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Ancient Dynasties  04 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Ancient Dynasties  04 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "69f262be22cc6f4d5f43934d",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class-13 || South Ancient Dynasties Sangam Age I Varun sir",
+        "description": "\" GS Special- 04,05  & 06 07\r\n Selection Batch -04,05 , 06 , 07\"",
+        "teacherName": "Varun Sir",
+        "duration": 4333,
+        "startDate": "2026-05-05T03:00:00.000Z",
+        "endDate": "2026-05-05T04:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69f540c622cc6f4d5f5afa0b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f540c622cc6f4d5f5afa0b/output_720p.mp4",
+            "quality": "720p",
+            "size": 714.67,
+            "_id": "69f9729c0e571441334dd540"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f540c622cc6f4d5f5afa0b/output_480p.mp4",
+            "quality": "480p",
+            "size": 482.37,
+            "_id": "69f9729c0e571441334dd541"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f540c622cc6f4d5f5afa0b/output_360p.mp4",
+            "quality": "360p",
+            "size": 354.62,
+            "_id": "69f9729c0e571441334dd542"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f540c622cc6f4d5f5afa0b/output_240p.mp4",
+            "quality": "240p",
+            "size": 277.35,
+            "_id": "69f9729c0e571441334dd543"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "South Ancient Dynasties 01 Board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1778135992141-Ancient_Dynasties_05_BOARD_PDF_(1).pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "69f540c622cc6f4d5f5afa0b",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class-14 || South Ancient Dynasties Sangam Age II Varun sir",
+        "description": "\" GS Special- 04,05  & 06 07\r\n Selection Batch -04,05 , 06 , 07\"",
+        "teacherName": "Varun Sir",
+        "duration": 4592,
+        "startDate": "2026-05-06T03:00:00.000Z",
+        "endDate": "2026-05-06T04:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69fa37b20e57144133ebe2cd/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fa37b20e57144133ebe2cd/output_720p.mp4",
+            "quality": "720p",
+            "size": 758.58,
+            "_id": "69fac4d16cb00329d9507b20"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fa37b20e57144133ebe2cd/output_480p.mp4",
+            "quality": "480p",
+            "size": 511.88,
+            "_id": "69fac4d16cb00329d9507b21"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fa37b20e57144133ebe2cd/output_360p.mp4",
+            "quality": "360p",
+            "size": 376.14,
+            "_id": "69fac4d16cb00329d9507b22"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fa37b20e57144133ebe2cd/output_240p.mp4",
+            "quality": "240p",
+            "size": 292.75,
+            "_id": "69fac4d16cb00329d9507b23"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "South Ancient Dynasties 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/South Ancient Dynasties 02 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "69fa37b20e57144133ebe2cd",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class-15 || South Ancient Dynasties Sangam Age III Varun sir",
+        "description": "\" GS Special- 04,05  & 06 07\r\n Selection Batch -04,05 , 06 , 07\"",
+        "teacherName": "Varun Sir",
+        "duration": 3617,
+        "startDate": "2026-05-07T03:00:00.000Z",
+        "endDate": "2026-05-07T04:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69fbe021b927c1a84a24a877/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fbe021b927c1a84a24a877/output_720p.mp4",
+            "quality": "720p",
+            "size": 598.46,
+            "_id": "69fc12c26cb00329d956fca0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fbe021b927c1a84a24a877/output_480p.mp4",
+            "quality": "480p",
+            "size": 404.99,
+            "_id": "69fc12c26cb00329d956fca1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fbe021b927c1a84a24a877/output_360p.mp4",
+            "quality": "360p",
+            "size": 298.4,
+            "_id": "69fc12c26cb00329d956fca2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fbe021b927c1a84a24a877/output_240p.mp4",
+            "quality": "240p",
+            "size": 237.87,
+            "_id": "69fc12c26cb00329d956fca3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "South Ancient Dynasties 03 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/South Ancient Dynasties 03 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "69fbe021b927c1a84a24a877",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class-16 || Ancient Dynasties & Question Practice Varun sir",
+        "description": "\" GS Special- 04,05  & 06 07\r\n Selection Batch -04,05 , 06 , 07\"",
+        "teacherName": "Varun Sir",
+        "duration": 3633,
+        "startDate": "2026-05-08T03:00:00.000Z",
+        "endDate": "2026-05-08T03:56:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69fd24adb927c1a84a2befc4/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fd24adb927c1a84a2befc4/output_720p.mp4",
+            "quality": "720p",
+            "size": 597.74,
+            "_id": "69fd64b38cdaf74a6217243b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fd24adb927c1a84a2befc4/output_480p.mp4",
+            "quality": "480p",
+            "size": 403.57,
+            "_id": "69fd64b38cdaf74a6217243c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fd24adb927c1a84a2befc4/output_360p.mp4",
+            "quality": "360p",
+            "size": 296.22,
+            "_id": "69fd64b38cdaf74a6217243d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fd24adb927c1a84a2befc4/output_240p.mp4",
+            "quality": "240p",
+            "size": 230.2,
+            "_id": "69fd64b38cdaf74a6217243e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "South Ancient Question BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/South Ancient Question BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "69fd24adb927c1a84a2befc4",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class-17 || Rise of Islam Varun sir",
+        "description": "\" GS Special- 04,05  & 06 07\r\n Selection Batch -04,05 , 06 , 07\"",
+        "teacherName": "Varun Sir",
+        "duration": 4147,
+        "startDate": "2026-05-09T03:00:00.000Z",
+        "endDate": "2026-05-09T04:22:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69fe6e71b927c1a84a35bd68/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fe6e71b927c1a84a35bd68/output_720p.mp4",
+            "quality": "720p",
+            "size": 690.73,
+            "_id": "69feb83f46090660bf94ec51"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fe6e71b927c1a84a35bd68/output_480p.mp4",
+            "quality": "480p",
+            "size": 468.03,
+            "_id": "69feb83f46090660bf94ec52"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fe6e71b927c1a84a35bd68/output_360p.mp4",
+            "quality": "360p",
+            "size": 345.78,
+            "_id": "69feb83f46090660bf94ec53"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fe6e71b927c1a84a35bd68/output_240p.mp4",
+            "quality": "240p",
+            "size": 275.96,
+            "_id": "69feb83f46090660bf94ec54"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Rise of Islam BOARD PDF _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Rise of Islam BOARD PDF _.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "69fe6e71b927c1a84a35bd68",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class-18 || Turkish & Arabic Invaders I Varun sir",
+        "description": "\" GS Special- 04,05  & 06 07\r\n Selection Batch -04,05 , 06 , 07\"",
+        "teacherName": "Varun sir",
+        "duration": 3334,
+        "startDate": "2026-05-11T03:00:00.000Z",
+        "endDate": "2026-05-11T04:23:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a00e60bb927c1a84a407ae8/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a00e60bb927c1a84a407ae8/output_720p.mp4",
+            "quality": "720p",
+            "size": 551.27,
+            "_id": "6a01562c959355063ed095f8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a00e60bb927c1a84a407ae8/output_480p.mp4",
+            "quality": "480p",
+            "size": 373.08,
+            "_id": "6a01562c959355063ed095f9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a00e60bb927c1a84a407ae8/output_360p.mp4",
+            "quality": "360p",
+            "size": 274.93,
+            "_id": "6a01562c959355063ed095fa"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a00e60bb927c1a84a407ae8/output_240p.mp4",
+            "quality": "240p",
+            "size": 218.47,
+            "_id": "6a01562c959355063ed095fb"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Turkish and Arabic BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Turkish and Arabic BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "6a00e60bb927c1a84a407ae8",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class-19 || Turkish & Arabic Invaders II Varun sir",
+        "description": "\" GS Special- 04,05  & 06 07\r\n Selection Batch -04,05 , 06 , 07\"",
+        "teacherName": "Varun Sir",
+        "duration": 2929,
+        "startDate": "2026-05-12T03:00:00.000Z",
+        "endDate": "2026-05-12T04:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a01a46bb927c1a84a4bd8dd/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a01a46bb927c1a84a4bd8dd/output_720p.mp4",
+            "quality": "720p",
+            "size": 431.57,
+            "_id": "6a02a64acf3592796b6e24a7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a01a46bb927c1a84a4bd8dd/output_480p.mp4",
+            "quality": "480p",
+            "size": 289.42,
+            "_id": "6a02a64acf3592796b6e24a8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a01a46bb927c1a84a4bd8dd/output_360p.mp4",
+            "quality": "360p",
+            "size": 210.25,
+            "_id": "6a02a64acf3592796b6e24a9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a01a46bb927c1a84a4bd8dd/output_240p.mp4",
+            "quality": "240p",
+            "size": 157.91,
+            "_id": "6a02a64acf3592796b6e24aa"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Turkish and Arab 02  BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Turkish and Arab 02  BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "6a01a46bb927c1a84a4bd8dd",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class-20 || Turkish & Arabic Invaders III Varun sir",
+        "description": "\" GS Special- 04,05  & 06 07\r\n Selection Batch -04,05 , 06 , 07\"",
+        "teacherName": "Varun Sir",
+        "duration": 3628,
+        "startDate": "2026-05-14T03:00:00.000Z",
+        "endDate": "2026-05-14T04:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a03c0ebb927c1a84a684e69/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a03c0ebb927c1a84a684e69/output_720p.mp4",
+            "quality": "720p",
+            "size": 597.5,
+            "_id": "6a06b2cb2fb11261ab547245"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a03c0ebb927c1a84a684e69/output_480p.mp4",
+            "quality": "480p",
+            "size": 403.64,
+            "_id": "6a06b2cb2fb11261ab547246"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a03c0ebb927c1a84a684e69/output_360p.mp4",
+            "quality": "360p",
+            "size": 297.52,
+            "_id": "6a06b2cb2fb11261ab547247"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a03c0ebb927c1a84a684e69/output_240p.mp4",
+            "quality": "240p",
+            "size": 229.31,
+            "_id": "6a06b2cb2fb11261ab547248"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Turkish and Arabic 03 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Turkish and Arabic 03 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "6a03c0ebb927c1a84a684e69",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class-21 || Turkish & Arabic Invaders IV Varun sir",
+        "description": "\" GS Special- 04,05  & 06 07\r\n Selection Batch -04,05 , 06 , 07\"",
+        "teacherName": "Varun Sir",
+        "duration": 3974,
+        "startDate": "2026-05-15T03:00:00.000Z",
+        "endDate": "2026-05-15T04:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a059e24b927c1a84a82123a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a059e24b927c1a84a82123a/output_720p.mp4",
+            "quality": "720p",
+            "size": 645.89,
+            "_id": "6a06a0abc6640e0105daaf19"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a059e24b927c1a84a82123a/output_480p.mp4",
+            "quality": "480p",
+            "size": 437.49,
+            "_id": "6a06a0abc6640e0105daaf1a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a059e24b927c1a84a82123a/output_360p.mp4",
+            "quality": "360p",
+            "size": 323.26,
+            "_id": "6a06a0abc6640e0105daaf1b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a059e24b927c1a84a82123a/output_240p.mp4",
+            "quality": "240p",
+            "size": 268.77,
+            "_id": "6a06a0abc6640e0105daaf1c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Turkish and Arabic 04 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Turkish and Arabic 04 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "6a059e24b927c1a84a82123a",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class-22 || Delhi Sultanate I Varun sir",
+        "description": "\" GS Special- 04,05  & 06 07\r\n Selection Batch -04,05 , 06 , 07\"",
+        "teacherName": "Varun Sir",
+        "duration": 3432,
+        "startDate": "2026-05-18T11:30:00.000Z",
+        "endDate": "2026-05-18T12:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a085283b927c1a84aabc495/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a085283b927c1a84aabc495/output_720p.mp4",
+            "quality": "720p",
+            "size": 532.96,
+            "_id": "6a0c65d92b0b74c5b8f3afd3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a085283b927c1a84aabc495/output_480p.mp4",
+            "quality": "480p",
+            "size": 367.58,
+            "_id": "6a0c65d92b0b74c5b8f3afd4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a085283b927c1a84aabc495/output_360p.mp4",
+            "quality": "360p",
+            "size": 263.86,
+            "_id": "6a0c65d92b0b74c5b8f3afd5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a085283b927c1a84aabc495/output_240p.mp4",
+            "quality": "240p",
+            "size": 198.58,
+            "_id": "6a0c65d92b0b74c5b8f3afd6"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Delhi Sultanate BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Delhi Sultanate BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "6a085283b927c1a84aabc495",
+          "topicId": "68eb799d86770365f3626fa5",
+          "rawRecordIndex": 22
+        }
+      }
+    ],
+    "POLITY": [
+      {
+        "title": "Class - 01 | Making of the Indian Constitution | By Varun Sir",
+        "description": "gs 678",
+        "teacherName": "Varun Sir",
+        "duration": 5211.822,
+        "startDate": "2026-05-12T06:00:00.000Z",
+        "endDate": "2026-05-12T07:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a0310d5b927c1a84a635f65/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a0310d5b927c1a84a635f65/mp4/0513_1__240p.mp4",
+            "quality": "240p",
+            "size": 393.71,
+            "_id": "6a04701d0c214c6c983faf77"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a0310d5b927c1a84a635f65/mp4/0513_1__360p.mp4",
+            "quality": "360p",
+            "size": 454.65,
+            "_id": "6a04701d0c214c6c983faf78"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a0310d5b927c1a84a635f65/mp4/0513_1__480p.mp4",
+            "quality": "480p",
+            "size": 607.47,
+            "_id": "6a04701d0c214c6c983faf79"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a0310d5b927c1a84a635f65/mp4/0513_1__720p.mp4",
+            "quality": "720p",
+            "size": 887.8,
+            "_id": "6a04701d0c214c6c983faf7a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Making of Indian Constitution_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Making of Indian Constitution_.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "6a0310d5b927c1a84a635f65",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class - 02 | Constitutional Commetties & Question Practice | By Varun Sir",
+        "description": "\" GS Special- 06, 07, 08\r\n Selection Batch - 06, 07, 08\"\r\nClass - 02 | Making of the Indian Constitution | By Varun Sir",
+        "teacherName": "Varun Sir",
+        "duration": 3808,
+        "startDate": "2026-05-14T09:00:00.000Z",
+        "endDate": "2026-05-14T10:07:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a04144f7a4dacd4b4b1e36d/playlist.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a04144f7a4dacd4b4b1e36d/output_720p.mp4",
+            "quality": "720p",
+            "size": 616.08,
+            "_id": "6a05a4b41e37ad5924b5d1fc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a04144f7a4dacd4b4b1e36d/output_480p.mp4",
+            "quality": "480p",
+            "size": 416.06,
+            "_id": "6a05a4b41e37ad5924b5d1fd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a04144f7a4dacd4b4b1e36d/output_360p.mp4",
+            "quality": "360p",
+            "size": 305.92,
+            "_id": "6a05a4b41e37ad5924b5d1fe"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a04144f7a4dacd4b4b1e36d/output_240p.mp4",
+            "quality": "240p",
+            "size": 244.46,
+            "_id": "6a05a4b41e37ad5924b5d1ff"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Constitutional Commetties Question BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Constitutional Commetties Question BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "6a04144f7a4dacd4b4b1e36d",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class - 03 | Preamble & Union | By Varun Sir",
+        "description": "\" GS Special- 06, 07, 08\r\n Selection Batch - 06, 07, 08\"",
+        "teacherName": "Varun Sir",
+        "duration": 4485,
+        "startDate": "2026-05-18T09:00:00.000Z",
+        "endDate": "2026-05-18T10:23:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a06e524b927c1a84a9112a8/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a06e524b927c1a84a9112a8/output_720p.mp4",
+            "quality": "720p",
+            "size": 696.4,
+            "_id": "6a0aeb444e9f5ae1bdf8d42a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a06e524b927c1a84a9112a8/output_480p.mp4",
+            "quality": "480p",
+            "size": 482.18,
+            "_id": "6a0aeb444e9f5ae1bdf8d42b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a06e524b927c1a84a9112a8/output_360p.mp4",
+            "quality": "360p",
+            "size": 346.02,
+            "_id": "6a0aeb444e9f5ae1bdf8d42c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a06e524b927c1a84a9112a8/output_240p.mp4",
+            "quality": "240p",
+            "size": 264.07,
+            "_id": "6a0aeb444e9f5ae1bdf8d42d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Preamble and Union BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Preamble and Union BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "6a06e524b927c1a84a9112a8",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 22
+        }
+      }
+    ],
+    "Information": [
+      {
+        "title": "Important information by Varun sir",
+        "description": "",
+        "teacherName": "Varun Sir",
+        "duration": 96.549,
+        "startDate": "2026-05-19T05:26:00.000Z",
+        "endDate": "2026-05-19T05:26:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a0bf45be9080d789d1164cb/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a0bf45be9080d789d1164cb/mp4/0519_240p.mp4",
+            "quality": "240p",
+            "size": 7.26,
+            "_id": "6a0bfbbf2fb11261ab4a59a1"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a0bf45be9080d789d1164cb/mp4/0519_360p.mp4",
+            "quality": "360p",
+            "size": 8.43,
+            "_id": "6a0bfbbf2fb11261ab4a59a2"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a0bf45be9080d789d1164cb/mp4/0519_480p.mp4",
+            "quality": "480p",
+            "size": 11.26,
+            "_id": "6a0bfbbf2fb11261ab4a59a3"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a0bf45be9080d789d1164cb/mp4/0519_720p.mp4",
+            "quality": "720p",
+            "size": 16.49,
+            "_id": "6a0bfbbf2fb11261ab4a59a4"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "6a0bf45be9080d789d1164cb",
+          "topicId": "695b6b972feca20f81c0c005",
+          "rawRecordIndex": 22
+        }
+      }
+    ]
+  }
+}

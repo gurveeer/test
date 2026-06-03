@@ -1,0 +1,26 @@
+{
+  "courseName": "UP Lekhpal Special",
+  "extractedAt": "2026-05-22T09:49:10+0530",
+  "videos": {
+    "Introduction": [
+      {
+        "title": "UP Lekhpal Batch intoduction",
+        "description": "UP Lekhpal Batch intoduction",
+        "teacherName": "Gagan sir",
+        "duration": 0,
+        "startDate": "2025-12-16T14:58:29.825Z",
+        "endDate": "2025-12-16T15:14:29.825Z",
+        "isFree": true,
+        "videoUrl": "https://www.youtube.com/watch?v=FqsmvzQ2v1M",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "69416bb56385517afa46f6fe",
+          "classId": "6941725c6385517afa7b8676",
+          "topicId": "68df3538c181958facf1e512",
+          "rawRecordIndex": 40
+        }
+      }
+    ]
+  }
+}

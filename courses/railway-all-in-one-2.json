@@ -1,0 +1,89 @@
+{
+  "courseName": "Railway all in one - 2",
+  "extractedAt": "2026-05-22T09:49:10+0530",
+  "videos": {
+    "Algebra": [
+      {
+        "title": "ALGEBRA Class 04 |Advance Maths for RAILWAY EXAMS 2025 | Concepts & Practice |Gagan Pratap Sir #ntpc",
+        "description": "ALGEBRA Class 04 |Advance Maths for RAILWAY EXAMS 2025 | Concepts & Practice |Gagan Pratap Sir #ntpc",
+        "teacherName": "gagan pratap",
+        "duration": 0,
+        "startDate": "2025-09-13T05:46:28.447Z",
+        "endDate": "2026-09-13T05:46:28.447Z",
+        "isFree": false,
+        "videoUrl": "https://www.youtube.com/watch?v=5Mg4O7Mi9TQ",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "68a6be03a741c9fd7187fca3",
+          "classId": "68bc69eba721af475c9ad5f2",
+          "topicId": "683def9c2f4523ef6c8b18a6",
+          "rawRecordIndex": 8
+        }
+      },
+      {
+        "title": "Algebra Class 02 | Advance Maths for RAILWAY EXAMS 2025 | Concepts & Practice | Gagan Pratap Sir",
+        "description": "Algebra Class 02 | Advance Maths for RAILWAY EXAMS 2025 | Concepts & Practice | Gagan Pratap Sir",
+        "teacherName": "gagan pratap",
+        "duration": 0,
+        "startDate": "2025-09-13T05:46:30.663Z",
+        "endDate": "2026-09-13T05:46:30.663Z",
+        "isFree": false,
+        "videoUrl": "https://www.youtube.com/watch?v=tWD_3tQzGHU",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "68a6be03a741c9fd7187fca3",
+          "classId": "68bc68cfa721af475c9ad56c",
+          "topicId": "683def9c2f4523ef6c8b18a6",
+          "rawRecordIndex": 8
+        }
+      }
+    ],
+    "maths-misc": [
+      {
+        "title": "testing 0226",
+        "description": "",
+        "teacherName": "test",
+        "duration": 33.045,
+        "startDate": "2026-03-10T19:50:19.129Z",
+        "endDate": "2026-03-10T20:50:19.129Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69ae7883a4d6171aacaa5026/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ae7883a4d6171aacaa5026/mp4/v5_240p.mp4",
+            "quality": "240p",
+            "size": 2.01,
+            "_id": "69b14acf35cf129ebd7130ce"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ae7883a4d6171aacaa5026/mp4/v5_360p.mp4",
+            "quality": "360p",
+            "size": 2.4,
+            "_id": "69b14acf35cf129ebd7130cf"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ae7883a4d6171aacaa5026/mp4/v5_480p.mp4",
+            "quality": "480p",
+            "size": 3.36,
+            "_id": "69b14acf35cf129ebd7130d0"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ae7883a4d6171aacaa5026/mp4/v5_720p.mp4",
+            "quality": "720p",
+            "size": 5.14,
+            "_id": "69b14acf35cf129ebd7130d1"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "68a6be03a741c9fd7187fca3",
+          "classId": "69ae7883a4d6171aacaa5026",
+          "topicId": "69b074fb9d14466cd098087b",
+          "rawRecordIndex": 8
+        }
+      }
+    ]
+  }
+}

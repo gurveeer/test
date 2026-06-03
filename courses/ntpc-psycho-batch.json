@@ -1,0 +1,592 @@
+{
+  "courseName": "NTPC PSYCHO BATCH",
+  "extractedAt": "2026-05-22T09:49:10+0530",
+  "videos": {
+    "Introduction": [
+      {
+        "title": "NTPC PSYCHO batch intro by deepak sir",
+        "description": "NTPC PSYCHO batch intro by deepak sir",
+        "teacherName": "deepak sir",
+        "duration": 0,
+        "startDate": "2025-12-15T14:35:15.709Z",
+        "endDate": "2025-12-15T15:35:15.709Z",
+        "isFree": false,
+        "videoUrl": "https://www.youtube.com/watch?v=MxZ2tW8FwyI",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "693ff2801f7d472f7eeac163",
+          "classId": "69401c33f7b70fe97439e227",
+          "topicId": "68df3538c181958facf1e512",
+          "rawRecordIndex": 87
+        }
+      }
+    ],
+    "PSYCHO ": [
+      {
+        "title": "Class - 01 || Intelligence Test / Classification Test-01 || by Deepak Sir",
+        "description": "Class - 01 || Intelligence Test / Classification Test-01 || by Deepak Sir",
+        "teacherName": "Deepak sir",
+        "duration": 0,
+        "startDate": "2025-12-16T09:30:47.206Z",
+        "endDate": "2025-12-16T10:30:47.206Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6940f1cc6385517afa4fa1ee/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6940f1cc6385517afa4fa1ee/output_720p.mp4",
+            "quality": "720p",
+            "size": 541.31,
+            "_id": "6941528a6385517afa8ca249"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6940f1cc6385517afa4fa1ee/output_480p.mp4",
+            "quality": "480p",
+            "size": 341.09,
+            "_id": "6941528a6385517afa8ca24a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6940f1cc6385517afa4fa1ee/output_360p.mp4",
+            "quality": "360p",
+            "size": 296.37,
+            "_id": "6941528a6385517afa8ca24b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6940f1cc6385517afa4fa1ee/output_240p.mp4",
+            "quality": "240p",
+            "size": 229.66,
+            "_id": "6941528a6385517afa8ca24c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "NTPC Psycho Test Intelligence Test 01",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/NTPC Psycho Test Intelligence Test 01.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "693ff2801f7d472f7eeac163",
+          "classId": "6940f1cc6385517afa4fa1ee",
+          "topicId": "694042256385517afa24852d",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 02 || Intelligence Test-02 || by Deepak Sir",
+        "description": "Class - 02 || Intelligence Test-02 || by Deepak Sir",
+        "teacherName": "Deepak sir",
+        "duration": 0,
+        "startDate": "2025-12-17T09:30:00.000Z",
+        "endDate": "2025-12-17T10:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/694183246385517afaf5f92f/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694183246385517afaf5f92f/output_720p.mp4",
+            "quality": "720p",
+            "size": 390.15,
+            "_id": "694289166385517afae7397c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694183246385517afaf5f92f/output_480p.mp4",
+            "quality": "480p",
+            "size": 246.08,
+            "_id": "694289166385517afae7397d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694183246385517afaf5f92f/output_360p.mp4",
+            "quality": "360p",
+            "size": 213.93,
+            "_id": "694289166385517afae7397e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694183246385517afaf5f92f/output_240p.mp4",
+            "quality": "240p",
+            "size": 165.85,
+            "_id": "694289166385517afae7397f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "NTPC Psycho Test Intelligence Test 02",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/NTPC Psycho Test Intelligence Test 02.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "693ff2801f7d472f7eeac163",
+          "classId": "694183246385517afaf5f92f",
+          "topicId": "694042256385517afa24852d",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 03 || Selective Attention Test (Sum of Odd No.)-01 || by Deepak Sir",
+        "description": "Class - 03 || Selective Attention Test (Sum of Odd No.)-01 || by Deepak Sir",
+        "teacherName": "Deepak sir",
+        "duration": 2005.8,
+        "startDate": "2025-12-19T11:38:00.000Z",
+        "endDate": "2025-12-19T12:38:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69429edd6385517afa92a2e0/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69429edd6385517afa92a2e0/mp4/2025_12_19_15_19_29_360p.mp4",
+            "quality": "360p",
+            "size": 89.09,
+            "_id": "694545e46385517afa1040bc"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69429edd6385517afa92a2e0/mp4/2025_12_19_15_19_29_480p.mp4",
+            "quality": "480p",
+            "size": 120.37,
+            "_id": "694545e46385517afa1040bd"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69429edd6385517afa92a2e0/mp4/2025_12_19_15_19_29_720p.mp4",
+            "quality": "720p",
+            "size": 201.93,
+            "_id": "694545e46385517afa1040be"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Selective Attention Test-1 Sum of Odd No 01",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Selective Attention Test-1 Sum of Odd No 01.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "693ff2801f7d472f7eeac163",
+          "classId": "69429edd6385517afa92a2e0",
+          "topicId": "694042256385517afa24852d",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 04 || Selective Attention Test(Counting of Odd No.)-02 || by Deepak Sir",
+        "description": "Class - 04 || Selective Attention Test(Counting of Odd No.)-02 || by Deepak Sir",
+        "teacherName": "deepak sir",
+        "duration": 1443.433333,
+        "startDate": "2025-12-19T11:39:00.000Z",
+        "endDate": "2025-12-19T12:39:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6944f9676385517afa66a6df/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6944f9676385517afa66a6df/mp4/2025_12_19_16_08_48_360p.mp4",
+            "quality": "360p",
+            "size": 60.03,
+            "_id": "694544a96385517afa045809"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6944f9676385517afa66a6df/mp4/2025_12_19_16_08_48_480p.mp4",
+            "quality": "480p",
+            "size": 80.44,
+            "_id": "694544a96385517afa04580a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6944f9676385517afa66a6df/mp4/2025_12_19_16_08_48_720p.mp4",
+            "quality": "720p",
+            "size": 135.32,
+            "_id": "694544a96385517afa04580b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Selective Attention Test Counting of Odd Numbers 02",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Selective Attention Test Counting of Odd Numbers 02.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "693ff2801f7d472f7eeac163",
+          "classId": "6944f9676385517afa66a6df",
+          "topicId": "694042256385517afa24852d",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 05 || Spatial Scanning Test || by Deepak Sir",
+        "description": "Class - 05 || Spatial Scanning Test || by Deepak Sir",
+        "teacherName": "Deepak sir",
+        "duration": 2975.4,
+        "startDate": "2025-12-20T10:12:12.318Z",
+        "endDate": "2025-12-20T10:12:12.318Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69466af2fd4713c9e347d272/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69466af2fd4713c9e347d272/mp4/deepak_sir_20_dec_psycho_3pm_class_360p.mp4",
+            "quality": "360p",
+            "size": 145.18,
+            "_id": "694681c4fd4713c9e3f4afb8"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69466af2fd4713c9e347d272/mp4/deepak_sir_20_dec_psycho_3pm_class_480p.mp4",
+            "quality": "480p",
+            "size": 193.57,
+            "_id": "694681c4fd4713c9e3f4afb9"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69466af2fd4713c9e347d272/mp4/deepak_sir_20_dec_psycho_3pm_class_720p.mp4",
+            "quality": "720p",
+            "size": 322.53,
+            "_id": "694681c4fd4713c9e3f4afba"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Spacial Scanning Test pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Spacial Scanning Test pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "693ff2801f7d472f7eeac163",
+          "classId": "69466af2fd4713c9e347d272",
+          "topicId": "694042256385517afa24852d",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 06 || Information Ordering Test-01 || by Deepak Sir",
+        "description": "",
+        "teacherName": "Deepak sir",
+        "duration": 0,
+        "startDate": "2025-12-21T09:40:48.438Z",
+        "endDate": "2025-12-21T10:40:48.438Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6947bfba7610406230d8c588/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6947bfba7610406230d8c588/output_720p.mp4",
+            "quality": "720p",
+            "size": 441.72,
+            "_id": "6947d0966bcc97e09e7e2f13"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6947bfba7610406230d8c588/output_480p.mp4",
+            "quality": "480p",
+            "size": 279.59,
+            "_id": "6947d0966bcc97e09e7e2f14"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6947bfba7610406230d8c588/output_360p.mp4",
+            "quality": "360p",
+            "size": 243.4,
+            "_id": "6947d0966bcc97e09e7e2f15"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6947bfba7610406230d8c588/output_240p.mp4",
+            "quality": "240p",
+            "size": 189.58,
+            "_id": "6947d0966bcc97e09e7e2f16"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Information Ordering Test Section-04",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1766316206253-Information_Ordering_Test_Section-04.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "693ff2801f7d472f7eeac163",
+          "classId": "6947bfba7610406230d8c588",
+          "topicId": "694042256385517afa24852d",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 07 || Personality Test-01 || by Deepak Sir",
+        "description": "Class - 07 || Personality Test-01 || by Deepak Sir",
+        "teacherName": "Deepak sir",
+        "duration": 0,
+        "startDate": "2025-12-22T09:30:00.000Z",
+        "endDate": "2025-12-22T10:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6947ec767610406230d95ede/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6947ec767610406230d95ede/output_720p.mp4",
+            "quality": "720p",
+            "size": 589.98,
+            "_id": "69492651b38db8674b65b1af"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6947ec767610406230d95ede/output_480p.mp4",
+            "quality": "480p",
+            "size": 372.85,
+            "_id": "69492651b38db8674b65b1b0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6947ec767610406230d95ede/output_360p.mp4",
+            "quality": "360p",
+            "size": 324.24,
+            "_id": "69492651b38db8674b65b1b1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6947ec767610406230d95ede/output_240p.mp4",
+            "quality": "240p",
+            "size": 252.54,
+            "_id": "69492651b38db8674b65b1b2"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Personality Test By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Personality Test By Deepak Sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "693ff2801f7d472f7eeac163",
+          "classId": "6947ec767610406230d95ede",
+          "topicId": "694042256385517afa24852d",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 08 || Personality Test-02 || by Deepak Sir",
+        "description": "Class - 08 || Personality Test-02 || by Deepak Sir",
+        "teacherName": "Deepak sir",
+        "duration": 0,
+        "startDate": "2025-12-23T09:30:00.000Z",
+        "endDate": "2025-12-23T10:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/694976a5b38db8674bab5b1a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694976a5b38db8674bab5b1a/output_720p.mp4",
+            "quality": "720p",
+            "size": 477.92,
+            "_id": "694a75a8b38db8674b91a700"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694976a5b38db8674bab5b1a/output_480p.mp4",
+            "quality": "480p",
+            "size": 301.61,
+            "_id": "694a75a8b38db8674b91a701"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694976a5b38db8674bab5b1a/output_360p.mp4",
+            "quality": "360p",
+            "size": 261.68,
+            "_id": "694a75a8b38db8674b91a702"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694976a5b38db8674bab5b1a/output_240p.mp4",
+            "quality": "240p",
+            "size": 203.8,
+            "_id": "694a75a8b38db8674b91a703"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Personality Test 02",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Personality Test 02.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "693ff2801f7d472f7eeac163",
+          "classId": "694976a5b38db8674bab5b1a",
+          "topicId": "694042256385517afa24852d",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 09 || Practice Test with Tips-1 || by Deepak Sir",
+        "description": "Class - 09 || Practice Test with Tips-1 || by Deepak Sir",
+        "teacherName": "Deepak sir",
+        "duration": 0,
+        "startDate": "2025-12-24T09:30:00.000Z",
+        "endDate": "2025-12-24T10:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/694a8b3ab38db8674b7be6a3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694a8b3ab38db8674b7be6a3/output_720p.mp4",
+            "quality": "720p",
+            "size": 312.71,
+            "_id": "694bc012faec4ba165da5bc9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694a8b3ab38db8674b7be6a3/output_480p.mp4",
+            "quality": "480p",
+            "size": 194.26,
+            "_id": "694bc012faec4ba165da5bca"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694a8b3ab38db8674b7be6a3/output_360p.mp4",
+            "quality": "360p",
+            "size": 167.98,
+            "_id": "694bc012faec4ba165da5bcb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694a8b3ab38db8674b7be6a3/output_240p.mp4",
+            "quality": "240p",
+            "size": 128.73,
+            "_id": "694bc012faec4ba165da5bcc"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Practice Set 01 ",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Practice Set-01 (Section-1).pdf"
+          }
+        ],
+        "source": {
+          "courseId": "693ff2801f7d472f7eeac163",
+          "classId": "694a8b3ab38db8674b7be6a3",
+          "topicId": "694042256385517afa24852d",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 10 || Practice Test with Tips-2 || by Deepak Sir",
+        "description": "Class - 10 || Practice Test with Tips-2 || by Deepak Sir",
+        "teacherName": "Deepak sir",
+        "duration": 4474.121995,
+        "startDate": "2025-12-25T09:30:00.000Z",
+        "endDate": "2025-12-25T10:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/694bb67bfaec4ba1656a5b34/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/694bb67bfaec4ba1656a5b34/mp4/1225_360p.mp4",
+            "quality": "360p",
+            "size": 201.52,
+            "_id": "694e9b3eb54cadeb61c8542c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/694bb67bfaec4ba1656a5b34/mp4/1225_480p.mp4",
+            "quality": "480p",
+            "size": 292.44,
+            "_id": "694e9b3eb54cadeb61c8542d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/694bb67bfaec4ba1656a5b34/mp4/1225_720p.mp4",
+            "quality": "720p",
+            "size": 596.16,
+            "_id": "694e9b3eb54cadeb61c8542e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Practice Set 02 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Practice Set-02 (Section-02 & Section-03).pdf"
+          }
+        ],
+        "source": {
+          "courseId": "693ff2801f7d472f7eeac163",
+          "classId": "694bb67bfaec4ba1656a5b34",
+          "topicId": "694042256385517afa24852d",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 11 || Practice Test with Tips-3 || by Deepak Sir",
+        "description": "Class - 11 || Practice Test with Tips-3 || by Deepak Sir",
+        "teacherName": "Deepak sir",
+        "duration": 0,
+        "startDate": "2025-12-26T09:30:00.000Z",
+        "endDate": "2025-12-26T10:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/694d18dab54cadeb616fd979/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694d18dab54cadeb616fd979/output_720p.mp4",
+            "quality": "720p",
+            "size": 24.33,
+            "_id": "694e6149b54cadeb61ee8dae"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694d18dab54cadeb616fd979/output_480p.mp4",
+            "quality": "480p",
+            "size": 24.33,
+            "_id": "694e6149b54cadeb61ee8daf"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694d18dab54cadeb616fd979/output_360p.mp4",
+            "quality": "360p",
+            "size": 24.33,
+            "_id": "694e6149b54cadeb61ee8db0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694d18dab54cadeb616fd979/output_240p.mp4",
+            "quality": "240p",
+            "size": 24.33,
+            "_id": "694e6149b54cadeb61ee8db1"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Practice Set 03 By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Practice Set-03 (Section-03) By Deepak Sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "693ff2801f7d472f7eeac163",
+          "classId": "694d18dab54cadeb616fd979",
+          "topicId": "694042256385517afa24852d",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 12 || Practice Test with Tips-4 || by Deepak Sir",
+        "description": "Class - 12 || Practice Test with Tips-4 || by Deepak Sir",
+        "teacherName": "Deepak sir",
+        "duration": 0,
+        "startDate": "2025-12-27T09:30:00.000Z",
+        "endDate": "2025-12-27T10:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/694e98362feca20f818b56e4/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694e98362feca20f818b56e4/output_720p.mp4",
+            "quality": "720p",
+            "size": 280.39,
+            "_id": "694fbaa3b54cadeb61c5b9e3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694e98362feca20f818b56e4/output_480p.mp4",
+            "quality": "480p",
+            "size": 176.88,
+            "_id": "694fbaa3b54cadeb61c5b9e4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694e98362feca20f818b56e4/output_360p.mp4",
+            "quality": "360p",
+            "size": 153.68,
+            "_id": "694fbaa3b54cadeb61c5b9e5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694e98362feca20f818b56e4/output_240p.mp4",
+            "quality": "240p",
+            "size": 119.45,
+            "_id": "694fbaa3b54cadeb61c5b9e6"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Practice Set 04 (Personality Test Section 05)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Practice Set-04 (Personality Test Section-05).pdf"
+          }
+        ],
+        "source": {
+          "courseId": "693ff2801f7d472f7eeac163",
+          "classId": "694e98362feca20f818b56e4",
+          "topicId": "694042256385517afa24852d",
+          "rawRecordIndex": 87
+        }
+      }
+    ]
+  }
+}
