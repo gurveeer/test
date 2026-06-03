@@ -1,6 +1,6 @@
 {
   "courseName": "GS Special -8",
-  "extractedAt": "2026-05-22T09:49:10+0530",
+  "extractedAt": "2026-06-03T22:30:55+0530",
   "videos": {
     "POLITY": [
       {
@@ -49,7 +49,7 @@
           "courseId": "69f990e6b927c1a84afcbff2",
           "classId": "6a0310d5b927c1a84a635f65",
           "topicId": "68e329ef48aa5900adba437b",
-          "rawRecordIndex": 30
+          "rawRecordIndex": 36
         }
       },
       {
@@ -98,7 +98,7 @@
           "courseId": "69f990e6b927c1a84afcbff2",
           "classId": "6a04144f7a4dacd4b4b1e36d",
           "topicId": "68e329ef48aa5900adba437b",
-          "rawRecordIndex": 30
+          "rawRecordIndex": 36
         }
       },
       {
@@ -147,7 +147,154 @@
           "courseId": "69f990e6b927c1a84afcbff2",
           "classId": "6a06e524b927c1a84a9112a8",
           "topicId": "68e329ef48aa5900adba437b",
-          "rawRecordIndex": 30
+          "rawRecordIndex": 36
+        }
+      },
+      {
+        "title": "Class - 04 | Citizenship | By Varun Sir",
+        "description": "\" GS Special- 06, 07, 08\r\n Selection Batch - 06, 07, 08\"",
+        "teacherName": "Varun Sir",
+        "duration": 3688,
+        "startDate": "2026-05-29T09:00:00.000Z",
+        "endDate": "2026-05-29T10:17:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a18f100b927c1a84a6f43b9/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a18f100b927c1a84a6f43b9/output_720p.mp4",
+            "quality": "720p",
+            "size": 571.38,
+            "_id": "6a1978f6e0181e2f58debf87"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a18f100b927c1a84a6f43b9/output_480p.mp4",
+            "quality": "480p",
+            "size": 395.8,
+            "_id": "6a1978f6e0181e2f58debf88"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a18f100b927c1a84a6f43b9/output_360p.mp4",
+            "quality": "360p",
+            "size": 284.51,
+            "_id": "6a1978f6e0181e2f58debf89"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a18f100b927c1a84a6f43b9/output_240p.mp4",
+            "quality": "240p",
+            "size": 220.38,
+            "_id": "6a1978f6e0181e2f58debf8a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Citizenship & Fundamental  BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Citizenship & Fundamental  BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a18f100b927c1a84a6f43b9",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 36
+        }
+      },
+      {
+        "title": "Class - 05 | Fundamental Rights | By Varun Sir",
+        "description": "\" GS Special- 06, 07, 08\r\n Selection Batch - 06, 07, 08\"",
+        "teacherName": "Varun Sir",
+        "duration": 3817,
+        "startDate": "2026-06-02T09:00:00.000Z",
+        "endDate": "2026-06-02T10:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a1e69d3b927c1a84aa15179/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1e69d3b927c1a84aa15179/output_720p.mp4",
+            "quality": "720p",
+            "size": 625.97,
+            "_id": "6a1eb086fdcb6528106fbf22"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1e69d3b927c1a84aa15179/output_480p.mp4",
+            "quality": "480p",
+            "size": 423.08,
+            "_id": "6a1eb086fdcb6528106fbf23"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1e69d3b927c1a84aa15179/output_360p.mp4",
+            "quality": "360p",
+            "size": 312.61,
+            "_id": "6a1eb086fdcb6528106fbf24"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1e69d3b927c1a84aa15179/output_240p.mp4",
+            "quality": "240p",
+            "size": 265.1,
+            "_id": "6a1eb086fdcb6528106fbf25"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Fundamental Rights By Varun sir  BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Fundamental Rights By Varun sir  BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a1e69d3b927c1a84aa15179",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 36
+        }
+      },
+      {
+        "title": "Class - 06 | Fundamental Rights | By Varun Sir",
+        "description": "\" GS Special- 06, 07, 08\r\n Selection Batch - 06, 07, 08\"",
+        "teacherName": "Varun Sir",
+        "duration": 3208,
+        "startDate": "2026-06-03T06:30:00.000Z",
+        "endDate": "2026-06-03T05:51:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a1fc0b8b927c1a84ab927a3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1fc0b8b927c1a84ab927a3/output_720p.mp4",
+            "quality": "720p",
+            "size": 514.53,
+            "_id": "6a1fdf5d25fd37dc1c170bd6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1fc0b8b927c1a84ab927a3/output_480p.mp4",
+            "quality": "480p",
+            "size": 342.63,
+            "_id": "6a1fdf5d25fd37dc1c170bd7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1fc0b8b927c1a84ab927a3/output_360p.mp4",
+            "quality": "360p",
+            "size": 249.75,
+            "_id": "6a1fdf5d25fd37dc1c170bd8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1fc0b8b927c1a84ab927a3/output_240p.mp4",
+            "quality": "240p",
+            "size": 197.78,
+            "_id": "6a1fdf5d25fd37dc1c170bd9"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Fundamental Rights by varun sir 04 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Fundamental Rights by varun sir 04 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a1fc0b8b927c1a84ab927a3",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 36
         }
       }
     ],
@@ -192,7 +339,7 @@
           "courseId": "69f990e6b927c1a84afcbff2",
           "classId": "6a0bf45be9080d789d1164cb",
           "topicId": "695b6b972feca20f81c0c005",
-          "rawRecordIndex": 30
+          "rawRecordIndex": 36
         }
       }
     ]
