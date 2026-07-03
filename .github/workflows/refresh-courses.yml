@@ -1,0 +1,32 @@
+name: Refresh Courses Daily
+
+on:
+  schedule:
+    - cron: '30 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run course export
+        run: python FILES/export_delta_study_courses.py --include-inactive --courses-dir courses
+
+      - name: Commit updated course data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add courses/
+          git diff --staged --quiet || git commit -m "chore: auto-refresh course data"
+          git push
