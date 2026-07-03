@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch-2",
-  "extractedAt": "2026-07-03T09:27:29+0530",
+  "extractedAt": "2026-07-03T04:36:53+0000",
   "videos": {
     "Introduction": [
       {
@@ -15472,6 +15472,24 @@
         "source": {
           "courseId": "690b0cdc6aeca24e9397ab6f",
           "classId": "6a451b51b927c1a84a8563f1",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 61
+        }
+      },
+      {
+        "title": "Class-04 | Number series | Number based reasoning By balram sir",
+        "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08 ,09\r\n Selection Batch 02.03,04  05, 06  & 07, 08 ,09\"",
+        "teacherName": "Balram Sir",
+        "duration": 0,
+        "startDate": "2026-07-03T04:00:00.000Z",
+        "endDate": "2026-07-03T05:12:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4689bcb927c1a84a959cc0/playlist.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "690b0cdc6aeca24e9397ab6f",
+          "classId": "6a4689bcb927c1a84a959cc0",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 61
         }

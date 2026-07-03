@@ -1,6 +1,6 @@
 {
   "courseName": "Railway all in one - 2",
-  "extractedAt": "2026-07-03T09:27:29+0530",
+  "extractedAt": "2026-07-03T04:36:53+0000",
   "videos": {
     "Algebra": [
       {
@@ -18,7 +18,7 @@
           "courseId": "68a6be03a741c9fd7187fca3",
           "classId": "68bc69eba721af475c9ad5f2",
           "topicId": "683def9c2f4523ef6c8b18a6",
-          "rawRecordIndex": 10
+          "rawRecordIndex": 15
         }
       },
       {
@@ -36,7 +36,7 @@
           "courseId": "68a6be03a741c9fd7187fca3",
           "classId": "68bc68cfa721af475c9ad56c",
           "topicId": "683def9c2f4523ef6c8b18a6",
-          "rawRecordIndex": 10
+          "rawRecordIndex": 15
         }
       }
     ],
@@ -81,7 +81,7 @@
           "courseId": "68a6be03a741c9fd7187fca3",
           "classId": "69ae7883a4d6171aacaa5026",
           "topicId": "69b074fb9d14466cd098087b",
-          "rawRecordIndex": 10
+          "rawRecordIndex": 15
         }
       }
     ]

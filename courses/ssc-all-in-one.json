@@ -1,6 +1,6 @@
 {
   "courseName": "SSC all in one",
-  "extractedAt": "2026-07-03T09:27:29+0530",
+  "extractedAt": "2026-07-03T04:36:53+0000",
   "videos": {
     "Most Important": [
       {
@@ -18,7 +18,7 @@
           "courseId": "683def9c2f4523ef6c8b18b7",
           "classId": "683def9c2f4523ef6c8b18d3",
           "topicId": "683def9c2f4523ef6c8b189e",
-          "rawRecordIndex": 19
+          "rawRecordIndex": 24
         }
       },
       {
@@ -55,7 +55,7 @@
           "courseId": "683def9c2f4523ef6c8b18b7",
           "classId": "683def9c2f4523ef6c8b18d2",
           "topicId": "683def9c2f4523ef6c8b189e",
-          "rawRecordIndex": 19
+          "rawRecordIndex": 24
         }
       }
     ],
@@ -94,7 +94,7 @@
           "courseId": "683def9c2f4523ef6c8b18b7",
           "classId": "683def9c2f4523ef6c8b18d5",
           "topicId": "683def9c2f4523ef6c8b18a0",
-          "rawRecordIndex": 19
+          "rawRecordIndex": 24
         }
       }
     ],
@@ -144,7 +144,7 @@
           "courseId": "683def9c2f4523ef6c8b18b7",
           "classId": "683def9c2f4523ef6c8b18dc",
           "topicId": "683def9c2f4523ef6c8b18a5",
-          "rawRecordIndex": 19
+          "rawRecordIndex": 24
         }
       }
     ],
@@ -183,7 +183,7 @@
           "courseId": "683def9c2f4523ef6c8b18b7",
           "classId": "68400a096f2b69a97085c786",
           "topicId": "683def9c2f4523ef6c8b18a6",
-          "rawRecordIndex": 19
+          "rawRecordIndex": 24
         }
       },
       {
@@ -220,7 +220,7 @@
           "courseId": "683def9c2f4523ef6c8b18b7",
           "classId": "683fe8cc2048a1c1e42940cc",
           "topicId": "683def9c2f4523ef6c8b18a6",
-          "rawRecordIndex": 19
+          "rawRecordIndex": 24
         }
       }
     ],
@@ -259,7 +259,7 @@
           "courseId": "683def9c2f4523ef6c8b18b7",
           "classId": "6843da2f3b10b166b5e3145f",
           "topicId": "683def9c2f4523ef6c8b18a3",
-          "rawRecordIndex": 19
+          "rawRecordIndex": 24
         }
       },
       {
@@ -296,7 +296,7 @@
           "courseId": "683def9c2f4523ef6c8b18b7",
           "classId": "6843da2f3b10b166b5e31460",
           "topicId": "683def9c2f4523ef6c8b18a3",
-          "rawRecordIndex": 19
+          "rawRecordIndex": 24
         }
       }
     ]

@@ -1,6 +1,6 @@
 {
   "courseName": "testing",
-  "extractedAt": "2026-07-03T09:27:29+0530",
+  "extractedAt": "2026-07-03T04:36:53+0000",
   "videos": {
     "123456": [
       {
@@ -18,7 +18,7 @@
           "courseId": "69e0c897e59683658c6e86e9",
           "classId": "693cdecd6385517afa6a7014",
           "topicId": "68c26ca0a721af475c9bd2ab",
-          "rawRecordIndex": 4
+          "rawRecordIndex": 9
         }
       },
       {
@@ -36,7 +36,7 @@
           "courseId": "69e0c897e59683658c6e86e9",
           "classId": "68ee131c6e69cf14107a4ac5",
           "topicId": "68c26ca0a721af475c9bd2ab",
-          "rawRecordIndex": 4
+          "rawRecordIndex": 9
         }
       }
     ]

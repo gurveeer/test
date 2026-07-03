@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation Batch -3",
-  "extractedAt": "2026-07-03T09:27:29+0530",
+  "extractedAt": "2026-07-03T04:36:53+0000",
   "videos": {
     "Arithmetic": [
       {
@@ -34320,12 +34320,37 @@
         "title": "Class-01 || Order & Ranking By Deepak Sir",
         "description": "\"*Railway Foundation Batch ,2 ,3 4,5\r\n*RRB Group D \r\n\"",
         "teacherName": "deepak sir",
-        "duration": 0,
+        "duration": 4928,
         "startDate": "2026-07-03T02:30:00.000Z",
         "endDate": "2026-07-03T03:30:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a468975b927c1a84a956099/playlist.m3u8",
-        "mp4Recordings": [],
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a468975b927c1a84a956099/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468975b927c1a84a956099/output_720p.mp4",
+            "quality": "720p",
+            "size": 732.22,
+            "_id": "6a4737ac2631e9eb3baf9157"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468975b927c1a84a956099/output_480p.mp4",
+            "quality": "480p",
+            "size": 495.05,
+            "_id": "6a4737ac2631e9eb3baf9158"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468975b927c1a84a956099/output_360p.mp4",
+            "quality": "360p",
+            "size": 346.53,
+            "_id": "6a4737ac2631e9eb3baf9159"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468975b927c1a84a956099/output_240p.mp4",
+            "quality": "240p",
+            "size": 240.37,
+            "_id": "6a4737ac2631e9eb3baf915a"
+          }
+        ],
         "classPdf": [],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
