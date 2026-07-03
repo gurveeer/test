@@ -1,0 +1,378 @@
+{
+  "courseName": "SSC special 5000 MCQ batch",
+  "extractedAt": "2026-07-03T09:27:29+0530",
+  "videos": {
+    "Introduction": [
+      {
+        "title": "SSC Special MCQ Batch Intro | Jeet rana",
+        "description": "SSC Special MCQ Batch",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 154.4,
+        "startDate": "2026-06-13T09:31:00.000Z",
+        "endDate": "2026-06-13T07:31:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a2cfa21b927c1a84a5b7b85/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a2cfa21b927c1a84a5b7b85/mp4/2026_06_12_22_57_04_240p.mp4",
+            "quality": "240p",
+            "size": 11.71,
+            "_id": "6a2cfc09510ed6b362b1fbb0"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a2cfa21b927c1a84a5b7b85/mp4/2026_06_12_22_57_04_360p.mp4",
+            "quality": "360p",
+            "size": 13.53,
+            "_id": "6a2cfc09510ed6b362b1fbb1"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a2cfa21b927c1a84a5b7b85/mp4/2026_06_12_22_57_04_480p.mp4",
+            "quality": "480p",
+            "size": 18.07,
+            "_id": "6a2cfc09510ed6b362b1fbb2"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a2cfa21b927c1a84a5b7b85/mp4/2026_06_12_22_57_04_720p.mp4",
+            "quality": "720p",
+            "size": 26.41,
+            "_id": "6a2cfc09510ed6b362b1fbb3"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a268ce8b927c1a84a018468",
+          "classId": "6a2cfa21b927c1a84a5b7b85",
+          "topicId": "68df3538c181958facf1e512",
+          "rawRecordIndex": 53
+        }
+      }
+    ],
+    "Ancient India": [
+      {
+        "title": "Class -01 | Ancient India || by Jeet rans sir",
+        "description": "SSC special 5000 MCQ batch",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3090,
+        "startDate": "2026-06-24T14:30:00.000Z",
+        "endDate": "2026-06-24T15:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3a4ab9b927c1a84aea8551/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3a4ab9b927c1a84aea8551/output_720p.mp4",
+            "quality": "720p",
+            "size": 474.52,
+            "_id": "6a3bfd3c8b1eb266bf3680b8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3a4ab9b927c1a84aea8551/output_480p.mp4",
+            "quality": "480p",
+            "size": 328.55,
+            "_id": "6a3bfd3c8b1eb266bf3680b9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3a4ab9b927c1a84aea8551/output_360p.mp4",
+            "quality": "360p",
+            "size": 235.86,
+            "_id": "6a3bfd3c8b1eb266bf3680ba"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3a4ab9b927c1a84aea8551/output_240p.mp4",
+            "quality": "240p",
+            "size": 180.7,
+            "_id": "6a3bfd3c8b1eb266bf3680bb"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Stone Age By jeet sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Stone Age By jeet sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268ce8b927c1a84a018468",
+          "classId": "6a3a4ab9b927c1a84aea8551",
+          "topicId": "6a153570b927c1a84a3b92c7",
+          "rawRecordIndex": 53
+        }
+      },
+      {
+        "title": "Class -02 | Ancient India || by Jeet rans sir",
+        "description": "SSC special 5000 MCQ batch",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2892,
+        "startDate": "2026-06-25T14:30:00.000Z",
+        "endDate": "2026-06-25T15:29:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3cf4c8b927c1a84a2458d4/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3cf4c8b927c1a84a2458d4/output_720p.mp4",
+            "quality": "720p",
+            "size": 437.14,
+            "_id": "6a3d4be02631e9eb3b3dca0c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3cf4c8b927c1a84a2458d4/output_480p.mp4",
+            "quality": "480p",
+            "size": 301.84,
+            "_id": "6a3d4be02631e9eb3b3dca0d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3cf4c8b927c1a84a2458d4/output_360p.mp4",
+            "quality": "360p",
+            "size": 216.23,
+            "_id": "6a3d4be02631e9eb3b3dca0e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3cf4c8b927c1a84a2458d4/output_240p.mp4",
+            "quality": "240p",
+            "size": 165.39,
+            "_id": "6a3d4be02631e9eb3b3dca0f"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a268ce8b927c1a84a018468",
+          "classId": "6a3cf4c8b927c1a84a2458d4",
+          "topicId": "6a153570b927c1a84a3b92c7",
+          "rawRecordIndex": 53
+        }
+      },
+      {
+        "title": "Class -03 | Ancient India || by Jeet rans sir",
+        "description": "SSC special 5000 MCQ batch",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2792,
+        "startDate": "2026-06-26T14:30:00.000Z",
+        "endDate": "2026-06-26T15:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3e4d3eb927c1a84a3492f5/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3e4d3eb927c1a84a3492f5/output_720p.mp4",
+            "quality": "720p",
+            "size": 428.83,
+            "_id": "6a3e9e06f3c29aafad10336f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3e4d3eb927c1a84a3492f5/output_480p.mp4",
+            "quality": "480p",
+            "size": 295.69,
+            "_id": "6a3e9e06f3c29aafad103370"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3e4d3eb927c1a84a3492f5/output_360p.mp4",
+            "quality": "360p",
+            "size": 211.28,
+            "_id": "6a3e9e06f3c29aafad103371"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3e4d3eb927c1a84a3492f5/output_240p.mp4",
+            "quality": "240p",
+            "size": 159.43,
+            "_id": "6a3e9e06f3c29aafad103372"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "ancient history class 003 pdf by jeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/ancient history class 003 pdf by jeet sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268ce8b927c1a84a018468",
+          "classId": "6a3e4d3eb927c1a84a3492f5",
+          "topicId": "6a153570b927c1a84a3b92c7",
+          "rawRecordIndex": 53
+        }
+      },
+      {
+        "title": "Class -04 | Ancient India || by Jeet rans sir",
+        "description": "SSC special 5000 MCQ batch",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3672,
+        "startDate": "2026-06-29T14:30:00.000Z",
+        "endDate": "2026-06-29T15:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a423cefb927c1a84a584d35/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a423cefb927c1a84a584d35/output_720p.mp4",
+            "quality": "720p",
+            "size": 550.74,
+            "_id": "6a429b38f3c29aafad3a0036"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a423cefb927c1a84a584d35/output_480p.mp4",
+            "quality": "480p",
+            "size": 378.44,
+            "_id": "6a429b38f3c29aafad3a0037"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a423cefb927c1a84a584d35/output_360p.mp4",
+            "quality": "360p",
+            "size": 269.35,
+            "_id": "6a429b38f3c29aafad3a0038"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a423cefb927c1a84a584d35/output_240p.mp4",
+            "quality": "240p",
+            "size": 201.99,
+            "_id": "6a429b38f3c29aafad3a0039"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "ancient india class 004 pdf by jeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/ancient india class 004 pdf by jeet sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268ce8b927c1a84a018468",
+          "classId": "6a423cefb927c1a84a584d35",
+          "topicId": "6a153570b927c1a84a3b92c7",
+          "rawRecordIndex": 53
+        }
+      },
+      {
+        "title": "Class -05 | Ancient India || by Jeet rans sir",
+        "description": "SSC special 5000 MCQ batch",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3152,
+        "startDate": "2026-06-30T14:30:00.000Z",
+        "endDate": "2026-06-30T15:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a438f61b927c1a84a6a1dc3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a438f61b927c1a84a6a1dc3/output_720p.mp4",
+            "quality": "720p",
+            "size": 470.96,
+            "_id": "6a43e6df2631e9eb3b5cd8a2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a438f61b927c1a84a6a1dc3/output_480p.mp4",
+            "quality": "480p",
+            "size": 326.1,
+            "_id": "6a43e6df2631e9eb3b5cd8a3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a438f61b927c1a84a6a1dc3/output_360p.mp4",
+            "quality": "360p",
+            "size": 232.71,
+            "_id": "6a43e6df2631e9eb3b5cd8a4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a438f61b927c1a84a6a1dc3/output_240p.mp4",
+            "quality": "240p",
+            "size": 177.7,
+            "_id": "6a43e6df2631e9eb3b5cd8a5"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "ancient india class 005 ppdf by jeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/ancient india class 005 ppdf by jeet sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268ce8b927c1a84a018468",
+          "classId": "6a438f61b927c1a84a6a1dc3",
+          "topicId": "6a153570b927c1a84a3b92c7",
+          "rawRecordIndex": 53
+        }
+      },
+      {
+        "title": "Class -06 | Ancient India || by Jeet rans sir",
+        "description": "SSC special 5000 MCQ batch",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3250,
+        "startDate": "2026-07-01T14:30:00.000Z",
+        "endDate": "2026-07-01T15:48:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a44e23cb927c1a84a7eec44/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44e23cb927c1a84a7eec44/output_720p.mp4",
+            "quality": "720p",
+            "size": 485.24,
+            "_id": "6a45373bf3c29aafad08095d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44e23cb927c1a84a7eec44/output_480p.mp4",
+            "quality": "480p",
+            "size": 334.1,
+            "_id": "6a45373bf3c29aafad08095e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44e23cb927c1a84a7eec44/output_360p.mp4",
+            "quality": "360p",
+            "size": 238.64,
+            "_id": "6a45373bf3c29aafad08095f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44e23cb927c1a84a7eec44/output_240p.mp4",
+            "quality": "240p",
+            "size": 178.96,
+            "_id": "6a45373bf3c29aafad080960"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a268ce8b927c1a84a018468",
+          "classId": "6a44e23cb927c1a84a7eec44",
+          "topicId": "6a153570b927c1a84a3b92c7",
+          "rawRecordIndex": 53
+        }
+      },
+      {
+        "title": "Class -07 | Ancient India || by Jeet rans sir",
+        "description": "SSC special 5000 MCQ batch",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2748,
+        "startDate": "2026-07-02T14:30:00.000Z",
+        "endDate": "2026-07-02T15:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a463cb0b927c1a84a9072c2/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a463cb0b927c1a84a9072c2/output_720p.mp4",
+            "quality": "720p",
+            "size": 392.52,
+            "_id": "6a4687352631e9eb3b5dbb26"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a463cb0b927c1a84a9072c2/output_480p.mp4",
+            "quality": "480p",
+            "size": 268.32,
+            "_id": "6a4687352631e9eb3b5dbb27"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a463cb0b927c1a84a9072c2/output_360p.mp4",
+            "quality": "360p",
+            "size": 190.51,
+            "_id": "6a4687352631e9eb3b5dbb28"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a463cb0b927c1a84a9072c2/output_240p.mp4",
+            "quality": "240p",
+            "size": 144.02,
+            "_id": "6a4687352631e9eb3b5dbb29"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a268ce8b927c1a84a018468",
+          "classId": "6a463cb0b927c1a84a9072c2",
+          "topicId": "6a153570b927c1a84a3b92c7",
+          "rawRecordIndex": 53
+        }
+      }
+    ]
+  }
+}

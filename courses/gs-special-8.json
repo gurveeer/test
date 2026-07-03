@@ -1,6 +1,6 @@
 {
   "courseName": "GS Special -8",
-  "extractedAt": "2026-06-12T16:38:30+0530",
+  "extractedAt": "2026-07-03T09:27:29+0530",
   "videos": {
     "POLITY": [
       {
@@ -49,7 +49,7 @@
           "courseId": "69f990e6b927c1a84afcbff2",
           "classId": "6a0310d5b927c1a84a635f65",
           "topicId": "68e329ef48aa5900adba437b",
-          "rawRecordIndex": 42
+          "rawRecordIndex": 46
         }
       },
       {
@@ -98,7 +98,7 @@
           "courseId": "69f990e6b927c1a84afcbff2",
           "classId": "6a04144f7a4dacd4b4b1e36d",
           "topicId": "68e329ef48aa5900adba437b",
-          "rawRecordIndex": 42
+          "rawRecordIndex": 46
         }
       },
       {
@@ -147,7 +147,7 @@
           "courseId": "69f990e6b927c1a84afcbff2",
           "classId": "6a06e524b927c1a84a9112a8",
           "topicId": "68e329ef48aa5900adba437b",
-          "rawRecordIndex": 42
+          "rawRecordIndex": 46
         }
       },
       {
@@ -196,7 +196,7 @@
           "courseId": "69f990e6b927c1a84afcbff2",
           "classId": "6a18f100b927c1a84a6f43b9",
           "topicId": "68e329ef48aa5900adba437b",
-          "rawRecordIndex": 42
+          "rawRecordIndex": 46
         }
       },
       {
@@ -245,7 +245,7 @@
           "courseId": "69f990e6b927c1a84afcbff2",
           "classId": "6a1e69d3b927c1a84aa15179",
           "topicId": "68e329ef48aa5900adba437b",
-          "rawRecordIndex": 42
+          "rawRecordIndex": 46
         }
       },
       {
@@ -294,7 +294,7 @@
           "courseId": "69f990e6b927c1a84afcbff2",
           "classId": "6a1fc0b8b927c1a84ab927a3",
           "topicId": "68e329ef48aa5900adba437b",
-          "rawRecordIndex": 42
+          "rawRecordIndex": 46
         }
       },
       {
@@ -343,7 +343,7 @@
           "courseId": "69f990e6b927c1a84afcbff2",
           "classId": "6a20cfddb927c1a84acfb780",
           "topicId": "68e329ef48aa5900adba437b",
-          "rawRecordIndex": 42
+          "rawRecordIndex": 46
         }
       },
       {
@@ -392,7 +392,7 @@
           "courseId": "69f990e6b927c1a84afcbff2",
           "classId": "6a236431b927c1a84ae7ce74",
           "topicId": "68e329ef48aa5900adba437b",
-          "rawRecordIndex": 42
+          "rawRecordIndex": 46
         }
       },
       {
@@ -441,7 +441,7 @@
           "courseId": "69f990e6b927c1a84afcbff2",
           "classId": "6a25a126b927c1a84aec083a",
           "topicId": "68e329ef48aa5900adba437b",
-          "rawRecordIndex": 42
+          "rawRecordIndex": 46
         }
       },
       {
@@ -490,11 +490,11 @@
           "courseId": "69f990e6b927c1a84afcbff2",
           "classId": "6a27aefab927c1a84a19744b",
           "topicId": "68e329ef48aa5900adba437b",
-          "rawRecordIndex": 42
+          "rawRecordIndex": 46
         }
       },
       {
-        "title": "Class - 11 | President of India III By Varun Sir",
+        "title": "Class - 11 | President of India III & Fundamental Duties By Varun Sir",
         "description": "\" GS Special- 06, 07, 08\r\n Selection Batch - 06, 07, 08\"",
         "teacherName": "Varun Sir",
         "duration": 3432,
@@ -528,57 +528,602 @@
             "_id": "6a2be761c17d26e6dc770bcf"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "President By Varun sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/President By Varun sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "69f990e6b927c1a84afcbff2",
           "classId": "6a27eb3db927c1a84a1f6da0",
           "topicId": "68e329ef48aa5900adba437b",
-          "rawRecordIndex": 42
+          "rawRecordIndex": 46
         }
-      }
-    ],
-    "Information": [
+      },
       {
-        "title": "Important information by Varun sir",
-        "description": "",
+        "title": "Class - 12 | Fundamental Duties & Question Practice By Varun Sir",
+        "description": "\" GS Special- 06, 07, 08\r\n Selection Batch - 06, 07, 08\"",
         "teacherName": "Varun Sir",
-        "duration": 96.549,
-        "startDate": "2026-05-19T05:26:00.000Z",
-        "endDate": "2026-05-19T05:26:00.000Z",
+        "duration": 5592,
+        "startDate": "2026-06-15T09:00:00.000Z",
+        "endDate": "2026-06-15T10:00:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a0bf45be9080d789d1164cb/hls/master.m3u8",
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a2ca8b8b927c1a84a585e02/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
           {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a0bf45be9080d789d1164cb/mp4/0519_240p.mp4",
-            "quality": "240p",
-            "size": 7.26,
-            "_id": "6a0bfbbf2fb11261ab4a59a1"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a0bf45be9080d789d1164cb/mp4/0519_360p.mp4",
-            "quality": "360p",
-            "size": 8.43,
-            "_id": "6a0bfbbf2fb11261ab4a59a2"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a0bf45be9080d789d1164cb/mp4/0519_480p.mp4",
-            "quality": "480p",
-            "size": 11.26,
-            "_id": "6a0bfbbf2fb11261ab4a59a3"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a0bf45be9080d789d1164cb/mp4/0519_720p.mp4",
+            "url": "https://selectionwayrecorded.hranker.com/6a2ca8b8b927c1a84a585e02/output_720p.mp4",
             "quality": "720p",
-            "size": 16.49,
-            "_id": "6a0bfbbf2fb11261ab4a59a4"
+            "size": 918.52,
+            "_id": "6a2fd974e0181e2f580d2a20"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a2ca8b8b927c1a84a585e02/output_480p.mp4",
+            "quality": "480p",
+            "size": 618,
+            "_id": "6a2fd974e0181e2f580d2a21"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a2ca8b8b927c1a84a585e02/output_360p.mp4",
+            "quality": "360p",
+            "size": 454.05,
+            "_id": "6a2fd974e0181e2f580d2a22"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a2ca8b8b927c1a84a585e02/output_240p.mp4",
+            "quality": "240p",
+            "size": 369.12,
+            "_id": "6a2fd974e0181e2f580d2a23"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "President By varun sir 03 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/President By varun sir 03 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a2ca8b8b927c1a84a585e02",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 46
+        }
+      },
+      {
+        "title": "Class - 13 || Vice President of India By Varun Sir",
+        "description": "\" GS Special- 06, 07, 08\r\n Selection Batch - 06, 07, 08\"",
+        "teacherName": "Varun Sir",
+        "duration": 3942,
+        "startDate": "2026-06-22T09:00:00.000Z",
+        "endDate": "2026-06-22T10:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a38d840b927c1a84acc7856/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a38d840b927c1a84acc7856/output_720p.mp4",
+            "quality": "720p",
+            "size": 646.72,
+            "_id": "6a3914287e8f393e6c374d51"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a38d840b927c1a84acc7856/output_480p.mp4",
+            "quality": "480p",
+            "size": 434.58,
+            "_id": "6a3914287e8f393e6c374d52"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a38d840b927c1a84acc7856/output_360p.mp4",
+            "quality": "360p",
+            "size": 318.12,
+            "_id": "6a3914287e8f393e6c374d53"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a38d840b927c1a84acc7856/output_240p.mp4",
+            "quality": "240p",
+            "size": 250.81,
+            "_id": "6a3914287e8f393e6c374d54"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Vice President by varun sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Vice President by varun sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a38d840b927c1a84acc7856",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 46
+        }
+      },
+      {
+        "title": "Class - 14 | Questions Exercise By Varun Sir - new class",
+        "description": "\" GS Special- 06, 07, 08\r\n Selection Batch - 06, 07, 08\" yt replace",
+        "teacherName": "Varun Sir",
+        "duration": 2709.60612,
+        "startDate": "2026-06-23T05:01:00.000Z",
+        "endDate": "2026-06-23T06:01:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a3ba557b927c1a84a0915d9/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a3ba557b927c1a84a0915d9/mp4/SELECTION_BATCH_6_7_8_GS_6_7_8_History_class_16_BY_VARUN_SIR_240p.mp4",
+            "quality": "240p",
+            "size": 191.86,
+            "_id": "6a3baa31847c19e9d528bbf7"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a3ba557b927c1a84a0915d9/mp4/SELECTION_BATCH_6_7_8_GS_6_7_8_History_class_16_BY_VARUN_SIR_360p.mp4",
+            "quality": "360p",
+            "size": 223.32,
+            "_id": "6a3baa31847c19e9d528bbf8"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a3ba557b927c1a84a0915d9/mp4/SELECTION_BATCH_6_7_8_GS_6_7_8_History_class_16_BY_VARUN_SIR_480p.mp4",
+            "quality": "480p",
+            "size": 300.57,
+            "_id": "6a3baa31847c19e9d528bbf9"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a3ba557b927c1a84a0915d9/mp4/SELECTION_BATCH_6_7_8_GS_6_7_8_History_class_16_BY_VARUN_SIR_720p.mp4",
+            "quality": "720p",
+            "size": 440.61,
+            "_id": "6a3baa31847c19e9d528bbfa"
           }
         ],
         "classPdf": [],
         "source": {
           "courseId": "69f990e6b927c1a84afcbff2",
-          "classId": "6a0bf45be9080d789d1164cb",
-          "topicId": "695b6b972feca20f81c0c005",
-          "rawRecordIndex": 42
+          "classId": "6a3ba557b927c1a84a0915d9",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 46
+        }
+      },
+      {
+        "title": "Class - 15 | Parliamentary System I By  Varun Sir",
+        "description": "\" GS Special- 06, 07, 08\r\n Selection Batch - 06, 07, 08\"",
+        "teacherName": "Varun Sir",
+        "duration": 3867,
+        "startDate": "2026-06-24T05:04:00.000Z",
+        "endDate": "2026-06-24T06:04:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3b28a0b927c1a84afb620a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3b28a0b927c1a84afb620a/output_720p.mp4",
+            "quality": "720p",
+            "size": 635.58,
+            "_id": "6a3bb000e0e545831e78d1e5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3b28a0b927c1a84afb620a/output_480p.mp4",
+            "quality": "480p",
+            "size": 427.35,
+            "_id": "6a3bb000e0e545831e78d1e6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3b28a0b927c1a84afb620a/output_360p.mp4",
+            "quality": "360p",
+            "size": 313.72,
+            "_id": "6a3bb000e0e545831e78d1e7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3b28a0b927c1a84afb620a/output_240p.mp4",
+            "quality": "240p",
+            "size": 255.05,
+            "_id": "6a3bb000e0e545831e78d1e8"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Parliamentary  System  by varun sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Parliamentary  System  by varun sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a3b28a0b927c1a84afb620a",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 46
+        }
+      },
+      {
+        "title": "Class - 16 | Parliamentary System II By Varun Sir",
+        "description": "\" GS Special- 06, 07, 08\r\n Selection Batch - 06, 07, 08\"",
+        "teacherName": "Varun Sir",
+        "duration": 3372,
+        "startDate": "2026-06-25T09:00:00.000Z",
+        "endDate": "2026-06-25T10:10:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3bb7edb927c1a84a0be6c4/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3bb7edb927c1a84a0be6c4/output_720p.mp4",
+            "quality": "720p",
+            "size": 527.34,
+            "_id": "6a3cffad2ed5ad1e1fb96a08"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3bb7edb927c1a84a0be6c4/output_480p.mp4",
+            "quality": "480p",
+            "size": 352.37,
+            "_id": "6a3cffad2ed5ad1e1fb96a09"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3bb7edb927c1a84a0be6c4/output_360p.mp4",
+            "quality": "360p",
+            "size": 255.02,
+            "_id": "6a3cffad2ed5ad1e1fb96a0a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3bb7edb927c1a84a0be6c4/output_240p.mp4",
+            "quality": "240p",
+            "size": 203.96,
+            "_id": "6a3cffad2ed5ad1e1fb96a0b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Parliamentary  System 02  by varun sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Parliamentary  System 02  by varun sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a3bb7edb927c1a84a0be6c4",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 46
+        }
+      },
+      {
+        "title": "Class - 17 | Judiciary System By Varun Sir",
+        "description": "\" GS Special- 06, 07, 08\r\n Selection Batch - 06, 07, 08\"",
+        "teacherName": "Varun Sir",
+        "duration": 3861,
+        "startDate": "2026-06-30T09:00:00.000Z",
+        "endDate": "2026-06-30T10:18:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3dd80fb927c1a84a2d8691/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3dd80fb927c1a84a2d8691/output_720p.mp4",
+            "quality": "720p",
+            "size": 594.78,
+            "_id": "6a439849b104268c3f2d604c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3dd80fb927c1a84a2d8691/output_480p.mp4",
+            "quality": "480p",
+            "size": 410.48,
+            "_id": "6a439849b104268c3f2d604d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3dd80fb927c1a84a2d8691/output_360p.mp4",
+            "quality": "360p",
+            "size": 293.49,
+            "_id": "6a439849b104268c3f2d604e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3dd80fb927c1a84a2d8691/output_240p.mp4",
+            "quality": "240p",
+            "size": 224.21,
+            "_id": "6a439849b104268c3f2d604f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Judiciary System 17 BOARD PDF by varun sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Judiciary System 17 BOARD PDF by varun sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a3dd80fb927c1a84a2d8691",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 46
+        }
+      },
+      {
+        "title": "Class - 18 | Judiciary System II By Varun Sir",
+        "description": "\" GS Special- 06, 07, 08\r\n Selection Batch - 06, 07, 08\"",
+        "teacherName": "Varun Sir",
+        "duration": 4402,
+        "startDate": "2026-07-01T09:00:00.000Z",
+        "endDate": "2026-07-01T10:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a44102eb927c1a84a7386ac/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44102eb927c1a84a7386ac/output_720p.mp4",
+            "quality": "720p",
+            "size": 673.63,
+            "_id": "6a44ef6b8b1eb266bf508e2f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44102eb927c1a84a7386ac/output_480p.mp4",
+            "quality": "480p",
+            "size": 462.9,
+            "_id": "6a44ef6b8b1eb266bf508e30"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44102eb927c1a84a7386ac/output_360p.mp4",
+            "quality": "360p",
+            "size": 329.48,
+            "_id": "6a44ef6b8b1eb266bf508e31"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44102eb927c1a84a7386ac/output_240p.mp4",
+            "quality": "240p",
+            "size": 248.51,
+            "_id": "6a44ef6b8b1eb266bf508e32"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class 18 Judiciary System by varun BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Class 18 Judiciary System by varun BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a44102eb927c1a84a7386ac",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 46
+        }
+      },
+      {
+        "title": "Class - 19 | Constitutional Bodies By Varun Sir",
+        "description": "\" GS Special- 06, 07, 08\r\n Selection Batch - 06, 07, 08\"",
+        "teacherName": "Varun Sir",
+        "duration": 4232,
+        "startDate": "2026-07-02T09:00:00.000Z",
+        "endDate": "2026-07-02T10:14:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a45bc0bb927c1a84a885d76/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a45bc0bb927c1a84a885d76/output_720p.mp4",
+            "quality": "720p",
+            "size": 643.75,
+            "_id": "6a463d6dbbe5d19c1393f8a5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a45bc0bb927c1a84a885d76/output_480p.mp4",
+            "quality": "480p",
+            "size": 441.43,
+            "_id": "6a463d6dbbe5d19c1393f8a6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a45bc0bb927c1a84a885d76/output_360p.mp4",
+            "quality": "360p",
+            "size": 313.37,
+            "_id": "6a463d6dbbe5d19c1393f8a7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a45bc0bb927c1a84a885d76/output_240p.mp4",
+            "quality": "240p",
+            "size": 235.34,
+            "_id": "6a463d6dbbe5d19c1393f8a8"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Constitutional Bodiies BOARD PDF by varun sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Constitutional Bodiies BOARD PDF by varun sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a45bc0bb927c1a84a885d76",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 46
+        }
+      }
+    ],
+    "GEOGRAPHY": [
+      {
+        "title": "Class -01 | Geography Introduction & Approach || by Varun sir",
+        "description": "\" GS Special- 05, 06, 07, 08, 09\r\n Selection Batch - 05, 06, 07, 08, 09",
+        "teacherName": "Varun Sir",
+        "duration": 1854,
+        "startDate": "2026-06-22T15:30:00.000Z",
+        "endDate": "2026-06-22T16:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a38dbbfb927c1a84acd2ac4/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a38dbbfb927c1a84acd2ac4/output_720p.mp4",
+            "quality": "720p",
+            "size": 306.82,
+            "_id": "6a395e53e0e545831eb46bed"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a38dbbfb927c1a84acd2ac4/output_480p.mp4",
+            "quality": "480p",
+            "size": 206.97,
+            "_id": "6a395e53e0e545831eb46bee"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a38dbbfb927c1a84acd2ac4/output_360p.mp4",
+            "quality": "360p",
+            "size": 152.52,
+            "_id": "6a395e53e0e545831eb46bef"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a38dbbfb927c1a84acd2ac4/output_240p.mp4",
+            "quality": "240p",
+            "size": 127.43,
+            "_id": "6a395e53e0e545831eb46bf0"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Introduction BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Introduction BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a38dbbfb927c1a84acd2ac4",
+          "topicId": "696db9e5719de161eef1358c",
+          "rawRecordIndex": 46
+        }
+      },
+      {
+        "title": "Class -02 | Phase I: Origin of Universe || by Varun sir",
+        "description": "\" GS Special- 05, 06, 07, 08, 09\r\n Selection Batch - 05, 06, 07, 08, 09\"",
+        "teacherName": "Varun Sir",
+        "duration": 3346,
+        "startDate": "2026-06-23T15:31:00.000Z",
+        "endDate": "2026-06-23T16:31:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3a4a64b927c1a84aea4a76/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3a4a64b927c1a84aea4a76/output_720p.mp4",
+            "quality": "720p",
+            "size": 551.66,
+            "_id": "6a3ab69b2631e9eb3b9d232c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3a4a64b927c1a84aea4a76/output_480p.mp4",
+            "quality": "480p",
+            "size": 371.77,
+            "_id": "6a3ab69b2631e9eb3b9d232d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3a4a64b927c1a84aea4a76/output_360p.mp4",
+            "quality": "360p",
+            "size": 273.57,
+            "_id": "6a3ab69b2631e9eb3b9d232e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3a4a64b927c1a84aea4a76/output_240p.mp4",
+            "quality": "240p",
+            "size": 224.68,
+            "_id": "6a3ab69b2631e9eb3b9d232f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Origin of Universe BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Origin of Universe BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a3a4a64b927c1a84aea4a76",
+          "topicId": "696db9e5719de161eef1358c",
+          "rawRecordIndex": 46
+        }
+      },
+      {
+        "title": "Class -03 | Phase I: Solar System || by Varun sir",
+        "description": "\" GS Special- 05, 06, 07, 08, 09\r\n Selection Batch - 05, 06, 07, 08, 09\"",
+        "teacherName": "Varun Sir",
+        "duration": 1957,
+        "startDate": "2026-06-25T15:30:00.000Z",
+        "endDate": "2026-06-25T16:32:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3cce42b927c1a84a1f27bf/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3cce42b927c1a84a1f27bf/output_720p.mp4",
+            "quality": "720p",
+            "size": 316.72,
+            "_id": "6a3d5abb2631e9eb3b16b543"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3cce42b927c1a84a1f27bf/output_480p.mp4",
+            "quality": "480p",
+            "size": 210.59,
+            "_id": "6a3d5abb2631e9eb3b16b544"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3cce42b927c1a84a1f27bf/output_360p.mp4",
+            "quality": "360p",
+            "size": 151.91,
+            "_id": "6a3d5abb2631e9eb3b16b545"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3cce42b927c1a84a1f27bf/output_240p.mp4",
+            "quality": "240p",
+            "size": 117.42,
+            "_id": "6a3d5abb2631e9eb3b16b546"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Solar  System by varun sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Solar  System by varun sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a3cce42b927c1a84a1f27bf",
+          "topicId": "696db9e5719de161eef1358c",
+          "rawRecordIndex": 46
+        }
+      },
+      {
+        "title": "Class -04 | Phase I: Solar System II by Varun sir",
+        "description": "\" GS Special- 05, 06, 07, 08, 09\r\n Selection Batch - 05, 06, 07, 08, 09\"",
+        "teacherName": "Varun sir",
+        "duration": 3792,
+        "startDate": "2026-06-30T10:30:00.000Z",
+        "endDate": "2026-06-30T11:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a435305b927c1a84a6133d6/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a435305b927c1a84a6133d6/output_720p.mp4",
+            "quality": "720p",
+            "size": 582.85,
+            "_id": "6a43ace8bbe5d19c13ab14ae"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a435305b927c1a84a6133d6/output_480p.mp4",
+            "quality": "480p",
+            "size": 401.57,
+            "_id": "6a43ace8bbe5d19c13ab14af"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a435305b927c1a84a6133d6/output_360p.mp4",
+            "quality": "360p",
+            "size": 286.82,
+            "_id": "6a43ace8bbe5d19c13ab14b0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a435305b927c1a84a6133d6/output_240p.mp4",
+            "quality": "240p",
+            "size": 218.46,
+            "_id": "6a43ace8bbe5d19c13ab14b1"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Solar  System 04 BOARD PDF by varun sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Solar  System 04 BOARD PDF by varun sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a435305b927c1a84a6133d6",
+          "topicId": "696db9e5719de161eef1358c",
+          "rawRecordIndex": 46
         }
       }
     ]

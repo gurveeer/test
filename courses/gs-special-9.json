@@ -1,5 +1,204 @@
 {
   "courseName": "GS Special  - 9",
-  "extractedAt": "2026-06-12T16:38:30+0530",
-  "videos": {}
+  "extractedAt": "2026-07-03T09:27:29+0530",
+  "videos": {
+    "GEOGRAPHY": [
+      {
+        "title": "Class -01 | Geography Introduction & Approach || by Varun sir",
+        "description": "\" GS Special- 05, 06, 07, 08, 09\r\n Selection Batch - 05, 06, 07, 08, 09",
+        "teacherName": "Varun Sir",
+        "duration": 1854,
+        "startDate": "2026-06-22T15:30:00.000Z",
+        "endDate": "2026-06-22T16:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a38dbbfb927c1a84acd2ac4/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a38dbbfb927c1a84acd2ac4/output_720p.mp4",
+            "quality": "720p",
+            "size": 306.82,
+            "_id": "6a395e53e0e545831eb46bed"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a38dbbfb927c1a84acd2ac4/output_480p.mp4",
+            "quality": "480p",
+            "size": 206.97,
+            "_id": "6a395e53e0e545831eb46bee"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a38dbbfb927c1a84acd2ac4/output_360p.mp4",
+            "quality": "360p",
+            "size": 152.52,
+            "_id": "6a395e53e0e545831eb46bef"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a38dbbfb927c1a84acd2ac4/output_240p.mp4",
+            "quality": "240p",
+            "size": 127.43,
+            "_id": "6a395e53e0e545831eb46bf0"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Introduction BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Introduction BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a23b927c1a84afff921",
+          "classId": "6a38dbbfb927c1a84acd2ac4",
+          "topicId": "696db9e5719de161eef1358c",
+          "rawRecordIndex": 34
+        }
+      },
+      {
+        "title": "Class -02 | Phase I: Origin of Universe || by Varun sir",
+        "description": "\" GS Special- 05, 06, 07, 08, 09\r\n Selection Batch - 05, 06, 07, 08, 09\"",
+        "teacherName": "Varun Sir",
+        "duration": 3346,
+        "startDate": "2026-06-23T15:31:00.000Z",
+        "endDate": "2026-06-23T16:31:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3a4a64b927c1a84aea4a76/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3a4a64b927c1a84aea4a76/output_720p.mp4",
+            "quality": "720p",
+            "size": 551.66,
+            "_id": "6a3ab69b2631e9eb3b9d232c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3a4a64b927c1a84aea4a76/output_480p.mp4",
+            "quality": "480p",
+            "size": 371.77,
+            "_id": "6a3ab69b2631e9eb3b9d232d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3a4a64b927c1a84aea4a76/output_360p.mp4",
+            "quality": "360p",
+            "size": 273.57,
+            "_id": "6a3ab69b2631e9eb3b9d232e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3a4a64b927c1a84aea4a76/output_240p.mp4",
+            "quality": "240p",
+            "size": 224.68,
+            "_id": "6a3ab69b2631e9eb3b9d232f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Origin of Universe BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Origin of Universe BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a23b927c1a84afff921",
+          "classId": "6a3a4a64b927c1a84aea4a76",
+          "topicId": "696db9e5719de161eef1358c",
+          "rawRecordIndex": 34
+        }
+      },
+      {
+        "title": "Class -03 | Phase I: Solar System || by Varun sir",
+        "description": "\" GS Special- 05, 06, 07, 08, 09\r\n Selection Batch - 05, 06, 07, 08, 09\"",
+        "teacherName": "Varun Sir",
+        "duration": 1957,
+        "startDate": "2026-06-25T15:30:00.000Z",
+        "endDate": "2026-06-25T16:32:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3cce42b927c1a84a1f27bf/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3cce42b927c1a84a1f27bf/output_720p.mp4",
+            "quality": "720p",
+            "size": 316.72,
+            "_id": "6a3d5abb2631e9eb3b16b543"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3cce42b927c1a84a1f27bf/output_480p.mp4",
+            "quality": "480p",
+            "size": 210.59,
+            "_id": "6a3d5abb2631e9eb3b16b544"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3cce42b927c1a84a1f27bf/output_360p.mp4",
+            "quality": "360p",
+            "size": 151.91,
+            "_id": "6a3d5abb2631e9eb3b16b545"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3cce42b927c1a84a1f27bf/output_240p.mp4",
+            "quality": "240p",
+            "size": 117.42,
+            "_id": "6a3d5abb2631e9eb3b16b546"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Solar  System by varun sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Solar  System by varun sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a23b927c1a84afff921",
+          "classId": "6a3cce42b927c1a84a1f27bf",
+          "topicId": "696db9e5719de161eef1358c",
+          "rawRecordIndex": 34
+        }
+      },
+      {
+        "title": "Class -04 | Phase I: Solar System II by Varun sir",
+        "description": "\" GS Special- 05, 06, 07, 08, 09\r\n Selection Batch - 05, 06, 07, 08, 09\"",
+        "teacherName": "Varun sir",
+        "duration": 3792,
+        "startDate": "2026-06-30T10:30:00.000Z",
+        "endDate": "2026-06-30T11:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a435305b927c1a84a6133d6/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a435305b927c1a84a6133d6/output_720p.mp4",
+            "quality": "720p",
+            "size": 582.85,
+            "_id": "6a43ace8bbe5d19c13ab14ae"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a435305b927c1a84a6133d6/output_480p.mp4",
+            "quality": "480p",
+            "size": 401.57,
+            "_id": "6a43ace8bbe5d19c13ab14af"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a435305b927c1a84a6133d6/output_360p.mp4",
+            "quality": "360p",
+            "size": 286.82,
+            "_id": "6a43ace8bbe5d19c13ab14b0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a435305b927c1a84a6133d6/output_240p.mp4",
+            "quality": "240p",
+            "size": 218.46,
+            "_id": "6a43ace8bbe5d19c13ab14b1"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Solar  System 04 BOARD PDF by varun sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Solar  System 04 BOARD PDF by varun sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a23b927c1a84afff921",
+          "classId": "6a435305b927c1a84a6133d6",
+          "topicId": "696db9e5719de161eef1358c",
+          "rawRecordIndex": 34
+        }
+      }
+    ]
+  }
 }
