@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Special-5",
-  "extractedAt": "2026-07-03T04:36:53+0000",
+  "extractedAt": "2026-07-04T04:07:51+0000",
   "videos": {
     "Verbal": [
       {
@@ -4855,13 +4855,44 @@
         "title": "Class-04 | Number series | Number based reasoning By balram sir",
         "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08 ,09\r\n Selection Batch 02.03,04  05, 06  & 07, 08 ,09\"",
         "teacherName": "Balram Sir",
-        "duration": 0,
+        "duration": 3946,
         "startDate": "2026-07-03T04:00:00.000Z",
         "endDate": "2026-07-03T05:12:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4689bcb927c1a84a959cc0/playlist.m3u8",
-        "mp4Recordings": [],
-        "classPdf": [],
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4689bcb927c1a84a959cc0/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4689bcb927c1a84a959cc0/output_720p.mp4",
+            "quality": "720p",
+            "size": 575.92,
+            "_id": "6a474e92847c19e9d533c204"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4689bcb927c1a84a959cc0/output_480p.mp4",
+            "quality": "480p",
+            "size": 392.88,
+            "_id": "6a474e92847c19e9d533c205"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4689bcb927c1a84a959cc0/output_360p.mp4",
+            "quality": "360p",
+            "size": 277.5,
+            "_id": "6a474e92847c19e9d533c206"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4689bcb927c1a84a959cc0/output_240p.mp4",
+            "quality": "240p",
+            "size": 197.31,
+            "_id": "6a474e92847c19e9d533c207"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Number Series 04 BOARD PDF by balram sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Number Series 04 BOARD PDF by balram sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "698481cefdd21a8a2d18ac6a",
           "classId": "6a4689bcb927c1a84a959cc0",

@@ -1,6 +1,6 @@
 {
   "courseName": "तथास्तु BATCH 2026",
-  "extractedAt": "2026-07-03T04:36:53+0000",
+  "extractedAt": "2026-07-04T04:07:51+0000",
   "videos": {
     "POLITY": [
       {
@@ -4303,7 +4303,13 @@
             "_id": "6a4621c91386d236be436cae"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geography class 004 pdf by jeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/geography class 004 pdf by jeet sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69622fc8027f25d29ebca4f6",
           "classId": "6a45bba6b927c1a84a87e584",

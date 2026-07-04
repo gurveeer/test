@@ -1,6 +1,6 @@
 {
   "courseName": "Maths Special-5",
-  "extractedAt": "2026-07-03T04:36:53+0000",
+  "extractedAt": "2026-07-04T04:07:51+0000",
   "videos": {
     "Information": [
       {
@@ -4846,6 +4846,55 @@
         "source": {
           "courseId": "698481d9fdd21a8a2d18ac76",
           "classId": "6a441455b927c1a84a74b1f0",
+          "topicId": "68d7af97824c6e1af23ea66e",
+          "rawRecordIndex": 38
+        }
+      },
+      {
+        "title": "Class -11 || Simple Interest (साधारण ब्याज़) || by Gagan sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05\r\n & Selection Batch  01, 02, 03, 04 , 05\"",
+        "teacherName": "Gagan Sir",
+        "duration": 5005,
+        "startDate": "2026-07-03T07:30:00.000Z",
+        "endDate": "2026-07-03T09:26:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a468b9eb927c1a84a97ba82/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468b9eb927c1a84a97ba82/output_720p.mp4",
+            "quality": "720p",
+            "size": 723.75,
+            "_id": "6a477e54847c19e9d5876b38"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468b9eb927c1a84a97ba82/output_480p.mp4",
+            "quality": "480p",
+            "size": 490.54,
+            "_id": "6a477e54847c19e9d5876b39"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468b9eb927c1a84a97ba82/output_360p.mp4",
+            "quality": "360p",
+            "size": 349.57,
+            "_id": "6a477e54847c19e9d5876b3a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468b9eb927c1a84a97ba82/output_240p.mp4",
+            "quality": "240p",
+            "size": 246.96,
+            "_id": "6a477e54847c19e9d5876b3b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "simple interest class 11 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/simple interest class 11 pdf by gagan sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "698481d9fdd21a8a2d18ac76",
+          "classId": "6a468b9eb927c1a84a97ba82",
           "topicId": "68d7af97824c6e1af23ea66e",
           "rawRecordIndex": 38
         }

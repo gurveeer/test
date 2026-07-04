@@ -1,6 +1,6 @@
 {
   "courseName": "English Special-6",
-  "extractedAt": "2026-07-03T04:36:53+0000",
+  "extractedAt": "2026-07-04T04:07:51+0000",
   "videos": {
     "Vocab": [
       {
@@ -15473,6 +15473,60 @@
         "source": {
           "courseId": "69ae9da2a2b1ae04337afa76",
           "classId": "6a441080b927c1a84a73c295",
+          "topicId": "696e0150719de161eef5677e",
+          "rawRecordIndex": 66
+        }
+      },
+      {
+        "title": "Class -29 | Adjective lec- 04 | by Aman sir",
+        "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
+        "teacherName": "AMAN SIR",
+        "duration": 6957,
+        "startDate": "2026-07-03T05:30:00.000Z",
+        "endDate": "2026-07-03T07:22:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a468aecb927c1a84a96c99f/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468aecb927c1a84a96c99f/output_720p.mp4",
+            "quality": "720p",
+            "size": 985.6,
+            "_id": "6a476b4d8b1eb266bfb8d953"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468aecb927c1a84a96c99f/output_480p.mp4",
+            "quality": "480p",
+            "size": 667.77,
+            "_id": "6a476b4d8b1eb266bfb8d954"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468aecb927c1a84a96c99f/output_360p.mp4",
+            "quality": "360p",
+            "size": 468.12,
+            "_id": "6a476b4d8b1eb266bfb8d955"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468aecb927c1a84a96c99f/output_240p.mp4",
+            "quality": "240p",
+            "size": 346.84,
+            "_id": "6a476b4d8b1eb266bfb8d956"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Adjective lec-4 without annotations _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Adjective lec-4 without annotations _.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Adjective lec-4 with annotations _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Adjective lec-4 with annotations _.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69ae9da2a2b1ae04337afa76",
+          "classId": "6a468aecb927c1a84a96c99f",
           "topicId": "696e0150719de161eef5677e",
           "rawRecordIndex": 66
         }

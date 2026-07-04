@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation Batch -2",
-  "extractedAt": "2026-07-03T04:36:53+0000",
+  "extractedAt": "2026-07-04T04:07:51+0000",
   "videos": {
     "Advance": [
       {
@@ -18602,6 +18602,147 @@
           "topicId": "695d21ce027f25d29e788206",
           "rawRecordIndex": 76
         }
+      },
+      {
+        "title": "Class - 01 | Unit and Dimension MCQ | by Harish sir",
+        "description": "railway",
+        "teacherName": "HARISH SIR",
+        "duration": 2983,
+        "startDate": "2026-06-24T15:30:00.000Z",
+        "endDate": "2026-06-24T16:42:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3bddf0b927c1a84a11585b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3bddf0b927c1a84a11585b/output_720p.mp4",
+            "quality": "720p",
+            "size": 443.22,
+            "_id": "6a3c09a78b1eb266bfd627e1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3bddf0b927c1a84a11585b/output_480p.mp4",
+            "quality": "480p",
+            "size": 300.3,
+            "_id": "6a3c09a78b1eb266bfd627e2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3bddf0b927c1a84a11585b/output_360p.mp4",
+            "quality": "360p",
+            "size": 208.07,
+            "_id": "6a3c09a78b1eb266bfd627e3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3bddf0b927c1a84a11585b/output_240p.mp4",
+            "quality": "240p",
+            "size": 159.43,
+            "_id": "6a3c09a78b1eb266bfd627e4"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "unit and dimension class 0001 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/unit and dimension class 0001 pdf by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6943f10fcd0a679bc1207d93",
+          "classId": "6a3bddf0b927c1a84a11585b",
+          "topicId": "695d21ce027f25d29e788206",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Class - 02 | Unit and Dimension MCQ | by Harish sir",
+        "description": "\"NCERT Science Foundation Batch 2026-27,\r\nScience Booster Batch,\r\nRAILWAY 1,2,3,4,5\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 2831,
+        "startDate": "2026-06-30T15:30:00.000Z",
+        "endDate": "2026-06-30T16:37:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3d0a7bb927c1a84a27a8a3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3d0a7bb927c1a84a27a8a3/output_720p.mp4",
+            "quality": "720p",
+            "size": 425.7,
+            "_id": "6a43f0412631e9eb3bde0ab1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3d0a7bb927c1a84a27a8a3/output_480p.mp4",
+            "quality": "480p",
+            "size": 290.28,
+            "_id": "6a43f0412631e9eb3bde0ab2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3d0a7bb927c1a84a27a8a3/output_360p.mp4",
+            "quality": "360p",
+            "size": 202.26,
+            "_id": "6a43f0412631e9eb3bde0ab3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3d0a7bb927c1a84a27a8a3/output_240p.mp4",
+            "quality": "240p",
+            "size": 156.88,
+            "_id": "6a43f0412631e9eb3bde0ab4"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6943f10fcd0a679bc1207d93",
+          "classId": "6a3d0a7bb927c1a84a27a8a3",
+          "topicId": "695d21ce027f25d29e788206",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Class - 03 | Unit and Dimension MCQ | by Harish sir",
+        "description": "\"NCERT Science Foundation Batch 2026-27,\r\nScience Booster Batch,\r\nRAILWAY 1,2,3,4,5\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 5043,
+        "startDate": "2026-07-02T15:30:00.000Z",
+        "endDate": "2026-07-02T16:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a42439fb927c1a84a594444/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a42439fb927c1a84a594444/output_720p.mp4",
+            "quality": "720p",
+            "size": 761.83,
+            "_id": "6a46a0541386d236be1aa82d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a42439fb927c1a84a594444/output_480p.mp4",
+            "quality": "480p",
+            "size": 522.69,
+            "_id": "6a46a0541386d236be1aa82e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a42439fb927c1a84a594444/output_360p.mp4",
+            "quality": "360p",
+            "size": 364.4,
+            "_id": "6a46a0541386d236be1aa82f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a42439fb927c1a84a594444/output_240p.mp4",
+            "quality": "240p",
+            "size": 281.27,
+            "_id": "6a46a0541386d236be1aa830"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "unit dimension mcq class 0003 pdf byy harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/unit dimension mcq class 0003 pdf byy harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6943f10fcd0a679bc1207d93",
+          "classId": "6a42439fb927c1a84a594444",
+          "topicId": "695d21ce027f25d29e788206",
+          "rawRecordIndex": 76
+        }
       }
     ],
     "Geography": [
@@ -29779,6 +29920,55 @@
           "topicId": "6a0d4e7fb927c1a84ae1a601",
           "rawRecordIndex": 76
         }
+      },
+      {
+        "title": "Class-11 | LCM & HCF (ल.स.प.और म.स.प.) | By Gagan Sir",
+        "description": "\"Railway 1,2,3,4,5\r\nRRB Group D\"",
+        "teacherName": "Gagan sir",
+        "duration": 4657,
+        "startDate": "2026-07-03T05:30:00.000Z",
+        "endDate": "2026-07-03T04:25:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a468b3cb927c1a84a9705ff/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468b3cb927c1a84a9705ff/output_720p.mp4",
+            "quality": "720p",
+            "size": 664.41,
+            "_id": "6a4762e52631e9eb3be15e9a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468b3cb927c1a84a9705ff/output_480p.mp4",
+            "quality": "480p",
+            "size": 450.12,
+            "_id": "6a4762e52631e9eb3be15e9b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468b3cb927c1a84a9705ff/output_360p.mp4",
+            "quality": "360p",
+            "size": 320.92,
+            "_id": "6a4762e52631e9eb3be15e9c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468b3cb927c1a84a9705ff/output_240p.mp4",
+            "quality": "240p",
+            "size": 226.86,
+            "_id": "6a4762e52631e9eb3be15e9d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "lcmm class 11 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/lcmm class 11 pdf by gagan sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6943f10fcd0a679bc1207d93",
+          "classId": "6a468b3cb927c1a84a9705ff",
+          "topicId": "6a0d4e7fb927c1a84ae1a601",
+          "rawRecordIndex": 76
+        }
       }
     ],
     "World Geography": [
@@ -32930,7 +33120,13 @@
             "_id": "6a45e2758b1eb266bf441b1c"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Syllogism Class 005 By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Syllogism Class 005 By Deepak Sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6943f10fcd0a679bc1207d93",
           "classId": "6a440de5b927c1a84a71e3bf",
@@ -32973,10 +33169,59 @@
             "_id": "6a4737ac2631e9eb3baf915a"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Order and Ranking  Class 001 By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Order and Ranking  Class 001 By Deepak Sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6943f10fcd0a679bc1207d93",
           "classId": "6a468975b927c1a84a956099",
+          "topicId": "69ae68cc7b3188015e0551dd",
+          "rawRecordIndex": 76
+        }
+      },
+      {
+        "title": "Class-02 || Order & Ranking By Deepak Sir",
+        "description": "\"*Railway Foundation Batch ,2 ,3 4,5\r\n*RRB Group D \r\n\"",
+        "teacherName": "deepak sir",
+        "duration": 3524,
+        "startDate": "2026-07-04T02:30:00.000Z",
+        "endDate": "2026-07-04T03:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a479f225bac0ae4ba70cb73/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a479f225bac0ae4ba70cb73/output_720p.mp4",
+            "quality": "720p",
+            "size": 491.55,
+            "_id": "6a488439b104268c3f2e0eca"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a479f225bac0ae4ba70cb73/output_480p.mp4",
+            "quality": "480p",
+            "size": 331.63,
+            "_id": "6a488439b104268c3f2e0ecb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a479f225bac0ae4ba70cb73/output_360p.mp4",
+            "quality": "360p",
+            "size": 234.25,
+            "_id": "6a488439b104268c3f2e0ecc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a479f225bac0ae4ba70cb73/output_240p.mp4",
+            "quality": "240p",
+            "size": 168.12,
+            "_id": "6a488439b104268c3f2e0ecd"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6943f10fcd0a679bc1207d93",
+          "classId": "6a479f225bac0ae4ba70cb73",
           "topicId": "69ae68cc7b3188015e0551dd",
           "rawRecordIndex": 76
         }
@@ -35364,143 +35609,6 @@
           "courseId": "6943f10fcd0a679bc1207d93",
           "classId": "6969de06b6cbd07fbf86297c",
           "topicId": "6953d4e02feca20f819e3e9f",
-          "rawRecordIndex": 76
-        }
-      }
-    ],
-    "Practice Class": [
-      {
-        "title": "Class - 01 | Unit and Dimension MCQ | by Harish sir",
-        "description": "railway",
-        "teacherName": "HARISH SIR",
-        "duration": 2983,
-        "startDate": "2026-06-24T15:30:00.000Z",
-        "endDate": "2026-06-24T16:42:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3bddf0b927c1a84a11585b/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3bddf0b927c1a84a11585b/output_720p.mp4",
-            "quality": "720p",
-            "size": 443.22,
-            "_id": "6a3c09a78b1eb266bfd627e1"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3bddf0b927c1a84a11585b/output_480p.mp4",
-            "quality": "480p",
-            "size": 300.3,
-            "_id": "6a3c09a78b1eb266bfd627e2"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3bddf0b927c1a84a11585b/output_360p.mp4",
-            "quality": "360p",
-            "size": 208.07,
-            "_id": "6a3c09a78b1eb266bfd627e3"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3bddf0b927c1a84a11585b/output_240p.mp4",
-            "quality": "240p",
-            "size": 159.43,
-            "_id": "6a3c09a78b1eb266bfd627e4"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "unit and dimension class 0001 pdf by harish sir",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/unit and dimension class 0001 pdf by harish sir.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "6943f10fcd0a679bc1207d93",
-          "classId": "6a3bddf0b927c1a84a11585b",
-          "topicId": "6a3bdde2b927c1a84a115847",
-          "rawRecordIndex": 76
-        }
-      },
-      {
-        "title": "Class - 02 | Unit and Dimension MCQ | by Harish sir",
-        "description": "\"NCERT Science Foundation Batch 2026-27,\r\nScience Booster Batch,\r\nRAILWAY 1,2,3,4,5\r\nRRB Group D\"",
-        "teacherName": "HARISH SIR",
-        "duration": 2831,
-        "startDate": "2026-06-30T15:30:00.000Z",
-        "endDate": "2026-06-30T16:37:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3d0a7bb927c1a84a27a8a3/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3d0a7bb927c1a84a27a8a3/output_720p.mp4",
-            "quality": "720p",
-            "size": 425.7,
-            "_id": "6a43f0412631e9eb3bde0ab1"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3d0a7bb927c1a84a27a8a3/output_480p.mp4",
-            "quality": "480p",
-            "size": 290.28,
-            "_id": "6a43f0412631e9eb3bde0ab2"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3d0a7bb927c1a84a27a8a3/output_360p.mp4",
-            "quality": "360p",
-            "size": 202.26,
-            "_id": "6a43f0412631e9eb3bde0ab3"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3d0a7bb927c1a84a27a8a3/output_240p.mp4",
-            "quality": "240p",
-            "size": 156.88,
-            "_id": "6a43f0412631e9eb3bde0ab4"
-          }
-        ],
-        "classPdf": [],
-        "source": {
-          "courseId": "6943f10fcd0a679bc1207d93",
-          "classId": "6a3d0a7bb927c1a84a27a8a3",
-          "topicId": "6a3bdde2b927c1a84a115847",
-          "rawRecordIndex": 76
-        }
-      },
-      {
-        "title": "Class - 03 | Unit and Dimension MCQ | by Harish sir",
-        "description": "\"NCERT Science Foundation Batch 2026-27,\r\nScience Booster Batch,\r\nRAILWAY 1,2,3,4,5\r\nRRB Group D\"",
-        "teacherName": "HARISH SIR",
-        "duration": 5043,
-        "startDate": "2026-07-02T15:30:00.000Z",
-        "endDate": "2026-07-02T16:30:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a42439fb927c1a84a594444/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a42439fb927c1a84a594444/output_720p.mp4",
-            "quality": "720p",
-            "size": 761.83,
-            "_id": "6a46a0541386d236be1aa82d"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a42439fb927c1a84a594444/output_480p.mp4",
-            "quality": "480p",
-            "size": 522.69,
-            "_id": "6a46a0541386d236be1aa82e"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a42439fb927c1a84a594444/output_360p.mp4",
-            "quality": "360p",
-            "size": 364.4,
-            "_id": "6a46a0541386d236be1aa82f"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a42439fb927c1a84a594444/output_240p.mp4",
-            "quality": "240p",
-            "size": 281.27,
-            "_id": "6a46a0541386d236be1aa830"
-          }
-        ],
-        "classPdf": [],
-        "source": {
-          "courseId": "6943f10fcd0a679bc1207d93",
-          "classId": "6a42439fb927c1a84a594444",
-          "topicId": "6a3bdde2b927c1a84a115847",
           "rawRecordIndex": 76
         }
       }

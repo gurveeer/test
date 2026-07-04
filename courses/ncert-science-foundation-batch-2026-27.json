@@ -1,6 +1,6 @@
 {
   "courseName": "NCERT Science Foundation Batch 2026-27",
-  "extractedAt": "2026-07-03T04:36:53+0000",
+  "extractedAt": "2026-07-04T04:07:51+0000",
   "videos": {
     "Physics": [
       {
@@ -8074,9 +8074,7 @@
           "topicId": "695d21ce027f25d29e788206",
           "rawRecordIndex": 98
         }
-      }
-    ],
-    "Practice Class": [
+      },
       {
         "title": "Class - 01 | Unit and Dimension MCQ | by Harish sir",
         "description": "railway",
@@ -8122,7 +8120,7 @@
         "source": {
           "courseId": "69204beb39642e9188a548b9",
           "classId": "6a3bddf0b927c1a84a11585b",
-          "topicId": "6a3bdde2b927c1a84a115847",
+          "topicId": "695d21ce027f25d29e788206",
           "rawRecordIndex": 98
         }
       },
@@ -8165,7 +8163,7 @@
         "source": {
           "courseId": "69204beb39642e9188a548b9",
           "classId": "6a3d0a7bb927c1a84a27a8a3",
-          "topicId": "6a3bdde2b927c1a84a115847",
+          "topicId": "695d21ce027f25d29e788206",
           "rawRecordIndex": 98
         }
       },
@@ -8204,11 +8202,17 @@
             "_id": "6a46a0541386d236be1aa830"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "unit dimension mcq class 0003 pdf byy harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/unit dimension mcq class 0003 pdf byy harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69204beb39642e9188a548b9",
           "classId": "6a42439fb927c1a84a594444",
-          "topicId": "6a3bdde2b927c1a84a115847",
+          "topicId": "695d21ce027f25d29e788206",
           "rawRecordIndex": 98
         }
       }

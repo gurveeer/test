@@ -1,6 +1,6 @@
 {
   "courseName": "GS संपूर्ण Batch",
-  "extractedAt": "2026-07-03T04:36:53+0000",
+  "extractedAt": "2026-07-04T04:07:51+0000",
   "videos": {
     "HISTORY": [
       {
@@ -1985,6 +1985,24 @@
         "source": {
           "courseId": "698487d5fdd21a8a2d1a5270",
           "classId": "6a468c1fb927c1a84a9832fd",
+          "topicId": "6a265997b927c1a84af6d41d",
+          "rawRecordIndex": 108
+        }
+      },
+      {
+        "title": "Class -15 || Aravalli & Satpura Ranges (अरावली और सतपुड़ा) | by Shubham sir",
+        "description": "GS सम्पूर्ण Batch",
+        "teacherName": "Shubham sir",
+        "duration": 0,
+        "startDate": "2026-07-03T05:41:00.000Z",
+        "endDate": "2026-07-03T09:41:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://www.youtube.com/watch?v=sLf7o_XOkpI",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "698487d5fdd21a8a2d1a5270",
+          "classId": "6a4791ce5bac0ae4ba6dee40",
           "topicId": "6a265997b927c1a84af6d41d",
           "rawRecordIndex": 108
         }

@@ -1,6 +1,6 @@
 {
   "courseName": "SSC special 5000 MCQ batch",
-  "extractedAt": "2026-07-03T04:36:53+0000",
+  "extractedAt": "2026-07-04T04:07:51+0000",
   "videos": {
     "Introduction": [
       {
@@ -49,7 +49,7 @@
     ],
     "Ancient India": [
       {
-        "title": "Class -01 | Ancient India || by Jeet rans sir",
+        "title": "Class -01 | Origin of Human (मानव की उत्पत्ति) || by Jeet rana sir",
         "description": "SSC special 5000 MCQ batch",
         "teacherName": "Jeet Rana Sir",
         "duration": 3090,
@@ -98,7 +98,7 @@
         }
       },
       {
-        "title": "Class -02 | Ancient India || by Jeet rans sir",
+        "title": "Class -02 | Stone Age (पाषाण युग) || by Jeet rana sir",
         "description": "SSC special 5000 MCQ batch",
         "teacherName": "Jeet Rana Sir",
         "duration": 2892,
@@ -141,7 +141,7 @@
         }
       },
       {
-        "title": "Class -03 | Ancient India || by Jeet rans sir",
+        "title": "Class -03 | Indus Valley Civilization (सिंधु घाटी सभ्यता) 01 || by Jeet rana sir",
         "description": "SSC special 5000 MCQ batch",
         "teacherName": "Jeet Rana Sir",
         "duration": 2792,
@@ -190,7 +190,7 @@
         }
       },
       {
-        "title": "Class -04 | Ancient India || by Jeet rans sir",
+        "title": "Class -04 | Indus Valley Civilization (सिंधु घाटी सभ्यता) 02 | by Jeet rana sir",
         "description": "SSC special 5000 MCQ batch",
         "teacherName": "Jeet Rana Sir",
         "duration": 3672,
@@ -239,7 +239,7 @@
         }
       },
       {
-        "title": "Class -05 | Ancient India || by Jeet rans sir",
+        "title": "Class -05 | Vedic Period – II (वैदिक काल) || by Jeet rana sir",
         "description": "SSC special 5000 MCQ batch",
         "teacherName": "Jeet Rana Sir",
         "duration": 3152,
@@ -322,7 +322,13 @@
             "_id": "6a45373bf3c29aafad080960"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "ancient india class 006 pdf by jeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/ancient india class 006 pdf by jeet sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a44e23cb927c1a84a7eec44",

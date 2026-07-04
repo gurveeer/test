@@ -1,6 +1,6 @@
 {
   "courseName": "CGL RAPID BATCH",
-  "extractedAt": "2026-07-03T04:36:53+0000",
+  "extractedAt": "2026-07-04T04:07:51+0000",
   "videos": {
     "Introduction": [
       {
@@ -499,7 +499,13 @@
             "_id": "6a4603971386d236be0f8bef"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "arrival of europeans class 010 pdf by jeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/arrival of europeans class 012 pdf by jeet sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a45b9f1b927c1a84a876c31",

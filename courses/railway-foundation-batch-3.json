@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation Batch -3",
-  "extractedAt": "2026-07-03T04:36:53+0000",
+  "extractedAt": "2026-07-04T04:07:51+0000",
   "videos": {
     "Arithmetic": [
       {
@@ -15823,6 +15823,545 @@
           "topicId": "68fa5f40aed5b4af7a841a2a",
           "rawRecordIndex": 74
         }
+      },
+      {
+        "title": "Class – 01 | Carbon and Its Compounds | कार्बन तथा उसके यौगिक | By Harish Sir",
+        "description": "",
+        "teacherName": "HARISH SIR",
+        "duration": 2865,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69aa6a21a2b1ae043344083e/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69aa6a21a2b1ae043344083e/output_720p.mp4",
+            "quality": "720p",
+            "size": 459.6,
+            "_id": "69aacb137b3188015e173378"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69aa6a21a2b1ae043344083e/output_480p.mp4",
+            "quality": "480p",
+            "size": 292.23,
+            "_id": "69aacb137b3188015e173379"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69aa6a21a2b1ae043344083e/output_360p.mp4",
+            "quality": "360p",
+            "size": 213.63,
+            "_id": "69aacb137b3188015e17337a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69aa6a21a2b1ae043344083e/output_240p.mp4",
+            "quality": "240p",
+            "size": 178.65,
+            "_id": "69aacb137b3188015e17337b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "carbon and its compound class 1",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/carbon and its compound class 1.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "69aa6a21a2b1ae043344083e",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 74
+        }
+      },
+      {
+        "title": "Class – 02 | Carbon and Its Compounds | कार्बन तथा उसके यौगिक | By Harish Sir",
+        "description": "RF 1, 2 Sci Spl 1 ,2 , Selection Batch 1,2,3,4",
+        "teacherName": "HARISH SIR",
+        "duration": 2684,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69abbb00a2b1ae043352a95d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69abbb00a2b1ae043352a95d/output_720p.mp4",
+            "quality": "720p",
+            "size": 429.76,
+            "_id": "69ac39162dc898ac2a55c9a6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69abbb00a2b1ae043352a95d/output_480p.mp4",
+            "quality": "480p",
+            "size": 273.81,
+            "_id": "69ac39162dc898ac2a55c9a7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69abbb00a2b1ae043352a95d/output_360p.mp4",
+            "quality": "360p",
+            "size": 199.81,
+            "_id": "69ac39162dc898ac2a55c9a8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69abbb00a2b1ae043352a95d/output_240p.mp4",
+            "quality": "240p",
+            "size": 166.31,
+            "_id": "69ac39162dc898ac2a55c9a9"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "carbon and its compounds class 02",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/carbon and its compounds class 02.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "69abbb00a2b1ae043352a95d",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 74
+        }
+      },
+      {
+        "title": "Class – 03 | Carbon and Its Compounds | कार्बन तथा उसके यौगिक | By Harish Sir",
+        "description": "RF 1, 2 Sci Spl 1 ,2 , Selection Batch 1,2,3,4",
+        "teacherName": "HARISH SIR",
+        "duration": 2735,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69add4fea2b1ae043370ad5b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69add4fea2b1ae043370ad5b/output_720p.mp4",
+            "quality": "720p",
+            "size": 439.06,
+            "_id": "69aed1309f821e8aa570fc9f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69add4fea2b1ae043370ad5b/output_480p.mp4",
+            "quality": "480p",
+            "size": 278.33,
+            "_id": "69aed1309f821e8aa570fca0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69add4fea2b1ae043370ad5b/output_360p.mp4",
+            "quality": "360p",
+            "size": 202.65,
+            "_id": "69aed1309f821e8aa570fca1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69add4fea2b1ae043370ad5b/output_240p.mp4",
+            "quality": "240p",
+            "size": 167.38,
+            "_id": "69aed1309f821e8aa570fca2"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "carbon and its compounds class 03",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/carbon and its compounds class 03.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "69add4fea2b1ae043370ad5b",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 74
+        }
+      },
+      {
+        "title": "Class – 04 | Carbon and Its Compounds | कार्बन तथा उसके यौगिक | By Harish Sir",
+        "description": "RF 1, 2 Sci Spl 1 ,2 , Selection Batch 1,2,3,4",
+        "teacherName": "HARISH SIR",
+        "duration": 1394,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69afb3e4a2b1ae0433ade008/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69afb3e4a2b1ae0433ade008/output_720p.mp4",
+            "quality": "720p",
+            "size": 223.18,
+            "_id": "69b0285e8c93bfbfc75f9e6e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69afb3e4a2b1ae0433ade008/output_480p.mp4",
+            "quality": "480p",
+            "size": 142.96,
+            "_id": "69b0285e8c93bfbfc75f9e6f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69afb3e4a2b1ae0433ade008/output_360p.mp4",
+            "quality": "360p",
+            "size": 104.78,
+            "_id": "69b0285e8c93bfbfc75f9e70"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69afb3e4a2b1ae0433ade008/output_240p.mp4",
+            "quality": "240p",
+            "size": 87.25,
+            "_id": "69b0285e8c93bfbfc75f9e71"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "carbon class 4",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/20260310193414424_compressed.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "69afb3e4a2b1ae0433ade008",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 74
+        }
+      },
+      {
+        "title": "Class – 05 | Carbon and Its Compounds | कार्बन तथा उसके यौगिक | By Harish Sir",
+        "description": "RF 1, 2 Sci Spl 1 ,2 , Selection Batch 1,2,3,4,5",
+        "teacherName": "HARISH SIR",
+        "duration": 2888,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69b10c7e9d14466cd0a0d3d1/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b10c7e9d14466cd0a0d3d1/output_720p.mp4",
+            "quality": "720p",
+            "size": 466.46,
+            "_id": "69b2c4ec14b6b6349b75a987"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b10c7e9d14466cd0a0d3d1/output_480p.mp4",
+            "quality": "480p",
+            "size": 300.98,
+            "_id": "69b2c4ec14b6b6349b75a988"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b10c7e9d14466cd0a0d3d1/output_360p.mp4",
+            "quality": "360p",
+            "size": 221.06,
+            "_id": "69b2c4ec14b6b6349b75a989"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b10c7e9d14466cd0a0d3d1/output_240p.mp4",
+            "quality": "240p",
+            "size": 185.98,
+            "_id": "69b2c4ec14b6b6349b75a98a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "carbon class 5",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/20260312180304384_compressed.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "69b10c7e9d14466cd0a0d3d1",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 74
+        }
+      },
+      {
+        "title": "Class – 06 | Carbon and Its Compounds | कार्बन तथा उसके यौगिक | By Harish Sir",
+        "description": "RF 1, 2 Sci Spl 1 ,2 , Selection Batch 1,2,3,4,5",
+        "teacherName": "HARISH SIR",
+        "duration": 3192.867,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69b39f4c9d14466cd0c40907/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b39f4c9d14466cd0c40907/mp4/2026_03_14_12_25_00_240p.mp4",
+            "quality": "240p",
+            "size": 229.39,
+            "_id": "69b7a16d9d5a61058aee93a9"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b39f4c9d14466cd0c40907/mp4/2026_03_14_12_25_00_360p.mp4",
+            "quality": "360p",
+            "size": 272.07,
+            "_id": "69b7a16d9d5a61058aee93aa"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b39f4c9d14466cd0c40907/mp4/2026_03_14_12_25_00_480p.mp4",
+            "quality": "480p",
+            "size": 365.37,
+            "_id": "69b7a16d9d5a61058aee93ab"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b39f4c9d14466cd0c40907/mp4/2026_03_14_12_25_00_720p.mp4",
+            "quality": "720p",
+            "size": 537.15,
+            "_id": "69b7a16d9d5a61058aee93ac"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "carbon class 6_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/carbon class 6_.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "69b39f4c9d14466cd0c40907",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 74
+        }
+      },
+      {
+        "title": "Class – 07 | Carbon and Its Compounds | कार्बन तथा उसके यौगिक | By Harish Sir",
+        "description": "RF 1, 2 Sci Spl 1 ,2 , Selection Batch 1,2,3,4,5",
+        "teacherName": "HARISH SIR",
+        "duration": 2581,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69b8eb4fdbf4fa27cf7cd73d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b8eb4fdbf4fa27cf7cd73d/output_720p.mp4",
+            "quality": "720p",
+            "size": 414.76,
+            "_id": "69b98aff4a9cd0815d0862a5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b8eb4fdbf4fa27cf7cd73d/output_480p.mp4",
+            "quality": "480p",
+            "size": 266.34,
+            "_id": "69b98aff4a9cd0815d0862a6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b8eb4fdbf4fa27cf7cd73d/output_360p.mp4",
+            "quality": "360p",
+            "size": 195.92,
+            "_id": "69b98aff4a9cd0815d0862a7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b8eb4fdbf4fa27cf7cd73d/output_240p.mp4",
+            "quality": "240p",
+            "size": 165.91,
+            "_id": "69b98aff4a9cd0815d0862a8"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "carbon class 7",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/chemistry.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "69b8eb4fdbf4fa27cf7cd73d",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 74
+        }
+      },
+      {
+        "title": "Class - 01 | Fuels (ईंधन) | By Harish Sir",
+        "description": "RF 1, 2 Sci Spl 1 ,2 , Selection Batch 1,2,3,4,5",
+        "teacherName": "HARISH SIR",
+        "duration": 3146.3,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69ba3a3ba96048112f431a79/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ba3a3ba96048112f431a79/mp4/2026_03_18_12_48_30_240p.mp4",
+            "quality": "240p",
+            "size": 231.81,
+            "_id": "69ba94386ae1a2f455621883"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ba3a3ba96048112f431a79/mp4/2026_03_18_12_48_30_360p.mp4",
+            "quality": "360p",
+            "size": 270.84,
+            "_id": "69ba94386ae1a2f455621884"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ba3a3ba96048112f431a79/mp4/2026_03_18_12_48_30_480p.mp4",
+            "quality": "480p",
+            "size": 363.41,
+            "_id": "69ba94386ae1a2f455621885"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ba3a3ba96048112f431a79/mp4/2026_03_18_12_48_30_720p.mp4",
+            "quality": "720p",
+            "size": 534.35,
+            "_id": "69ba94386ae1a2f455621886"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "fuels class 01",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/fuels class 01.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "69ba3a3ba96048112f431a79",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 74
+        }
+      },
+      {
+        "title": "Chemistry in Daily life  | By Harish Sir",
+        "description": "RF 1, 2 Sci Spl 1 ,2 , Selection Batch 1,2,3,4,5",
+        "teacherName": "HARISH SIR",
+        "duration": 3444,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69bb9c0402b07cbc32ee52f4/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69bb9c0402b07cbc32ee52f4/output_720p.mp4",
+            "quality": "720p",
+            "size": 552.45,
+            "_id": "69de491c729d39fb915efba0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69bb9c0402b07cbc32ee52f4/output_480p.mp4",
+            "quality": "480p",
+            "size": 358.22,
+            "_id": "69de491c729d39fb915efba1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69bb9c0402b07cbc32ee52f4/output_360p.mp4",
+            "quality": "360p",
+            "size": 264.1,
+            "_id": "69de491c729d39fb915efba2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69bb9c0402b07cbc32ee52f4/output_240p.mp4",
+            "quality": "240p",
+            "size": 222.81,
+            "_id": "69de491c729d39fb915efba3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "chemistry dailiy life",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/chemistry dailiy life.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "69bb9c0402b07cbc32ee52f4",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 74
+        }
+      },
+      {
+        "title": "Chemistry in Daily life || By Harish Sir",
+        "description": "RF 1, 2 Sci Spl 1 ,2 , Selection Batch 1,2,3,4,5",
+        "teacherName": "HARISH SIR",
+        "duration": 2192,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69e0ab6d22cc6f4d5f79a584/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e0ab6d22cc6f4d5f79a584/output_720p.mp4",
+            "quality": "720p",
+            "size": 350.18,
+            "_id": "69e0e49f2e3616627a9df904"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e0ab6d22cc6f4d5f79a584/output_480p.mp4",
+            "quality": "480p",
+            "size": 225.61,
+            "_id": "69e0e49f2e3616627a9df905"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e0ab6d22cc6f4d5f79a584/output_360p.mp4",
+            "quality": "360p",
+            "size": 165.12,
+            "_id": "69e0e49f2e3616627a9df906"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e0ab6d22cc6f4d5f79a584/output_240p.mp4",
+            "quality": "240p",
+            "size": 137.54,
+            "_id": "69e0e49f2e3616627a9df907"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "chemistry daily lifestyle class 02",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/chemistry daily lifestyle class 02.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "69e0ab6d22cc6f4d5f79a584",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 74
+        }
+      },
+      {
+        "title": "Chemistry in Daily life III By Harish Sir",
+        "description": "RF 1, 2 Sci Spl 1 ,2 , Selection Batch 1,2,3,4,5",
+        "teacherName": "HARISH SIR",
+        "duration": 2425,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69e2063c22cc6f4d5f84758e/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e2063c22cc6f4d5f84758e/output_720p.mp4",
+            "quality": "720p",
+            "size": 384.24,
+            "_id": "69e2373e58eb8d9db28f308b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e2063c22cc6f4d5f84758e/output_480p.mp4",
+            "quality": "480p",
+            "size": 245.23,
+            "_id": "69e2373e58eb8d9db28f308c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e2063c22cc6f4d5f84758e/output_360p.mp4",
+            "quality": "360p",
+            "size": 177.96,
+            "_id": "69e2373e58eb8d9db28f308d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69e2063c22cc6f4d5f84758e/output_240p.mp4",
+            "quality": "240p",
+            "size": 146.19,
+            "_id": "69e2373e58eb8d9db28f308e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "chemistry daily life  class 3",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/chemistry daily life  class 3.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "69e2063c22cc6f4d5f84758e",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 74
+        }
       }
     ],
     "Physics": [
@@ -31157,6 +31696,55 @@
           "topicId": "6a0d4e7fb927c1a84ae1a601",
           "rawRecordIndex": 74
         }
+      },
+      {
+        "title": "Class-11 | LCM & HCF (ल.स.प.और म.स.प.) | By Gagan Sir",
+        "description": "\"Railway 1,2,3,4,5\r\nRRB Group D\"",
+        "teacherName": "Gagan sir",
+        "duration": 4657,
+        "startDate": "2026-07-03T05:30:00.000Z",
+        "endDate": "2026-07-03T05:25:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a468b3cb927c1a84a9705ff/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468b3cb927c1a84a9705ff/output_720p.mp4",
+            "quality": "720p",
+            "size": 664.41,
+            "_id": "6a4762e52631e9eb3be15e9a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468b3cb927c1a84a9705ff/output_480p.mp4",
+            "quality": "480p",
+            "size": 450.12,
+            "_id": "6a4762e52631e9eb3be15e9b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468b3cb927c1a84a9705ff/output_360p.mp4",
+            "quality": "360p",
+            "size": 320.92,
+            "_id": "6a4762e52631e9eb3be15e9c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468b3cb927c1a84a9705ff/output_240p.mp4",
+            "quality": "240p",
+            "size": 226.86,
+            "_id": "6a4762e52631e9eb3be15e9d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "lcmm class 11 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/lcmm class 11 pdf by gagan sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "6a468b3cb927c1a84a9705ff",
+          "topicId": "6a0d4e7fb927c1a84ae1a601",
+          "rawRecordIndex": 74
+        }
       }
     ],
     "World Geography": [
@@ -34308,7 +34896,13 @@
             "_id": "6a45e2758b1eb266bf441b1c"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Syllogism Class 005 By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Syllogism Class 005 By Deepak Sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a440de5b927c1a84a71e3bf",
@@ -34351,10 +34945,59 @@
             "_id": "6a4737ac2631e9eb3baf915a"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Order and Ranking  Class 001 By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Order and Ranking  Class 001 By Deepak Sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a468975b927c1a84a956099",
+          "topicId": "69ae68cc7b3188015e0551dd",
+          "rawRecordIndex": 74
+        }
+      },
+      {
+        "title": "Class-02 || Order & Ranking By Deepak Sir",
+        "description": "\"*Railway Foundation Batch ,2 ,3 4,5\r\n*RRB Group D \r\n\"",
+        "teacherName": "deepak sir",
+        "duration": 3524,
+        "startDate": "2026-07-04T02:30:00.000Z",
+        "endDate": "2026-07-04T03:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a479f225bac0ae4ba70cb73/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a479f225bac0ae4ba70cb73/output_720p.mp4",
+            "quality": "720p",
+            "size": 491.55,
+            "_id": "6a488439b104268c3f2e0eca"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a479f225bac0ae4ba70cb73/output_480p.mp4",
+            "quality": "480p",
+            "size": 331.63,
+            "_id": "6a488439b104268c3f2e0ecb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a479f225bac0ae4ba70cb73/output_360p.mp4",
+            "quality": "360p",
+            "size": 234.25,
+            "_id": "6a488439b104268c3f2e0ecc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a479f225bac0ae4ba70cb73/output_240p.mp4",
+            "quality": "240p",
+            "size": 168.12,
+            "_id": "6a488439b104268c3f2e0ecd"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "6a479f225bac0ae4ba70cb73",
           "topicId": "69ae68cc7b3188015e0551dd",
           "rawRecordIndex": 74
         }
@@ -35795,6 +36438,147 @@
           "topicId": "695d21ce027f25d29e788206",
           "rawRecordIndex": 74
         }
+      },
+      {
+        "title": "Class - 01 | Unit and Dimension MCQ | by Harish sir",
+        "description": "railway",
+        "teacherName": "HARISH SIR",
+        "duration": 2983,
+        "startDate": "2026-06-24T15:30:00.000Z",
+        "endDate": "2026-06-24T16:42:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3bddf0b927c1a84a11585b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3bddf0b927c1a84a11585b/output_720p.mp4",
+            "quality": "720p",
+            "size": 443.22,
+            "_id": "6a3c09a78b1eb266bfd627e1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3bddf0b927c1a84a11585b/output_480p.mp4",
+            "quality": "480p",
+            "size": 300.3,
+            "_id": "6a3c09a78b1eb266bfd627e2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3bddf0b927c1a84a11585b/output_360p.mp4",
+            "quality": "360p",
+            "size": 208.07,
+            "_id": "6a3c09a78b1eb266bfd627e3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3bddf0b927c1a84a11585b/output_240p.mp4",
+            "quality": "240p",
+            "size": 159.43,
+            "_id": "6a3c09a78b1eb266bfd627e4"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "unit and dimension class 0001 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/unit and dimension class 0001 pdf by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "6a3bddf0b927c1a84a11585b",
+          "topicId": "695d21ce027f25d29e788206",
+          "rawRecordIndex": 74
+        }
+      },
+      {
+        "title": "Class - 02 | Unit and Dimension MCQ | by Harish sir",
+        "description": "\"NCERT Science Foundation Batch 2026-27,\r\nScience Booster Batch,\r\nRAILWAY 1,2,3,4,5\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 2831,
+        "startDate": "2026-06-30T15:30:00.000Z",
+        "endDate": "2026-06-30T16:37:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3d0a7bb927c1a84a27a8a3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3d0a7bb927c1a84a27a8a3/output_720p.mp4",
+            "quality": "720p",
+            "size": 425.7,
+            "_id": "6a43f0412631e9eb3bde0ab1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3d0a7bb927c1a84a27a8a3/output_480p.mp4",
+            "quality": "480p",
+            "size": 290.28,
+            "_id": "6a43f0412631e9eb3bde0ab2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3d0a7bb927c1a84a27a8a3/output_360p.mp4",
+            "quality": "360p",
+            "size": 202.26,
+            "_id": "6a43f0412631e9eb3bde0ab3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3d0a7bb927c1a84a27a8a3/output_240p.mp4",
+            "quality": "240p",
+            "size": 156.88,
+            "_id": "6a43f0412631e9eb3bde0ab4"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "6a3d0a7bb927c1a84a27a8a3",
+          "topicId": "695d21ce027f25d29e788206",
+          "rawRecordIndex": 74
+        }
+      },
+      {
+        "title": "Class - 03 | Unit and Dimension MCQ | by Harish sir",
+        "description": "\"NCERT Science Foundation Batch 2026-27,\r\nScience Booster Batch,\r\nRAILWAY 1,2,3,4,5\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 5043,
+        "startDate": "2026-07-02T15:30:00.000Z",
+        "endDate": "2026-07-02T16:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a42439fb927c1a84a594444/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a42439fb927c1a84a594444/output_720p.mp4",
+            "quality": "720p",
+            "size": 761.83,
+            "_id": "6a46a0541386d236be1aa82d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a42439fb927c1a84a594444/output_480p.mp4",
+            "quality": "480p",
+            "size": 522.69,
+            "_id": "6a46a0541386d236be1aa82e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a42439fb927c1a84a594444/output_360p.mp4",
+            "quality": "360p",
+            "size": 364.4,
+            "_id": "6a46a0541386d236be1aa82f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a42439fb927c1a84a594444/output_240p.mp4",
+            "quality": "240p",
+            "size": 281.27,
+            "_id": "6a46a0541386d236be1aa830"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "unit dimension mcq class 0003 pdf byy harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/unit dimension mcq class 0003 pdf byy harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "6a42439fb927c1a84a594444",
+          "topicId": "695d21ce027f25d29e788206",
+          "rawRecordIndex": 74
+        }
       }
     ],
     "Indian Geography": [
@@ -37130,143 +37914,6 @@
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6969de06b6cbd07fbf86297c",
           "topicId": "6953d4e02feca20f819e3e9f",
-          "rawRecordIndex": 74
-        }
-      }
-    ],
-    "Practice Class": [
-      {
-        "title": "Class - 01 | Unit and Dimension MCQ | by Harish sir",
-        "description": "railway",
-        "teacherName": "HARISH SIR",
-        "duration": 2983,
-        "startDate": "2026-06-24T15:30:00.000Z",
-        "endDate": "2026-06-24T16:42:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3bddf0b927c1a84a11585b/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3bddf0b927c1a84a11585b/output_720p.mp4",
-            "quality": "720p",
-            "size": 443.22,
-            "_id": "6a3c09a78b1eb266bfd627e1"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3bddf0b927c1a84a11585b/output_480p.mp4",
-            "quality": "480p",
-            "size": 300.3,
-            "_id": "6a3c09a78b1eb266bfd627e2"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3bddf0b927c1a84a11585b/output_360p.mp4",
-            "quality": "360p",
-            "size": 208.07,
-            "_id": "6a3c09a78b1eb266bfd627e3"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3bddf0b927c1a84a11585b/output_240p.mp4",
-            "quality": "240p",
-            "size": 159.43,
-            "_id": "6a3c09a78b1eb266bfd627e4"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "unit and dimension class 0001 pdf by harish sir",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/unit and dimension class 0001 pdf by harish sir.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "699eb686a2b1ae04330b857f",
-          "classId": "6a3bddf0b927c1a84a11585b",
-          "topicId": "6a3bdde2b927c1a84a115847",
-          "rawRecordIndex": 74
-        }
-      },
-      {
-        "title": "Class - 02 | Unit and Dimension MCQ | by Harish sir",
-        "description": "\"NCERT Science Foundation Batch 2026-27,\r\nScience Booster Batch,\r\nRAILWAY 1,2,3,4,5\r\nRRB Group D\"",
-        "teacherName": "HARISH SIR",
-        "duration": 2831,
-        "startDate": "2026-06-30T15:30:00.000Z",
-        "endDate": "2026-06-30T16:37:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3d0a7bb927c1a84a27a8a3/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3d0a7bb927c1a84a27a8a3/output_720p.mp4",
-            "quality": "720p",
-            "size": 425.7,
-            "_id": "6a43f0412631e9eb3bde0ab1"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3d0a7bb927c1a84a27a8a3/output_480p.mp4",
-            "quality": "480p",
-            "size": 290.28,
-            "_id": "6a43f0412631e9eb3bde0ab2"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3d0a7bb927c1a84a27a8a3/output_360p.mp4",
-            "quality": "360p",
-            "size": 202.26,
-            "_id": "6a43f0412631e9eb3bde0ab3"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3d0a7bb927c1a84a27a8a3/output_240p.mp4",
-            "quality": "240p",
-            "size": 156.88,
-            "_id": "6a43f0412631e9eb3bde0ab4"
-          }
-        ],
-        "classPdf": [],
-        "source": {
-          "courseId": "699eb686a2b1ae04330b857f",
-          "classId": "6a3d0a7bb927c1a84a27a8a3",
-          "topicId": "6a3bdde2b927c1a84a115847",
-          "rawRecordIndex": 74
-        }
-      },
-      {
-        "title": "Class - 03 | Unit and Dimension MCQ | by Harish sir",
-        "description": "\"NCERT Science Foundation Batch 2026-27,\r\nScience Booster Batch,\r\nRAILWAY 1,2,3,4,5\r\nRRB Group D\"",
-        "teacherName": "HARISH SIR",
-        "duration": 5043,
-        "startDate": "2026-07-02T15:30:00.000Z",
-        "endDate": "2026-07-02T16:30:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a42439fb927c1a84a594444/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a42439fb927c1a84a594444/output_720p.mp4",
-            "quality": "720p",
-            "size": 761.83,
-            "_id": "6a46a0541386d236be1aa82d"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a42439fb927c1a84a594444/output_480p.mp4",
-            "quality": "480p",
-            "size": 522.69,
-            "_id": "6a46a0541386d236be1aa82e"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a42439fb927c1a84a594444/output_360p.mp4",
-            "quality": "360p",
-            "size": 364.4,
-            "_id": "6a46a0541386d236be1aa82f"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a42439fb927c1a84a594444/output_240p.mp4",
-            "quality": "240p",
-            "size": 281.27,
-            "_id": "6a46a0541386d236be1aa830"
-          }
-        ],
-        "classPdf": [],
-        "source": {
-          "courseId": "699eb686a2b1ae04330b857f",
-          "classId": "6a42439fb927c1a84a594444",
-          "topicId": "6a3bdde2b927c1a84a115847",
           "rawRecordIndex": 74
         }
       }

@@ -1,6 +1,6 @@
 {
   "courseName": "Science Booster Batch",
-  "extractedAt": "2026-07-03T04:36:53+0000",
+  "extractedAt": "2026-07-04T04:07:51+0000",
   "videos": {
     "Introduction": [
       {
@@ -2499,54 +2499,7 @@
           "topicId": "695d21ce027f25d29e788206",
           "rawRecordIndex": 95
         }
-      }
-    ],
-    "Information": [
-      {
-        "title": "Class Information by Harish sir",
-        "description": "",
-        "teacherName": "HARISH SIR",
-        "duration": 227.383,
-        "startDate": "2026-01-07T16:53:23.989Z",
-        "endDate": "2026-01-07T16:53:23.989Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/695e8f3b027f25d29eeb0f27/hls/master.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/695e8f3b027f25d29eeb0f27/mp4/My_Video_1_240p.mp4",
-            "quality": "240p",
-            "size": 17.25,
-            "_id": "695e9054027f25d29ef88c18"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/695e8f3b027f25d29eeb0f27/mp4/My_Video_1_360p.mp4",
-            "quality": "360p",
-            "size": 20.1,
-            "_id": "695e9054027f25d29ef88c19"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/695e8f3b027f25d29eeb0f27/mp4/My_Video_1_480p.mp4",
-            "quality": "480p",
-            "size": 26.72,
-            "_id": "695e9054027f25d29ef88c1a"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/695e8f3b027f25d29eeb0f27/mp4/My_Video_1_720p.mp4",
-            "quality": "720p",
-            "size": 38.92,
-            "_id": "695e9054027f25d29ef88c1b"
-          }
-        ],
-        "classPdf": [],
-        "source": {
-          "courseId": "6943f165cd0a679bc120abf4",
-          "classId": "695e8f3b027f25d29eeb0f27",
-          "topicId": "695b6b972feca20f81c0c005",
-          "rawRecordIndex": 95
-        }
-      }
-    ],
-    "Practice Class": [
+      },
       {
         "title": "Class - 01 | Unit and Dimension MCQ | by Harish sir",
         "description": "railway",
@@ -2592,7 +2545,7 @@
         "source": {
           "courseId": "6943f165cd0a679bc120abf4",
           "classId": "6a3bddf0b927c1a84a11585b",
-          "topicId": "6a3bdde2b927c1a84a115847",
+          "topicId": "695d21ce027f25d29e788206",
           "rawRecordIndex": 95
         }
       },
@@ -2635,7 +2588,7 @@
         "source": {
           "courseId": "6943f165cd0a679bc120abf4",
           "classId": "6a3d0a7bb927c1a84a27a8a3",
-          "topicId": "6a3bdde2b927c1a84a115847",
+          "topicId": "695d21ce027f25d29e788206",
           "rawRecordIndex": 95
         }
       },
@@ -2674,11 +2627,62 @@
             "_id": "6a46a0541386d236be1aa830"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "unit dimension mcq class 0003 pdf byy harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/unit dimension mcq class 0003 pdf byy harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6943f165cd0a679bc120abf4",
           "classId": "6a42439fb927c1a84a594444",
-          "topicId": "6a3bdde2b927c1a84a115847",
+          "topicId": "695d21ce027f25d29e788206",
+          "rawRecordIndex": 95
+        }
+      }
+    ],
+    "Information": [
+      {
+        "title": "Class Information by Harish sir",
+        "description": "",
+        "teacherName": "HARISH SIR",
+        "duration": 227.383,
+        "startDate": "2026-01-07T16:53:23.989Z",
+        "endDate": "2026-01-07T16:53:23.989Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/695e8f3b027f25d29eeb0f27/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/695e8f3b027f25d29eeb0f27/mp4/My_Video_1_240p.mp4",
+            "quality": "240p",
+            "size": 17.25,
+            "_id": "695e9054027f25d29ef88c18"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/695e8f3b027f25d29eeb0f27/mp4/My_Video_1_360p.mp4",
+            "quality": "360p",
+            "size": 20.1,
+            "_id": "695e9054027f25d29ef88c19"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/695e8f3b027f25d29eeb0f27/mp4/My_Video_1_480p.mp4",
+            "quality": "480p",
+            "size": 26.72,
+            "_id": "695e9054027f25d29ef88c1a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/695e8f3b027f25d29eeb0f27/mp4/My_Video_1_720p.mp4",
+            "quality": "720p",
+            "size": 38.92,
+            "_id": "695e9054027f25d29ef88c1b"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6943f165cd0a679bc120abf4",
+          "classId": "695e8f3b027f25d29eeb0f27",
+          "topicId": "695b6b972feca20f81c0c005",
           "rawRecordIndex": 95
         }
       }

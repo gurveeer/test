@@ -1,6 +1,6 @@
 {
   "courseName": "Maths संपूर्ण Batch 30 days",
-  "extractedAt": "2026-07-03T04:36:53+0000",
+  "extractedAt": "2026-07-04T04:07:51+0000",
   "videos": {
     "Introduction": [
       {
@@ -30,13 +30,31 @@
         "duration": 0,
         "startDate": "2026-07-01T14:30:00.000Z",
         "endDate": "2026-07-01T17:00:00.000Z",
-        "isFree": false,
+        "isFree": true,
         "videoUrl": "https://www.youtube.com/watch?v=UcyVdjr-ObY",
         "mp4Recordings": [],
         "classPdf": [],
         "source": {
           "courseId": "6a3fe6b8b927c1a84a453df2",
           "classId": "6a44afdbb927c1a84a7a1063",
+          "topicId": "6a0d4e7fb927c1a84ae1a601",
+          "rawRecordIndex": 5
+        }
+      },
+      {
+        "title": "Class - 02 || Number System (संख्या पद्धति) || by Gagan sir",
+        "description": "complete maths",
+        "teacherName": "Gagan Sir",
+        "duration": 0,
+        "startDate": "2026-07-03T14:30:00.000Z",
+        "endDate": "2026-07-03T17:55:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://www.youtube.com/watch?v=2e8bI1GCwlo",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a3fe6b8b927c1a84a453df2",
+          "classId": "6a476ac15bac0ae4ba642484",
           "topicId": "6a0d4e7fb927c1a84ae1a601",
           "rawRecordIndex": 5
         }

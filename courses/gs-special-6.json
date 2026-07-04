@@ -1,6 +1,6 @@
 {
   "courseName": "GS Special-6",
-  "extractedAt": "2026-07-03T04:36:53+0000",
+  "extractedAt": "2026-07-04T04:07:51+0000",
   "videos": {
     "Introduction": [
       {
@@ -3934,7 +3934,7 @@
         }
       },
       {
-        "title": "Class - 14 | Questions Exercise By Varun Sir - new class",
+        "title": "Class - 14 | Questions Exercise By Varun Sir",
         "description": "\" GS Special- 06, 07, 08\r\n Selection Batch - 06, 07, 08\" yt replace",
         "teacherName": "Varun Sir",
         "duration": 2709.60612,
@@ -4322,38 +4322,38 @@
         }
       },
       {
-        "title": "Class -03 | Phase I: Solar System || by Varun sir",
+        "title": "Class -03 | Phase I: Solar System || by Varun sir - NEW CLASS",
         "description": "\" GS Special- 05, 06, 07, 08, 09\r\n Selection Batch - 05, 06, 07, 08, 09\"",
         "teacherName": "Varun Sir",
-        "duration": 1957,
-        "startDate": "2026-06-25T15:30:00.000Z",
-        "endDate": "2026-06-25T16:32:00.000Z",
+        "duration": 3863.800391,
+        "startDate": "2026-06-29T07:26:00.000Z",
+        "endDate": "2026-06-29T08:26:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3cce42b927c1a84a1f27bf/playlist-mpl-vod.m3u8",
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a475a255bac0ae4ba614213/hls/master.m3u8",
         "mp4Recordings": [
           {
-            "url": "https://selectionwayrecorded.hranker.com/6a3cce42b927c1a84a1f27bf/output_720p.mp4",
-            "quality": "720p",
-            "size": 316.72,
-            "_id": "6a3d5abb2631e9eb3b16b543"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3cce42b927c1a84a1f27bf/output_480p.mp4",
-            "quality": "480p",
-            "size": 210.59,
-            "_id": "6a3d5abb2631e9eb3b16b544"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3cce42b927c1a84a1f27bf/output_360p.mp4",
-            "quality": "360p",
-            "size": 151.91,
-            "_id": "6a3d5abb2631e9eb3b16b545"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3cce42b927c1a84a1f27bf/output_240p.mp4",
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a475a255bac0ae4ba614213/mp4/SELECTION_BATCH_5_6_7_8_9_GS_5_6_7_8_9_Geography_Class_04_BY_VARUN_SIR_240p.mp4",
             "quality": "240p",
-            "size": 117.42,
-            "_id": "6a3d5abb2631e9eb3b16b546"
+            "size": 278.48,
+            "_id": "6a475fea2631e9eb3bb04667"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a475a255bac0ae4ba614213/mp4/SELECTION_BATCH_5_6_7_8_9_GS_5_6_7_8_9_Geography_Class_04_BY_VARUN_SIR_360p.mp4",
+            "quality": "360p",
+            "size": 324.29,
+            "_id": "6a475fea2631e9eb3bb04668"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a475a255bac0ae4ba614213/mp4/SELECTION_BATCH_5_6_7_8_9_GS_5_6_7_8_9_Geography_Class_04_BY_VARUN_SIR_480p.mp4",
+            "quality": "480p",
+            "size": 438.02,
+            "_id": "6a475fea2631e9eb3bb04669"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a475a255bac0ae4ba614213/mp4/SELECTION_BATCH_5_6_7_8_9_GS_5_6_7_8_9_Geography_Class_04_BY_VARUN_SIR_720p.mp4",
+            "quality": "720p",
+            "size": 642.35,
+            "_id": "6a475fea2631e9eb3bb0466a"
           }
         ],
         "classPdf": [
@@ -4365,7 +4365,7 @@
         ],
         "source": {
           "courseId": "69ae9d95a2b1ae04337ad475",
-          "classId": "6a3cce42b927c1a84a1f27bf",
+          "classId": "6a475a255bac0ae4ba614213",
           "topicId": "696db9e5719de161eef1358c",
           "rawRecordIndex": 71
         }
