@@ -1,6 +1,6 @@
 {
   "courseName": "SSC special 5000 MCQ batch",
-  "extractedAt": "2026-07-04T04:07:51+0000",
+  "extractedAt": "2026-07-05T04:36:46+0000",
   "videos": {
     "Introduction": [
       {
@@ -371,7 +371,13 @@
             "_id": "6a4687352631e9eb3b5dbb29"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "ancient india class 0007 pdf by jeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/ancient india class 0007 pdf by jeet sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a463cb0b927c1a84a9072c2",

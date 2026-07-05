@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation Batch -3",
-  "extractedAt": "2026-07-04T04:07:51+0000",
+  "extractedAt": "2026-07-05T04:36:46+0000",
   "videos": {
     "Arithmetic": [
       {
@@ -34994,7 +34994,13 @@
             "_id": "6a488439b104268c3f2e0ecd"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Order and Ranking Class 002 By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Order and Ranking Class 002 By Deepak Sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a479f225bac0ae4ba70cb73",
@@ -37210,7 +37216,13 @@
             "_id": "6a4631298b1eb266bf106be3"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "plains and plateau class 005 pdf by jeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/ganaga river-2pm-2july (1).pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a45fa3ab927c1a84a89acdd",

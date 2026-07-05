@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch-5",
-  "extractedAt": "2026-07-04T04:07:51+0000",
+  "extractedAt": "2026-07-05T04:36:46+0000",
   "videos": {
     "Grammar (Live Classes)": [
       {
@@ -43998,7 +43998,13 @@
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a44eb9eb927c1a84a7fa7fd/hls/master.m3u8",
         "mp4Recordings": [],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "atom and molecule class 003 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/atom and molecule class 001 pdf by harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "698481c9fdd21a8a2d18ac5b",
           "classId": "6a44eb9eb927c1a84a7fa7fd",

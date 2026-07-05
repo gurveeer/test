@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-04T04:07:51+0000",
+  "generatedAt": "2026-07-05T04:36:46+0000",
   "source": {
     "mode": "all",
-    "rawExportFile": "/home/runner/work/test/test/FILES/delta_study_courses_export_20260704_040749.json",
+    "rawExportFile": "/home/runner/work/test/test/FILES/delta_study_courses_export_20260705_043644.json",
     "rawCourseCount": 110,
     "appCourseCount": 110
   },
@@ -18,8 +18,8 @@
       "price": 4999,
       "discountPrice": 1599,
       "validity": "2 years",
-      "subjectCount": 0,
-      "videoCount": 0,
+      "subjectCount": 6,
+      "videoCount": 264,
       "dataFile": "courses/selection-batch-10.json"
     },
     {
@@ -48,8 +48,8 @@
       "price": 2999,
       "discountPrice": 999,
       "validity": "2 years",
-      "subjectCount": 0,
-      "videoCount": 0,
+      "subjectCount": 6,
+      "videoCount": 264,
       "dataFile": "courses/english-special-10.json"
     },
     {
@@ -169,7 +169,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 21,
-      "videoCount": 637,
+      "videoCount": 638,
       "dataFile": "courses/selection-batch-7.json"
     },
     {
@@ -424,7 +424,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 15,
-      "videoCount": 486,
+      "videoCount": 487,
       "dataFile": "courses/selection-batch-8.json"
     },
     {
@@ -439,7 +439,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 8,
-      "videoCount": 296,
+      "videoCount": 297,
       "dataFile": "courses/english-special-7.json"
     },
     {
@@ -484,7 +484,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 15,
-      "videoCount": 426,
+      "videoCount": 427,
       "dataFile": "courses/selection-batch-9.json"
     },
     {
@@ -514,7 +514,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 8,
-      "videoCount": 297,
+      "videoCount": 298,
       "dataFile": "courses/english-special-9.json"
     },
     {
@@ -694,7 +694,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 7,
-      "videoCount": 295,
+      "videoCount": 296,
       "dataFile": "courses/english-special-8.json"
     },
     {
@@ -859,7 +859,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 22,
-      "videoCount": 825,
+      "videoCount": 826,
       "dataFile": "courses/selection-batch-6.json"
     },
     {
@@ -1009,7 +1009,7 @@
       "discountPrice": 1,
       "validity": "2 years",
       "subjectCount": 8,
-      "videoCount": 296,
+      "videoCount": 297,
       "dataFile": "courses/english-special-6.json"
     },
     {
@@ -1659,8 +1659,8 @@
     }
   ],
   "stats": {
-    "appVideoCount": 29331,
+    "appVideoCount": 29867,
     "skippedInactiveCourses": 0,
-    "skippedEmptyRows": 16
+    "skippedEmptyRows": 8
   }
 }

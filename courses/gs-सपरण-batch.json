@@ -1,6 +1,6 @@
 {
   "courseName": "GS संपूर्ण Batch",
-  "extractedAt": "2026-07-04T04:07:51+0000",
+  "extractedAt": "2026-07-05T04:36:46+0000",
   "videos": {
     "HISTORY": [
       {
@@ -1945,7 +1945,13 @@
         "isFree": false,
         "videoUrl": "https://www.youtube.com/watch?v=DjfVRSPk-VM",
         "mp4Recordings": [],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Indian Geography Class 12 by shubham sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Indian Geography Class 12 by shubham sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "698487d5fdd21a8a2d1a5270",
           "classId": "6a438a92b927c1a84a68787d",
@@ -1963,7 +1969,13 @@
         "isFree": false,
         "videoUrl": "https://www.youtube.com/watch?v=bgazAfcDygo",
         "mp4Recordings": [],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Indian Geography Class 13 PDF by shubham sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Indian Geography Class 13 PDF by shubham sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "698487d5fdd21a8a2d1a5270",
           "classId": "6a451ac5b927c1a84a84ebdd",
@@ -1981,7 +1993,13 @@
         "isFree": false,
         "videoUrl": "https://www.youtube.com/watch?v=aNqNH8vHoGA",
         "mp4Recordings": [],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Indian Geography Class 14 PDF by shubham sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Indian Geography Class 14 PDF by shubham sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "698487d5fdd21a8a2d1a5270",
           "classId": "6a468c1fb927c1a84a9832fd",
@@ -1999,7 +2017,13 @@
         "isFree": false,
         "videoUrl": "https://www.youtube.com/watch?v=sLf7o_XOkpI",
         "mp4Recordings": [],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Indian Geography class 15 PDF by shubham sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Indian Geography class 15 PDF by shubham sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "698487d5fdd21a8a2d1a5270",
           "classId": "6a4791ce5bac0ae4ba6dee40",

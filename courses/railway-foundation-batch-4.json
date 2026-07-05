@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation Batch -4",
-  "extractedAt": "2026-07-04T04:07:51+0000",
+  "extractedAt": "2026-07-05T04:36:46+0000",
   "videos": {
     "Physics": [
       {
@@ -7977,7 +7977,13 @@
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a44eb9eb927c1a84a7fa7fd/hls/master.m3u8",
         "mp4Recordings": [],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "atom and molecule class 003 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/atom and molecule class 001 pdf by harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69eb26c022cc6f4d5fd1b02e",
           "classId": "6a44eb9eb927c1a84a7fa7fd",
@@ -11551,7 +11557,13 @@
             "_id": "6a488439b104268c3f2e0ecd"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Order and Ranking Class 002 By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Order and Ranking Class 002 By Deepak Sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69eb26c022cc6f4d5fd1b02e",
           "classId": "6a479f225bac0ae4ba70cb73",
@@ -27144,7 +27156,13 @@
             "_id": "6a4631298b1eb266bf106be3"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "plains and plateau class 005 pdf by jeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/ganaga river-2pm-2july (1).pdf"
+          }
+        ],
         "source": {
           "courseId": "69eb26c022cc6f4d5fd1b02e",
           "classId": "6a45fa3ab927c1a84a89acdd",

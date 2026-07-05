@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation Batch",
-  "extractedAt": "2026-07-04T04:07:51+0000",
+  "extractedAt": "2026-07-05T04:36:46+0000",
   "videos": {
     "Arithmetic": [
       {
@@ -33037,7 +33037,13 @@
             "_id": "6a4631298b1eb266bf106be3"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "plains and plateau class 005 pdf by jeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/ganaga river-2pm-2july (1).pdf"
+          }
+        ],
         "source": {
           "courseId": "69204816dd258fd323a45956",
           "classId": "6a45fa3ab927c1a84a89acdd",

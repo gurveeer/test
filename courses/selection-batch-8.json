@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch - 8",
-  "extractedAt": "2026-07-04T04:07:51+0000",
+  "extractedAt": "2026-07-05T04:36:46+0000",
   "videos": {
     "ARITHMETIC": [
       {
@@ -23309,6 +23309,60 @@
         "source": {
           "courseId": "69f990f7b927c1a84afd2673",
           "classId": "6a468aecb927c1a84a96c99f",
+          "topicId": "696e0150719de161eef5677e",
+          "rawRecordIndex": 27
+        }
+      },
+      {
+        "title": "Class -30 | Adjective lec- 05 | by Aman sir",
+        "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
+        "teacherName": "AMAN SIR",
+        "duration": 7760,
+        "startDate": "2026-07-04T05:30:00.000Z",
+        "endDate": "2026-07-04T07:21:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a479a135bac0ae4ba6fd6d0/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a479a135bac0ae4ba6fd6d0/output_720p.mp4",
+            "quality": "720p",
+            "size": 1114.84,
+            "_id": "6a48c14bb104268c3f4d6af1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a479a135bac0ae4ba6fd6d0/output_480p.mp4",
+            "quality": "480p",
+            "size": 759.68,
+            "_id": "6a48c14bb104268c3f4d6af2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a479a135bac0ae4ba6fd6d0/output_360p.mp4",
+            "quality": "360p",
+            "size": 534.78,
+            "_id": "6a48c14bb104268c3f4d6af3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a479a135bac0ae4ba6fd6d0/output_240p.mp4",
+            "quality": "240p",
+            "size": 402.14,
+            "_id": "6a48c14bb104268c3f4d6af4"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Adjective lec-5 without annotations _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Adjective lec-5 without annotations _.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Adjective lec-5 with annotations _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Adjective lec-5 with annotations _.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990f7b927c1a84afd2673",
+          "classId": "6a479a135bac0ae4ba6fd6d0",
           "topicId": "696e0150719de161eef5677e",
           "rawRecordIndex": 27
         }
