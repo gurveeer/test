@@ -1,6 +1,6 @@
 {
   "courseName": "English Special-6",
-  "extractedAt": "2026-07-05T04:36:46+0000",
+  "extractedAt": "2026-07-06T04:47:28+0000",
   "videos": {
     "Vocab": [
       {
@@ -15581,6 +15581,40 @@
         "source": {
           "courseId": "69ae9da2a2b1ae04337afa76",
           "classId": "6a479a135bac0ae4ba6fd6d0",
+          "topicId": "696e0150719de161eef5677e",
+          "rawRecordIndex": 66
+        }
+      },
+      {
+        "title": "Class -31 | Adjective practice Class || by Aman sir",
+        "description": "english 6 ,7,8,9,",
+        "teacherName": "AMAN SIR",
+        "duration": 0,
+        "startDate": "2026-07-05T05:23:00.000Z",
+        "endDate": "2026-07-05T04:23:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6919d6e7932c0deb706bb0ec/hls/master.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "ADJECTIVE PRACTICE SLIDES",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/ADJECTIVE PRACTICE SLIDES.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Adjective Practice sheet",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Adjective Practice sheet.pdf"
+          },
+          {
+            "priority": 3,
+            "name": "ADJECTIVE PYQs CONCISE SHEET",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/ADJECTIVE PYQs CONCISE SHEET-2.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69ae9da2a2b1ae04337afa76",
+          "classId": "6a49e3ba5bac0ae4ba7cdcf6",
           "topicId": "696e0150719de161eef5677e",
           "rawRecordIndex": 66
         }

@@ -1,6 +1,6 @@
 {
   "courseName": "CGL RAPID BATCH",
-  "extractedAt": "2026-07-05T04:36:46+0000",
+  "extractedAt": "2026-07-06T04:47:28+0000",
   "videos": {
     "Introduction": [
       {
@@ -509,6 +509,24 @@
         "source": {
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a45b9f1b927c1a84a876c31",
+          "topicId": "68b9499ea721af475c9a79ac",
+          "rawRecordIndex": 54
+        }
+      },
+      {
+        "title": "Class -11 | Arrival of Europeans | by Jeet rana sir",
+        "description": "CGL RAPID BATCH",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 0,
+        "startDate": "2026-07-06T04:30:00.000Z",
+        "endDate": "2026-07-06T05:27:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a468a1fb927c1a84a96151c/playlist.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a1fe6bbb927c1a84abc606f",
+          "classId": "6a468a1fb927c1a84a96151c",
           "topicId": "68b9499ea721af475c9a79ac",
           "rawRecordIndex": 54
         }
