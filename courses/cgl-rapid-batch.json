@@ -1,6 +1,6 @@
 {
   "courseName": "CGL RAPID BATCH",
-  "extractedAt": "2026-07-06T04:47:28+0000",
+  "extractedAt": "2026-07-07T04:29:38+0000",
   "videos": {
     "Introduction": [
       {
@@ -517,12 +517,37 @@
         "title": "Class -11 | Arrival of Europeans | by Jeet rana sir",
         "description": "CGL RAPID BATCH",
         "teacherName": "Jeet Rana Sir",
-        "duration": 0,
+        "duration": 2953,
         "startDate": "2026-07-06T04:30:00.000Z",
         "endDate": "2026-07-06T05:27:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a468a1fb927c1a84a96151c/playlist.m3u8",
-        "mp4Recordings": [],
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a468a1fb927c1a84a96151c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468a1fb927c1a84a96151c/output_720p.mp4",
+            "quality": "720p",
+            "size": 443.94,
+            "_id": "6a4b4180f3c29aafad875ac7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468a1fb927c1a84a96151c/output_480p.mp4",
+            "quality": "480p",
+            "size": 305.5,
+            "_id": "6a4b4180f3c29aafad875ac8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468a1fb927c1a84a96151c/output_360p.mp4",
+            "quality": "360p",
+            "size": 217.74,
+            "_id": "6a4b4180f3c29aafad875ac9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468a1fb927c1a84a96151c/output_240p.mp4",
+            "quality": "240p",
+            "size": 160.2,
+            "_id": "6a4b4180f3c29aafad875aca"
+          }
+        ],
         "classPdf": [],
         "source": {
           "courseId": "6a1fe6bbb927c1a84abc606f",

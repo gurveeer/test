@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch - 8",
-  "extractedAt": "2026-07-06T04:47:28+0000",
+  "extractedAt": "2026-07-07T04:29:38+0000",
   "videos": {
     "ARITHMETIC": [
       {
@@ -20783,16 +20783,65 @@
         "title": "Class-01 | Numerical operation | Number based reasoning || By balram sir",
         "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08 ,09\r\n Selection Batch 02.03,04  05, 06  & 07, 08 ,09\"",
         "teacherName": "Balram Sir",
-        "duration": 0,
+        "duration": 4063,
         "startDate": "2026-07-06T04:00:00.000Z",
         "endDate": "2026-07-06T05:10:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4b01f65bac0ae4ba80b6b8/playlist.m3u8",
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4b01f65bac0ae4ba80b6b8/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b01f65bac0ae4ba80b6b8/output_720p.mp4",
+            "quality": "720p",
+            "size": 609.66,
+            "_id": "6a4b3c85b104268c3ff901c4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b01f65bac0ae4ba80b6b8/output_480p.mp4",
+            "quality": "480p",
+            "size": 416.6,
+            "_id": "6a4b3c85b104268c3ff901c5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b01f65bac0ae4ba80b6b8/output_360p.mp4",
+            "quality": "360p",
+            "size": 297.14,
+            "_id": "6a4b3c85b104268c3ff901c6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b01f65bac0ae4ba80b6b8/output_240p.mp4",
+            "quality": "240p",
+            "size": 217.37,
+            "_id": "6a4b3c85b104268c3ff901c7"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Numerical Operation 01 BOARD PDF by balram sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Numerical Operation 01 BOARD PDF by balram sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990f7b927c1a84afd2673",
+          "classId": "6a4b01f65bac0ae4ba80b6b8",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 27
+        }
+      },
+      {
+        "title": "Class-02 | Numerical operation | Number based reasoning || By balram sir",
+        "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08 ,09\r\n Selection Batch 02.03,04  05, 06  & 07, 08 ,09\"",
+        "teacherName": "Balram Sir",
+        "duration": 0,
+        "startDate": "2026-07-07T04:00:00.000Z",
+        "endDate": "2026-07-07T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4b536d5bac0ae4ba893e0b/playlist.m3u8",
         "mp4Recordings": [],
         "classPdf": [],
         "source": {
           "courseId": "69f990f7b927c1a84afd2673",
-          "classId": "6a4b01f65bac0ae4ba80b6b8",
+          "classId": "6a4b536d5bac0ae4ba893e0b",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 27
         }
@@ -23418,6 +23467,60 @@
           "topicId": "696e0150719de161eef5677e",
           "rawRecordIndex": 27
         }
+      },
+      {
+        "title": "Class -32 | Verb lec-1 || by Aman sir",
+        "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
+        "teacherName": "AMAN SIR",
+        "duration": 5427,
+        "startDate": "2026-07-06T05:30:00.000Z",
+        "endDate": "2026-07-06T07:28:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4b02a95bac0ae4ba812fd3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b02a95bac0ae4ba812fd3/output_720p.mp4",
+            "quality": "720p",
+            "size": 778.42,
+            "_id": "6a4b58552631e9eb3b36b0db"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b02a95bac0ae4ba812fd3/output_480p.mp4",
+            "quality": "480p",
+            "size": 530.11,
+            "_id": "6a4b58552631e9eb3b36b0dc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b02a95bac0ae4ba812fd3/output_360p.mp4",
+            "quality": "360p",
+            "size": 371.75,
+            "_id": "6a4b58552631e9eb3b36b0dd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b02a95bac0ae4ba812fd3/output_240p.mp4",
+            "quality": "240p",
+            "size": 276.64,
+            "_id": "6a4b58552631e9eb3b36b0de"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Verb lec-1 with annotations _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Verb lec-1 with annotations _.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Verb lec-1 without annotations _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Verb lec-1 without annotations _.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990f7b927c1a84afd2673",
+          "classId": "6a4b02a95bac0ae4ba812fd3",
+          "topicId": "696e0150719de161eef5677e",
+          "rawRecordIndex": 27
+        }
       }
     ],
     "Advance": [
@@ -24552,96 +24655,139 @@
         "title": "Class -07 | Geometry || by Gagan Sir",
         "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08 , 09\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08 , 09\"",
         "teacherName": "Gagan Pratap",
-        "duration": 3734,
-        "startDate": "2026-06-30T13:00:00.000Z",
-        "endDate": "2026-06-30T14:20:00.000Z",
+        "duration": 7326.546,
+        "startDate": "2026-07-04T10:21:00.000Z",
+        "endDate": "2026-07-04T11:21:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a436801b927c1a84a654246/playlist-mpl-vod.m3u8",
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4b5b3a5bac0ae4ba8c1ae2/hls/master.m3u8",
         "mp4Recordings": [
           {
-            "url": "https://selectionwayrecorded.hranker.com/6a436801b927c1a84a654246/output_720p.mp4",
-            "quality": "720p",
-            "size": 552.72,
-            "_id": "6a43d12c2631e9eb3b25f37f"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a436801b927c1a84a654246/output_480p.mp4",
-            "quality": "480p",
-            "size": 378.76,
-            "_id": "6a43d12c2631e9eb3b25f380"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a436801b927c1a84a654246/output_360p.mp4",
-            "quality": "360p",
-            "size": 270.5,
-            "_id": "6a43d12c2631e9eb3b25f381"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a436801b927c1a84a654246/output_240p.mp4",
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4b5b3a5bac0ae4ba8c1ae2/mp4/0706_240p.mp4",
             "quality": "240p",
-            "size": 194.01,
-            "_id": "6a43d12c2631e9eb3b25f382"
+            "size": 517.33,
+            "_id": "6a4b8f37bbe5d19c13e487d3"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4b5b3a5bac0ae4ba8c1ae2/mp4/0706_360p.mp4",
+            "quality": "360p",
+            "size": 617.77,
+            "_id": "6a4b8f37bbe5d19c13e487d4"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4b5b3a5bac0ae4ba8c1ae2/mp4/0706_480p.mp4",
+            "quality": "480p",
+            "size": 828.87,
+            "_id": "6a4b8f37bbe5d19c13e487d5"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4b5b3a5bac0ae4ba8c1ae2/mp4/0706_720p.mp4",
+            "quality": "720p",
+            "size": 1224.47,
+            "_id": "6a4b8f37bbe5d19c13e487d6"
           }
         ],
         "classPdf": [
           {
             "priority": 1,
-            "name": "geometry class 7 pdf by gagan sir",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/sb 6 pm 30 june bp.pdf"
+            "name": "geometry class 0007 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/ilovepdf_merged.pdf"
           }
         ],
         "source": {
           "courseId": "69f990f7b927c1a84afd2673",
-          "classId": "6a436801b927c1a84a654246",
+          "classId": "6a4b5b3a5bac0ae4ba8c1ae2",
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 27
         }
       },
       {
-        "title": "Class -08 | Geometry || by Gagan Sir",
+        "title": "Class -08 || Geometry || by Gagan Sir",
         "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08 , 09\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08 , 09\"",
         "teacherName": "Gagan Pratap",
-        "duration": 3637,
-        "startDate": "2026-07-02T12:30:00.000Z",
-        "endDate": "2026-07-02T14:17:00.000Z",
+        "duration": 4853,
+        "startDate": "2026-07-06T12:30:00.000Z",
+        "endDate": "2026-07-06T13:37:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a44b0b4b927c1a84a7b3b82/playlist-mpl-vod.m3u8",
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a476e251386d236be30a553/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
           {
-            "url": "https://selectionwayrecorded.hranker.com/6a44b0b4b927c1a84a7b3b82/output_720p.mp4",
+            "url": "https://selectionwayrecorded.hranker.com/6a476e251386d236be30a553/output_720p.mp4",
             "quality": "720p",
-            "size": 532.22,
-            "_id": "6a466c682ed5ad1e1f56b4b2"
+            "size": 695.07,
+            "_id": "6a4bba4af3c29aafad19c8f5"
           },
           {
-            "url": "https://selectionwayrecorded.hranker.com/6a44b0b4b927c1a84a7b3b82/output_480p.mp4",
+            "url": "https://selectionwayrecorded.hranker.com/6a476e251386d236be30a553/output_480p.mp4",
             "quality": "480p",
-            "size": 361.98,
-            "_id": "6a466c682ed5ad1e1f56b4b3"
+            "size": 470.61,
+            "_id": "6a4bba4af3c29aafad19c8f6"
           },
           {
-            "url": "https://selectionwayrecorded.hranker.com/6a44b0b4b927c1a84a7b3b82/output_360p.mp4",
+            "url": "https://selectionwayrecorded.hranker.com/6a476e251386d236be30a553/output_360p.mp4",
             "quality": "360p",
-            "size": 257.75,
-            "_id": "6a466c682ed5ad1e1f56b4b4"
+            "size": 332.66,
+            "_id": "6a4bba4af3c29aafad19c8f7"
           },
           {
-            "url": "https://selectionwayrecorded.hranker.com/6a44b0b4b927c1a84a7b3b82/output_240p.mp4",
+            "url": "https://selectionwayrecorded.hranker.com/6a476e251386d236be30a553/output_240p.mp4",
             "quality": "240p",
-            "size": 180.11,
-            "_id": "6a466c682ed5ad1e1f56b4b5"
+            "size": 230.58,
+            "_id": "6a4bba4af3c29aafad19c8f8"
           }
         ],
         "classPdf": [
           {
             "priority": 1,
-            "name": "geometry class  008 pdf by gagan sir",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/sb 6 pm 2 july bp.pdf"
+            "name": "geometry class 0008 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sb 6 pm 6 july bp.pdf"
           }
         ],
         "source": {
           "courseId": "69f990f7b927c1a84afd2673",
-          "classId": "6a44b0b4b927c1a84a7b3b82",
+          "classId": "6a476e251386d236be30a553",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 27
+        }
+      },
+      {
+        "title": "Class 18 || Trigonometry (त्रिकोणमिति) By Gagan Sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 3961,
+        "startDate": "2026-07-06T14:30:00.000Z",
+        "endDate": "2026-07-06T16:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3e4db8b927c1a84a34cedd/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3e4db8b927c1a84a34cedd/output_720p.mp4",
+            "quality": "720p",
+            "size": 545.64,
+            "_id": "6a4bd0202631e9eb3b41f917"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3e4db8b927c1a84a34cedd/output_480p.mp4",
+            "quality": "480p",
+            "size": 366.75,
+            "_id": "6a4bd0202631e9eb3b41f918"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3e4db8b927c1a84a34cedd/output_360p.mp4",
+            "quality": "360p",
+            "size": 258.6,
+            "_id": "6a4bd0202631e9eb3b41f919"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3e4db8b927c1a84a34cedd/output_240p.mp4",
+            "quality": "240p",
+            "size": 183.84,
+            "_id": "6a4bd0202631e9eb3b41f91a"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69f990f7b927c1a84afd2673",
+          "classId": "6a3e4db8b927c1a84a34cedd",
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 27
         }

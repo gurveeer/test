@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-06T04:47:28+0000",
+  "generatedAt": "2026-07-07T04:29:38+0000",
   "source": {
     "mode": "all",
-    "rawExportFile": "/home/runner/work/test/test/FILES/delta_study_courses_export_20260706_044726.json",
+    "rawExportFile": "/home/runner/work/test/test/FILES/delta_study_courses_export_20260707_042936.json",
     "rawCourseCount": 110,
     "appCourseCount": 110
   },
@@ -169,7 +169,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 21,
-      "videoCount": 640,
+      "videoCount": 644,
       "dataFile": "courses/selection-batch-7.json"
     },
     {
@@ -199,7 +199,7 @@
       "discountPrice": 1399,
       "validity": "2",
       "subjectCount": 26,
-      "videoCount": 1130,
+      "videoCount": 1156,
       "dataFile": "courses/selection-batch-3.json"
     },
     {
@@ -304,7 +304,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 5,
-      "videoCount": 156,
+      "videoCount": 157,
       "dataFile": "courses/maths-special-7.json"
     },
     {
@@ -319,7 +319,7 @@
       "discountPrice": 1999,
       "validity": "2 years",
       "subjectCount": 23,
-      "videoCount": 1078,
+      "videoCount": 1082,
       "dataFile": "courses/selection-batch-5.json"
     },
     {
@@ -334,7 +334,7 @@
       "discountPrice": 799,
       "validity": "2 years",
       "subjectCount": 7,
-      "videoCount": 351,
+      "videoCount": 353,
       "dataFile": "courses/maths-special-3.json"
     },
     {
@@ -424,7 +424,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 15,
-      "videoCount": 489,
+      "videoCount": 492,
       "dataFile": "courses/selection-batch-8.json"
     },
     {
@@ -439,7 +439,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 8,
-      "videoCount": 298,
+      "videoCount": 299,
       "dataFile": "courses/english-special-7.json"
     },
     {
@@ -484,7 +484,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 15,
-      "videoCount": 429,
+      "videoCount": 431,
       "dataFile": "courses/selection-batch-9.json"
     },
     {
@@ -514,7 +514,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 8,
-      "videoCount": 299,
+      "videoCount": 300,
       "dataFile": "courses/english-special-9.json"
     },
     {
@@ -544,7 +544,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 1,
-      "videoCount": 16,
+      "videoCount": 17,
       "dataFile": "courses/reasoning-special-9.json"
     },
     {
@@ -559,7 +559,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 16,
-      "videoCount": 604,
+      "videoCount": 608,
       "dataFile": "courses/railway-foundation-batch-4.json"
     },
     {
@@ -589,7 +589,7 @@
       "discountPrice": 1299,
       "validity": "2 years",
       "subjectCount": 7,
-      "videoCount": 348,
+      "videoCount": 350,
       "dataFile": "courses/maths-special-5.json"
     },
     {
@@ -604,7 +604,7 @@
       "discountPrice": 399,
       "validity": "2 years",
       "subjectCount": 3,
-      "videoCount": 136,
+      "videoCount": 137,
       "dataFile": "courses/reasoning-special-3.json"
     },
     {
@@ -664,7 +664,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 21,
-      "videoCount": 702,
+      "videoCount": 706,
       "dataFile": "courses/railway-foundation-batch-5.json"
     },
     {
@@ -679,7 +679,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 5,
-      "videoCount": 127,
+      "videoCount": 128,
       "dataFile": "courses/maths-special-8.json"
     },
     {
@@ -694,7 +694,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 7,
-      "videoCount": 297,
+      "videoCount": 298,
       "dataFile": "courses/english-special-8.json"
     },
     {
@@ -724,7 +724,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 1,
-      "videoCount": 42,
+      "videoCount": 43,
       "dataFile": "courses/reasoning-special-8.json"
     },
     {
@@ -739,7 +739,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 1,
-      "videoCount": 56,
+      "videoCount": 57,
       "dataFile": "courses/reasoning-special-7.json"
     },
     {
@@ -769,7 +769,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 24,
-      "videoCount": 1104,
+      "videoCount": 1107,
       "dataFile": "courses/selection-batch-4.json"
     },
     {
@@ -784,7 +784,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 7,
-      "videoCount": 352,
+      "videoCount": 354,
       "dataFile": "courses/maths-special-4.json"
     },
     {
@@ -814,7 +814,7 @@
       "discountPrice": 489,
       "validity": "1 year",
       "subjectCount": 2,
-      "videoCount": 8,
+      "videoCount": 9,
       "dataFile": "courses/ssc-special-5000-mcq-batch.json"
     },
     {
@@ -859,7 +859,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 22,
-      "videoCount": 828,
+      "videoCount": 832,
       "dataFile": "courses/selection-batch-6.json"
     },
     {
@@ -889,7 +889,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 23,
-      "videoCount": 692,
+      "videoCount": 695,
       "dataFile": "courses/railway-foundation-batch.json"
     },
     {
@@ -904,7 +904,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 7,
-      "videoCount": 351,
+      "videoCount": 353,
       "dataFile": "courses/maths-special-2.json"
     },
     {
@@ -934,7 +934,7 @@
       "discountPrice": 1999,
       "validity": "2",
       "subjectCount": 23,
-      "videoCount": 1083,
+      "videoCount": 1086,
       "dataFile": "courses/selection-batch-2.json"
     },
     {
@@ -994,7 +994,7 @@
       "discountPrice": 1,
       "validity": "2 years",
       "subjectCount": 4,
-      "videoCount": 193,
+      "videoCount": 194,
       "dataFile": "courses/maths-special-6.json"
     },
     {
@@ -1009,7 +1009,7 @@
       "discountPrice": 1,
       "validity": "2 years",
       "subjectCount": 8,
-      "videoCount": 298,
+      "videoCount": 299,
       "dataFile": "courses/english-special-6.json"
     },
     {
@@ -1024,7 +1024,7 @@
       "discountPrice": 1,
       "validity": "2 years",
       "subjectCount": 1,
-      "videoCount": 76,
+      "videoCount": 77,
       "dataFile": "courses/reasoning-special-6.json"
     },
     {
@@ -1039,7 +1039,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 1,
-      "videoCount": 97,
+      "videoCount": 98,
       "dataFile": "courses/reasoning-special-5.json"
     },
     {
@@ -1114,7 +1114,7 @@
       "discountPrice": 399,
       "validity": "2 years",
       "subjectCount": 2,
-      "videoCount": 160,
+      "videoCount": 161,
       "dataFile": "courses/reasoning-special-2.json"
     },
     {
@@ -1129,7 +1129,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 24,
-      "videoCount": 779,
+      "videoCount": 782,
       "dataFile": "courses/railway-foundation-batch-3.json"
     },
     {
@@ -1159,7 +1159,7 @@
       "discountPrice": 799,
       "validity": "2 years",
       "subjectCount": 22,
-      "videoCount": 731,
+      "videoCount": 734,
       "dataFile": "courses/railway-foundation-batch-2.json"
     },
     {
@@ -1189,7 +1189,7 @@
       "discountPrice": 1599,
       "validity": "2 years ",
       "subjectCount": 23,
-      "videoCount": 1057,
+      "videoCount": 1059,
       "dataFile": "courses/selection-batch-1.json"
     },
     {
@@ -1204,7 +1204,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 6,
-      "videoCount": 350,
+      "videoCount": 352,
       "dataFile": "courses/maths-special-1.json"
     },
     {
@@ -1234,7 +1234,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 2,
-      "videoCount": 113,
+      "videoCount": 114,
       "dataFile": "courses/reasoning-special-4.json"
     },
     {
@@ -1279,7 +1279,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 24,
-      "videoCount": 698,
+      "videoCount": 701,
       "dataFile": "courses/rrb-group-d-batch.json"
     },
     {
@@ -1414,7 +1414,7 @@
       "discountPrice": 759,
       "validity": "2 years",
       "subjectCount": 5,
-      "videoCount": 88,
+      "videoCount": 89,
       "dataFile": "courses/तथसत-batch-2026.json"
     },
     {
@@ -1590,7 +1590,7 @@
       "description": "Useful For : Railways Group - D 2025",
       "banner": "https://selectionwayserver.hranker.com/courses/banners/1762333624056-harish_sir_red.png",
       "status": "inactive",
-      "price": null,
+      "price": 999,
       "discountPrice": 99,
       "validity": "1 years",
       "subjectCount": 7,
@@ -1659,8 +1659,8 @@
     }
   ],
   "stats": {
-    "appVideoCount": 29898,
+    "appVideoCount": 29996,
     "skippedInactiveCourses": 0,
-    "skippedEmptyRows": 23
+    "skippedEmptyRows": 29
   }
 }

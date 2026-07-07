@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Special-4",
-  "extractedAt": "2026-07-06T04:47:28+0000",
+  "extractedAt": "2026-07-07T04:29:38+0000",
   "videos": {
     "Verbal": [
       {
@@ -5387,16 +5387,65 @@
         "title": "Class-01 | Numerical operation | Number based reasoning || By balram sir",
         "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08 ,09\r\n Selection Batch 02.03,04  05, 06  & 07, 08 ,09\"",
         "teacherName": "Balram Sir",
-        "duration": 0,
+        "duration": 4063,
         "startDate": "2026-07-06T04:00:00.000Z",
         "endDate": "2026-07-06T05:10:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4b01f65bac0ae4ba80b6b8/playlist.m3u8",
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4b01f65bac0ae4ba80b6b8/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b01f65bac0ae4ba80b6b8/output_720p.mp4",
+            "quality": "720p",
+            "size": 609.66,
+            "_id": "6a4b3c85b104268c3ff901c4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b01f65bac0ae4ba80b6b8/output_480p.mp4",
+            "quality": "480p",
+            "size": 416.6,
+            "_id": "6a4b3c85b104268c3ff901c5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b01f65bac0ae4ba80b6b8/output_360p.mp4",
+            "quality": "360p",
+            "size": 297.14,
+            "_id": "6a4b3c85b104268c3ff901c6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b01f65bac0ae4ba80b6b8/output_240p.mp4",
+            "quality": "240p",
+            "size": 217.37,
+            "_id": "6a4b3c85b104268c3ff901c7"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Numerical Operation 01 BOARD PDF by balram sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Numerical Operation 01 BOARD PDF by balram sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "6a4b01f65bac0ae4ba80b6b8",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 81
+        }
+      },
+      {
+        "title": "Class-02 | Numerical operation | Number based reasoning || By balram sir",
+        "description": "\"Reasoning  Special 02.03,04  05, 06  & 07, 08 ,09\r\n Selection Batch 02.03,04  05, 06  & 07, 08 ,09\"",
+        "teacherName": "Balram Sir",
+        "duration": 0,
+        "startDate": "2026-07-07T04:00:00.000Z",
+        "endDate": "2026-07-07T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4b536d5bac0ae4ba893e0b/playlist.m3u8",
         "mp4Recordings": [],
         "classPdf": [],
         "source": {
           "courseId": "695b8c282feca20f81c25e55",
-          "classId": "6a4b01f65bac0ae4ba80b6b8",
+          "classId": "6a4b536d5bac0ae4ba893e0b",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 81
         }

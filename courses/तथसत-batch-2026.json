@@ -1,6 +1,6 @@
 {
   "courseName": "तथास्तु BATCH 2026",
-  "extractedAt": "2026-07-06T04:47:28+0000",
+  "extractedAt": "2026-07-07T04:29:38+0000",
   "videos": {
     "POLITY": [
       {
@@ -4313,6 +4313,49 @@
         "source": {
           "courseId": "69622fc8027f25d29ebca4f6",
           "classId": "6a45bba6b927c1a84a87e584",
+          "topicId": "696a10e3719de161eee6326b",
+          "rawRecordIndex": 93
+        }
+      },
+      {
+        "title": "Class -05 | Geography | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3271,
+        "startDate": "2026-07-06T10:30:00.000Z",
+        "endDate": "2026-07-06T11:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a468a5db927c1a84a965150/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468a5db927c1a84a965150/output_720p.mp4",
+            "quality": "720p",
+            "size": 483.24,
+            "_id": "6a4b96e38b1eb266bfbe441c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468a5db927c1a84a965150/output_480p.mp4",
+            "quality": "480p",
+            "size": 331.12,
+            "_id": "6a4b96e38b1eb266bfbe441d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468a5db927c1a84a965150/output_360p.mp4",
+            "quality": "360p",
+            "size": 235.79,
+            "_id": "6a4b96e38b1eb266bfbe441e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a468a5db927c1a84a965150/output_240p.mp4",
+            "quality": "240p",
+            "size": 174.23,
+            "_id": "6a4b96e38b1eb266bfbe441f"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6a468a5db927c1a84a965150",
           "topicId": "696a10e3719de161eee6326b",
           "rawRecordIndex": 93
         }

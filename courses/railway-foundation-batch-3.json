@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation Batch -3",
-  "extractedAt": "2026-07-06T04:47:28+0000",
+  "extractedAt": "2026-07-07T04:29:38+0000",
   "videos": {
     "Arithmetic": [
       {
@@ -31745,6 +31745,55 @@
           "topicId": "6a0d4e7fb927c1a84ae1a601",
           "rawRecordIndex": 74
         }
+      },
+      {
+        "title": "Class-12 | LCM & HCF (ल.स.प.और म.स.प.) | By Gagan Sir",
+        "description": "\"Railway 1,2,3,4,5\r\nRRB Group D\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 3140,
+        "startDate": "2026-07-06T06:00:00.000Z",
+        "endDate": "2026-07-06T07:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4b05875bac0ae4ba82619c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b05875bac0ae4ba82619c/output_720p.mp4",
+            "quality": "720p",
+            "size": 462.39,
+            "_id": "6a4b54ee2ed5ad1e1f4ff3c2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b05875bac0ae4ba82619c/output_480p.mp4",
+            "quality": "480p",
+            "size": 315.57,
+            "_id": "6a4b54ee2ed5ad1e1f4ff3c3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b05875bac0ae4ba82619c/output_360p.mp4",
+            "quality": "360p",
+            "size": 224.48,
+            "_id": "6a4b54ee2ed5ad1e1f4ff3c4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b05875bac0ae4ba82619c/output_240p.mp4",
+            "quality": "240p",
+            "size": 159.12,
+            "_id": "6a4b54ee2ed5ad1e1f4ff3c5"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "lcm class 12 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/lcm class 12 pdf by gagan sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "6a4b05875bac0ae4ba82619c",
+          "topicId": "6a0d4e7fb927c1a84ae1a601",
+          "rawRecordIndex": 74
+        }
       }
     ],
     "World Geography": [
@@ -35043,10 +35092,59 @@
             "_id": "6a4b26e0b104268c3f91e742"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Order and Ranking Class 003 pdf By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Order and Ranking Class 003 pdf By Deepak Sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a4b013a5bac0ae4ba803de0",
+          "topicId": "69ae68cc7b3188015e0551dd",
+          "rawRecordIndex": 74
+        }
+      },
+      {
+        "title": "Class-04 || Order & Ranking By Deepak Sir",
+        "description": "\"*Railway Foundation Batch ,2 ,3 4,5\r\n*RRB Group D \r\n\"",
+        "teacherName": "deepak sir",
+        "duration": 3885,
+        "startDate": "2026-07-07T02:30:00.000Z",
+        "endDate": "2026-07-07T03:39:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4b52c45bac0ae4ba8887ac/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b52c45bac0ae4ba8887ac/output_720p.mp4",
+            "quality": "720p",
+            "size": 572.03,
+            "_id": "6a4c79172ed5ad1e1ffd9979"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b52c45bac0ae4ba8887ac/output_480p.mp4",
+            "quality": "480p",
+            "size": 387.65,
+            "_id": "6a4c79172ed5ad1e1ffd997a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b52c45bac0ae4ba8887ac/output_360p.mp4",
+            "quality": "360p",
+            "size": 274.55,
+            "_id": "6a4c79172ed5ad1e1ffd997b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b52c45bac0ae4ba8887ac/output_240p.mp4",
+            "quality": "240p",
+            "size": 202.99,
+            "_id": "6a4c79172ed5ad1e1ffd997c"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "6a4b52c45bac0ae4ba8887ac",
           "topicId": "69ae68cc7b3188015e0551dd",
           "rawRecordIndex": 74
         }
@@ -37269,6 +37367,49 @@
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a45fa3ab927c1a84a89acdd",
+          "topicId": "6a265997b927c1a84af6d41d",
+          "rawRecordIndex": 74
+        }
+      },
+      {
+        "title": "Class - 14 | Plains and Plateaus  06 | by Jeet Rana sir",
+        "description": "\"Railway Foundation Batch 1,2,3,4,5\r\nRRB Group d\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2640,
+        "startDate": "2026-07-06T08:30:00.000Z",
+        "endDate": "2026-07-06T09:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4b46c55bac0ae4ba865a86/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b46c55bac0ae4ba865a86/output_720p.mp4",
+            "quality": "720p",
+            "size": 391.36,
+            "_id": "6a4b777f847c19e9d52a6d14"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b46c55bac0ae4ba865a86/output_480p.mp4",
+            "quality": "480p",
+            "size": 266.31,
+            "_id": "6a4b777f847c19e9d52a6d15"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b46c55bac0ae4ba865a86/output_360p.mp4",
+            "quality": "360p",
+            "size": 188.59,
+            "_id": "6a4b777f847c19e9d52a6d16"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b46c55bac0ae4ba865a86/output_240p.mp4",
+            "quality": "240p",
+            "size": 139.1,
+            "_id": "6a4b777f847c19e9d52a6d17"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "6a4b46c55bac0ae4ba865a86",
           "topicId": "6a265997b927c1a84af6d41d",
           "rawRecordIndex": 74
         }
