@@ -1,6 +1,6 @@
 {
   "courseName": "Maths संपूर्ण Batch 30 days",
-  "extractedAt": "2026-07-07T04:29:38+0000",
+  "extractedAt": "2026-07-08T03:51:34+0000",
   "videos": {
     "Introduction": [
       {
@@ -24,7 +24,7 @@
     ],
     "Number System & More": [
       {
-        "title": "Class - 01 || Number System (संख्या पद्धति) || by Gagan sir",
+        "title": "Class - 01 || Number System (संख्या पद्धति) || by Gagan sir | संपूर्ण Maths Batch",
         "description": "complete maths batch",
         "teacherName": "Gagan Pratap",
         "duration": 0,
@@ -42,7 +42,7 @@
         }
       },
       {
-        "title": "Class - 02 || Number System (संख्या पद्धति) || by Gagan sir",
+        "title": "Class - 02 || Number System (संख्या पद्धति) || by Gagan sir | संपूर्ण Maths Batch",
         "description": "complete maths",
         "teacherName": "Gagan Sir",
         "duration": 0,
@@ -60,7 +60,7 @@
         }
       },
       {
-        "title": "Class - 03 || Complete LCM & HCF || by Gagan sir",
+        "title": "Class - 01 || Complete LCM & HCF || by Gagan sir || संपूर्ण Maths Batch",
         "description": "complete maths",
         "teacherName": "Gagan Pratap",
         "duration": 0,
@@ -74,6 +74,26 @@
           "courseId": "6a3fe6b8b927c1a84a453df2",
           "classId": "6a4a11d05bac0ae4ba7e7125",
           "topicId": "6a0d4e7fb927c1a84ae1a601",
+          "rawRecordIndex": 5
+        }
+      }
+    ],
+    "Arithmetic": [
+      {
+        "title": "Class - 01 | Percentage (प्रतिशत) || by Gagan sir || संपूर्ण Maths Batch",
+        "description": "संपूर्ण Maths Batch",
+        "teacherName": "Gagan Sir",
+        "duration": 0,
+        "startDate": "2026-07-07T14:30:00.000Z",
+        "endDate": "2026-07-07T18:15:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://www.youtube.com/watch?v=Mw24B9wr1Ss",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a3fe6b8b927c1a84a453df2",
+          "classId": "6a4cb56c5bac0ae4baa0ca10",
+          "topicId": "68d7af97824c6e1af23ea66e",
           "rawRecordIndex": 5
         }
       }

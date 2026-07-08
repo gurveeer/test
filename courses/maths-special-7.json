@@ -1,6 +1,6 @@
 {
   "courseName": "Maths Special-7",
-  "extractedAt": "2026-07-07T04:29:38+0000",
+  "extractedAt": "2026-07-08T03:51:34+0000",
   "videos": {
     "ARITHMETIC": [
       {
@@ -2971,9 +2971,9 @@
         ],
         "classPdf": [
           {
-            "priority": 1,
-            "name": "class 2 simplification",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/class 2 simplification.pdf"
+            "priority": 2,
+            "name": "aarmbh batch number system class 0002 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/aarmbh batch number system class 0002 pdff.pdf"
           }
         ],
         "source": {
@@ -7452,7 +7452,7 @@
           {
             "priority": 1,
             "name": "geometry class 0007 pdf by gagan sir",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/ilovepdf_merged.pdf"
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1783436764890-hhhnhhn_merged.pdf"
           }
         ],
         "source": {
@@ -7546,7 +7546,13 @@
             "_id": "6a4bd0202631e9eb3b41f91a"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "trigonometry class 18pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sb 8 pm 6 july bp.pdf"
+          }
+        ],
         "source": {
           "courseId": "69d4b8ba22cc6f4d5f008399",
           "classId": "6a3e4db8b927c1a84a34cedd",

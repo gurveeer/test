@@ -1,6 +1,6 @@
 {
   "courseName": "Maths Special-3",
-  "extractedAt": "2026-07-07T04:29:38+0000",
+  "extractedAt": "2026-07-08T03:51:34+0000",
   "videos": {
     "Introduction": [
       {
@@ -4564,7 +4564,7 @@
           {
             "priority": 1,
             "name": "geometry class 0007 pdf by gagan sir",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/ilovepdf_merged.pdf"
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1783436764890-hhhnhhn_merged.pdf"
           }
         ],
         "source": {
@@ -4658,7 +4658,13 @@
             "_id": "6a4bd0202631e9eb3b41f91a"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "trigonometry class 18pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sb 8 pm 6 july bp.pdf"
+          }
+        ],
         "source": {
           "courseId": "69367e9933d222e80e32c6c9",
           "classId": "6a3e4db8b927c1a84a34cedd",
@@ -12338,6 +12344,55 @@
           "topicId": "68d7af97824c6e1af23ea66e",
           "rawRecordIndex": 21
         }
+      },
+      {
+        "title": "Class -02 || Compound Interest (चक्रवृद्धि ब्याज़) || by Gagan sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05\r\n & Selection Batch  01, 02, 03, 04 , 05\"",
+        "teacherName": "Gagan sir",
+        "duration": 4949,
+        "startDate": "2026-07-07T07:30:00.000Z",
+        "endDate": "2026-07-07T08:55:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4c4f835bac0ae4ba973365/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4c4f835bac0ae4ba973365/output_720p.mp4",
+            "quality": "720p",
+            "size": 726.19,
+            "_id": "6a4cc4381386d236be73db58"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4c4f835bac0ae4ba973365/output_480p.mp4",
+            "quality": "480p",
+            "size": 497.42,
+            "_id": "6a4cc4381386d236be73db59"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4c4f835bac0ae4ba973365/output_360p.mp4",
+            "quality": "360p",
+            "size": 354.11,
+            "_id": "6a4cc4381386d236be73db5a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4c4f835bac0ae4ba973365/output_240p.mp4",
+            "quality": "240p",
+            "size": 261.39,
+            "_id": "6a4cc4381386d236be73db5b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "compound interest class 0002 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/compound interest class 0002 pdf by gagan sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69367e9933d222e80e32c6c9",
+          "classId": "6a4c4f835bac0ae4ba973365",
+          "topicId": "68d7af97824c6e1af23ea66e",
+          "rawRecordIndex": 21
+        }
       }
     ],
     "Number System and More": [
@@ -12421,9 +12476,9 @@
         ],
         "classPdf": [
           {
-            "priority": 1,
-            "name": "class 2 simplification",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/class 2 simplification.pdf"
+            "priority": 2,
+            "name": "aarmbh batch number system class 0002 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/aarmbh batch number system class 0002 pdff.pdf"
           }
         ],
         "source": {
