@@ -1,5 +1,5 @@
 {
-  "courseName": "Science special Foundation Batch",
+  "courseName": "Railway Foundation 6.0",
   "extractedAt": "2026-07-09T04:26:15+0000",
   "videos": {
     "Introduction": [
@@ -15,10 +15,10 @@
         "mp4Recordings": [],
         "classPdf": [],
         "source": {
-          "courseId": "6a4e35315bac0ae4bab52444",
+          "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a4e57b02631e9eb3b781a48",
           "topicId": "68df3538c181958facf1e512",
-          "rawRecordIndex": 1
+          "rawRecordIndex": 0
         }
       }
     ]

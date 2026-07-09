@@ -1,6 +1,6 @@
 {
   "courseName": "SSC special 5000 MCQ batch",
-  "extractedAt": "2026-07-08T03:51:34+0000",
+  "extractedAt": "2026-07-09T04:26:15+0000",
   "videos": {
     "Introduction": [
       {
@@ -43,7 +43,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a2cfa21b927c1a84a5b7b85",
           "topicId": "68df3538c181958facf1e512",
-          "rawRecordIndex": 54
+          "rawRecordIndex": 56
         }
       }
     ],
@@ -94,7 +94,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a3a4ab9b927c1a84aea8551",
           "topicId": "6a153570b927c1a84a3b92c7",
-          "rawRecordIndex": 54
+          "rawRecordIndex": 56
         }
       },
       {
@@ -137,7 +137,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a3cf4c8b927c1a84a2458d4",
           "topicId": "6a153570b927c1a84a3b92c7",
-          "rawRecordIndex": 54
+          "rawRecordIndex": 56
         }
       },
       {
@@ -186,7 +186,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a3e4d3eb927c1a84a3492f5",
           "topicId": "6a153570b927c1a84a3b92c7",
-          "rawRecordIndex": 54
+          "rawRecordIndex": 56
         }
       },
       {
@@ -235,7 +235,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a423cefb927c1a84a584d35",
           "topicId": "6a153570b927c1a84a3b92c7",
-          "rawRecordIndex": 54
+          "rawRecordIndex": 56
         }
       },
       {
@@ -284,7 +284,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a438f61b927c1a84a6a1dc3",
           "topicId": "6a153570b927c1a84a3b92c7",
-          "rawRecordIndex": 54
+          "rawRecordIndex": 56
         }
       },
       {
@@ -333,7 +333,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a44e23cb927c1a84a7eec44",
           "topicId": "6a153570b927c1a84a3b92c7",
-          "rawRecordIndex": 54
+          "rawRecordIndex": 56
         }
       },
       {
@@ -382,7 +382,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a463cb0b927c1a84a9072c2",
           "topicId": "6a153570b927c1a84a3b92c7",
-          "rawRecordIndex": 54
+          "rawRecordIndex": 56
         }
       },
       {
@@ -431,7 +431,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a4b48be5bac0ae4ba875021",
           "topicId": "6a153570b927c1a84a3b92c7",
-          "rawRecordIndex": 54
+          "rawRecordIndex": 56
         }
       },
       {
@@ -469,12 +469,18 @@
             "_id": "6a4d1e67847c19e9d5f8516b"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "later vedic period class 009 pdf by jeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/later vedic period class 009 pdf by jeet sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a4cb8715bac0ae4baa275f8",
           "topicId": "6a153570b927c1a84a3b92c7",
-          "rawRecordIndex": 54
+          "rawRecordIndex": 56
         }
       }
     ]

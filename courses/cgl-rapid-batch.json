@@ -1,6 +1,6 @@
 {
   "courseName": "CGL RAPID BATCH",
-  "extractedAt": "2026-07-08T03:51:34+0000",
+  "extractedAt": "2026-07-09T04:26:15+0000",
   "videos": {
     "Introduction": [
       {
@@ -43,7 +43,7 @@
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a2cfa4fb927c1a84a5bb529",
           "topicId": "68df3538c181958facf1e512",
-          "rawRecordIndex": 55
+          "rawRecordIndex": 57
         }
       }
     ],
@@ -69,7 +69,7 @@
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a30fa8ab927c1a84a849a7a",
           "topicId": "68b9499ea721af475c9a79ac",
-          "rawRecordIndex": 55
+          "rawRecordIndex": 57
         }
       },
       {
@@ -118,7 +118,7 @@
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a348c95b927c1a84aa961f6",
           "topicId": "68b9499ea721af475c9a79ac",
-          "rawRecordIndex": 55
+          "rawRecordIndex": 57
         }
       },
       {
@@ -167,7 +167,7 @@
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a38e53eb927c1a84acf7cc4",
           "topicId": "68b9499ea721af475c9a79ac",
-          "rawRecordIndex": 55
+          "rawRecordIndex": 57
         }
       },
       {
@@ -216,7 +216,7 @@
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a3b2909b927c1a84afb9ce1",
           "topicId": "68b9499ea721af475c9a79ac",
-          "rawRecordIndex": 55
+          "rawRecordIndex": 57
         }
       },
       {
@@ -265,7 +265,7 @@
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a3bb834b927c1a84a0c2223",
           "topicId": "68b9499ea721af475c9a79ac",
-          "rawRecordIndex": 55
+          "rawRecordIndex": 57
         }
       },
       {
@@ -314,7 +314,7 @@
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a3dd56ab927c1a84a2c1ef0",
           "topicId": "68b9499ea721af475c9a79ac",
-          "rawRecordIndex": 55
+          "rawRecordIndex": 57
         }
       },
       {
@@ -363,7 +363,7 @@
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a3f3850b927c1a84a3b39b7",
           "topicId": "68b9499ea721af475c9a79ac",
-          "rawRecordIndex": 55
+          "rawRecordIndex": 57
         }
       },
       {
@@ -412,7 +412,7 @@
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a4318f5b927c1a84a5f6f82",
           "topicId": "68b9499ea721af475c9a79ac",
-          "rawRecordIndex": 55
+          "rawRecordIndex": 57
         }
       },
       {
@@ -461,7 +461,7 @@
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a440efeb927c1a84a72d30a",
           "topicId": "68b9499ea721af475c9a79ac",
-          "rawRecordIndex": 55
+          "rawRecordIndex": 57
         }
       },
       {
@@ -510,7 +510,7 @@
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a45b9f1b927c1a84a876c31",
           "topicId": "68b9499ea721af475c9a79ac",
-          "rawRecordIndex": 55
+          "rawRecordIndex": 57
         }
       },
       {
@@ -559,7 +559,7 @@
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a468a1fb927c1a84a96151c",
           "topicId": "68b9499ea721af475c9a79ac",
-          "rawRecordIndex": 55
+          "rawRecordIndex": 57
         }
       },
       {
@@ -597,12 +597,18 @@
             "_id": "6a4c92cbf3c29aafad5eab5c"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "arrival of europeans class 12 pdf by jeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/arrival of europeans class 12 pdf by jeet sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a4c4b805bac0ae4ba954c43",
           "topicId": "68b9499ea721af475c9a79ac",
-          "rawRecordIndex": 55
+          "rawRecordIndex": 57
         }
       }
     ]

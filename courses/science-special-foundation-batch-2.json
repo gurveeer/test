@@ -1,49 +1,1318 @@
 {
-  "courseName": "NCERT Science Foundation Batch 2026-27",
+  "courseName": "Science Special foundation Batch",
   "extractedAt": "2026-07-09T04:26:15+0000",
   "videos": {
-    "Physics": [
+    "Introduction": [
       {
-        "title": "FULL ROAD MAP of SCIENCE by Harish Sir",
-        "description": "FULL ROAD MAP of SCIENCE by Harish Sir",
-        "teacherName": "HARISH SIR",
-        "duration": 0,
-        "startDate": "2025-12-01T04:30:00.000Z",
-        "endDate": "2025-12-01T04:50:00.000Z",
+        "title": "Full Road Map | Beginner to Achiever || Introduction by Harish sir",
+        "description": "Full Road Map | Beginner to Achiever || Introduction by Harish sir",
+        "teacherName": "Harish sir",
+        "duration": 1236.483333,
+        "startDate": "2025-10-12T12:23:00.303Z",
+        "endDate": "2025-10-12T13:10:00.303Z",
         "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/692c7b87d4dda22dbe3bebc0/playlist-mpl-vod.m3u8",
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68eb9d934a2b4b43c05cedaf/hls/master.m3u8",
         "mp4Recordings": [
           {
-            "url": "https://selectionwayrecorded.hranker.com/692c7b87d4dda22dbe3bebc0/output_720p.mp4",
-            "quality": "720p",
-            "size": 194.07,
-            "_id": "692d24eddd258fd3230c791a"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/692c7b87d4dda22dbe3bebc0/output_480p.mp4",
-            "quality": "480p",
-            "size": 124.58,
-            "_id": "692d24eddd258fd3230c791b"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/692c7b87d4dda22dbe3bebc0/output_360p.mp4",
-            "quality": "360p",
-            "size": 108.9,
-            "_id": "692d24eddd258fd3230c791c"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/692c7b87d4dda22dbe3bebc0/output_240p.mp4",
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68eb9d934a2b4b43c05cedaf/mp4/output_720p_240p.mp4",
             "quality": "240p",
-            "size": 85.39,
-            "_id": "692d24eddd258fd3230c791d"
+            "size": 31.63,
+            "_id": "68fd62c8bed68c50dd14b2c0"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68eb9d934a2b4b43c05cedaf/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 53.9,
+            "_id": "68fd62c8bed68c50dd14b2c1"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68eb9d934a2b4b43c05cedaf/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 80.25,
+            "_id": "68fd62c8bed68c50dd14b2c2"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68eb9d934a2b4b43c05cedaf/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 148.22,
+            "_id": "68fd62c8bed68c50dd14b2c3"
           }
         ],
         "classPdf": [],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "692c7b87d4dda22dbe3bebc0",
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "68eb9d934a2b4b43c05cedaf",
+          "topicId": "68df3538c181958facf1e512",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "Important message by Harish sir",
+        "description": "",
+        "teacherName": "Harish sir",
+        "duration": 79.35,
+        "startDate": "2025-12-30T07:01:53.662Z",
+        "endDate": "2025-12-30T08:01:53.662Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6953780e2feca20f819b958b/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6953780e2feca20f819b958b/mp4/My_Video_360p.mp4",
+            "quality": "360p",
+            "size": 5.41,
+            "_id": "695378d2b54cadeb61cd8c6a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6953780e2feca20f819b958b/mp4/My_Video_480p.mp4",
+            "quality": "480p",
+            "size": 8.19,
+            "_id": "695378d2b54cadeb61cd8c6b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6953780e2feca20f819b958b/mp4/My_Video_720p.mp4",
+            "quality": "720p",
+            "size": 16.97,
+            "_id": "695378d2b54cadeb61cd8c6c"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "6953780e2feca20f819b958b",
+          "topicId": "68df3538c181958facf1e512",
+          "rawRecordIndex": 90
+        }
+      }
+    ],
+    "Physics": [
+      {
+        "title": "Class - 01 || Unit and Dimension (इकाई और आयाम) | Harish sir",
+        "description": "Class - 01 || Unit and Dimension (इकाई और आयाम) | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 5660.283333,
+        "startDate": "2025-10-14T12:30:00.000Z",
+        "endDate": "2025-10-14T14:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68ed14e786770365f3abb762/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ed14e786770365f3abb762/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 137.16,
+            "_id": "68fd6f01f179b935b12cea1e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ed14e786770365f3abb762/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 231.46,
+            "_id": "68fd6f01f179b935b12cea1f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ed14e786770365f3abb762/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 345.53,
+            "_id": "68fd6f01f179b935b12cea20"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ed14e786770365f3abb762/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 645.15,
+            "_id": "68fd6f01f179b935b12cea21"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class - 01 || Unit and Dimension (इकाई और आयाम) BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760530163802-UNIT_AND_DIMENSION_CLASS_01_-_FOUNDATION_BATCH_compressed.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "68ed14e786770365f3abb762",
           "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "Class - 02 || Unit and Dimension (इकाई और आयाम) | Harish sir",
+        "description": "Class - 02 || Unit and Dimension (इकाई और आयाम) | Harish sir",
+        "teacherName": "Harish sir",
+        "duration": 6358.133333,
+        "startDate": "2025-10-15T12:30:00.000Z",
+        "endDate": "2025-10-15T14:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68ee665bd3d74585a6dd178f/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ee665bd3d74585a6dd178f/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 152.1,
+            "_id": "68fd708c2ea1b0628999816f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ee665bd3d74585a6dd178f/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 253.38,
+            "_id": "68fd708c2ea1b06289998170"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ee665bd3d74585a6dd178f/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 371.88,
+            "_id": "68fd708c2ea1b06289998171"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ee665bd3d74585a6dd178f/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 662.81,
+            "_id": "68fd708c2ea1b06289998172"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "unit and dimension class 2 science special",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760541181688-UNIT_AND_DIMENSION_CLASS_02__-_FOUNDATION_BATCH.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "68ee665bd3d74585a6dd178f",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "Class - 03 || Unit and Dimension (इकाई और आयाम) | Harish sir",
+        "description": "Class - 03 || Unit and Dimension (इकाई और आयाम) | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 4157.433333,
+        "startDate": "2025-10-16T12:30:00.000Z",
+        "endDate": "2025-10-16T02:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68efce4f8b84905b8406c8fc/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68efce4f8b84905b8406c8fc/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 98.59,
+            "_id": "68fd71ddbed68c50dd1603ae"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68efce4f8b84905b8406c8fc/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 163.36,
+            "_id": "68fd71ddbed68c50dd1603af"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68efce4f8b84905b8406c8fc/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 238.89,
+            "_id": "68fd71ddbed68c50dd1603b0"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68efce4f8b84905b8406c8fc/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 424.27,
+            "_id": "68fd71ddbed68c50dd1603b1"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class - 03 || Unit and Dimension (इकाई और आयाम) BOARD PDF\t",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760633135616-UNIT_AND_DIMENSION_CLASS_03__-_FOUNDATION_BATCH_compressed.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "68efce4f8b84905b8406c8fc",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "Class - 04 || Unit and Dimension (इकाई और आयाम) | Harish sir",
+        "description": "Class - 04 || Unit and Dimension (इकाई और आयाम) | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 4105.333333,
+        "startDate": "2025-10-18T12:30:00.000Z",
+        "endDate": "2025-10-18T14:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68f10a20cadb3e241f485abc/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f10a20cadb3e241f485abc/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 101.14,
+            "_id": "68fd78fcaed5b4af7a538c5b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f10a20cadb3e241f485abc/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 170.47,
+            "_id": "68fd78fcaed5b4af7a538c5c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f10a20cadb3e241f485abc/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 251.94,
+            "_id": "68fd78fcaed5b4af7a538c5d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f10a20cadb3e241f485abc/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 443.96,
+            "_id": "68fd78fcaed5b4af7a538c5e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class - 04 || Unit and Dimension (इकाई और आयाम) BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761189033244-UNIT_AND_DIMENSION_CLASS_04.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "68f10a20cadb3e241f485abc",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "Class - 01 || MOTION ( गति ) | Harish sir",
+        "description": "Class - 01 || MOTION ( गति ) | Harish sir",
+        "teacherName": "Harish sir",
+        "duration": 3718.57,
+        "startDate": "2025-10-25T12:30:30.527Z",
+        "endDate": "2025-10-25T13:45:30.527Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68fae908aed5b4af7a90d7dd/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fae908aed5b4af7a90d7dd/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 81.28,
+            "_id": "68fd6ee1bed68c50dd15b64d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fae908aed5b4af7a90d7dd/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 134.58,
+            "_id": "68fd6ee1bed68c50dd15b64e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fae908aed5b4af7a90d7dd/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 193,
+            "_id": "68fd6ee1bed68c50dd15b64f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fae908aed5b4af7a90d7dd/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 306.24,
+            "_id": "68fd6ee1bed68c50dd15b650"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class - 01 || MOTION ( गति ) | Harish sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761477239446-motion_01_reduce.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "68fae908aed5b4af7a90d7dd",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "Class - 02 || MOTION ( गति ) | Harish sir",
+        "description": "Class - 02 || MOTION ( गति ) | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-10-27T12:30:00.000Z",
+        "endDate": "2025-10-27T14:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/68fcdc33bd782a2af1fe0585/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68fcdc33bd782a2af1fe0585/output_720p.mp4",
+            "quality": "720p",
+            "size": 715.56,
+            "_id": "68ff804bbd782a2af1cd2e94"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68fcdc33bd782a2af1fe0585/output_480p.mp4",
+            "quality": "480p",
+            "size": 457.27,
+            "_id": "68ff804bbd782a2af1cd2e95"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68fcdc33bd782a2af1fe0585/output_360p.mp4",
+            "quality": "360p",
+            "size": 399.5,
+            "_id": "68ff804bbd782a2af1cd2e96"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68fcdc33bd782a2af1fe0585/output_240p.mp4",
+            "quality": "240p",
+            "size": 313.38,
+            "_id": "68ff804bbd782a2af1cd2e97"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class - 02 || MOTION ( गति ) | Harish sir\tBOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761580914862-motion__class_2_reduce.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "68fcdc33bd782a2af1fe0585",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "Class - 03 || MOTION ( गति ) | Harish sir",
+        "description": "Class - 03 || MOTION ( गति ) | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-10-29T12:30:00.000Z",
+        "endDate": "2025-10-29T14:02:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/68ff96dbf179b935b1fc0bbb/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68ff96dbf179b935b1fc0bbb/output_720p.mp4",
+            "quality": "720p",
+            "size": 832.01,
+            "_id": "690225e919fedfd663d76742"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68ff96dbf179b935b1fc0bbb/output_480p.mp4",
+            "quality": "480p",
+            "size": 530.77,
+            "_id": "690225e919fedfd663d76743"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68ff96dbf179b935b1fc0bbb/output_360p.mp4",
+            "quality": "360p",
+            "size": 463.64,
+            "_id": "690225e919fedfd663d76744"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68ff96dbf179b935b1fc0bbb/output_240p.mp4",
+            "quality": "240p",
+            "size": 363.55,
+            "_id": "690225e919fedfd663d76745"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class - 03 || MOTION ( गति ) | Harish sir\tBOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761770446037-20251029193840454_removed_RE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "68ff96dbf179b935b1fc0bbb",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "Class - 04 | MOTION ( गति ) | Harish sir",
+        "description": "Class - 04 | MOTION ( गति ) | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-10-30T12:30:00.000Z",
+        "endDate": "2025-10-30T14:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/690229256aeca24e93f8d1ac/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690229256aeca24e93f8d1ac/output_720p.mp4",
+            "quality": "720p",
+            "size": 818.84,
+            "_id": "690379a7563adc39b96f345f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690229256aeca24e93f8d1ac/output_480p.mp4",
+            "quality": "480p",
+            "size": 523.22,
+            "_id": "690379a7563adc39b96f3460"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690229256aeca24e93f8d1ac/output_360p.mp4",
+            "quality": "360p",
+            "size": 456.95,
+            "_id": "690379a7563adc39b96f3461"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690229256aeca24e93f8d1ac/output_240p.mp4",
+            "quality": "240p",
+            "size": 358.55,
+            "_id": "690379a7563adc39b96f3462"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class - 04 | MOTION ( गति ) | Harish sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761867636378-20251030194046089_RE.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "690229256aeca24e93f8d1ac",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "Class - 05 | MOTION ( गति ) | Harish sir",
+        "description": "Class - 05 | MOTION ( गति ) | Harish sir",
+        "teacherName": "Harish sir",
+        "duration": 0,
+        "startDate": "2025-10-31T13:30:00.000Z",
+        "endDate": "2025-10-31T14:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/690371cf19fedfd66371e01a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690371cf19fedfd66371e01a/output_720p.mp4",
+            "quality": "720p",
+            "size": 501.22,
+            "_id": "6904cdfd563adc39b90c3f0e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690371cf19fedfd66371e01a/output_480p.mp4",
+            "quality": "480p",
+            "size": 319.82,
+            "_id": "6904cdfd563adc39b90c3f0f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690371cf19fedfd66371e01a/output_360p.mp4",
+            "quality": "360p",
+            "size": 279.31,
+            "_id": "6904cdfd563adc39b90c3f10"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690371cf19fedfd66371e01a/output_240p.mp4",
+            "quality": "240p",
+            "size": 218.89,
+            "_id": "6904cdfd563adc39b90c3f11"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class - 05 | MOTION ( गति ) | Harish sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761946088860-20251031200406791_re.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "690371cf19fedfd66371e01a",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "Class - 01 | Newton’s Laws of Motion and Force ( न्यूटन के गति के नियम और बल) PART -1 | Harish sir",
+        "description": "Class - 06 | Newton’s Laws of Motion and Force ( न्यूटन के गति के नियम और बल) PART -1 | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-03T12:30:00.000Z",
+        "endDate": "2025-11-03T14:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/690755996aeca24e931947d5/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690755996aeca24e931947d5/output_720p.mp4",
+            "quality": "720p",
+            "size": 772.07,
+            "_id": "6908bf06f48d1caffd259a90"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690755996aeca24e931947d5/output_480p.mp4",
+            "quality": "480p",
+            "size": 494.32,
+            "_id": "6908bf06f48d1caffd259a91"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690755996aeca24e931947d5/output_360p.mp4",
+            "quality": "360p",
+            "size": 431.88,
+            "_id": "6908bf06f48d1caffd259a92"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690755996aeca24e931947d5/output_240p.mp4",
+            "quality": "240p",
+            "size": 339.48,
+            "_id": "6908bf06f48d1caffd259a93"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class - 06 MOTION  BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1762249568603-Class_-_06_MOTION_BOARD_PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "690755996aeca24e931947d5",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "Class - 02 | Newton’s Laws of Motion and Force ( न्यूटन के गति के नियम और बल) PART -2 | Harish sir",
+        "description": "Class - 07 | Newton’s Laws of Motion and Force ( न्यूटन के गति के नियम और बल) PART -2 | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-04T12:30:49.539Z",
+        "endDate": "2025-11-04T13:30:49.539Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6909931ef48d1caffd67898a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6909931ef48d1caffd67898a/output_720p.mp4",
+            "quality": "720p",
+            "size": 433.52,
+            "_id": "690a02c55085387730a7a5bf"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6909931ef48d1caffd67898a/output_480p.mp4",
+            "quality": "480p",
+            "size": 276.97,
+            "_id": "690a02c55085387730a7a5c0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6909931ef48d1caffd67898a/output_360p.mp4",
+            "quality": "360p",
+            "size": 241.88,
+            "_id": "690a02c55085387730a7a5c1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6909931ef48d1caffd67898a/output_240p.mp4",
+            "quality": "240p",
+            "size": 189.77,
+            "_id": "690a02c55085387730a7a5c2"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "force board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/force.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "6909931ef48d1caffd67898a",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "Class - 01 | Work, Power and Energy (  कार्य, शक्ति और ऊर्जा ) PART -01 | Harish sir",
+        "description": "Class - 08 | Work, Power and Energy (  कार्य, शक्ति और ऊर्जा ) PART -1 | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-05T12:30:00.000Z",
+        "endDate": "2025-11-05T14:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/690a1bca563adc39b916f18a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690a1bca563adc39b916f18a/output_720p.mp4",
+            "quality": "720p",
+            "size": 589.85,
+            "_id": "690b5ad550853877303dc25f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690a1bca563adc39b916f18a/output_480p.mp4",
+            "quality": "480p",
+            "size": 377.98,
+            "_id": "690b5ad550853877303dc260"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690a1bca563adc39b916f18a/output_360p.mp4",
+            "quality": "360p",
+            "size": 330.38,
+            "_id": "690b5ad550853877303dc261"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690a1bca563adc39b916f18a/output_240p.mp4",
+            "quality": "240p",
+            "size": 259.7,
+            "_id": "690b5ad550853877303dc262"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class - 08 | Work Power and Energy | Harish sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1762500893116-work_power_energy2.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "690a1bca563adc39b916f18a",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "Class - 02 | Work, Power and Energy ( कार्य, शक्ति और ऊर्जा ) PART 2 | Harish sir",
+        "description": "Class - 09 | Work, Power and Energy ( कार्य, शक्ति और ऊर्जा ) PART 2 | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-06T12:30:29.378Z",
+        "endDate": "2025-11-06T14:04:29.378Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/690c566c6aeca24e9324ffef/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690c566c6aeca24e9324ffef/output_720p.mp4",
+            "quality": "720p",
+            "size": 597.66,
+            "_id": "690cabfe563adc39b92bd30a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690c566c6aeca24e9324ffef/output_480p.mp4",
+            "quality": "480p",
+            "size": 382.68,
+            "_id": "690cabfe563adc39b92bd30b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690c566c6aeca24e9324ffef/output_360p.mp4",
+            "quality": "360p",
+            "size": 334.44,
+            "_id": "690cabfe563adc39b92bd30c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690c566c6aeca24e9324ffef/output_240p.mp4",
+            "quality": "240p",
+            "size": 262.93,
+            "_id": "690cabfe563adc39b92bd30d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class - 09 | Work Power and Energy | Harish sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1762495400828-class-09_Work,Power_and_Energy.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "690c566c6aeca24e9324ffef",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "Class - 03 | Work, Power and Energy ( कार्य, शक्ति और ऊर्जा ) PART 3 | Harish sir",
+        "description": "Class - 10 | Work, Power and Energy ( कार्य, शक्ति और ऊर्जा ) PART 3 | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-07T12:30:30.126Z",
+        "endDate": "2025-11-07T14:00:30.126Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/690ce15b6aeca24e9372a748/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690ce15b6aeca24e9372a748/output_720p.mp4",
+            "quality": "720p",
+            "size": 670.02,
+            "_id": "690e00acf48d1caffd6f088b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690ce15b6aeca24e9372a748/output_480p.mp4",
+            "quality": "480p",
+            "size": 428.44,
+            "_id": "690e00acf48d1caffd6f088c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690ce15b6aeca24e9372a748/output_360p.mp4",
+            "quality": "360p",
+            "size": 373.97,
+            "_id": "690e00acf48d1caffd6f088d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690ce15b6aeca24e9372a748/output_240p.mp4",
+            "quality": "240p",
+            "size": 293.52,
+            "_id": "690e00acf48d1caffd6f088e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class 10 Work Power and Energy Bord pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1762570240050-Class_10_Work_Power_and_Energy_Bord_pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "690ce15b6aeca24e9372a748",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "CLASS -01 || Gravitation (गुरुत्वाकर्षण ) PART -1 | Physics | Harish sir",
+        "description": "CLASS -11 || Gravitation (गुरुत्वाकर्षण ) PART -1 | Physics | Harish sir",
+        "teacherName": "h",
+        "duration": 0,
+        "startDate": "2025-11-10T12:30:03.747Z",
+        "endDate": "2025-11-10T14:00:03.747Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/690f09c919fedfd6632f1528/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690f09c919fedfd6632f1528/output_720p.mp4",
+            "quality": "720p",
+            "size": 503.39,
+            "_id": "6911f6b1932c0deb70eb1c07"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690f09c919fedfd6632f1528/output_480p.mp4",
+            "quality": "480p",
+            "size": 322.58,
+            "_id": "6911f6b1932c0deb70eb1c08"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690f09c919fedfd6632f1528/output_360p.mp4",
+            "quality": "360p",
+            "size": 281.77,
+            "_id": "6911f6b1932c0deb70eb1c09"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/690f09c919fedfd6632f1528/output_240p.mp4",
+            "quality": "240p",
+            "size": 221.02,
+            "_id": "6911f6b1932c0deb70eb1c0a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "gravitation board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/gravitation.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "690f09c919fedfd6632f1528",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "CLASS -02 || Gravitation (गुरुत्वाकर्षण ) PART -2 | Physics | Harish sir",
+        "description": "CLASS -12 || Gravitation (गुरुत्वाकर्षण ) PART -2 | Physics | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-12T12:30:40.226Z",
+        "endDate": "2025-11-12T14:01:40.226Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69133a31932c0deb70b4ece3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69133a31932c0deb70b4ece3/output_720p.mp4",
+            "quality": "720p",
+            "size": 528.39,
+            "_id": "6914a2a9932c0deb703fb4d6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69133a31932c0deb70b4ece3/output_480p.mp4",
+            "quality": "480p",
+            "size": 338.81,
+            "_id": "6914a2a9932c0deb703fb4d7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69133a31932c0deb70b4ece3/output_360p.mp4",
+            "quality": "360p",
+            "size": 296.39,
+            "_id": "6914a2a9932c0deb703fb4d8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69133a31932c0deb70b4ece3/output_240p.mp4",
+            "quality": "240p",
+            "size": 233,
+            "_id": "6914a2a9932c0deb703fb4d9"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "gravitation part 2",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/gravitation part 2.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "69133a31932c0deb70b4ece3",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "CLASS -03 || Gravitation (गुरुत्वाकर्षण ) PART -3 | Physics | Harish sir",
+        "description": "CLASS -13 || Gravitation (गुरुत्वाकर्षण ) PART -3 | Physics | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-14T12:30:00.000Z",
+        "endDate": "2025-11-14T14:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6914a45480d6461558e86159/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6914a45480d6461558e86159/output_720p.mp4",
+            "quality": "720p",
+            "size": 669.35,
+            "_id": "69174799932c0deb70c40580"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6914a45480d6461558e86159/output_480p.mp4",
+            "quality": "480p",
+            "size": 428.41,
+            "_id": "69174799932c0deb70c40581"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6914a45480d6461558e86159/output_360p.mp4",
+            "quality": "360p",
+            "size": 374.45,
+            "_id": "69174799932c0deb70c40582"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6914a45480d6461558e86159/output_240p.mp4",
+            "quality": "240p",
+            "size": 293.76,
+            "_id": "69174799932c0deb70c40583"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "gravitation part 3",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/gravitation part 3.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "6914a45480d6461558e86159",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "CLASS -04 || Gravitation (गुरुत्वाकर्षण ) PART -4 | Physics | Harish sir",
+        "description": "CLASS -14 || Gravitation (गुरुत्वाकर्षण ) PART -4 | Physics | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-15T12:30:47.873Z",
+        "endDate": "2025-11-15T14:00:47.873Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69183fdc932c0deb70d64ef9/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69183fdc932c0deb70d64ef9/output_720p.mp4",
+            "quality": "720p",
+            "size": 405.43,
+            "_id": "6918870b932c0deb70c59929"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69183fdc932c0deb70d64ef9/output_480p.mp4",
+            "quality": "480p",
+            "size": 260.17,
+            "_id": "6918870b932c0deb70c5992a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69183fdc932c0deb70d64ef9/output_360p.mp4",
+            "quality": "360p",
+            "size": 227.16,
+            "_id": "6918870b932c0deb70c5992b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69183fdc932c0deb70d64ef9/output_240p.mp4",
+            "quality": "240p",
+            "size": 178.25,
+            "_id": "6918870b932c0deb70c5992c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "gravitation board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/gravitation board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "69183fdc932c0deb70d64ef9",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "CLASS -01 || Pressure ( दाब ) PART -1| Physics | Harish sir",
+        "description": "CLASS -15 || Pressure ( दाब ) PART -1| Physics | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-17T12:30:00.000Z",
+        "endDate": "2025-11-17T14:00:04.299Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/691a0e5c932c0deb70f3bf63/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/691a0e5c932c0deb70f3bf63/output_720p.mp4",
+            "quality": "720p",
+            "size": 571.63,
+            "_id": "691b36dcdd258fd3233231ff"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/691a0e5c932c0deb70f3bf63/output_480p.mp4",
+            "quality": "480p",
+            "size": 367.07,
+            "_id": "691b36dcdd258fd323323200"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/691a0e5c932c0deb70f3bf63/output_360p.mp4",
+            "quality": "360p",
+            "size": 320.63,
+            "_id": "691b36dcdd258fd323323201"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/691a0e5c932c0deb70f3bf63/output_240p.mp4",
+            "quality": "240p",
+            "size": 252.02,
+            "_id": "691b36dcdd258fd323323202"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "PRESSURE PART 01 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/PRESSURE PART 01 pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "691a0e5c932c0deb70f3bf63",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "CLASS -02 || Pressure ( दाब ) PART -2| Physics | Harish sir",
+        "description": "CLASS -16 || Pressure ( दाब ) PART -2| Physics | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 2832,
+        "startDate": "2025-11-18T12:30:00.000Z",
+        "endDate": "2025-11-18T14:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/691b523139642e9188a03e22/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/691b523139642e9188a03e22/output_720p.mp4",
+            "quality": "720p",
+            "size": 450.88,
+            "_id": "69678afb027f25d29e7479d8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/691b523139642e9188a03e22/output_480p.mp4",
+            "quality": "480p",
+            "size": 294.25,
+            "_id": "69678afb027f25d29e7479d9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/691b523139642e9188a03e22/output_360p.mp4",
+            "quality": "360p",
+            "size": 214.28,
+            "_id": "69678afb027f25d29e7479da"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/691b523139642e9188a03e22/output_240p.mp4",
+            "quality": "240p",
+            "size": 173.82,
+            "_id": "69678afb027f25d29e7479db"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "pressure board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/pressure board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "691b523139642e9188a03e22",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "CLASS -01 || Wave ( तरंग ) PART -1 | Physics | Harish sir",
+        "description": "CLASS -17 || Wave ( तरंग ) PART -1 | Physics | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 4966.85,
+        "startDate": "2025-11-19T13:38:32.252Z",
+        "endDate": "2025-11-19T13:38:32.252Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/691dc82f39642e9188a219c9/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/691dc82f39642e9188a219c9/mp4/My_Video_3_240p.mp4",
+            "quality": "240p",
+            "size": 121.61,
+            "_id": "691dda4add258fd323658804"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/691dc82f39642e9188a219c9/mp4/My_Video_3_360p.mp4",
+            "quality": "360p",
+            "size": 197.83,
+            "_id": "691dda4add258fd323658805"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/691dc82f39642e9188a219c9/mp4/My_Video_3_480p.mp4",
+            "quality": "480p",
+            "size": 284.62,
+            "_id": "691dda4add258fd323658806"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/691dc82f39642e9188a219c9/mp4/My_Video_3_720p.mp4",
+            "quality": "720p",
+            "size": 473.73,
+            "_id": "691dda4add258fd323658807"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Wave Class pdf English",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Wave Class pdf English.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Wave Class pdf HIndi",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Wave Class pdf HIndi.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "691dc82f39642e9188a219c9",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "CLASS -02 || Wave ( तरंग ) PART -2 | Physics | Harish sir",
+        "description": "CLASS -18 || Wave ( तरंग ) PART -2 | Physics | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 2647.983,
+        "startDate": "2025-11-20T13:20:16.784Z",
+        "endDate": "2025-11-20T13:19:16.784Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/691f0dad39642e9188a3d137/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/691f0dad39642e9188a3d137/mp4/My_Video_4_240p.mp4",
+            "quality": "240p",
+            "size": 66.1,
+            "_id": "691f1548dd258fd323263062"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/691f0dad39642e9188a3d137/mp4/My_Video_4_360p.mp4",
+            "quality": "360p",
+            "size": 109.04,
+            "_id": "691f1548dd258fd323263063"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/691f0dad39642e9188a3d137/mp4/My_Video_4_480p.mp4",
+            "quality": "480p",
+            "size": 155.72,
+            "_id": "691f1548dd258fd323263064"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/691f0dad39642e9188a3d137/mp4/My_Video_4_720p.mp4",
+            "quality": "720p",
+            "size": 254.4,
+            "_id": "691f1548dd258fd323263065"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "wave board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/wave board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "691f0dad39642e9188a3d137",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "CLASS -01 || Sound (ध्वनि ) PART -1 | Physics | Harish sir",
+        "description": "CLASS -19 || Sound (ध्वनि ) PART -1 | Physics | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 6431.316009,
+        "startDate": "2025-11-25T12:31:49.490Z",
+        "endDate": "2025-11-25T12:31:49.490Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6925a16d39642e9188a96977/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6925a16d39642e9188a96977/mp4/My_Video_7_240p.mp4",
+            "quality": "240p",
+            "size": 154.97,
+            "_id": "6925b447dd258fd32329d4ec"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6925a16d39642e9188a96977/mp4/My_Video_7_360p.mp4",
+            "quality": "360p",
+            "size": 246.84,
+            "_id": "6925b447dd258fd32329d4ed"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6925a16d39642e9188a96977/mp4/My_Video_7_480p.mp4",
+            "quality": "480p",
+            "size": 349.18,
+            "_id": "6925b447dd258fd32329d4ee"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6925a16d39642e9188a96977/mp4/My_Video_7_720p.mp4",
+            "quality": "720p",
+            "size": 561.89,
+            "_id": "6925b447dd258fd32329d4ef"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "sound class 01 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sound class 01 pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "6925a16d39642e9188a96977",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "CLASS -02 || Sound (ध्वनि ) PART -2 | Physics | Harish sir",
+        "description": "CLASS -20 || Sound (ध्वनि ) PART -2 | Physics | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-27T12:30:00.000Z",
+        "endDate": "2025-11-27T13:45:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/692602b6dd258fd32300448c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/692602b6dd258fd32300448c/output_720p.mp4",
+            "quality": "720p",
+            "size": 444.87,
+            "_id": "6928597edd258fd323746a6b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/692602b6dd258fd32300448c/output_480p.mp4",
+            "quality": "480p",
+            "size": 285.5,
+            "_id": "6928597edd258fd323746a6c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/692602b6dd258fd32300448c/output_360p.mp4",
+            "quality": "360p",
+            "size": 249.77,
+            "_id": "6928597edd258fd323746a6d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/692602b6dd258fd32300448c/output_240p.mp4",
+            "quality": "240p",
+            "size": 196.08,
+            "_id": "6928597edd258fd323746a6e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "sound class 02",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sound class 02.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "692602b6dd258fd32300448c",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "CLASS -03 || Sound (ध्वनि ) PART -3 | Physics | Harish sir",
+        "description": "CLASS -21 || Sound (ध्वनि ) PART -3 | Physics | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2025-11-28T12:30:52.392Z",
+        "endDate": "2025-11-28T13:45:52.392Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/692930a4dd258fd32343b62c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/692930a4dd258fd32343b62c/output_720p.mp4",
+            "quality": "720p",
+            "size": 269.31,
+            "_id": "6929a318dd258fd32387915e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/692930a4dd258fd32343b62c/output_480p.mp4",
+            "quality": "480p",
+            "size": 173.03,
+            "_id": "6929a318dd258fd32387915f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/692930a4dd258fd32343b62c/output_360p.mp4",
+            "quality": "360p",
+            "size": 150.75,
+            "_id": "6929a318dd258fd323879160"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/692930a4dd258fd32343b62c/output_240p.mp4",
+            "quality": "240p",
+            "size": 118.35,
+            "_id": "6929a318dd258fd323879161"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "SOUND pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/SOUND pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "692930a4dd258fd32343b62c",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 90
         }
       },
       {
@@ -51,8 +1320,8 @@
         "description": "Class - 01 || Light (प्रकाश) | Physics by Harish sir",
         "teacherName": "HARISH SIR",
         "duration": 3694.805624,
-        "startDate": "2025-12-01T11:30:19.848Z",
-        "endDate": "2025-12-01T12:44:19.848Z",
+        "startDate": "2025-12-01T11:30:21.791Z",
+        "endDate": "2025-12-01T12:44:21.791Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/692d3f9ed4dda22dbe3cdeae/hls/master.m3u8",
         "mp4Recordings": [
@@ -89,10 +1358,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "692d3f9ed4dda22dbe3cdeae",
           "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -100,8 +1369,8 @@
         "description": "Class - 02 || Light (प्रकाश) | Physics by Harish sir",
         "teacherName": "HARISH SIR",
         "duration": 0,
-        "startDate": "2025-12-02T11:30:13.585Z",
-        "endDate": "2025-12-02T12:30:13.585Z",
+        "startDate": "2025-12-02T11:30:06.947Z",
+        "endDate": "2025-12-02T12:30:06.947Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/692e8d39dd258fd32396086a/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
@@ -138,10 +1407,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "692e8d39dd258fd32396086a",
           "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -149,8 +1418,8 @@
         "description": "Class - 03 || Light (प्रकाश) | Physics by Harish sir",
         "teacherName": "HARISH SIR",
         "duration": 0,
-        "startDate": "2025-12-03T11:30:00.536Z",
-        "endDate": "2025-12-03T12:30:00.536Z",
+        "startDate": "2025-12-03T11:30:59.440Z",
+        "endDate": "2025-12-03T12:30:59.440Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/692fcb26dd258fd323759180/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
@@ -187,10 +1456,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "692fcb26dd258fd323759180",
           "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -236,10 +1505,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69304331dd258fd323519e68",
           "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -247,8 +1516,8 @@
         "description": "Class - 05 || Light (प्रकाश) | Physics by Harish sir",
         "teacherName": "HARISH SIR",
         "duration": 0,
-        "startDate": "2025-12-08T11:30:21.080Z",
-        "endDate": "2025-12-08T12:30:21.080Z",
+        "startDate": "2025-12-08T11:30:41.363Z",
+        "endDate": "2025-12-08T12:30:41.363Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/6933f9f3dd258fd3234368c2/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
@@ -285,10 +1554,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6933f9f3dd258fd3234368c2",
           "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -334,10 +1603,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6936e0ee6385517afa8cb524",
           "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -345,8 +1614,8 @@
         "description": "Class - 07 || Light (प्रकाश) | Physics by Harish sir",
         "teacherName": "HARISH SIR",
         "duration": 0,
-        "startDate": "2025-12-11T11:30:29.036Z",
-        "endDate": "2025-12-11T12:30:29.036Z",
+        "startDate": "2025-12-11T11:30:48.827Z",
+        "endDate": "2025-12-11T12:30:48.827Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/693a51566385517afa01f80e/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
@@ -383,10 +1652,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "693a51566385517afa01f80e",
           "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -432,10 +1701,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "693ab64d6385517afadf3854",
           "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -443,8 +1712,8 @@
         "description": "Class - 09 || Light (प्रकाश) | Physics by Harish sir",
         "teacherName": "HARISH SIR",
         "duration": 0,
-        "startDate": "2025-12-15T11:30:36.187Z",
-        "endDate": "2025-12-15T12:30:36.187Z",
+        "startDate": "2025-12-15T11:30:59.609Z",
+        "endDate": "2025-12-15T12:30:59.609Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/693d37996385517afab3a6b7/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
@@ -481,10 +1750,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "693d37996385517afab3a6b7",
           "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -492,8 +1761,8 @@
         "description": "Class - 01 || Current Electricity ( विद्युत धारा ) | Physics by Harish sir",
         "teacherName": "HARISH SIR",
         "duration": 0,
-        "startDate": "2025-12-16T11:30:49.357Z",
-        "endDate": "2025-12-16T12:30:49.357Z",
+        "startDate": "2025-12-16T11:30:22.045Z",
+        "endDate": "2025-12-16T12:30:22.045Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/693ffa526385517afa0e9458/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
@@ -530,10 +1799,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "693ffa526385517afa0e9458",
           "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -573,10 +1842,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "694184596385517afafdcf7b",
           "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -622,10 +1891,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69438ef16385517afa552495",
           "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -671,10 +1940,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "694aab147610406230e7edb5",
           "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -720,10 +1989,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "694a2b8bb38db8674bddcd6d",
           "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -732,7 +2001,7 @@
         "teacherName": "HARISH SIR",
         "duration": 0,
         "startDate": "2025-12-24T11:30:00.000Z",
-        "endDate": "2025-12-24T12:30:00.000Z",
+        "endDate": "2025-12-24T12:33:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/694b88c7faec4ba16512f982/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
@@ -769,10 +2038,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "694b88c7faec4ba16512f982",
           "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -818,10 +2087,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "694cd7f43a2d4b4b532deb5c",
           "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -861,10 +2130,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "694e3526b54cadeb61a13ae3",
           "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -910,10 +2179,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69521878b54cadeb617ca0b1",
           "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -959,1240 +2228,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "695275bab54cadeb617c9f90",
           "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "Class - 01 || Unit and Dimension (इकाई और आयाम) | Harish sir",
-        "description": "Class - 01 || Unit and Dimension (इकाई और आयाम) | Harish sir",
-        "teacherName": "HARISH SIR",
-        "duration": 5660.283333,
-        "startDate": "2026-01-03T07:45:31.985Z",
-        "endDate": "2026-01-03T07:45:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68ed14e786770365f3abb762/hls/master.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ed14e786770365f3abb762/mp4/output_720p_240p.mp4",
-            "quality": "240p",
-            "size": 137.16,
-            "_id": "68fd6f01f179b935b12cea1e"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ed14e786770365f3abb762/mp4/output_720p_360p.mp4",
-            "quality": "360p",
-            "size": 231.46,
-            "_id": "68fd6f01f179b935b12cea1f"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ed14e786770365f3abb762/mp4/output_720p_480p.mp4",
-            "quality": "480p",
-            "size": 345.53,
-            "_id": "68fd6f01f179b935b12cea20"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ed14e786770365f3abb762/mp4/output_720p_720p.mp4",
-            "quality": "720p",
-            "size": 645.15,
-            "_id": "68fd6f01f179b935b12cea21"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "Class - 01 || Unit and Dimension (इकाई और आयाम) BOARD PDF",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760530163802-UNIT_AND_DIMENSION_CLASS_01_-_FOUNDATION_BATCH_compressed.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "68ed14e786770365f3abb762",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "Class - 02 || Unit and Dimension (इकाई और आयाम) | Harish sir",
-        "description": "Class - 02 || Unit and Dimension (इकाई और आयाम) | Harish sir",
-        "teacherName": "Harish sir",
-        "duration": 6358.133333,
-        "startDate": "2026-01-03T07:45:31.985Z",
-        "endDate": "2026-01-03T07:45:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68ee665bd3d74585a6dd178f/hls/master.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ee665bd3d74585a6dd178f/mp4/output_720p_240p.mp4",
-            "quality": "240p",
-            "size": 152.1,
-            "_id": "68fd708c2ea1b0628999816f"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ee665bd3d74585a6dd178f/mp4/output_720p_360p.mp4",
-            "quality": "360p",
-            "size": 253.38,
-            "_id": "68fd708c2ea1b06289998170"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ee665bd3d74585a6dd178f/mp4/output_720p_480p.mp4",
-            "quality": "480p",
-            "size": 371.88,
-            "_id": "68fd708c2ea1b06289998171"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ee665bd3d74585a6dd178f/mp4/output_720p_720p.mp4",
-            "quality": "720p",
-            "size": 662.81,
-            "_id": "68fd708c2ea1b06289998172"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "unit and dimension class 2 science special",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760541181688-UNIT_AND_DIMENSION_CLASS_02__-_FOUNDATION_BATCH.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "68ee665bd3d74585a6dd178f",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "Class - 03 || Unit and Dimension (इकाई और आयाम) | Harish sir",
-        "description": "Class - 03 || Unit and Dimension (इकाई और आयाम) | Harish sir",
-        "teacherName": "HARISH SIR",
-        "duration": 4157.433333,
-        "startDate": "2026-01-03T07:45:31.985Z",
-        "endDate": "2026-01-03T07:45:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68efce4f8b84905b8406c8fc/hls/master.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/68efce4f8b84905b8406c8fc/mp4/output_720p_240p.mp4",
-            "quality": "240p",
-            "size": 98.59,
-            "_id": "68fd71ddbed68c50dd1603ae"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/68efce4f8b84905b8406c8fc/mp4/output_720p_360p.mp4",
-            "quality": "360p",
-            "size": 163.36,
-            "_id": "68fd71ddbed68c50dd1603af"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/68efce4f8b84905b8406c8fc/mp4/output_720p_480p.mp4",
-            "quality": "480p",
-            "size": 238.89,
-            "_id": "68fd71ddbed68c50dd1603b0"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/68efce4f8b84905b8406c8fc/mp4/output_720p_720p.mp4",
-            "quality": "720p",
-            "size": 424.27,
-            "_id": "68fd71ddbed68c50dd1603b1"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "Class - 03 || Unit and Dimension (इकाई और आयाम) BOARD PDF\t",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760633135616-UNIT_AND_DIMENSION_CLASS_03__-_FOUNDATION_BATCH_compressed.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "68efce4f8b84905b8406c8fc",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "Class - 04 || Unit and Dimension (इकाई और आयाम) | Harish sir",
-        "description": "Class - 04 || Unit and Dimension (इकाई और आयाम) | Harish sir",
-        "teacherName": "HARISH SIR",
-        "duration": 4105.333333,
-        "startDate": "2026-01-03T07:45:31.985Z",
-        "endDate": "2026-01-03T07:45:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68f10a20cadb3e241f485abc/hls/master.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f10a20cadb3e241f485abc/mp4/output_720p_240p.mp4",
-            "quality": "240p",
-            "size": 101.14,
-            "_id": "68fd78fcaed5b4af7a538c5b"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f10a20cadb3e241f485abc/mp4/output_720p_360p.mp4",
-            "quality": "360p",
-            "size": 170.47,
-            "_id": "68fd78fcaed5b4af7a538c5c"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f10a20cadb3e241f485abc/mp4/output_720p_480p.mp4",
-            "quality": "480p",
-            "size": 251.94,
-            "_id": "68fd78fcaed5b4af7a538c5d"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f10a20cadb3e241f485abc/mp4/output_720p_720p.mp4",
-            "quality": "720p",
-            "size": 443.96,
-            "_id": "68fd78fcaed5b4af7a538c5e"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "Class - 04 || Unit and Dimension (इकाई और आयाम) BOARD PDF",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761189033244-UNIT_AND_DIMENSION_CLASS_04.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "68f10a20cadb3e241f485abc",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "Class - 01 || MOTION ( गति ) | Harish sir",
-        "description": "Class - 01 || MOTION ( गति ) | Harish sir",
-        "teacherName": "Harish sir",
-        "duration": 3718.57,
-        "startDate": "2026-01-03T07:46:32.558Z",
-        "endDate": "2026-01-03T07:46:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68fae908aed5b4af7a90d7dd/hls/master.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fae908aed5b4af7a90d7dd/mp4/output_720p_240p.mp4",
-            "quality": "240p",
-            "size": 81.28,
-            "_id": "68fd6ee1bed68c50dd15b64d"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fae908aed5b4af7a90d7dd/mp4/output_720p_360p.mp4",
-            "quality": "360p",
-            "size": 134.58,
-            "_id": "68fd6ee1bed68c50dd15b64e"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fae908aed5b4af7a90d7dd/mp4/output_720p_480p.mp4",
-            "quality": "480p",
-            "size": 193,
-            "_id": "68fd6ee1bed68c50dd15b64f"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/68fae908aed5b4af7a90d7dd/mp4/output_720p_720p.mp4",
-            "quality": "720p",
-            "size": 306.24,
-            "_id": "68fd6ee1bed68c50dd15b650"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "Class - 01 || MOTION ( गति ) | Harish sir BOARD PDF",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761477239446-motion_01_reduce.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "68fae908aed5b4af7a90d7dd",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "Class - 02 || MOTION ( गति ) | Harish sir",
-        "description": "Class - 02 || MOTION ( गति ) | Harish sir",
-        "teacherName": "HARISH SIR",
-        "duration": 0,
-        "startDate": "2026-01-03T07:46:32.558Z",
-        "endDate": "2026-01-03T07:46:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/68fcdc33bd782a2af1fe0585/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/68fcdc33bd782a2af1fe0585/output_720p.mp4",
-            "quality": "720p",
-            "size": 715.56,
-            "_id": "68ff804bbd782a2af1cd2e94"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/68fcdc33bd782a2af1fe0585/output_480p.mp4",
-            "quality": "480p",
-            "size": 457.27,
-            "_id": "68ff804bbd782a2af1cd2e95"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/68fcdc33bd782a2af1fe0585/output_360p.mp4",
-            "quality": "360p",
-            "size": 399.5,
-            "_id": "68ff804bbd782a2af1cd2e96"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/68fcdc33bd782a2af1fe0585/output_240p.mp4",
-            "quality": "240p",
-            "size": 313.38,
-            "_id": "68ff804bbd782a2af1cd2e97"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "Class - 02 || MOTION ( गति ) | Harish sir\tBOARD PDF",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761580914862-motion__class_2_reduce.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "68fcdc33bd782a2af1fe0585",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "Class - 03 || MOTION ( गति ) | Harish sir",
-        "description": "Class - 03 || MOTION ( गति ) | Harish sir",
-        "teacherName": "HARISH SIR",
-        "duration": 0,
-        "startDate": "2026-01-03T07:46:32.558Z",
-        "endDate": "2026-01-03T07:46:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/68ff96dbf179b935b1fc0bbb/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/68ff96dbf179b935b1fc0bbb/output_720p.mp4",
-            "quality": "720p",
-            "size": 832.01,
-            "_id": "690225e919fedfd663d76742"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/68ff96dbf179b935b1fc0bbb/output_480p.mp4",
-            "quality": "480p",
-            "size": 530.77,
-            "_id": "690225e919fedfd663d76743"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/68ff96dbf179b935b1fc0bbb/output_360p.mp4",
-            "quality": "360p",
-            "size": 463.64,
-            "_id": "690225e919fedfd663d76744"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/68ff96dbf179b935b1fc0bbb/output_240p.mp4",
-            "quality": "240p",
-            "size": 363.55,
-            "_id": "690225e919fedfd663d76745"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "Class - 03 || MOTION ( गति ) | Harish sir\tBOARD PDF",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761770446037-20251029193840454_removed_RE.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "68ff96dbf179b935b1fc0bbb",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "Class - 04 | MOTION ( गति ) | Harish sir",
-        "description": "Class - 04 | MOTION ( गति ) | Harish sir",
-        "teacherName": "HARISH SIR",
-        "duration": 0,
-        "startDate": "2026-01-03T07:46:32.558Z",
-        "endDate": "2026-01-03T07:46:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/690229256aeca24e93f8d1ac/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690229256aeca24e93f8d1ac/output_720p.mp4",
-            "quality": "720p",
-            "size": 818.84,
-            "_id": "690379a7563adc39b96f345f"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690229256aeca24e93f8d1ac/output_480p.mp4",
-            "quality": "480p",
-            "size": 523.22,
-            "_id": "690379a7563adc39b96f3460"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690229256aeca24e93f8d1ac/output_360p.mp4",
-            "quality": "360p",
-            "size": 456.95,
-            "_id": "690379a7563adc39b96f3461"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690229256aeca24e93f8d1ac/output_240p.mp4",
-            "quality": "240p",
-            "size": 358.55,
-            "_id": "690379a7563adc39b96f3462"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "Class - 04 | MOTION ( गति ) | Harish sir BOARD PDF",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761867636378-20251030194046089_RE.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "690229256aeca24e93f8d1ac",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "Class - 05 | MOTION ( गति ) | Harish sir",
-        "description": "Class - 05 | MOTION ( गति ) | Harish sir",
-        "teacherName": "Harish sir",
-        "duration": 0,
-        "startDate": "2026-01-03T07:46:32.558Z",
-        "endDate": "2026-01-03T07:46:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/690371cf19fedfd66371e01a/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690371cf19fedfd66371e01a/output_720p.mp4",
-            "quality": "720p",
-            "size": 501.22,
-            "_id": "6904cdfd563adc39b90c3f0e"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690371cf19fedfd66371e01a/output_480p.mp4",
-            "quality": "480p",
-            "size": 319.82,
-            "_id": "6904cdfd563adc39b90c3f0f"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690371cf19fedfd66371e01a/output_360p.mp4",
-            "quality": "360p",
-            "size": 279.31,
-            "_id": "6904cdfd563adc39b90c3f10"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690371cf19fedfd66371e01a/output_240p.mp4",
-            "quality": "240p",
-            "size": 218.89,
-            "_id": "6904cdfd563adc39b90c3f11"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "Class - 05 | MOTION ( गति ) | Harish sir BOARD PDF",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761946088860-20251031200406791_re.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "690371cf19fedfd66371e01a",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "Class - 01 | Newton’s Laws of Motion and Force ( न्यूटन के गति के नियम और बल) PART -1 | Harish sir",
-        "description": "Class - 06 | Newton’s Laws of Motion and Force ( न्यूटन के गति के नियम और बल) PART -1 | Harish sir",
-        "teacherName": "HARISH SIR",
-        "duration": 0,
-        "startDate": "2026-01-03T07:46:32.558Z",
-        "endDate": "2026-01-03T07:46:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/690755996aeca24e931947d5/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690755996aeca24e931947d5/output_720p.mp4",
-            "quality": "720p",
-            "size": 772.07,
-            "_id": "6908bf06f48d1caffd259a90"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690755996aeca24e931947d5/output_480p.mp4",
-            "quality": "480p",
-            "size": 494.32,
-            "_id": "6908bf06f48d1caffd259a91"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690755996aeca24e931947d5/output_360p.mp4",
-            "quality": "360p",
-            "size": 431.88,
-            "_id": "6908bf06f48d1caffd259a92"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690755996aeca24e931947d5/output_240p.mp4",
-            "quality": "240p",
-            "size": 339.48,
-            "_id": "6908bf06f48d1caffd259a93"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "Class - 06 MOTION  BOARD PDF",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/1762249568603-Class_-_06_MOTION_BOARD_PDF.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "690755996aeca24e931947d5",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "Class - 02 | Newton’s Laws of Motion and Force ( न्यूटन के गति के नियम और बल) PART -2 | Harish sir",
-        "description": "Class - 07 | Newton’s Laws of Motion and Force ( न्यूटन के गति के नियम और बल) PART -2 | Harish sir",
-        "teacherName": "HARISH SIR",
-        "duration": 0,
-        "startDate": "2026-01-03T07:46:32.558Z",
-        "endDate": "2026-01-03T07:46:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6909931ef48d1caffd67898a/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6909931ef48d1caffd67898a/output_720p.mp4",
-            "quality": "720p",
-            "size": 433.52,
-            "_id": "690a02c55085387730a7a5bf"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6909931ef48d1caffd67898a/output_480p.mp4",
-            "quality": "480p",
-            "size": 276.97,
-            "_id": "690a02c55085387730a7a5c0"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6909931ef48d1caffd67898a/output_360p.mp4",
-            "quality": "360p",
-            "size": 241.88,
-            "_id": "690a02c55085387730a7a5c1"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6909931ef48d1caffd67898a/output_240p.mp4",
-            "quality": "240p",
-            "size": 189.77,
-            "_id": "690a02c55085387730a7a5c2"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "force board pdf",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/force.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "6909931ef48d1caffd67898a",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "Class - 01 | Work, Power and Energy (  कार्य, शक्ति और ऊर्जा ) PART -01 | Harish sir",
-        "description": "Class - 08 | Work, Power and Energy (  कार्य, शक्ति और ऊर्जा ) PART -1 | Harish sir",
-        "teacherName": "HARISH SIR",
-        "duration": 0,
-        "startDate": "2026-01-03T07:47:41.797Z",
-        "endDate": "2026-01-03T07:47:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/690a1bca563adc39b916f18a/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690a1bca563adc39b916f18a/output_720p.mp4",
-            "quality": "720p",
-            "size": 589.85,
-            "_id": "690b5ad550853877303dc25f"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690a1bca563adc39b916f18a/output_480p.mp4",
-            "quality": "480p",
-            "size": 377.98,
-            "_id": "690b5ad550853877303dc260"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690a1bca563adc39b916f18a/output_360p.mp4",
-            "quality": "360p",
-            "size": 330.38,
-            "_id": "690b5ad550853877303dc261"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690a1bca563adc39b916f18a/output_240p.mp4",
-            "quality": "240p",
-            "size": 259.7,
-            "_id": "690b5ad550853877303dc262"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "Class - 08 | Work Power and Energy | Harish sir BOARD PDF",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/1762500893116-work_power_energy2.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "690a1bca563adc39b916f18a",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "Class - 02 | Work, Power and Energy ( कार्य, शक्ति और ऊर्जा ) PART 2 | Harish sir",
-        "description": "Class - 09 | Work, Power and Energy ( कार्य, शक्ति और ऊर्जा ) PART 2 | Harish sir",
-        "teacherName": "HARISH SIR",
-        "duration": 0,
-        "startDate": "2026-01-03T07:47:41.797Z",
-        "endDate": "2026-01-03T07:47:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/690c566c6aeca24e9324ffef/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690c566c6aeca24e9324ffef/output_720p.mp4",
-            "quality": "720p",
-            "size": 597.66,
-            "_id": "690cabfe563adc39b92bd30a"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690c566c6aeca24e9324ffef/output_480p.mp4",
-            "quality": "480p",
-            "size": 382.68,
-            "_id": "690cabfe563adc39b92bd30b"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690c566c6aeca24e9324ffef/output_360p.mp4",
-            "quality": "360p",
-            "size": 334.44,
-            "_id": "690cabfe563adc39b92bd30c"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690c566c6aeca24e9324ffef/output_240p.mp4",
-            "quality": "240p",
-            "size": 262.93,
-            "_id": "690cabfe563adc39b92bd30d"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "Class - 09 | Work Power and Energy | Harish sir BOARD PDF",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/1762495400828-class-09_Work,Power_and_Energy.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "690c566c6aeca24e9324ffef",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "Class - 03 | Work, Power and Energy ( कार्य, शक्ति और ऊर्जा ) PART 3 | Harish sir",
-        "description": "Class - 10 | Work, Power and Energy ( कार्य, शक्ति और ऊर्जा ) PART 3 | Harish sir",
-        "teacherName": "HARISH SIR",
-        "duration": 0,
-        "startDate": "2026-01-03T07:47:41.797Z",
-        "endDate": "2026-01-03T07:47:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/690ce15b6aeca24e9372a748/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690ce15b6aeca24e9372a748/output_720p.mp4",
-            "quality": "720p",
-            "size": 670.02,
-            "_id": "690e00acf48d1caffd6f088b"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690ce15b6aeca24e9372a748/output_480p.mp4",
-            "quality": "480p",
-            "size": 428.44,
-            "_id": "690e00acf48d1caffd6f088c"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690ce15b6aeca24e9372a748/output_360p.mp4",
-            "quality": "360p",
-            "size": 373.97,
-            "_id": "690e00acf48d1caffd6f088d"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690ce15b6aeca24e9372a748/output_240p.mp4",
-            "quality": "240p",
-            "size": 293.52,
-            "_id": "690e00acf48d1caffd6f088e"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "Class 10 Work Power and Energy Bord pdf",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/1762570240050-Class_10_Work_Power_and_Energy_Bord_pdf.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "690ce15b6aeca24e9372a748",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "CLASS -01 || Gravitation (गुरुत्वाकर्षण ) PART -1 | Physics | Harish sir",
-        "description": "CLASS -11 || Gravitation (गुरुत्वाकर्षण ) PART -1 | Physics | Harish sir",
-        "teacherName": "h",
-        "duration": 0,
-        "startDate": "2026-01-03T07:48:08.471Z",
-        "endDate": "2026-01-03T07:48:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/690f09c919fedfd6632f1528/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690f09c919fedfd6632f1528/output_720p.mp4",
-            "quality": "720p",
-            "size": 503.39,
-            "_id": "6911f6b1932c0deb70eb1c07"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690f09c919fedfd6632f1528/output_480p.mp4",
-            "quality": "480p",
-            "size": 322.58,
-            "_id": "6911f6b1932c0deb70eb1c08"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690f09c919fedfd6632f1528/output_360p.mp4",
-            "quality": "360p",
-            "size": 281.77,
-            "_id": "6911f6b1932c0deb70eb1c09"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/690f09c919fedfd6632f1528/output_240p.mp4",
-            "quality": "240p",
-            "size": 221.02,
-            "_id": "6911f6b1932c0deb70eb1c0a"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "gravitation board pdf",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/gravitation.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "690f09c919fedfd6632f1528",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "CLASS -02 || Gravitation (गुरुत्वाकर्षण ) PART -2 | Physics | Harish sir",
-        "description": "CLASS -12 || Gravitation (गुरुत्वाकर्षण ) PART -2 | Physics | Harish sir",
-        "teacherName": "HARISH SIR",
-        "duration": 0,
-        "startDate": "2026-01-03T07:48:08.471Z",
-        "endDate": "2026-01-03T07:48:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/69133a31932c0deb70b4ece3/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/69133a31932c0deb70b4ece3/output_720p.mp4",
-            "quality": "720p",
-            "size": 528.39,
-            "_id": "6914a2a9932c0deb703fb4d6"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/69133a31932c0deb70b4ece3/output_480p.mp4",
-            "quality": "480p",
-            "size": 338.81,
-            "_id": "6914a2a9932c0deb703fb4d7"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/69133a31932c0deb70b4ece3/output_360p.mp4",
-            "quality": "360p",
-            "size": 296.39,
-            "_id": "6914a2a9932c0deb703fb4d8"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/69133a31932c0deb70b4ece3/output_240p.mp4",
-            "quality": "240p",
-            "size": 233,
-            "_id": "6914a2a9932c0deb703fb4d9"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "gravitation part 2",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/gravitation part 2.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "69133a31932c0deb70b4ece3",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "CLASS -03 || Gravitation (गुरुत्वाकर्षण ) PART -3 | Physics | Harish sir",
-        "description": "CLASS -13 || Gravitation (गुरुत्वाकर्षण ) PART -3 | Physics | Harish sir",
-        "teacherName": "HARISH SIR",
-        "duration": 0,
-        "startDate": "2026-01-03T07:48:08.471Z",
-        "endDate": "2026-01-03T07:48:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6914a45480d6461558e86159/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6914a45480d6461558e86159/output_720p.mp4",
-            "quality": "720p",
-            "size": 669.35,
-            "_id": "69174799932c0deb70c40580"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6914a45480d6461558e86159/output_480p.mp4",
-            "quality": "480p",
-            "size": 428.41,
-            "_id": "69174799932c0deb70c40581"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6914a45480d6461558e86159/output_360p.mp4",
-            "quality": "360p",
-            "size": 374.45,
-            "_id": "69174799932c0deb70c40582"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6914a45480d6461558e86159/output_240p.mp4",
-            "quality": "240p",
-            "size": 293.76,
-            "_id": "69174799932c0deb70c40583"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "gravitation part 3",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/gravitation part 3.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "6914a45480d6461558e86159",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "CLASS -04 || Gravitation (गुरुत्वाकर्षण ) PART -4 | Physics | Harish sir",
-        "description": "CLASS -14 || Gravitation (गुरुत्वाकर्षण ) PART -4 | Physics | Harish sir",
-        "teacherName": "HARISH SIR",
-        "duration": 0,
-        "startDate": "2026-01-03T07:48:08.471Z",
-        "endDate": "2026-01-03T07:48:11.872Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/69183fdc932c0deb70d64ef9/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/69183fdc932c0deb70d64ef9/output_720p.mp4",
-            "quality": "720p",
-            "size": 405.43,
-            "_id": "6918870b932c0deb70c59929"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/69183fdc932c0deb70d64ef9/output_480p.mp4",
-            "quality": "480p",
-            "size": 260.17,
-            "_id": "6918870b932c0deb70c5992a"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/69183fdc932c0deb70d64ef9/output_360p.mp4",
-            "quality": "360p",
-            "size": 227.16,
-            "_id": "6918870b932c0deb70c5992b"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/69183fdc932c0deb70d64ef9/output_240p.mp4",
-            "quality": "240p",
-            "size": 178.25,
-            "_id": "6918870b932c0deb70c5992c"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "gravitation board pdf",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/gravitation board pdf.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "69183fdc932c0deb70d64ef9",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "CLASS -01 || Pressure ( दाब ) PART -1| Physics | Harish sir",
-        "description": "CLASS -15 || Pressure ( दाब ) PART -1| Physics | Harish sir",
-        "teacherName": "HARISH SIR",
-        "duration": 0,
-        "startDate": "2026-01-03T07:48:45.075Z",
-        "endDate": "2026-01-03T07:48:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/691a0e5c932c0deb70f3bf63/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/691a0e5c932c0deb70f3bf63/output_720p.mp4",
-            "quality": "720p",
-            "size": 571.63,
-            "_id": "691b36dcdd258fd3233231ff"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/691a0e5c932c0deb70f3bf63/output_480p.mp4",
-            "quality": "480p",
-            "size": 367.07,
-            "_id": "691b36dcdd258fd323323200"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/691a0e5c932c0deb70f3bf63/output_360p.mp4",
-            "quality": "360p",
-            "size": 320.63,
-            "_id": "691b36dcdd258fd323323201"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/691a0e5c932c0deb70f3bf63/output_240p.mp4",
-            "quality": "240p",
-            "size": 252.02,
-            "_id": "691b36dcdd258fd323323202"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "PRESSURE PART 01 pdf",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/PRESSURE PART 01 pdf.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "691a0e5c932c0deb70f3bf63",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "CLASS -02 || Pressure ( दाब ) PART -2| Physics | Harish sir",
-        "description": "CLASS -16 || Pressure ( दाब ) PART -2| Physics | Harish sir",
-        "teacherName": "HARISH SIR",
-        "duration": 2832,
-        "startDate": "2026-01-03T07:48:45.075Z",
-        "endDate": "2026-01-03T07:48:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/691b523139642e9188a03e22/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/691b523139642e9188a03e22/output_720p.mp4",
-            "quality": "720p",
-            "size": 450.88,
-            "_id": "69678afb027f25d29e7479d8"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/691b523139642e9188a03e22/output_480p.mp4",
-            "quality": "480p",
-            "size": 294.25,
-            "_id": "69678afb027f25d29e7479d9"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/691b523139642e9188a03e22/output_360p.mp4",
-            "quality": "360p",
-            "size": 214.28,
-            "_id": "69678afb027f25d29e7479da"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/691b523139642e9188a03e22/output_240p.mp4",
-            "quality": "240p",
-            "size": 173.82,
-            "_id": "69678afb027f25d29e7479db"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "pressure board pdf",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/pressure board pdf.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "691b523139642e9188a03e22",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "CLASS -01 || Wave ( तरंग ) PART -1 | Physics | Harish sir",
-        "description": "CLASS -17 || Wave ( तरंग ) PART -1 | Physics | Harish sir",
-        "teacherName": "HARISH SIR",
-        "duration": 4966.85,
-        "startDate": "2026-01-03T07:49:24.359Z",
-        "endDate": "2026-01-03T07:49:21.858Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/691dc82f39642e9188a219c9/hls/master.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/691dc82f39642e9188a219c9/mp4/My_Video_3_240p.mp4",
-            "quality": "240p",
-            "size": 121.61,
-            "_id": "691dda4add258fd323658804"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/691dc82f39642e9188a219c9/mp4/My_Video_3_360p.mp4",
-            "quality": "360p",
-            "size": 197.83,
-            "_id": "691dda4add258fd323658805"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/691dc82f39642e9188a219c9/mp4/My_Video_3_480p.mp4",
-            "quality": "480p",
-            "size": 284.62,
-            "_id": "691dda4add258fd323658806"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/691dc82f39642e9188a219c9/mp4/My_Video_3_720p.mp4",
-            "quality": "720p",
-            "size": 473.73,
-            "_id": "691dda4add258fd323658807"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "Wave Class pdf English",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/Wave Class pdf English.pdf"
-          },
-          {
-            "priority": 2,
-            "name": "Wave Class pdf HIndi",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/Wave Class pdf HIndi.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "691dc82f39642e9188a219c9",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "CLASS -02 || Wave ( तरंग ) PART -2 | Physics | Harish sir",
-        "description": "CLASS -18 || Wave ( तरंग ) PART -2 | Physics | Harish sir",
-        "teacherName": "HARISH SIR",
-        "duration": 2647.983,
-        "startDate": "2026-01-03T07:49:24.359Z",
-        "endDate": "2026-01-03T07:49:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/691f0dad39642e9188a3d137/hls/master.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/691f0dad39642e9188a3d137/mp4/My_Video_4_240p.mp4",
-            "quality": "240p",
-            "size": 66.1,
-            "_id": "691f1548dd258fd323263062"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/691f0dad39642e9188a3d137/mp4/My_Video_4_360p.mp4",
-            "quality": "360p",
-            "size": 109.04,
-            "_id": "691f1548dd258fd323263063"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/691f0dad39642e9188a3d137/mp4/My_Video_4_480p.mp4",
-            "quality": "480p",
-            "size": 155.72,
-            "_id": "691f1548dd258fd323263064"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/691f0dad39642e9188a3d137/mp4/My_Video_4_720p.mp4",
-            "quality": "720p",
-            "size": 254.4,
-            "_id": "691f1548dd258fd323263065"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "wave board pdf",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/wave board pdf.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "691f0dad39642e9188a3d137",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "CLASS -01 || Sound (ध्वनि ) PART -1 | Physics | Harish sir",
-        "description": "CLASS -19 || Sound (ध्वनि ) PART -1 | Physics | Harish sir",
-        "teacherName": "HARISH SIR",
-        "duration": 6431.316009,
-        "startDate": "2026-01-03T07:50:24.131Z",
-        "endDate": "2026-01-03T07:50:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6925a16d39642e9188a96977/hls/master.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6925a16d39642e9188a96977/mp4/My_Video_7_240p.mp4",
-            "quality": "240p",
-            "size": 154.97,
-            "_id": "6925b447dd258fd32329d4ec"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6925a16d39642e9188a96977/mp4/My_Video_7_360p.mp4",
-            "quality": "360p",
-            "size": 246.84,
-            "_id": "6925b447dd258fd32329d4ed"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6925a16d39642e9188a96977/mp4/My_Video_7_480p.mp4",
-            "quality": "480p",
-            "size": 349.18,
-            "_id": "6925b447dd258fd32329d4ee"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6925a16d39642e9188a96977/mp4/My_Video_7_720p.mp4",
-            "quality": "720p",
-            "size": 561.89,
-            "_id": "6925b447dd258fd32329d4ef"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "sound class 01 pdf",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/sound class 01 pdf.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "6925a16d39642e9188a96977",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "CLASS -02 || Sound (ध्वनि ) PART -2 | Physics | Harish sir",
-        "description": "CLASS -20 || Sound (ध्वनि ) PART -2 | Physics | Harish sir",
-        "teacherName": "HARISH SIR",
-        "duration": 0,
-        "startDate": "2026-01-03T07:50:24.131Z",
-        "endDate": "2026-01-03T07:50:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/692602b6dd258fd32300448c/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/692602b6dd258fd32300448c/output_720p.mp4",
-            "quality": "720p",
-            "size": 444.87,
-            "_id": "6928597edd258fd323746a6b"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/692602b6dd258fd32300448c/output_480p.mp4",
-            "quality": "480p",
-            "size": 285.5,
-            "_id": "6928597edd258fd323746a6c"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/692602b6dd258fd32300448c/output_360p.mp4",
-            "quality": "360p",
-            "size": 249.77,
-            "_id": "6928597edd258fd323746a6d"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/692602b6dd258fd32300448c/output_240p.mp4",
-            "quality": "240p",
-            "size": 196.08,
-            "_id": "6928597edd258fd323746a6e"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "sound class 02",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/sound class 02.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "692602b6dd258fd32300448c",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "CLASS -03 || Sound (ध्वनि ) PART -3 | Physics | Harish sir",
-        "description": "CLASS -21 || Sound (ध्वनि ) PART -3 | Physics | Harish sir",
-        "teacherName": "HARISH SIR",
-        "duration": 0,
-        "startDate": "2026-01-03T07:50:24.131Z",
-        "endDate": "2026-01-03T07:50:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/692930a4dd258fd32343b62c/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/692930a4dd258fd32343b62c/output_720p.mp4",
-            "quality": "720p",
-            "size": 269.31,
-            "_id": "6929a318dd258fd32387915e"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/692930a4dd258fd32343b62c/output_480p.mp4",
-            "quality": "480p",
-            "size": 173.03,
-            "_id": "6929a318dd258fd32387915f"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/692930a4dd258fd32343b62c/output_360p.mp4",
-            "quality": "360p",
-            "size": 150.75,
-            "_id": "6929a318dd258fd323879160"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/692930a4dd258fd32343b62c/output_240p.mp4",
-            "quality": "240p",
-            "size": 118.35,
-            "_id": "6929a318dd258fd323879161"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "SOUND pdf",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/SOUND pdf.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "692930a4dd258fd32343b62c",
-          "topicId": "68ed14b9a3e6437ce1b36c37",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       }
     ],
@@ -2202,8 +2241,8 @@
         "description": "Class - 01 || Digestive System ( पाचन तंत्र ) | Biology By Harish Sir",
         "teacherName": "HARISH SIR",
         "duration": 0,
-        "startDate": "2025-12-02T05:30:21.077Z",
-        "endDate": "2025-12-02T06:30:21.077Z",
+        "startDate": "2025-12-02T05:30:32.132Z",
+        "endDate": "2025-12-02T06:30:32.132Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/692e5e43da2125802ccf01d9/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
@@ -2240,10 +2279,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "692e5e43da2125802ccf01d9",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -2251,8 +2290,8 @@
         "description": "Class - 02 || Digestive System ( पाचन तंत्र ) | Biology By Harish Sir",
         "teacherName": "HARISH SIR",
         "duration": 0,
-        "startDate": "2025-12-03T05:30:46.226Z",
-        "endDate": "2025-12-03T06:30:46.226Z",
+        "startDate": "2025-12-03T05:30:57.191Z",
+        "endDate": "2025-12-03T06:30:57.191Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/692f350fdd258fd3232d8b0b/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
@@ -2289,10 +2328,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "692f350fdd258fd3232d8b0b",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -2338,10 +2377,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69301de8dd258fd323840d97",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -2349,8 +2388,8 @@
         "description": "Class - 04 || Digestive System ( पाचन तंत्र ) | Biology By Harish Sir",
         "teacherName": "HARISH SIR",
         "duration": 0,
-        "startDate": "2025-12-05T05:47:44.731Z",
-        "endDate": "2025-12-05T06:30:44.731Z",
+        "startDate": "2025-12-05T05:30:00.000Z",
+        "endDate": "2025-12-05T06:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/69314debdd258fd323034032/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
@@ -2387,10 +2426,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69314debdd258fd323034032",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -2398,8 +2437,8 @@
         "description": "Class - 05 || Digestive System ( पाचन तंत्र ) | Biology By Harish Sir",
         "teacherName": "HARISH SIR",
         "duration": 0,
-        "startDate": "2025-12-08T05:30:18.951Z",
-        "endDate": "2025-12-08T06:30:18.951Z",
+        "startDate": "2025-12-08T05:30:37.057Z",
+        "endDate": "2025-12-08T06:30:37.057Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/6933f8eddd258fd3233dda37/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
@@ -2436,10 +2475,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6933f8eddd258fd3233dda37",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -2447,8 +2486,8 @@
         "description": "Class - 01 || Blood Circulatory System (रक्त परिसंचरण तंत्र) | Biology By Harish Sir",
         "teacherName": "HARISH SIR",
         "duration": 0,
-        "startDate": "2025-12-09T05:30:38.251Z",
-        "endDate": "2025-12-09T06:30:38.251Z",
+        "startDate": "2025-12-09T05:30:53.742Z",
+        "endDate": "2025-12-09T06:30:53.742Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/6937b1926385517afab0435d/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
@@ -2485,10 +2524,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6937b1926385517afab0435d",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -2496,8 +2535,8 @@
         "description": "Class - 02 || Blood Circulatory System (रक्त परिसंचरण तंत्र) | Biology By Harish Sir",
         "teacherName": "HARISH SIR",
         "duration": 0,
-        "startDate": "2025-12-11T05:30:13.959Z",
-        "endDate": "2025-12-11T06:30:13.959Z",
+        "startDate": "2025-12-11T05:30:40.959Z",
+        "endDate": "2025-12-11T06:30:40.959Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/6937f6376385517afabd5084/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
@@ -2534,10 +2573,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6937f6376385517afabd5084",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -2583,10 +2622,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6939415a6385517afa27cb01",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -2594,8 +2633,8 @@
         "description": "Class - 04 || Blood Circulatory System (रक्त परिसंचरण तंत्र) | Biology By Harish Sir",
         "teacherName": "HARISH SIR",
         "duration": 0,
-        "startDate": "2025-12-15T15:29:23.191Z",
-        "endDate": "2025-12-15T16:29:23.191Z",
+        "startDate": "2025-12-15T15:29:23.185Z",
+        "endDate": "2025-12-15T16:29:23.185Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/693ff9dd6385517afa0bb0d2/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
@@ -2632,10 +2671,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "693ff9dd6385517afa0bb0d2",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -2681,10 +2720,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "694034ce6385517afad85bb6",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -2730,10 +2769,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "694124a56385517afa226c90",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -2779,10 +2818,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6947f75c6bcc97e09efe62c9",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -2828,10 +2867,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "694acf69b38db8674b60a810",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -2877,10 +2916,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "694c1b8a2feca20f8182e9c6",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -2926,10 +2965,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "695179dcb54cadeb61798710",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -2975,10 +3014,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69527501b54cadeb6172d798",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -3024,10 +3063,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6953a481b54cadeb616271bd",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -3073,10 +3112,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6956bacec1e281b464e2ac44",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -3122,10 +3161,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6957ff5e9ed6d5d242bce0e8",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -3171,10 +3210,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6958d3c49ed6d5d242fd8d9b",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -3220,10 +3259,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "695b77ed9ed6d5d242f8b960",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -3269,10 +3308,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "695cd377027f25d29e817d91",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -3318,10 +3357,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "695e4674027f25d29e658f5a",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -3367,10 +3406,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6960a0e62feca20f81f292ca",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -3416,10 +3455,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69668d602feca20f811ac0ce",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -3465,10 +3504,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6967f0752feca20f81209839",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -3514,10 +3553,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6969cdd4b6cbd07fbf857506",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -3563,10 +3602,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "696f04b7719de161eef93959",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -3612,10 +3651,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "696fdcde719de161ee096b1e",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -3661,10 +3700,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "697994c2c566674bff9013b8",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -3710,10 +3749,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "697ae6c6c566674bff985fb6",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -3759,10 +3798,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "697d8d7b4ca8c7fbe8f1219d",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -3808,10 +3847,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6980506a4ca8c7fbe8ff592e",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -3857,10 +3896,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "698181754ca8c7fbe80a59a1",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -3906,10 +3945,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69844859fdd21a8a2d12ef34",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -3960,10 +3999,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6985b7960df4ffd2b9ac7747",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -4009,10 +4048,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6986d46d5b61b5fe00fb3caf",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -4058,10 +4097,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "698acbb64167f565026baef6",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -4107,10 +4146,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "698b80eba003679fb8af63f5",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -4156,10 +4195,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "698d6b8ef934db83d319b51f",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -4205,10 +4244,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "699446e408fc838a42fa2969",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -4254,10 +4293,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6995575b399756d49246a46d",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -4303,10 +4342,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6996b964399756d49255dccf",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -4352,10 +4391,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69998dc4399756d492775df9",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -4401,10 +4440,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "699d39a6399756d492960fed",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -4444,10 +4483,10 @@
         ],
         "classPdf": [],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "699e83ae399756d492a53a5c",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -4493,10 +4532,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69aa6b73a2b1ae0433445330",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -4542,10 +4581,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69abbb3aa2b1ae043352cf26",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -4554,7 +4593,7 @@
         "teacherName": "HARISH SIR",
         "duration": 0,
         "startDate": "2026-03-10T06:03:00.000Z",
-        "endDate": "2026-03-10T05:03:00.000Z",
+        "endDate": "2026-03-10T04:03:00.000Z",
         "isFree": false,
         "videoUrl": "https://www.youtube.com/watch?v=_C5Aizyj5sY",
         "mp4Recordings": [],
@@ -4566,10 +4605,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69afadbfa2b1ae0433abb8e3",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -4615,10 +4654,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69b259629d14466cd0b5cc1b",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -4626,7 +4665,7 @@
         "description": "\"RF 1, 2,3 & Sci Spl 1 ,2 , Selection Batch 1,2,3,4\r\nRRB Group D\"",
         "teacherName": "HARISH SIR",
         "duration": 6049.6,
-        "startDate": "2026-03-16T13:30:00.000Z",
+        "startDate": "2026-03-16T13:45:00.000Z",
         "endDate": "2026-03-16T12:45:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69b39f8e9d14466cd0c43117/hls/master.m3u8",
@@ -4664,10 +4703,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69b39f8e9d14466cd0c43117",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -4713,10 +4752,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69b8f1cddbf4fa27cf7d7eda",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -4762,10 +4801,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69ba39b0a96048112f42f194",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -4811,10 +4850,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69bba10202b07cbc32f0e8b2",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -4860,10 +4899,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69bd07de713c8e763d5346f8",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -4909,10 +4948,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69c122c3951392adb8a97f60",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -4921,7 +4960,7 @@
         "teacherName": "HARISH SIR",
         "duration": 5423.5,
         "startDate": "2026-03-24T13:32:00.000Z",
-        "endDate": "2026-03-24T13:32:00.000Z",
+        "endDate": "2026-03-24T12:32:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69c25adb229920b988980b72/hls/master.m3u8",
         "mp4Recordings": [
@@ -4958,10 +4997,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69c25adb229920b988980b72",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -5007,10 +5046,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69c38d7d20b6656683f7b34e",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -5019,7 +5058,7 @@
         "teacherName": "HARISH SIR",
         "duration": 44.978,
         "startDate": "2026-03-27T09:57:00.000Z",
-        "endDate": "2026-03-27T08:57:00.000Z",
+        "endDate": "2026-03-27T06:57:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69c6521a49ddc27679eaea85/hls/master.m3u8",
         "mp4Recordings": [
@@ -5050,10 +5089,10 @@
         ],
         "classPdf": [],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69c6521a49ddc27679eaea85",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -5099,10 +5138,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69cb5d19c7f3b7e3fb7581a5",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -5148,10 +5187,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69ce11ab658aed862444f75a",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -5197,10 +5236,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69cfa1533a45ba4df5cf0a9f",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -5246,10 +5285,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69d08f0395934247b28b53bd",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -5295,10 +5334,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69d6354a22cc6f4d5f21de88",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -5344,10 +5383,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69dcca5922cc6f4d5f5a201c",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -5355,8 +5394,8 @@
         "description": "\"RF 1, 2,3 Sci Spl 1, \r\nRRB GD, Selection Batch 1,2,3,4,\"",
         "teacherName": "HARISH SIR",
         "duration": 4460,
-        "startDate": "2026-05-27T06:28:00.000Z",
-        "endDate": "2026-05-27T07:28:00.000Z",
+        "startDate": "2026-05-25T10:01:00.000Z",
+        "endDate": "2026-05-25T11:01:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a17cc4ab927c1a84a5866ab/hls/master.m3u8",
         "mp4Recordings": [
@@ -5393,10 +5432,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6a154153b927c1a84a3dbd9f",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -5404,8 +5443,8 @@
         "description": "\"RF 1, 2,3 Sci Spl 1, \r\nRRB GD, Selection Batch 1,2,3,4,\"",
         "teacherName": "HARISH SIR",
         "duration": 1981,
-        "startDate": "2026-06-01T06:29:00.000Z",
-        "endDate": "2026-06-01T07:29:00.000Z",
+        "startDate": "2026-05-26T11:30:00.000Z",
+        "endDate": "2026-05-26T12:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/6a15306bb927c1a84a3a470a/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
@@ -5442,49 +5481,108 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6a15306bb927c1a84a3a470a",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
-      }
-    ],
-    "Introduction": [
+      },
       {
-        "title": "Important message by Harish sir",
-        "description": "",
-        "teacherName": "Harish sir",
-        "duration": 79.35,
-        "startDate": "2025-12-30T07:01:53.659Z",
-        "endDate": "2025-12-30T08:01:53.659Z",
+        "title": "Class - 01 || Human Disease Class (मानव रोग) || by Harish sir",
+        "description": "\"RF 1, 2,3 Sci Spl 1, \r\nRRB GD, Selection Batch 1,2,3,4,\"",
+        "teacherName": "HARISH SIR",
+        "duration": 3007,
+        "startDate": "2026-05-27T12:30:00.000Z",
+        "endDate": "2026-05-27T13:30:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6953780e2feca20f819b958b/hls/master.m3u8",
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a169000b927c1a84a4bcf64/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
           {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6953780e2feca20f819b958b/mp4/My_Video_360p.mp4",
-            "quality": "360p",
-            "size": 5.41,
-            "_id": "695378d2b54cadeb61cd8c6a"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6953780e2feca20f819b958b/mp4/My_Video_480p.mp4",
-            "quality": "480p",
-            "size": 8.19,
-            "_id": "695378d2b54cadeb61cd8c6b"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6953780e2feca20f819b958b/mp4/My_Video_720p.mp4",
+            "url": "https://selectionwayrecorded.hranker.com/6a169000b927c1a84a4bcf64/output_720p.mp4",
             "quality": "720p",
-            "size": 16.97,
-            "_id": "695378d2b54cadeb61cd8c6c"
+            "size": 450.13,
+            "_id": "6a16f698f4365a3c40f58fb5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a169000b927c1a84a4bcf64/output_480p.mp4",
+            "quality": "480p",
+            "size": 309.78,
+            "_id": "6a16f698f4365a3c40f58fb6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a169000b927c1a84a4bcf64/output_360p.mp4",
+            "quality": "360p",
+            "size": 216.58,
+            "_id": "6a16f698f4365a3c40f58fb7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a169000b927c1a84a4bcf64/output_240p.mp4",
+            "quality": "240p",
+            "size": 170.78,
+            "_id": "6a16f698f4365a3c40f58fb8"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "human disease class 01 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/human disease class 01 by harish sir.pdf"
+          }
+        ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "6953780e2feca20f819b958b",
-          "topicId": "68df3538c181958facf1e512",
-          "rawRecordIndex": 101
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "6a169000b927c1a84a4bcf64",
+          "topicId": "68e207c048aa5900ad9d8348",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "Class - 02 || Human Disease Class (मानव रोग) || by Harish sir",
+        "description": "\"RF 1, 2,3 Sci Spl 1, \r\nRRB GD, Selection Batch 1,2,3,4,\"",
+        "teacherName": "HARISH SIR",
+        "duration": 2687.534,
+        "startDate": "2026-05-31T06:04:00.000Z",
+        "endDate": "2026-05-31T07:04:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a1d551fb927c1a84a8fba17/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a1d551fb927c1a84a8fba17/mp4/2026_05_28_18_10_07_240p.mp4",
+            "quality": "240p",
+            "size": 200.61,
+            "_id": "6a1d886425fd37dc1c837b5c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a1d551fb927c1a84a8fba17/mp4/2026_05_28_18_10_07_360p.mp4",
+            "quality": "360p",
+            "size": 232.78,
+            "_id": "6a1d886425fd37dc1c837b5d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a1d551fb927c1a84a8fba17/mp4/2026_05_28_18_10_07_480p.mp4",
+            "quality": "480p",
+            "size": 310.9,
+            "_id": "6a1d886425fd37dc1c837b5e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a1d551fb927c1a84a8fba17/mp4/2026_05_28_18_10_07_720p.mp4",
+            "quality": "720p",
+            "size": 456.58,
+            "_id": "6a1d886425fd37dc1c837b5f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Human disease class 02 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Human disease class 02 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68dbd32801d050d5b62e45cc",
+          "classId": "6a1d551fb927c1a84a8fba17",
+          "topicId": "68e207c048aa5900ad9d8348",
+          "rawRecordIndex": 90
         }
       }
     ],
@@ -5526,10 +5624,10 @@
         ],
         "classPdf": [],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "695b50879ed6d5d2424f305c",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -5580,10 +5678,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "695ca6fd9ed6d5d242ffea6a",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -5629,10 +5727,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "695d1bc8027f25d29e1d0a45",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -5678,10 +5776,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "695f43e2027f25d29e749dc5",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -5727,10 +5825,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6960a1592feca20f81f2a9f5",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -5776,10 +5874,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69668d252feca20f811aa87e",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -5825,10 +5923,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6967f0302feca20f81207f7c",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -5874,10 +5972,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6968e08db6cbd07fbf827ab6",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -5923,10 +6021,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "696b1e29719de161eee85ab3",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -5972,10 +6070,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "696f0465719de161eef91f72",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -6021,10 +6119,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "696fdc9e719de161ee0950e7",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -6070,10 +6168,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6971c96c719de161ee19c7f4",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -6119,10 +6217,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69730786cc325625a6f52606",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -6131,7 +6229,7 @@
         "teacherName": "HARISH SIR",
         "duration": 5223.683,
         "startDate": "2026-01-27T14:47:00.000Z",
-        "endDate": "2026-01-27T14:47:00.000Z",
+        "endDate": "2026-01-27T13:47:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69789231f3c8c444e6423873/hls/master.m3u8",
         "mp4Recordings": [
@@ -6168,10 +6266,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69789231f3c8c444e6423873",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -6217,10 +6315,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "697992ecc566674bff8fbe24",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -6266,10 +6364,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "697ae681c566674bff9843a8",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -6315,10 +6413,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "697c47464d8dc840697e2f98",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -6364,10 +6462,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "697ed50a4ca8c7fbe8f66e6d",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -6413,10 +6511,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6981812c4ca8c7fbe80a3c64",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -6462,10 +6560,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6983317efc5097091c09710d",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -6511,10 +6609,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69858d220df4ffd2b9a9929f",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -6560,10 +6658,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6986d43c5b61b5fe00fb1e47",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -6609,10 +6707,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "698aee114167f5650279839b",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -6658,10 +6756,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "698b808ea003679fb8af4483",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -6707,10 +6805,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "698d6aa3f934db83d318d6e7",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -6756,10 +6854,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "698ee580466e8361a4e399e7",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -6805,10 +6903,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6992b8ffe23f1dc0e532a420",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -6817,7 +6915,7 @@
         "teacherName": "HARISH SIR",
         "duration": 2937,
         "startDate": "2026-02-17T11:30:00.000Z",
-        "endDate": "2026-02-17T11:30:00.000Z",
+        "endDate": "2026-02-17T10:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/69934a7fe23f1dc0e53cbe0d/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
@@ -6854,10 +6952,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69934a7fe23f1dc0e53cbe0d",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -6903,10 +7001,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "699556c4399756d492468224",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -6952,10 +7050,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6997f221399756d492608860",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -7001,10 +7099,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69998d4b399756d492773a73",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -7050,10 +7148,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "699be830399756d49281983f",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -7099,10 +7197,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "699d38b1399756d49295ec09",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -7142,10 +7240,10 @@
         ],
         "classPdf": [],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "699e8362399756d492a51651",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -7191,10 +7289,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69aa6a21a2b1ae043344083e",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -7240,10 +7338,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69abbb00a2b1ae043352a95d",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -7289,10 +7387,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69add4fea2b1ae043370ad5b",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -7338,10 +7436,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69afb3e4a2b1ae0433ade008",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -7387,10 +7485,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69b10c7e9d14466cd0a0d3d1",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -7399,7 +7497,7 @@
         "teacherName": "HARISH SIR",
         "duration": 3192.867,
         "startDate": "2026-03-16T06:58:00.000Z",
-        "endDate": "2026-03-16T05:58:00.000Z",
+        "endDate": "2026-03-16T03:58:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69b39f4c9d14466cd0c40907/hls/master.m3u8",
         "mp4Recordings": [
@@ -7436,10 +7534,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69b39f4c9d14466cd0c40907",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -7448,7 +7546,7 @@
         "teacherName": "HARISH SIR",
         "duration": 2581,
         "startDate": "2026-03-17T16:00:00.000Z",
-        "endDate": "2026-03-17T17:00:00.000Z",
+        "endDate": "2026-03-17T17:01:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/69b8eb4fdbf4fa27cf7cd73d/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
@@ -7485,10 +7583,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69b8eb4fdbf4fa27cf7cd73d",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -7534,10 +7632,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69ba3a3ba96048112f431a79",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -7583,10 +7681,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69bb9c0402b07cbc32ee52f4",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -7632,10 +7730,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69e0ab6d22cc6f4d5f79a584",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -7681,10 +7779,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69e2063c22cc6f4d5f84758e",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       }
     ],
@@ -7695,7 +7793,7 @@
         "teacherName": "HARISH SIR",
         "duration": 0,
         "startDate": "2026-01-07T15:30:00.000Z",
-        "endDate": "2026-01-07T15:30:00.000Z",
+        "endDate": "2026-01-07T16:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/695d22db2feca20f81d27f1e/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
@@ -7726,10 +7824,10 @@
         ],
         "classPdf": [],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "695d22db2feca20f81d27f1e",
           "topicId": "695d21ce027f25d29e788206",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -7775,10 +7873,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "695df58e2feca20f81d5292b",
           "topicId": "695d21ce027f25d29e788206",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -7824,10 +7922,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69673bf62feca20f811c2f84",
           "topicId": "695d21ce027f25d29e788206",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -7873,10 +7971,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "696880de2feca20f812157b9",
           "topicId": "695d21ce027f25d29e788206",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -7922,10 +8020,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "696fdd25719de161ee09855b",
           "topicId": "695d21ce027f25d29e788206",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -7971,10 +8069,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "6971cc58719de161ee1a1973",
           "topicId": "695d21ce027f25d29e788206",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -8020,10 +8118,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "69732e3acc325625a6fff6c9",
           "topicId": "695d21ce027f25d29e788206",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       },
       {
@@ -8069,151 +8167,10 @@
           }
         ],
         "source": {
-          "courseId": "69204beb39642e9188a548b9",
+          "courseId": "68dbd32801d050d5b62e45cc",
           "classId": "697b3d31cbfd1415c64ed3de",
           "topicId": "695d21ce027f25d29e788206",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "Class - 01 | Unit and Dimension MCQ | by Harish sir",
-        "description": "railway",
-        "teacherName": "HARISH SIR",
-        "duration": 2983,
-        "startDate": "2026-06-24T15:30:00.000Z",
-        "endDate": "2026-06-24T16:42:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3bddf0b927c1a84a11585b/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3bddf0b927c1a84a11585b/output_720p.mp4",
-            "quality": "720p",
-            "size": 443.22,
-            "_id": "6a3c09a78b1eb266bfd627e1"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3bddf0b927c1a84a11585b/output_480p.mp4",
-            "quality": "480p",
-            "size": 300.3,
-            "_id": "6a3c09a78b1eb266bfd627e2"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3bddf0b927c1a84a11585b/output_360p.mp4",
-            "quality": "360p",
-            "size": 208.07,
-            "_id": "6a3c09a78b1eb266bfd627e3"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3bddf0b927c1a84a11585b/output_240p.mp4",
-            "quality": "240p",
-            "size": 159.43,
-            "_id": "6a3c09a78b1eb266bfd627e4"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "unit and dimension class 0001 pdf by harish sir",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/unit and dimension class 0001 pdf by harish sir.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "6a3bddf0b927c1a84a11585b",
-          "topicId": "695d21ce027f25d29e788206",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "Class - 02 | Unit and Dimension MCQ | by Harish sir",
-        "description": "\"NCERT Science Foundation Batch 2026-27,\r\nScience Booster Batch,\r\nRAILWAY 1,2,3,4,5\r\nRRB Group D\"",
-        "teacherName": "HARISH SIR",
-        "duration": 2831,
-        "startDate": "2026-06-30T15:30:00.000Z",
-        "endDate": "2026-06-30T16:37:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3d0a7bb927c1a84a27a8a3/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3d0a7bb927c1a84a27a8a3/output_720p.mp4",
-            "quality": "720p",
-            "size": 425.7,
-            "_id": "6a43f0412631e9eb3bde0ab1"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3d0a7bb927c1a84a27a8a3/output_480p.mp4",
-            "quality": "480p",
-            "size": 290.28,
-            "_id": "6a43f0412631e9eb3bde0ab2"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3d0a7bb927c1a84a27a8a3/output_360p.mp4",
-            "quality": "360p",
-            "size": 202.26,
-            "_id": "6a43f0412631e9eb3bde0ab3"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a3d0a7bb927c1a84a27a8a3/output_240p.mp4",
-            "quality": "240p",
-            "size": 156.88,
-            "_id": "6a43f0412631e9eb3bde0ab4"
-          }
-        ],
-        "classPdf": [],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "6a3d0a7bb927c1a84a27a8a3",
-          "topicId": "695d21ce027f25d29e788206",
-          "rawRecordIndex": 101
-        }
-      },
-      {
-        "title": "Class - 03 | Unit and Dimension MCQ | by Harish sir",
-        "description": "\"NCERT Science Foundation Batch 2026-27,\r\nScience Booster Batch,\r\nRAILWAY 1,2,3,4,5\r\nRRB Group D\"",
-        "teacherName": "HARISH SIR",
-        "duration": 5043,
-        "startDate": "2026-07-02T15:30:00.000Z",
-        "endDate": "2026-07-02T16:30:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a42439fb927c1a84a594444/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a42439fb927c1a84a594444/output_720p.mp4",
-            "quality": "720p",
-            "size": 761.83,
-            "_id": "6a46a0541386d236be1aa82d"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a42439fb927c1a84a594444/output_480p.mp4",
-            "quality": "480p",
-            "size": 522.69,
-            "_id": "6a46a0541386d236be1aa82e"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a42439fb927c1a84a594444/output_360p.mp4",
-            "quality": "360p",
-            "size": 364.4,
-            "_id": "6a46a0541386d236be1aa82f"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a42439fb927c1a84a594444/output_240p.mp4",
-            "quality": "240p",
-            "size": 281.27,
-            "_id": "6a46a0541386d236be1aa830"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "unit dimension mcq class 0003 pdf byy harish sir",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/unit dimension mcq class 0003 pdf byy harish sir.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "69204beb39642e9188a548b9",
-          "classId": "6a42439fb927c1a84a594444",
-          "topicId": "695d21ce027f25d29e788206",
-          "rawRecordIndex": 101
+          "rawRecordIndex": 90
         }
       }
     ]
