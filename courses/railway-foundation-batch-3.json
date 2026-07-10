@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation Batch -3",
-  "extractedAt": "2026-07-09T04:26:15+0000",
+  "extractedAt": "2026-07-10T04:29:47+0000",
   "videos": {
     "Arithmetic": [
       {
@@ -36344,6 +36344,92 @@
           "topicId": "6a153570b927c1a84a3b92c7",
           "rawRecordIndex": 77
         }
+      },
+      {
+        "title": "Class -24 | Rashtrakuta Dynasty (प्राचीन इतिहास) | by Jeet rana sir",
+        "description": "\"Railway 2,3,4\r\nRRB Group D\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2544.967,
+        "startDate": "2026-07-08T20:05:00.000Z",
+        "endDate": "2026-07-08T21:05:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4f78d95bac0ae4bac764af/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f78d95bac0ae4bac764af/mp4/Class_27_Rashtrakuta_Dynasty_by_Jeet_Rana_Sir_720p_240p.mp4",
+            "quality": "240p",
+            "size": 173.04,
+            "_id": "6a4f9fb8bbe5d19c133a2665"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f78d95bac0ae4bac764af/mp4/Class_27_Rashtrakuta_Dynasty_by_Jeet_Rana_Sir_720p_360p.mp4",
+            "quality": "360p",
+            "size": 204.88,
+            "_id": "6a4f9fb8bbe5d19c133a2666"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f78d95bac0ae4bac764af/mp4/Class_27_Rashtrakuta_Dynasty_by_Jeet_Rana_Sir_720p_480p.mp4",
+            "quality": "480p",
+            "size": 277.51,
+            "_id": "6a4f9fb8bbe5d19c133a2667"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f78d95bac0ae4bac764af/mp4/Class_27_Rashtrakuta_Dynasty_by_Jeet_Rana_Sir_720p_720p.mp4",
+            "quality": "720p",
+            "size": 411.72,
+            "_id": "6a4f9fb8bbe5d19c133a2668"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "6a4f78d95bac0ae4bac764af",
+          "topicId": "6a153570b927c1a84a3b92c7",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class -25 | Rashtrakuta Dynasty (प्राचीन इतिहास) | by Jeet rana sir",
+        "description": "\"Railway 2,3,4\r\nRRB Group D\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 7255.888,
+        "startDate": "2026-07-09T19:05:00.000Z",
+        "endDate": "2026-07-09T19:05:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4f7ce05bac0ae4bac8d67c/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f7ce05bac0ae4bac8d67c/mp4/3pm_capcut_240p.mp4",
+            "quality": "240p",
+            "size": 543.2,
+            "_id": "6a4fc404f3c29aafadd2e519"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f7ce05bac0ae4bac8d67c/mp4/3pm_capcut_360p.mp4",
+            "quality": "360p",
+            "size": 630.36,
+            "_id": "6a4fc404f3c29aafadd2e51a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f7ce05bac0ae4bac8d67c/mp4/3pm_capcut_480p.mp4",
+            "quality": "480p",
+            "size": 841.81,
+            "_id": "6a4fc404f3c29aafadd2e51b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f7ce05bac0ae4bac8d67c/mp4/3pm_capcut_720p.mp4",
+            "quality": "720p",
+            "size": 1231.52,
+            "_id": "6a4fc404f3c29aafadd2e51c"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "6a4f7ce05bac0ae4bac8d67c",
+          "topicId": "6a153570b927c1a84a3b92c7",
+          "rawRecordIndex": 77
+        }
       }
     ],
     "Science Practice": [
@@ -36870,6 +36956,49 @@
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a42439fb927c1a84a594444",
+          "topicId": "695d21ce027f25d29e788206",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Complete Physics Marathon Class || by Harish sir",
+        "description": "\"NCERT Science Foundation Batch 2026-27,\r\nScience Booster Batch,\r\nRAILWAY 1,2,3,4,5\r\nRRB Group D\"",
+        "teacherName": "Harish sir",
+        "duration": 17484.139,
+        "startDate": "2026-07-09T11:21:00.000Z",
+        "endDate": "2026-07-09T10:21:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4f5ec35bac0ae4bac474cb/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f5ec35bac0ae4bac474cb/mp4/0709_240p.mp4",
+            "quality": "240p",
+            "size": 1291.36,
+            "_id": "6a4f89ba847c19e9d5b54201"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f5ec35bac0ae4bac474cb/mp4/0709_360p.mp4",
+            "quality": "360p",
+            "size": 1508.01,
+            "_id": "6a4f89ba847c19e9d5b54202"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f5ec35bac0ae4bac474cb/mp4/0709_480p.mp4",
+            "quality": "480p",
+            "size": 2014.92,
+            "_id": "6a4f89ba847c19e9d5b54203"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f5ec35bac0ae4bac474cb/mp4/0709_720p.mp4",
+            "quality": "720p",
+            "size": 2962.76,
+            "_id": "6a4f89ba847c19e9d5b54204"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "6a4f5ec35bac0ae4bac474cb",
           "topicId": "695d21ce027f25d29e788206",
           "rawRecordIndex": 77
         }
@@ -37615,6 +37744,49 @@
           "topicId": "6a265997b927c1a84af6d41d",
           "rawRecordIndex": 77
         }
+      },
+      {
+        "title": "Class - 16 | Plains and Plateaus  07 | by Jeet Rana sir",
+        "description": "\"Railway Foundation Batch 1,2,3,4,5\r\nRRB Group d\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3683.8,
+        "startDate": "2026-07-09T08:30:00.000Z",
+        "endDate": "2026-07-09T09:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4d23185bac0ae4baad00ae/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4d23185bac0ae4baad00ae/mp4/2pm_capcut_240p.mp4",
+            "quality": "240p",
+            "size": 263.15,
+            "_id": "6a4fc9f2847c19e9d50e7029"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4d23185bac0ae4baad00ae/mp4/2pm_capcut_360p.mp4",
+            "quality": "360p",
+            "size": 307.39,
+            "_id": "6a4fc9f2847c19e9d50e702a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4d23185bac0ae4baad00ae/mp4/2pm_capcut_480p.mp4",
+            "quality": "480p",
+            "size": 415.36,
+            "_id": "6a4fc9f2847c19e9d50e702b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4d23185bac0ae4baad00ae/mp4/2pm_capcut_720p.mp4",
+            "quality": "720p",
+            "size": 614.63,
+            "_id": "6a4fc9f2847c19e9d50e702c"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "6a4d23185bac0ae4baad00ae",
+          "topicId": "6a265997b927c1a84af6d41d",
+          "rawRecordIndex": 77
+        }
       }
     ],
     "COMPUTER": [
@@ -37623,8 +37795,8 @@
         "description": "harish sir",
         "teacherName": "Varun Sir",
         "duration": 4683.367,
-        "startDate": "2026-07-08T06:13:57.426Z",
-        "endDate": "2027-07-08T06:13:57.426Z",
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4775f35bac0ae4ba67b2b6/hls/master.m3u8",
         "mp4Recordings": [
@@ -37653,7 +37825,18 @@
             "_id": "6a478bb4847c19e9d56b5829"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "History of Computer BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/History of Computer BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "History of Computer without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/History of Computer without anno.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a4775f35bac0ae4ba67b2b6",
@@ -37666,8 +37849,8 @@
         "description": "harish sir",
         "teacherName": "Varun Sir",
         "duration": 3347.967,
-        "startDate": "2026-07-08T06:13:57.426Z",
-        "endDate": "2027-07-08T06:13:57.426Z",
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4776205bac0ae4ba67ef57/hls/master.m3u8",
         "mp4Recordings": [
@@ -37696,7 +37879,18 @@
             "_id": "6a479056847c19e9d5bac5e4"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Types of Com BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Types of Com BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Input and Output devices without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Input and Output devices without anno.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a4776205bac0ae4ba67ef57",
@@ -37709,8 +37903,8 @@
         "description": "harish sir",
         "teacherName": "Varun Sir",
         "duration": 3481.867,
-        "startDate": "2026-07-08T06:13:57.426Z",
-        "endDate": "2027-07-08T06:13:57.426Z",
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4776415bac0ae4ba682ba0/hls/master.m3u8",
         "mp4Recordings": [
@@ -37739,7 +37933,13 @@
             "_id": "6a47958ab104268c3fe8bf00"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Input and Output devices BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Input and Output devices BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a4776415bac0ae4ba682ba0",
@@ -37752,8 +37952,8 @@
         "description": "harish sir",
         "teacherName": "Varun Sir",
         "duration": 4025.034,
-        "startDate": "2026-07-08T06:13:57.426Z",
-        "endDate": "2027-07-08T06:13:57.426Z",
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a47769f5bac0ae4ba6867f3/hls/master.m3u8",
         "mp4Recordings": [
@@ -37782,7 +37982,18 @@
             "_id": "6a4df3972ed5ad1e1fb5f088"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "CPU and Ports Extensions without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/CPU, Ports, Extensions without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "CPU and Ports Extensions BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/CPU and Ports Extensions BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a47769f5bac0ae4ba6867f3",
@@ -37795,8 +38006,8 @@
         "description": "harish sir",
         "teacherName": "Varun Sir",
         "duration": 4440.767,
-        "startDate": "2026-07-08T06:13:57.426Z",
-        "endDate": "2027-07-08T06:13:57.426Z",
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4776e65bac0ae4ba68a438/hls/master.m3u8",
         "mp4Recordings": [
@@ -37825,7 +38036,18 @@
             "_id": "6a47a2801386d236bea710e2"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Computer Memory BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Computer Memory BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Computer Memory without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Computer Memory without anno.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a4776e65bac0ae4ba68a438",
@@ -37838,8 +38060,8 @@
         "description": "harish sir",
         "teacherName": "Varun Sir",
         "duration": 4266.7,
-        "startDate": "2026-07-08T06:13:57.426Z",
-        "endDate": "2027-07-08T06:13:57.426Z",
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4777265bac0ae4ba68e083/hls/master.m3u8",
         "mp4Recordings": [
@@ -37868,7 +38090,18 @@
             "_id": "6a47a8c42ed5ad1e1f0a4056"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "E Mail without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/E Mail without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "E Mail BORD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/E Mail BORD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a4777265bac0ae4ba68e083",
@@ -37881,8 +38114,8 @@
         "description": "harish sir",
         "teacherName": "Varun Sir",
         "duration": 3818.5,
-        "startDate": "2026-07-08T06:13:57.426Z",
-        "endDate": "2027-07-08T06:13:57.426Z",
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a47776e5bac0ae4ba691cea/hls/master.m3u8",
         "mp4Recordings": [
@@ -37911,7 +38144,18 @@
             "_id": "6a47ae77847c19e9d59ec7d6"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Internet without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Internet without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Internet_ BORD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Internet_ BORD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a47776e5bac0ae4ba691cea",
@@ -37924,8 +38168,8 @@
         "description": "harish sir",
         "teacherName": "Varun Sir",
         "duration": 2213.867,
-        "startDate": "2026-07-08T06:13:57.426Z",
-        "endDate": "2027-07-08T06:13:57.426Z",
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a47779e5bac0ae4ba69591f/hls/master.m3u8",
         "mp4Recordings": [
@@ -37954,7 +38198,18 @@
             "_id": "6a47b1e3f3c29aafadea7611"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Networking without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Networking without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Networking BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Networking BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a47779e5bac0ae4ba69591f",
@@ -37967,8 +38222,8 @@
         "description": "harish sir",
         "teacherName": "Varun Sir",
         "duration": 3708.367,
-        "startDate": "2026-07-08T06:13:57.426Z",
-        "endDate": "2027-07-08T06:13:57.426Z",
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a47780d5bac0ae4ba69958c/hls/master.m3u8",
         "mp4Recordings": [
@@ -37997,7 +38252,18 @@
             "_id": "6a47b7ddb104268c3ff065bc"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Networking 02 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Networking 02 without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Networking 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Networking 02 BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a47780d5bac0ae4ba69958c",
@@ -38010,8 +38276,8 @@
         "description": "harish sir",
         "teacherName": "Varun Sir",
         "duration": 3225.3,
-        "startDate": "2026-07-08T06:13:57.426Z",
-        "endDate": "2027-07-08T06:13:57.426Z",
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a47783b5bac0ae4ba69d1b7/hls/master.m3u8",
         "mp4Recordings": [
@@ -38040,7 +38306,18 @@
             "_id": "6a47c1d0bbe5d19c13c10cd9"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Cyber Security and Malware without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Cyber Security and Malware without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Cyber Security and Malware BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Cyber Security and Malware BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a47783b5bac0ae4ba69d1b7",
@@ -38053,8 +38330,8 @@
         "description": "harish sir",
         "teacherName": "Varun Sir",
         "duration": 2804.7,
-        "startDate": "2026-07-08T06:13:57.426Z",
-        "endDate": "2027-07-08T06:13:57.426Z",
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a47787b5bac0ae4ba6a0e28/hls/master.m3u8",
         "mp4Recordings": [
@@ -38083,7 +38360,18 @@
             "_id": "6a47c604b104268c3faa719e"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Cyber Security and Malware 02 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Cyber Security and Malware 02 without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Cyber Security and Malware 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Cyber Security and Malware 02 BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a47787b5bac0ae4ba6a0e28",
@@ -38096,8 +38384,8 @@
         "description": "harish sir",
         "teacherName": "Varun Sir",
         "duration": 4058.367,
-        "startDate": "2026-07-08T06:13:57.426Z",
-        "endDate": "2027-07-08T06:13:57.426Z",
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4778be5bac0ae4ba6a4a5f/hls/master.m3u8",
         "mp4Recordings": [
@@ -38126,7 +38414,18 @@
             "_id": "6a47cbfd1386d236beebc26c"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "MS OFFICE 01 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/MS OFFICE 01 BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "MS OFFICE 01 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/MS OFFICE 01 without anno.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a4778be5bac0ae4ba6a4a5f",
@@ -38139,8 +38438,8 @@
         "description": "harish sir",
         "teacherName": "Varun Sir",
         "duration": 4341.7,
-        "startDate": "2026-07-08T06:13:57.426Z",
-        "endDate": "2027-07-08T06:13:57.426Z",
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4778dc5bac0ae4ba6a86b4/hls/master.m3u8",
         "mp4Recordings": [
@@ -38169,7 +38468,18 @@
             "_id": "6a47d2c0bbe5d19c13a5eb01"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "MS OFFICE 02 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1768653233102-MS_OFFICE_02_without_anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "MS OFFICE 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1768653212370-MS_OFFICE_02_BOARD_PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a4778dc5bac0ae4ba6a86b4",

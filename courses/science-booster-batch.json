@@ -1,6 +1,6 @@
 {
   "courseName": "Science Booster Batch",
-  "extractedAt": "2026-07-09T04:26:15+0000",
+  "extractedAt": "2026-07-10T04:29:47+0000",
   "videos": {
     "Introduction": [
       {
@@ -2637,6 +2637,49 @@
         "source": {
           "courseId": "6943f165cd0a679bc120abf4",
           "classId": "6a42439fb927c1a84a594444",
+          "topicId": "695d21ce027f25d29e788206",
+          "rawRecordIndex": 98
+        }
+      },
+      {
+        "title": "Complete Physics Marathon Class || by Harish sir",
+        "description": "\"NCERT Science Foundation Batch 2026-27,\r\nScience Booster Batch,\r\nRAILWAY 1,2,3,4,5\r\nRRB Group D\"",
+        "teacherName": "Harish sir",
+        "duration": 17484.139,
+        "startDate": "2026-07-09T11:21:00.000Z",
+        "endDate": "2026-07-09T10:21:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4f5ec35bac0ae4bac474cb/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f5ec35bac0ae4bac474cb/mp4/0709_240p.mp4",
+            "quality": "240p",
+            "size": 1291.36,
+            "_id": "6a4f89ba847c19e9d5b54201"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f5ec35bac0ae4bac474cb/mp4/0709_360p.mp4",
+            "quality": "360p",
+            "size": 1508.01,
+            "_id": "6a4f89ba847c19e9d5b54202"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f5ec35bac0ae4bac474cb/mp4/0709_480p.mp4",
+            "quality": "480p",
+            "size": 2014.92,
+            "_id": "6a4f89ba847c19e9d5b54203"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f5ec35bac0ae4bac474cb/mp4/0709_720p.mp4",
+            "quality": "720p",
+            "size": 2962.76,
+            "_id": "6a4f89ba847c19e9d5b54204"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6943f165cd0a679bc120abf4",
+          "classId": "6a4f5ec35bac0ae4bac474cb",
           "topicId": "695d21ce027f25d29e788206",
           "rawRecordIndex": 98
         }

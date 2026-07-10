@@ -1,6 +1,6 @@
 {
   "courseName": "Maths Special-3",
-  "extractedAt": "2026-07-09T04:26:15+0000",
+  "extractedAt": "2026-07-10T04:29:47+0000",
   "videos": {
     "Introduction": [
       {
@@ -12488,6 +12488,55 @@
         "source": {
           "courseId": "69367e9933d222e80e32c6c9",
           "classId": "6a4de5ab5bac0ae4bab0d161",
+          "topicId": "68d7af97824c6e1af23ea66e",
+          "rawRecordIndex": 23
+        }
+      },
+      {
+        "title": "Class -04 || Compound Interest (चक्रवृद्धि ब्याज़) || by Gagan sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05\r\n & Selection Batch  01, 02, 03, 04 , 05\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 5237,
+        "startDate": "2026-07-09T07:30:00.000Z",
+        "endDate": "2026-07-09T08:35:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4f40ee5bac0ae4bac179db/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4f40ee5bac0ae4bac179db/output_720p.mp4",
+            "quality": "720p",
+            "size": 752.07,
+            "_id": "6a4f684ab104268c3f6a0e69"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4f40ee5bac0ae4bac179db/output_480p.mp4",
+            "quality": "480p",
+            "size": 511.95,
+            "_id": "6a4f684ab104268c3f6a0e6a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4f40ee5bac0ae4bac179db/output_360p.mp4",
+            "quality": "360p",
+            "size": 363.43,
+            "_id": "6a4f684ab104268c3f6a0e6b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4f40ee5bac0ae4bac179db/output_240p.mp4",
+            "quality": "240p",
+            "size": 264.88,
+            "_id": "6a4f684ab104268c3f6a0e6c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "compound interest class 0004 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/compound interest class 0004 pdf by gagan sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69367e9933d222e80e32c6c9",
+          "classId": "6a4f40ee5bac0ae4bac179db",
           "topicId": "68d7af97824c6e1af23ea66e",
           "rawRecordIndex": 23
         }

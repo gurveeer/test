@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-09T04:26:15+0000",
+  "generatedAt": "2026-07-10T04:29:47+0000",
   "source": {
     "mode": "all",
-    "rawExportFile": "/home/runner/work/test/test/FILES/delta_study_courses_export_20260709_042613.json",
+    "rawExportFile": "/home/runner/work/test/test/FILES/delta_study_courses_export_20260710_042945.json",
     "rawCourseCount": 112,
     "appCourseCount": 112
   },
@@ -119,12 +119,12 @@
       "icon": "🔢",
       "description": "Dedicated for Ssc CGL exam",
       "banner": "https://selectionwayserver.hranker.com/courses/banners/1782585708067-1000379783.jpg",
-      "status": "active",
+      "status": "inactive",
       "price": 1999,
       "discountPrice": 0,
       "validity": "3 months",
       "subjectCount": 3,
-      "videoCount": 5,
+      "videoCount": 6,
       "dataFile": "courses/maths-सपरण-batch-30-days.json"
     },
     {
@@ -199,7 +199,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 21,
-      "videoCount": 652,
+      "videoCount": 655,
       "dataFile": "courses/selection-batch-7.json"
     },
     {
@@ -229,7 +229,7 @@
       "discountPrice": 1399,
       "validity": "2",
       "subjectCount": 26,
-      "videoCount": 1161,
+      "videoCount": 1163,
       "dataFile": "courses/selection-batch-3.json"
     },
     {
@@ -349,7 +349,7 @@
       "discountPrice": 1999,
       "validity": "2 years",
       "subjectCount": 23,
-      "videoCount": 1088,
+      "videoCount": 1091,
       "dataFile": "courses/selection-batch-5.json"
     },
     {
@@ -364,23 +364,8 @@
       "discountPrice": 799,
       "validity": "2 years",
       "subjectCount": 7,
-      "videoCount": 356,
+      "videoCount": 357,
       "dataFile": "courses/maths-special-3.json"
-    },
-    {
-      "id": "group-d-40-days-science-batch",
-      "sourceId": "68dbdf3a63a1698bf4194576",
-      "name": "Group D 40 days science Batch",
-      "icon": "🔬",
-      "description": "Dedicated for RRB Group D 2026 exam date 3 August 2026",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1783401310180-1000387882.jpg",
-      "status": "active",
-      "price": 999,
-      "discountPrice": 199,
-      "validity": "1 years",
-      "subjectCount": 7,
-      "videoCount": 53,
-      "dataFile": "courses/group-d-40-days-science-batch.json"
     },
     {
       "id": "maths-recorded-gagan-pratap-sir",
@@ -469,7 +454,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 15,
-      "videoCount": 499,
+      "videoCount": 501,
       "dataFile": "courses/selection-batch-8.json"
     },
     {
@@ -529,7 +514,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 15,
-      "videoCount": 436,
+      "videoCount": 437,
       "dataFile": "courses/selection-batch-9.json"
     },
     {
@@ -589,7 +574,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 1,
-      "videoCount": 19,
+      "videoCount": 20,
       "dataFile": "courses/reasoning-special-9.json"
     },
     {
@@ -604,7 +589,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 16,
-      "videoCount": 613,
+      "videoCount": 632,
       "dataFile": "courses/railway-foundation-batch-4.json"
     },
     {
@@ -619,7 +604,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 3,
-      "videoCount": 71,
+      "videoCount": 72,
       "dataFile": "courses/gs-special-7.json"
     },
     {
@@ -634,7 +619,7 @@
       "discountPrice": 1299,
       "validity": "2 years",
       "subjectCount": 7,
-      "videoCount": 353,
+      "videoCount": 354,
       "dataFile": "courses/maths-special-5.json"
     },
     {
@@ -649,7 +634,7 @@
       "discountPrice": 399,
       "validity": "2 years",
       "subjectCount": 3,
-      "videoCount": 139,
+      "videoCount": 140,
       "dataFile": "courses/reasoning-special-3.json"
     },
     {
@@ -666,6 +651,21 @@
       "subjectCount": 6,
       "videoCount": 134,
       "dataFile": "courses/gs-special-3.json"
+    },
+    {
+      "id": "group-d-40-days-science-batch",
+      "sourceId": "68dbdf3a63a1698bf4194576",
+      "name": "Group D 40 days science Batch",
+      "icon": "🔬",
+      "description": "Dedicated for RRB Group D 2026 exam date 3 August 2026",
+      "banner": "https://selectionwayserver.hranker.com/courses/banners/1783401310180-1000387882.jpg",
+      "status": "active",
+      "price": 999,
+      "discountPrice": 199,
+      "validity": "1 years",
+      "subjectCount": 7,
+      "videoCount": 53,
+      "dataFile": "courses/group-d-40-days-science-batch.json"
     },
     {
       "id": "railway-free-batch",
@@ -709,7 +709,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 22,
-      "videoCount": 723,
+      "videoCount": 726,
       "dataFile": "courses/railway-foundation-batch-5.json"
     },
     {
@@ -754,7 +754,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 2,
-      "videoCount": 25,
+      "videoCount": 26,
       "dataFile": "courses/gs-special-8.json"
     },
     {
@@ -769,7 +769,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 1,
-      "videoCount": 45,
+      "videoCount": 46,
       "dataFile": "courses/reasoning-special-8.json"
     },
     {
@@ -784,7 +784,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 1,
-      "videoCount": 59,
+      "videoCount": 60,
       "dataFile": "courses/reasoning-special-7.json"
     },
     {
@@ -814,7 +814,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 24,
-      "videoCount": 1135,
+      "videoCount": 1137,
       "dataFile": "courses/selection-batch-4.json"
     },
     {
@@ -829,7 +829,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 7,
-      "videoCount": 357,
+      "videoCount": 358,
       "dataFile": "courses/maths-special-4.json"
     },
     {
@@ -874,7 +874,7 @@
       "discountPrice": 699,
       "validity": "1 year",
       "subjectCount": 2,
-      "videoCount": 13,
+      "videoCount": 14,
       "dataFile": "courses/cgl-rapid-batch.json"
     },
     {
@@ -904,7 +904,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 22,
-      "videoCount": 840,
+      "videoCount": 843,
       "dataFile": "courses/selection-batch-6.json"
     },
     {
@@ -934,7 +934,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 23,
-      "videoCount": 696,
+      "videoCount": 698,
       "dataFile": "courses/railway-foundation-batch.json"
     },
     {
@@ -949,7 +949,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 7,
-      "videoCount": 356,
+      "videoCount": 357,
       "dataFile": "courses/maths-special-2.json"
     },
     {
@@ -979,7 +979,7 @@
       "discountPrice": 1999,
       "validity": "2",
       "subjectCount": 23,
-      "videoCount": 1091,
+      "videoCount": 1093,
       "dataFile": "courses/selection-batch-2.json"
     },
     {
@@ -1069,7 +1069,7 @@
       "discountPrice": 1,
       "validity": "2 years",
       "subjectCount": 1,
-      "videoCount": 79,
+      "videoCount": 80,
       "dataFile": "courses/reasoning-special-6.json"
     },
     {
@@ -1084,7 +1084,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 1,
-      "videoCount": 100,
+      "videoCount": 101,
       "dataFile": "courses/reasoning-special-5.json"
     },
     {
@@ -1129,7 +1129,7 @@
       "discountPrice": 1,
       "validity": "2 years",
       "subjectCount": 5,
-      "videoCount": 92,
+      "videoCount": 93,
       "dataFile": "courses/gs-special-6.json"
     },
     {
@@ -1159,7 +1159,7 @@
       "discountPrice": 399,
       "validity": "2 years",
       "subjectCount": 2,
-      "videoCount": 163,
+      "videoCount": 164,
       "dataFile": "courses/reasoning-special-2.json"
     },
     {
@@ -1174,7 +1174,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 24,
-      "videoCount": 786,
+      "videoCount": 790,
       "dataFile": "courses/railway-foundation-batch-3.json"
     },
     {
@@ -1204,7 +1204,7 @@
       "discountPrice": 799,
       "validity": "2 years",
       "subjectCount": 22,
-      "videoCount": 738,
+      "videoCount": 742,
       "dataFile": "courses/railway-foundation-batch-2.json"
     },
     {
@@ -1234,7 +1234,7 @@
       "discountPrice": 1599,
       "validity": "2 years ",
       "subjectCount": 23,
-      "videoCount": 1064,
+      "videoCount": 1066,
       "dataFile": "courses/selection-batch-1.json"
     },
     {
@@ -1249,7 +1249,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 6,
-      "videoCount": 355,
+      "videoCount": 356,
       "dataFile": "courses/maths-special-1.json"
     },
     {
@@ -1279,7 +1279,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 2,
-      "videoCount": 116,
+      "videoCount": 117,
       "dataFile": "courses/reasoning-special-4.json"
     },
     {
@@ -1324,7 +1324,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 24,
-      "videoCount": 705,
+      "videoCount": 723,
       "dataFile": "courses/rrb-group-d-batch.json"
     },
     {
@@ -1354,7 +1354,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 2,
-      "videoCount": 143,
+      "videoCount": 144,
       "dataFile": "courses/reasoning-special-1.json"
     },
     {
@@ -1489,7 +1489,7 @@
       "discountPrice": 199,
       "validity": "2 years",
       "subjectCount": 7,
-      "videoCount": 58,
+      "videoCount": 59,
       "dataFile": "courses/science-booster-batch.json"
     },
     {
@@ -1534,7 +1534,7 @@
       "discountPrice": 299,
       "validity": "2 years",
       "subjectCount": 5,
-      "videoCount": 169,
+      "videoCount": 170,
       "dataFile": "courses/ncert-science-foundation-batch-2026-27.json"
     },
     {
@@ -1664,7 +1664,7 @@
       "icon": "📚",
       "description": "Complete GS for SSC",
       "banner": "https://selectionwayserver.hranker.com/courses/banners/1772698858563-courses_banners_1770294764728-shubham_sir..png",
-      "status": "active",
+      "status": "inactive",
       "price": 2999,
       "discountPrice": 0,
       "validity": "1 year",
@@ -1689,8 +1689,8 @@
     }
   ],
   "stats": {
-    "appVideoCount": 30361,
+    "appVideoCount": 30452,
     "skippedInactiveCourses": 0,
-    "skippedEmptyRows": 27
+    "skippedEmptyRows": 23
   }
 }

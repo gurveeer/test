@@ -1,6 +1,6 @@
 {
   "courseName": "Maths संपूर्ण Batch 30 days",
-  "extractedAt": "2026-07-09T04:26:15+0000",
+  "extractedAt": "2026-07-10T04:29:47+0000",
   "videos": {
     "Introduction": [
       {
@@ -33,7 +33,18 @@
         "isFree": true,
         "videoUrl": "https://www.youtube.com/watch?v=UcyVdjr-ObY",
         "mp4Recordings": [],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "number sytem sheet by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/number sytem sheet by gagan sir.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "number system class 0001 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/number system class 0001 pdf by gagan sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a3fe6b8b927c1a84a453df2",
           "classId": "6a44afdbb927c1a84a7a1063",
@@ -51,7 +62,13 @@
         "isFree": true,
         "videoUrl": "https://www.youtube.com/watch?v=2e8bI1GCwlo",
         "mp4Recordings": [],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "number system class 0002 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/number system class 0002 pdf by gagan sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a3fe6b8b927c1a84a453df2",
           "classId": "6a476ac15bac0ae4ba642484",
@@ -69,7 +86,18 @@
         "isFree": true,
         "videoUrl": "https://www.youtube.com/watch?v=_U_8MxbOD2s",
         "mp4Recordings": [],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "lcm and hcf class 0001 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/lcm and hcf class 0001 pdf by gagan sir.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "lcm and hcf sheet by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/lcm and hcf sheet by gagan sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a3fe6b8b927c1a84a453df2",
           "classId": "6a4a11d05bac0ae4ba7e7125",
@@ -93,6 +121,24 @@
         "source": {
           "courseId": "6a3fe6b8b927c1a84a453df2",
           "classId": "6a4cb56c5bac0ae4baa0ca10",
+          "topicId": "68d7af97824c6e1af23ea66e",
+          "rawRecordIndex": 7
+        }
+      },
+      {
+        "title": "Class - 02 | Percentage (प्रतिशत) || by Gagan sir || संपूर्ण Maths Batch",
+        "description": "complete maths",
+        "teacherName": "Gagan Sir",
+        "duration": 0,
+        "startDate": "2026-07-09T14:30:00.000Z",
+        "endDate": "2026-07-09T18:19:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://www.youtube.com/watch?v=-p1VZtZURts",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a3fe6b8b927c1a84a453df2",
+          "classId": "6a4f838a5bac0ae4baca0d4f",
           "topicId": "68d7af97824c6e1af23ea66e",
           "rawRecordIndex": 7
         }

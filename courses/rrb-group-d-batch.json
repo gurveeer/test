@@ -1,6 +1,6 @@
 {
   "courseName": "RRB Group D Batch",
-  "extractedAt": "2026-07-09T04:26:15+0000",
+  "extractedAt": "2026-07-10T04:29:47+0000",
   "videos": {
     "Introduction": [
       {
@@ -23050,6 +23050,680 @@
           "topicId": "68ed14b9a3e6437ce1b36c37",
           "rawRecordIndex": 87
         }
+      },
+      {
+        "title": "Class - 01 || Current Electricity ( विद्युत धारा ) | Physics by Harish sir",
+        "description": "Class - 01 || Current Electricity ( विद्युत धारा ) | Physics by Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/693ffa526385517afa0e9458/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693ffa526385517afa0e9458/output_720p.mp4",
+            "quality": "720p",
+            "size": 466.28,
+            "_id": "6941647d6385517afa102402"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693ffa526385517afa0e9458/output_480p.mp4",
+            "quality": "480p",
+            "size": 298.54,
+            "_id": "6941647d6385517afa102403"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693ffa526385517afa0e9458/output_360p.mp4",
+            "quality": "360p",
+            "size": 260.71,
+            "_id": "6941647d6385517afa102404"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693ffa526385517afa0e9458/output_240p.mp4",
+            "quality": "240p",
+            "size": 205.04,
+            "_id": "6941647d6385517afa102405"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "CURRENT 01",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/CURRENT 01.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "697df3954ca8c7fbe8f501ee",
+          "classId": "693ffa526385517afa0e9458",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 02 || Current Electricity ( विद्युत धारा ) | Physics by Harish sir",
+        "description": "Class - 02 || Current Electricity ( विद्युत धारा ) | Physics by Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 5653.05,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/694184596385517afafdcf7b/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/694184596385517afafdcf7b/mp4/My_Video_1_1__360p.mp4",
+            "quality": "360p",
+            "size": 317.12,
+            "_id": "694eac2ab54cadeb61997707"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/694184596385517afafdcf7b/mp4/My_Video_1_1__480p.mp4",
+            "quality": "480p",
+            "size": 429.32,
+            "_id": "694eac2ab54cadeb61997708"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/694184596385517afafdcf7b/mp4/My_Video_1_1__720p.mp4",
+            "quality": "720p",
+            "size": 735.54,
+            "_id": "694eac2ab54cadeb61997709"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "current class 02",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/current class 02.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "697df3954ca8c7fbe8f501ee",
+          "classId": "694184596385517afafdcf7b",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 03 || Current Electricity ( विद्युत धारा ) | Physics by Harish sir",
+        "description": "Class - 03 || Current Electricity ( विद्युत धारा ) | Physics by Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69438ef16385517afa552495/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69438ef16385517afa552495/output_720p.mp4",
+            "quality": "720p",
+            "size": 492.7,
+            "_id": "694548ab6385517afa2938df"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69438ef16385517afa552495/output_480p.mp4",
+            "quality": "480p",
+            "size": 314.51,
+            "_id": "694548ab6385517afa2938e0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69438ef16385517afa552495/output_360p.mp4",
+            "quality": "360p",
+            "size": 274.53,
+            "_id": "694548ab6385517afa2938e1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69438ef16385517afa552495/output_240p.mp4",
+            "quality": "240p",
+            "size": 215.44,
+            "_id": "694548ab6385517afa2938e2"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "current class 03",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/current class 03.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "697df3954ca8c7fbe8f501ee",
+          "classId": "69438ef16385517afa552495",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 04 || Current Electricity ( विद्युत धारा ) | Physics by Harish sir",
+        "description": "Class - 04 || Current Electricity ( विद्युत धारा ) | Physics by Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 4655.783,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/694aab147610406230e7edb5/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/694aab147610406230e7edb5/mp4/My_Video_1_240p.mp4",
+            "quality": "240p",
+            "size": 327.06,
+            "_id": "69663a8c027f25d29ee401a0"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/694aab147610406230e7edb5/mp4/My_Video_1_360p.mp4",
+            "quality": "360p",
+            "size": 387.74,
+            "_id": "69663a8c027f25d29ee401a1"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/694aab147610406230e7edb5/mp4/My_Video_1_480p.mp4",
+            "quality": "480p",
+            "size": 520.33,
+            "_id": "69663a8c027f25d29ee401a2"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/694aab147610406230e7edb5/mp4/My_Video_1_720p.mp4",
+            "quality": "720p",
+            "size": 776.63,
+            "_id": "69663a8c027f25d29ee401a3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "electricity board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/electricity board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "697df3954ca8c7fbe8f501ee",
+          "classId": "694aab147610406230e7edb5",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 05 || Current Electricity ( विद्युत धारा ) | Physics by Harish sir",
+        "description": "Class - 05 || Current Electricity ( विद्युत धारा ) | Physics by Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/694a2b8bb38db8674bddcd6d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694a2b8bb38db8674bddcd6d/output_720p.mp4",
+            "quality": "720p",
+            "size": 421.2,
+            "_id": "694a8fd3b38db8674baf4140"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694a2b8bb38db8674bddcd6d/output_480p.mp4",
+            "quality": "480p",
+            "size": 269.17,
+            "_id": "694a8fd3b38db8674baf4141"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694a2b8bb38db8674bddcd6d/output_360p.mp4",
+            "quality": "360p",
+            "size": 235.04,
+            "_id": "694a8fd3b38db8674baf4142"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694a2b8bb38db8674bddcd6d/output_240p.mp4",
+            "quality": "240p",
+            "size": 184.6,
+            "_id": "694a8fd3b38db8674baf4143"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "current electricity class 04",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/current electricity class 04.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "697df3954ca8c7fbe8f501ee",
+          "classId": "694a2b8bb38db8674bddcd6d",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 06 || Current Electricity ( विद्युत धारा ) | Physics by Harish sir",
+        "description": "Class - 06 || Current Electricity ( विद्युत धारा ) | Physics by Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/694b88c7faec4ba16512f982/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694b88c7faec4ba16512f982/output_720p.mp4",
+            "quality": "720p",
+            "size": 542.66,
+            "_id": "694be3effaec4ba1656810df"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694b88c7faec4ba16512f982/output_480p.mp4",
+            "quality": "480p",
+            "size": 346.73,
+            "_id": "694be3effaec4ba1656810e0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694b88c7faec4ba16512f982/output_360p.mp4",
+            "quality": "360p",
+            "size": 303.08,
+            "_id": "694be3effaec4ba1656810e1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694b88c7faec4ba16512f982/output_240p.mp4",
+            "quality": "240p",
+            "size": 237.83,
+            "_id": "694be3effaec4ba1656810e2"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "electricity 06 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/electricity 06 pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "697df3954ca8c7fbe8f501ee",
+          "classId": "694b88c7faec4ba16512f982",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 01 ||  चुंबकत्व (Magnetism) Physics By Harish Sir",
+        "description": "Class - 01 ||  चुंबकत्व (Magnetism) Physics By Harish Sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/694cd7f43a2d4b4b532deb5c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694cd7f43a2d4b4b532deb5c/output_720p.mp4",
+            "quality": "720p",
+            "size": 434.75,
+            "_id": "694d3171b54cadeb618f376b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694cd7f43a2d4b4b532deb5c/output_480p.mp4",
+            "quality": "480p",
+            "size": 277.71,
+            "_id": "694d3171b54cadeb618f376c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694cd7f43a2d4b4b532deb5c/output_360p.mp4",
+            "quality": "360p",
+            "size": 242.78,
+            "_id": "694d3171b54cadeb618f376d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694cd7f43a2d4b4b532deb5c/output_240p.mp4",
+            "quality": "240p",
+            "size": 190.4,
+            "_id": "694d3171b54cadeb618f376e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "magnetism class 01",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/magnetism class 01.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "697df3954ca8c7fbe8f501ee",
+          "classId": "694cd7f43a2d4b4b532deb5c",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 02 ||  चुंबकत्व (Magnetism) Physics By Harish Sir",
+        "description": "Class - 02 ||  चुंबकत्व (Magnetism) Physics By Harish Sir",
+        "teacherName": "HARISH SIR",
+        "duration": 3636.033333,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/694e3526b54cadeb61a13ae3/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/694e3526b54cadeb61a13ae3/mp4/magnetic_effect_class_02_360p.mp4",
+            "quality": "360p",
+            "size": 200.95,
+            "_id": "694e9d57b54cadeb61e29c80"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/694e3526b54cadeb61a13ae3/mp4/magnetic_effect_class_02_480p.mp4",
+            "quality": "480p",
+            "size": 273.56,
+            "_id": "694e9d57b54cadeb61e29c81"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/694e3526b54cadeb61a13ae3/mp4/magnetic_effect_class_02_720p.mp4",
+            "quality": "720p",
+            "size": 462.51,
+            "_id": "694e9d57b54cadeb61e29c82"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "magnetism board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/magnetism board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "697df3954ca8c7fbe8f501ee",
+          "classId": "694e3526b54cadeb61a13ae3",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 03 ||  चुंबकत्व (Magnetism) Physics By Harish Sir",
+        "description": "Class - 03 ||  चुंबकत्व (Magnetism) Physics By Harish Sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69521878b54cadeb617ca0b1/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69521878b54cadeb617ca0b1/output_720p.mp4",
+            "quality": "720p",
+            "size": 433.91,
+            "_id": "69527740b54cadeb61917ba6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69521878b54cadeb617ca0b1/output_480p.mp4",
+            "quality": "480p",
+            "size": 276.93,
+            "_id": "69527740b54cadeb61917ba7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69521878b54cadeb617ca0b1/output_360p.mp4",
+            "quality": "360p",
+            "size": 241.6,
+            "_id": "69527740b54cadeb61917ba8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69521878b54cadeb617ca0b1/output_240p.mp4",
+            "quality": "240p",
+            "size": 189.55,
+            "_id": "69527740b54cadeb61917ba9"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "magnetism class board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/magnetism class board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "697df3954ca8c7fbe8f501ee",
+          "classId": "69521878b54cadeb617ca0b1",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 04 ||  चुंबकत्व (Magnetism) Physics By Harish Sir",
+        "description": "Class - 04 ||  चुंबकत्व (Magnetism) Physics By Harish Sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/695275bab54cadeb617c9f90/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695275bab54cadeb617c9f90/output_720p.mp4",
+            "quality": "720p",
+            "size": 362.09,
+            "_id": "695406cbb54cadeb61177766"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695275bab54cadeb617c9f90/output_480p.mp4",
+            "quality": "480p",
+            "size": 231.09,
+            "_id": "695406cbb54cadeb61177767"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695275bab54cadeb617c9f90/output_360p.mp4",
+            "quality": "360p",
+            "size": 201.51,
+            "_id": "695406cbb54cadeb61177768"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695275bab54cadeb617c9f90/output_240p.mp4",
+            "quality": "240p",
+            "size": 158.26,
+            "_id": "695406cbb54cadeb61177769"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "magnetism board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/magnetism board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "697df3954ca8c7fbe8f501ee",
+          "classId": "695275bab54cadeb617c9f90",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 01 || Unit and Dimension (इकाई और आयाम) | Harish sir",
+        "description": "Class - 01 || Unit and Dimension (इकाई और आयाम) | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 5660.283333,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68ed14e786770365f3abb762/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ed14e786770365f3abb762/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 137.16,
+            "_id": "68fd6f01f179b935b12cea1e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ed14e786770365f3abb762/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 231.46,
+            "_id": "68fd6f01f179b935b12cea1f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ed14e786770365f3abb762/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 345.53,
+            "_id": "68fd6f01f179b935b12cea20"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ed14e786770365f3abb762/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 645.15,
+            "_id": "68fd6f01f179b935b12cea21"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class - 01 || Unit and Dimension (इकाई और आयाम) BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760530163802-UNIT_AND_DIMENSION_CLASS_01_-_FOUNDATION_BATCH_compressed.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "697df3954ca8c7fbe8f501ee",
+          "classId": "68ed14e786770365f3abb762",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 02 || Unit and Dimension (इकाई और आयाम) | Harish sir",
+        "description": "Class - 02 || Unit and Dimension (इकाई और आयाम) | Harish sir",
+        "teacherName": "Harish sir",
+        "duration": 6358.133333,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68ee665bd3d74585a6dd178f/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ee665bd3d74585a6dd178f/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 152.1,
+            "_id": "68fd708c2ea1b0628999816f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ee665bd3d74585a6dd178f/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 253.38,
+            "_id": "68fd708c2ea1b06289998170"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ee665bd3d74585a6dd178f/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 371.88,
+            "_id": "68fd708c2ea1b06289998171"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68ee665bd3d74585a6dd178f/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 662.81,
+            "_id": "68fd708c2ea1b06289998172"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "unit and dimension class 2 science special",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760541181688-UNIT_AND_DIMENSION_CLASS_02__-_FOUNDATION_BATCH.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "697df3954ca8c7fbe8f501ee",
+          "classId": "68ee665bd3d74585a6dd178f",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 03 || Unit and Dimension (इकाई और आयाम) | Harish sir",
+        "description": "Class - 03 || Unit and Dimension (इकाई और आयाम) | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 4157.433333,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68efce4f8b84905b8406c8fc/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68efce4f8b84905b8406c8fc/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 98.59,
+            "_id": "68fd71ddbed68c50dd1603ae"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68efce4f8b84905b8406c8fc/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 163.36,
+            "_id": "68fd71ddbed68c50dd1603af"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68efce4f8b84905b8406c8fc/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 238.89,
+            "_id": "68fd71ddbed68c50dd1603b0"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68efce4f8b84905b8406c8fc/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 424.27,
+            "_id": "68fd71ddbed68c50dd1603b1"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class - 03 || Unit and Dimension (इकाई और आयाम) BOARD PDF\t",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1760633135616-UNIT_AND_DIMENSION_CLASS_03__-_FOUNDATION_BATCH_compressed.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "697df3954ca8c7fbe8f501ee",
+          "classId": "68efce4f8b84905b8406c8fc",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 04 || Unit and Dimension (इकाई और आयाम) | Harish sir",
+        "description": "Class - 04 || Unit and Dimension (इकाई और आयाम) | Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 4105.333333,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68f10a20cadb3e241f485abc/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f10a20cadb3e241f485abc/mp4/output_720p_240p.mp4",
+            "quality": "240p",
+            "size": 101.14,
+            "_id": "68fd78fcaed5b4af7a538c5b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f10a20cadb3e241f485abc/mp4/output_720p_360p.mp4",
+            "quality": "360p",
+            "size": 170.47,
+            "_id": "68fd78fcaed5b4af7a538c5c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f10a20cadb3e241f485abc/mp4/output_720p_480p.mp4",
+            "quality": "480p",
+            "size": 251.94,
+            "_id": "68fd78fcaed5b4af7a538c5d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/68f10a20cadb3e241f485abc/mp4/output_720p_720p.mp4",
+            "quality": "720p",
+            "size": 443.96,
+            "_id": "68fd78fcaed5b4af7a538c5e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class - 04 || Unit and Dimension (इकाई और आयाम) BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1761189033244-UNIT_AND_DIMENSION_CLASS_04.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "697df3954ca8c7fbe8f501ee",
+          "classId": "68f10a20cadb3e241f485abc",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 87
+        }
       }
     ],
     "Chemistry": [
@@ -31229,6 +31903,92 @@
           "topicId": "6a153570b927c1a84a3b92c7",
           "rawRecordIndex": 87
         }
+      },
+      {
+        "title": "Class -24 | Rashtrakuta Dynasty (प्राचीन इतिहास) | by Jeet rana sir",
+        "description": "\"Railway 2,3,4\r\nRRB Group D\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2544.967,
+        "startDate": "2026-07-08T20:05:00.000Z",
+        "endDate": "2026-07-08T21:05:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4f78d95bac0ae4bac764af/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f78d95bac0ae4bac764af/mp4/Class_27_Rashtrakuta_Dynasty_by_Jeet_Rana_Sir_720p_240p.mp4",
+            "quality": "240p",
+            "size": 173.04,
+            "_id": "6a4f9fb8bbe5d19c133a2665"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f78d95bac0ae4bac764af/mp4/Class_27_Rashtrakuta_Dynasty_by_Jeet_Rana_Sir_720p_360p.mp4",
+            "quality": "360p",
+            "size": 204.88,
+            "_id": "6a4f9fb8bbe5d19c133a2666"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f78d95bac0ae4bac764af/mp4/Class_27_Rashtrakuta_Dynasty_by_Jeet_Rana_Sir_720p_480p.mp4",
+            "quality": "480p",
+            "size": 277.51,
+            "_id": "6a4f9fb8bbe5d19c133a2667"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f78d95bac0ae4bac764af/mp4/Class_27_Rashtrakuta_Dynasty_by_Jeet_Rana_Sir_720p_720p.mp4",
+            "quality": "720p",
+            "size": 411.72,
+            "_id": "6a4f9fb8bbe5d19c133a2668"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "697df3954ca8c7fbe8f501ee",
+          "classId": "6a4f78d95bac0ae4bac764af",
+          "topicId": "6a153570b927c1a84a3b92c7",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class -25 | Rashtrakuta Dynasty (प्राचीन इतिहास) | by Jeet rana sir",
+        "description": "\"Railway 2,3,4\r\nRRB Group D\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 7255.888,
+        "startDate": "2026-07-09T19:05:00.000Z",
+        "endDate": "2026-07-09T19:05:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4f7ce05bac0ae4bac8d67c/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f7ce05bac0ae4bac8d67c/mp4/3pm_capcut_240p.mp4",
+            "quality": "240p",
+            "size": 543.2,
+            "_id": "6a4fc404f3c29aafadd2e519"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f7ce05bac0ae4bac8d67c/mp4/3pm_capcut_360p.mp4",
+            "quality": "360p",
+            "size": 630.36,
+            "_id": "6a4fc404f3c29aafadd2e51a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f7ce05bac0ae4bac8d67c/mp4/3pm_capcut_480p.mp4",
+            "quality": "480p",
+            "size": 841.81,
+            "_id": "6a4fc404f3c29aafadd2e51b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f7ce05bac0ae4bac8d67c/mp4/3pm_capcut_720p.mp4",
+            "quality": "720p",
+            "size": 1231.52,
+            "_id": "6a4fc404f3c29aafadd2e51c"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "697df3954ca8c7fbe8f501ee",
+          "classId": "6a4f7ce05bac0ae4bac8d67c",
+          "topicId": "6a153570b927c1a84a3b92c7",
+          "rawRecordIndex": 87
+        }
       }
     ],
     "Indian Geography": [
@@ -31968,6 +32728,49 @@
         "source": {
           "courseId": "697df3954ca8c7fbe8f501ee",
           "classId": "6a4c93235bac0ae4ba9c5cf8",
+          "topicId": "6a265997b927c1a84af6d41d",
+          "rawRecordIndex": 87
+        }
+      },
+      {
+        "title": "Class - 16 | Plains and Plateaus  07 | by Jeet Rana sir",
+        "description": "\"Railway Foundation Batch 1,2,3,4,5\r\nRRB Group d\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3683.8,
+        "startDate": "2026-07-09T08:30:00.000Z",
+        "endDate": "2026-07-09T09:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4d23185bac0ae4baad00ae/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4d23185bac0ae4baad00ae/mp4/2pm_capcut_240p.mp4",
+            "quality": "240p",
+            "size": 263.15,
+            "_id": "6a4fc9f2847c19e9d50e7029"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4d23185bac0ae4baad00ae/mp4/2pm_capcut_360p.mp4",
+            "quality": "360p",
+            "size": 307.39,
+            "_id": "6a4fc9f2847c19e9d50e702a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4d23185bac0ae4baad00ae/mp4/2pm_capcut_480p.mp4",
+            "quality": "480p",
+            "size": 415.36,
+            "_id": "6a4fc9f2847c19e9d50e702b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4d23185bac0ae4baad00ae/mp4/2pm_capcut_720p.mp4",
+            "quality": "720p",
+            "size": 614.63,
+            "_id": "6a4fc9f2847c19e9d50e702c"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "697df3954ca8c7fbe8f501ee",
+          "classId": "6a4d23185bac0ae4baad00ae",
           "topicId": "6a265997b927c1a84af6d41d",
           "rawRecordIndex": 87
         }
@@ -33689,6 +34492,49 @@
           "topicId": "695d21ce027f25d29e788206",
           "rawRecordIndex": 87
         }
+      },
+      {
+        "title": "Complete Physics Marathon Class || by Harish sir",
+        "description": "\"NCERT Science Foundation Batch 2026-27,\r\nScience Booster Batch,\r\nRAILWAY 1,2,3,4,5\r\nRRB Group D\"",
+        "teacherName": "Harish sir",
+        "duration": 17484.139,
+        "startDate": "2026-07-09T11:21:00.000Z",
+        "endDate": "2026-07-09T08:21:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4f5ec35bac0ae4bac474cb/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f5ec35bac0ae4bac474cb/mp4/0709_240p.mp4",
+            "quality": "240p",
+            "size": 1291.36,
+            "_id": "6a4f89ba847c19e9d5b54201"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f5ec35bac0ae4bac474cb/mp4/0709_360p.mp4",
+            "quality": "360p",
+            "size": 1508.01,
+            "_id": "6a4f89ba847c19e9d5b54202"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f5ec35bac0ae4bac474cb/mp4/0709_480p.mp4",
+            "quality": "480p",
+            "size": 2014.92,
+            "_id": "6a4f89ba847c19e9d5b54203"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f5ec35bac0ae4bac474cb/mp4/0709_720p.mp4",
+            "quality": "720p",
+            "size": 2962.76,
+            "_id": "6a4f89ba847c19e9d5b54204"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "697df3954ca8c7fbe8f501ee",
+          "classId": "6a4f5ec35bac0ae4bac474cb",
+          "topicId": "695d21ce027f25d29e788206",
+          "rawRecordIndex": 87
+        }
       }
     ],
     "COMPUTER": [
@@ -33727,7 +34573,18 @@
             "_id": "6a478bb4847c19e9d56b5829"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "History of Computer BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/History of Computer BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "History of Computer without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/History of Computer without anno.pdf"
+          }
+        ],
         "source": {
           "courseId": "697df3954ca8c7fbe8f501ee",
           "classId": "6a4775f35bac0ae4ba67b2b6",
@@ -33770,7 +34627,18 @@
             "_id": "6a479056847c19e9d5bac5e4"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Types of Com BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Types of Com BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Input and Output devices without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Input and Output devices without anno.pdf"
+          }
+        ],
         "source": {
           "courseId": "697df3954ca8c7fbe8f501ee",
           "classId": "6a4776205bac0ae4ba67ef57",
@@ -33813,7 +34681,13 @@
             "_id": "6a47958ab104268c3fe8bf00"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Input and Output devices BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Input and Output devices BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "697df3954ca8c7fbe8f501ee",
           "classId": "6a4776415bac0ae4ba682ba0",
@@ -33856,7 +34730,18 @@
             "_id": "6a4df3972ed5ad1e1fb5f088"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "CPU and Ports Extensions without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/CPU, Ports, Extensions without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "CPU and Ports Extensions BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/CPU and Ports Extensions BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "697df3954ca8c7fbe8f501ee",
           "classId": "6a47769f5bac0ae4ba6867f3",
@@ -33899,7 +34784,18 @@
             "_id": "6a47a2801386d236bea710e2"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Computer Memory BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Computer Memory BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Computer Memory without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Computer Memory without anno.pdf"
+          }
+        ],
         "source": {
           "courseId": "697df3954ca8c7fbe8f501ee",
           "classId": "6a4776e65bac0ae4ba68a438",
@@ -33942,7 +34838,18 @@
             "_id": "6a47a8c42ed5ad1e1f0a4056"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "E Mail without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/E Mail without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "E Mail BORD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/E Mail BORD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "697df3954ca8c7fbe8f501ee",
           "classId": "6a4777265bac0ae4ba68e083",
@@ -33985,7 +34892,18 @@
             "_id": "6a47ae77847c19e9d59ec7d6"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Internet without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Internet without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Internet_ BORD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Internet_ BORD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "697df3954ca8c7fbe8f501ee",
           "classId": "6a47776e5bac0ae4ba691cea",
@@ -34028,7 +34946,18 @@
             "_id": "6a47b1e3f3c29aafadea7611"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Networking without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Networking without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Networking BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Networking BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "697df3954ca8c7fbe8f501ee",
           "classId": "6a47779e5bac0ae4ba69591f",
@@ -34071,7 +35000,18 @@
             "_id": "6a47b7ddb104268c3ff065bc"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Networking 02 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Networking 02 without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Networking 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Networking 02 BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "697df3954ca8c7fbe8f501ee",
           "classId": "6a47780d5bac0ae4ba69958c",
@@ -34114,7 +35054,18 @@
             "_id": "6a47c1d0bbe5d19c13c10cd9"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Cyber Security and Malware without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Cyber Security and Malware without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Cyber Security and Malware BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Cyber Security and Malware BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "697df3954ca8c7fbe8f501ee",
           "classId": "6a47783b5bac0ae4ba69d1b7",
@@ -34157,7 +35108,18 @@
             "_id": "6a47c604b104268c3faa719e"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Cyber Security and Malware 02 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Cyber Security and Malware 02 without anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Cyber Security and Malware 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Cyber Security and Malware 02 BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "697df3954ca8c7fbe8f501ee",
           "classId": "6a47787b5bac0ae4ba6a0e28",
@@ -34200,7 +35162,18 @@
             "_id": "6a47cbfd1386d236beebc26c"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "MS OFFICE 01 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/MS OFFICE 01 BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "MS OFFICE 01 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/MS OFFICE 01 without anno.pdf"
+          }
+        ],
         "source": {
           "courseId": "697df3954ca8c7fbe8f501ee",
           "classId": "6a4778be5bac0ae4ba6a4a5f",
@@ -34243,7 +35216,18 @@
             "_id": "6a47d2c0bbe5d19c13a5eb01"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "MS OFFICE 02 without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1768653233102-MS_OFFICE_02_without_anno.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "MS OFFICE 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1768653212370-MS_OFFICE_02_BOARD_PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "697df3954ca8c7fbe8f501ee",
           "classId": "6a4778dc5bac0ae4ba6a86b4",

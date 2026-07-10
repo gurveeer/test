@@ -1,6 +1,6 @@
 {
   "courseName": "CGL RAPID BATCH",
-  "extractedAt": "2026-07-09T04:26:15+0000",
+  "extractedAt": "2026-07-10T04:29:47+0000",
   "videos": {
     "Introduction": [
       {
@@ -607,6 +607,55 @@
         "source": {
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a4c4b805bac0ae4ba954c43",
+          "topicId": "68b9499ea721af475c9a79ac",
+          "rawRecordIndex": 57
+        }
+      },
+      {
+        "title": "Class -13 | Arrival of Europeans | by Jeet rana sir",
+        "description": "CGL RAPID BATCH",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2777,
+        "startDate": "2026-07-09T04:30:00.000Z",
+        "endDate": "2026-07-09T05:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4d22b25bac0ae4baacc377/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4d22b25bac0ae4baacc377/output_720p.mp4",
+            "quality": "720p",
+            "size": 421.03,
+            "_id": "6a4f34f42631e9eb3b145be1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4d22b25bac0ae4baacc377/output_480p.mp4",
+            "quality": "480p",
+            "size": 289.12,
+            "_id": "6a4f34f42631e9eb3b145be2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4d22b25bac0ae4baacc377/output_360p.mp4",
+            "quality": "360p",
+            "size": 205.98,
+            "_id": "6a4f34f42631e9eb3b145be3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4d22b25bac0ae4baacc377/output_240p.mp4",
+            "quality": "240p",
+            "size": 156.57,
+            "_id": "6a4f34f42631e9eb3b145be4"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "arrival of europeans class 13 pdf by jeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/arrival of europeans class 13 pdf by jeet sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a1fe6bbb927c1a84abc606f",
+          "classId": "6a4d22b25bac0ae4baacc377",
           "topicId": "68b9499ea721af475c9a79ac",
           "rawRecordIndex": 57
         }

@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch -6",
-  "extractedAt": "2026-07-09T04:26:15+0000",
+  "extractedAt": "2026-07-10T04:29:47+0000",
   "videos": {
     "Number System and More": [
       {
@@ -18048,7 +18048,13 @@
             "_id": "6a4de162b104268c3fb36362"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Ranking Test  01 BOARD PDF by balram sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Ranking Test  01 BOARD PDF by balram sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69ae9daca2b1ae04337afa9a",
           "classId": "6a4d22595bac0ae4baac49c9",
@@ -18060,16 +18066,65 @@
         "title": "Class-02 | Ranking Test | Problem solving || by Balram sir",
         "description": "\"Reasoning  Special 01, 02.03,04  05, 06  & 07, 08 ,09\r\n Selection Batch 01 , 02.03,04  05, 06  & 07, 08 ,09\"",
         "teacherName": "Balram Sir",
-        "duration": 0,
+        "duration": 4391,
         "startDate": "2026-07-09T04:00:00.000Z",
         "endDate": "2026-07-09T05:00:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4e93a45bac0ae4babdede5/playlist.m3u8",
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4e93a45bac0ae4babdede5/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4e93a45bac0ae4babdede5/output_720p.mp4",
+            "quality": "720p",
+            "size": 642.47,
+            "_id": "6a4f31f88b1eb266bf73c380"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4e93a45bac0ae4babdede5/output_480p.mp4",
+            "quality": "480p",
+            "size": 437.51,
+            "_id": "6a4f31f88b1eb266bf73c381"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4e93a45bac0ae4babdede5/output_360p.mp4",
+            "quality": "360p",
+            "size": 308.83,
+            "_id": "6a4f31f88b1eb266bf73c382"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4e93a45bac0ae4babdede5/output_240p.mp4",
+            "quality": "240p",
+            "size": 221.51,
+            "_id": "6a4f31f88b1eb266bf73c383"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Ranking Test 02 BOARD PDF by balram sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Ranking Test 02 BOARD PDF by balram sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69ae9daca2b1ae04337afa9a",
+          "classId": "6a4e93a45bac0ae4babdede5",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 59
+        }
+      },
+      {
+        "title": "Class-03 | Ranking Test | Problem solving || by Balram sir",
+        "description": "\"Reasoning  Special 01, 02.03,04  05, 06  & 07, 08 ,09\r\n Selection Batch 01 , 02.03,04  05, 06  & 07, 08 ,09\"",
+        "teacherName": "Balram Sir",
+        "duration": 0,
+        "startDate": "2026-07-10T04:00:00.000Z",
+        "endDate": "2026-07-10T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4fffc55bac0ae4bad13d3c/playlist.m3u8",
         "mp4Recordings": [],
         "classPdf": [],
         "source": {
           "courseId": "69ae9daca2b1ae04337afa9a",
-          "classId": "6a4e93a45bac0ae4babdede5",
+          "classId": "6a4fffc55bac0ae4bad13d3c",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 59
         }
@@ -36657,6 +36712,49 @@
           "topicId": "68fa5f40aed5b4af7a841a2a",
           "rawRecordIndex": 59
         }
+      },
+      {
+        "title": "Class -05 | Atomic Structure || by Harish sir",
+        "description": "\"RAILWAY Foundation - 04 ,05\r\nSB 05, 06, 07\"",
+        "teacherName": "Harish sir",
+        "duration": 3345.534,
+        "startDate": "2026-07-09T12:30:00.000Z",
+        "endDate": "2026-07-09T10:42:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4f82e55bac0ae4bac9cffb/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f82e55bac0ae4bac9cffb/mp4/ATOMIC_STRUCTURE_01_240p.mp4",
+            "quality": "240p",
+            "size": 245.54,
+            "_id": "6a4fd5d18b1eb266bf1dda26"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f82e55bac0ae4bac9cffb/mp4/ATOMIC_STRUCTURE_01_360p.mp4",
+            "quality": "360p",
+            "size": 288.12,
+            "_id": "6a4fd5d18b1eb266bf1dda27"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f82e55bac0ae4bac9cffb/mp4/ATOMIC_STRUCTURE_01_480p.mp4",
+            "quality": "480p",
+            "size": 385.99,
+            "_id": "6a4fd5d18b1eb266bf1dda28"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f82e55bac0ae4bac9cffb/mp4/ATOMIC_STRUCTURE_01_720p.mp4",
+            "quality": "720p",
+            "size": 567.78,
+            "_id": "6a4fd5d18b1eb266bf1dda29"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69ae9daca2b1ae04337afa9a",
+          "classId": "6a4f82e55bac0ae4bac9cffb",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 59
+        }
       }
     ],
     "Mock Test": [
@@ -39582,7 +39680,13 @@
             "_id": "6a4cd1512ed5ad1e1f0a5141"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Non- Constitutional Bodies 20 BOARD PDF by varun sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Non- Constitutional Bodies 20 BOARD PDF by varun sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69ae9daca2b1ae04337afa9a",
           "classId": "6a4c4c6a5bac0ae4ba9602ed",
@@ -39625,10 +39729,65 @@
             "_id": "6a4e2152bbe5d19c138139c2"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class 21 Question Practice by varun sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Class 21 Question Practice by varun sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69ae9daca2b1ae04337afa9a",
           "classId": "6a4d23a25bac0ae4baad3def",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 59
+        }
+      },
+      {
+        "title": "Class - 22 | Panchayati Raj System By Varun Sir",
+        "description": "\" GS Special- 06, 07, 08\r\n Selection Batch - 06, 07, 08\"",
+        "teacherName": "Varun Sir",
+        "duration": 4184,
+        "startDate": "2026-07-09T09:00:00.000Z",
+        "endDate": "2026-07-09T10:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4e93f15bac0ae4babea50a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4e93f15bac0ae4babea50a/output_720p.mp4",
+            "quality": "720p",
+            "size": 641.22,
+            "_id": "6a4f8cc5847c19e9d5e2819e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4e93f15bac0ae4babea50a/output_480p.mp4",
+            "quality": "480p",
+            "size": 441.2,
+            "_id": "6a4f8cc5847c19e9d5e2819f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4e93f15bac0ae4babea50a/output_360p.mp4",
+            "quality": "360p",
+            "size": 314.47,
+            "_id": "6a4f8cc5847c19e9d5e281a0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4e93f15bac0ae4babea50a/output_240p.mp4",
+            "quality": "240p",
+            "size": 239.72,
+            "_id": "6a4f8cc5847c19e9d5e281a1"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class 22 Panchayati Raj System BOARD PDF by varun sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Class 22 Panchayati Raj System BOARD PDF by varun sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69ae9daca2b1ae04337afa9a",
+          "classId": "6a4e93f15bac0ae4babea50a",
           "topicId": "68e329ef48aa5900adba437b",
           "rawRecordIndex": 59
         }

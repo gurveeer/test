@@ -1,6 +1,6 @@
 {
   "courseName": "GS संपूर्ण Batch",
-  "extractedAt": "2026-07-09T04:26:15+0000",
+  "extractedAt": "2026-07-10T04:29:47+0000",
   "videos": {
     "HISTORY": [
       {
@@ -2041,7 +2041,13 @@
         "isFree": false,
         "videoUrl": "https://www.youtube.com/watch?v=SL7twKCm6ws",
         "mp4Recordings": [],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "indian geography class 16 PDF by shubham sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/indian geography class 16 PDF by shubham sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "698487d5fdd21a8a2d1a5270",
           "classId": "6a4cc3325bac0ae4baa5d6d9",
