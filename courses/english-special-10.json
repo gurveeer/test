@@ -1,7 +1,52 @@
 {
   "courseName": "English Special - 10",
-  "extractedAt": "2026-07-10T04:29:47+0000",
+  "extractedAt": "2026-07-11T03:48:53+0000",
   "videos": {
+    "(Live Classes) Very Very Important": [
+      {
+        "title": "Very Very Important Information || By Aman Sir",
+        "description": "sb 10",
+        "teacherName": "AMAN SIR",
+        "duration": 522.937,
+        "startDate": "2026-07-10T10:55:00.000Z",
+        "endDate": "2026-07-10T09:55:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a50a8705bac0ae4bad777c9/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a50a8705bac0ae4bad777c9/mp4/selection_batch_9_240p.mp4",
+            "quality": "240p",
+            "size": 39.43,
+            "_id": "6a510cbd2631e9eb3b70bb7c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a50a8705bac0ae4bad777c9/mp4/selection_batch_9_360p.mp4",
+            "quality": "360p",
+            "size": 45.6,
+            "_id": "6a510cbd2631e9eb3b70bb7d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a50a8705bac0ae4bad777c9/mp4/selection_batch_9_480p.mp4",
+            "quality": "480p",
+            "size": 60.96,
+            "_id": "6a510cbd2631e9eb3b70bb7e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a50a8705bac0ae4bad777c9/mp4/selection_batch_9_720p.mp4",
+            "quality": "720p",
+            "size": 89.11,
+            "_id": "6a510cbd2631e9eb3b70bb7f"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a462e56b927c1a84a8b7852",
+          "classId": "6a50a8705bac0ae4bad777c9",
+          "topicId": "6a50b8b05bac0ae4badb95d2",
+          "rawRecordIndex": 4
+        }
+      }
+    ],
     "Grammar": [
       {
         "title": "Class -1 | English Basics Lecture 01 || by Aman Sir",
@@ -13723,6 +13768,26 @@
           "courseId": "6a462e56b927c1a84a8b7852",
           "classId": "69d387d622cc6f4d5ff2de92",
           "topicId": "69d3764a22cc6f4d5fe4091d",
+          "rawRecordIndex": 4
+        }
+      }
+    ],
+    "Very Very Important Information": [
+      {
+        "title": "Strategy || How to study from this batch || by Aman sir",
+        "description": "sb10",
+        "teacherName": "AMAN SIR",
+        "duration": 0,
+        "startDate": "2026-07-10T10:56:00.000Z",
+        "endDate": "2026-07-10T09:56:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a0a5e4eb927c1a84ab2f24c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a462e56b927c1a84a8b7852",
+          "classId": "6a50a8fd5bac0ae4bad7b561",
+          "topicId": "6a2bcb5eb927c1a84a49a592",
           "rawRecordIndex": 4
         }
       }

@@ -1,6 +1,6 @@
 {
   "courseName": "English Special-6",
-  "extractedAt": "2026-07-10T04:29:47+0000",
+  "extractedAt": "2026-07-11T03:48:53+0000",
   "videos": {
     "Vocab": [
       {
@@ -15761,11 +15761,70 @@
             "priority": 2,
             "name": "Verb lec-2 with annotations _",
             "url": "https://selectionwayserver.hranker.com/pdfs/files/Verb lec-2 with annotations _.pdf"
+          },
+          {
+            "priority": 3,
+            "name": "Verb forms_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Verb forms.pdf"
           }
         ],
         "source": {
           "courseId": "69ae9da2a2b1ae04337afa76",
           "classId": "6a4d24205bac0ae4baad7b00",
+          "topicId": "696e0150719de161eef5677e",
+          "rawRecordIndex": 69
+        }
+      },
+      {
+        "title": "Class -34 | Verb lec-3 || by Aman sir",
+        "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
+        "teacherName": "Aman sir",
+        "duration": 5453,
+        "startDate": "2026-07-10T05:30:00.000Z",
+        "endDate": "2026-07-10T07:31:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5000b75bac0ae4bad23226/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5000b75bac0ae4bad23226/output_720p.mp4",
+            "quality": "720p",
+            "size": 775.85,
+            "_id": "6a509f2b2ed5ad1e1fa7e0b2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5000b75bac0ae4bad23226/output_480p.mp4",
+            "quality": "480p",
+            "size": 523.51,
+            "_id": "6a509f2b2ed5ad1e1fa7e0b3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5000b75bac0ae4bad23226/output_360p.mp4",
+            "quality": "360p",
+            "size": 367.24,
+            "_id": "6a509f2b2ed5ad1e1fa7e0b4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5000b75bac0ae4bad23226/output_240p.mp4",
+            "quality": "240p",
+            "size": 273.86,
+            "_id": "6a509f2b2ed5ad1e1fa7e0b5"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Verb lec-3 without annotations_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Verb lec-3 without annotations (2).pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Verb lec-3 with annotations_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Verb lec-3 with annotations (2).pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69ae9da2a2b1ae04337afa76",
+          "classId": "6a5000b75bac0ae4bad23226",
           "topicId": "696e0150719de161eef5677e",
           "rawRecordIndex": 69
         }

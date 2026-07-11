@@ -1,6 +1,6 @@
 {
   "courseName": "Maths Special-3",
-  "extractedAt": "2026-07-10T04:29:47+0000",
+  "extractedAt": "2026-07-11T03:48:53+0000",
   "videos": {
     "Introduction": [
       {
@@ -12537,6 +12537,55 @@
         "source": {
           "courseId": "69367e9933d222e80e32c6c9",
           "classId": "6a4f40ee5bac0ae4bac179db",
+          "topicId": "68d7af97824c6e1af23ea66e",
+          "rawRecordIndex": 23
+        }
+      },
+      {
+        "title": "Class -05 || Compound Interest (चक्रवृद्धि ब्याज़) || by Gagan sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05\r\n & Selection Batch  01, 02, 03, 04 , 05\"",
+        "teacherName": "Gagan Sir",
+        "duration": 4262,
+        "startDate": "2026-07-10T07:30:00.000Z",
+        "endDate": "2026-07-10T08:40:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5085375bac0ae4bad4bc4c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5085375bac0ae4bad4bc4c/output_720p.mp4",
+            "quality": "720p",
+            "size": 602.2,
+            "_id": "6a50c85c2631e9eb3bcb1149"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5085375bac0ae4bad4bc4c/output_480p.mp4",
+            "quality": "480p",
+            "size": 407.97,
+            "_id": "6a50c85c2631e9eb3bcb114a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5085375bac0ae4bad4bc4c/output_360p.mp4",
+            "quality": "360p",
+            "size": 288.95,
+            "_id": "6a50c85c2631e9eb3bcb114b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5085375bac0ae4bad4bc4c/output_240p.mp4",
+            "quality": "240p",
+            "size": 207.47,
+            "_id": "6a50c85c2631e9eb3bcb114c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "compound interest class 0005 by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sb 1 pm 10 july bp.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69367e9933d222e80e32c6c9",
+          "classId": "6a5085375bac0ae4bad4bc4c",
           "topicId": "68d7af97824c6e1af23ea66e",
           "rawRecordIndex": 23
         }

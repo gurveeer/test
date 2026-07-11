@@ -1,6 +1,6 @@
 {
   "courseName": "SSC special 5000 MCQ batch",
-  "extractedAt": "2026-07-10T04:29:47+0000",
+  "extractedAt": "2026-07-11T03:48:53+0000",
   "videos": {
     "Introduction": [
       {
@@ -438,35 +438,35 @@
         "title": "Class -09 | Later Vedic Period (उत्तर वैदिक काल) 03 || by Jeet rana sir",
         "description": "SSC special 5000 MCQ batch",
         "teacherName": "Jeet Rana Sir",
-        "duration": 2455,
+        "duration": 17806.339,
         "startDate": "2026-07-07T14:30:00.000Z",
         "endDate": "2026-07-07T15:30:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4cb8715bac0ae4baa275f8/playlist-mpl-vod.m3u8",
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4cb8715bac0ae4baa275f8/hls/master.m3u8",
         "mp4Recordings": [
           {
-            "url": "https://selectionwayrecorded.hranker.com/6a4cb8715bac0ae4baa275f8/output_720p.mp4",
-            "quality": "720p",
-            "size": 331.79,
-            "_id": "6a4d1e67847c19e9d5f85168"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a4cb8715bac0ae4baa275f8/output_480p.mp4",
-            "quality": "480p",
-            "size": 225.75,
-            "_id": "6a4d1e67847c19e9d5f85169"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a4cb8715bac0ae4baa275f8/output_360p.mp4",
-            "quality": "360p",
-            "size": 159.38,
-            "_id": "6a4d1e67847c19e9d5f8516a"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6a4cb8715bac0ae4baa275f8/output_240p.mp4",
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4cb8715bac0ae4baa275f8/mp4/0709_240p.mp4",
             "quality": "240p",
-            "size": 118.42,
-            "_id": "6a4d1e67847c19e9d5f8516b"
+            "size": 1334.1,
+            "_id": "6a50c5d1f3c29aafadd30fcd"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4cb8715bac0ae4baa275f8/mp4/0709_360p.mp4",
+            "quality": "360p",
+            "size": 1548.15,
+            "_id": "6a50c5d1f3c29aafadd30fce"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4cb8715bac0ae4baa275f8/mp4/0709_480p.mp4",
+            "quality": "480p",
+            "size": 2068.24,
+            "_id": "6a50c5d1f3c29aafadd30fcf"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4cb8715bac0ae4baa275f8/mp4/0709_720p.mp4",
+            "quality": "720p",
+            "size": 3031.01,
+            "_id": "6a50c5d1f3c29aafadd30fd0"
           }
         ],
         "classPdf": [
@@ -480,6 +480,94 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a4cb8715bac0ae4baa275f8",
           "topicId": "6a153570b927c1a84a3b92c7",
+          "rawRecordIndex": 56
+        }
+      },
+      {
+        "title": "Class -10 | Later Vedic Period (उत्तर वैदिक काल) || by Jeet rana sir",
+        "description": "",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2890,
+        "startDate": "2026-07-10T14:39:18.332Z",
+        "endDate": "2026-07-10T15:39:18.332Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5103a45bac0ae4bae05841/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5103a45bac0ae4bae05841/output_720p.mp4",
+            "quality": "720p",
+            "size": 439.2,
+            "_id": "6a51146ebbe5d19c13477081"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5103a45bac0ae4bae05841/output_480p.mp4",
+            "quality": "480p",
+            "size": 303.45,
+            "_id": "6a51146fbbe5d19c13477082"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5103a45bac0ae4bae05841/output_360p.mp4",
+            "quality": "360p",
+            "size": 217.4,
+            "_id": "6a51146fbbe5d19c13477083"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5103a45bac0ae4bae05841/output_240p.mp4",
+            "quality": "240p",
+            "size": 163.26,
+            "_id": "6a51146fbbe5d19c13477084"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a268ce8b927c1a84a018468",
+          "classId": "6a5103a45bac0ae4bae05841",
+          "topicId": "6a153570b927c1a84a3b92c7",
+          "rawRecordIndex": 56
+        }
+      }
+    ],
+    "General awareness": [
+      {
+        "title": "Class -10 | Later Vedic Period (उत्तर वैदिक काल) 03 || by Jeet rana sir",
+        "description": "SSC special 5000 MCQ batch",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 17806.339,
+        "startDate": "2026-07-09T14:44:00.000Z",
+        "endDate": "2026-07-09T15:44:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a50b4265bac0ae4bada245e/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a50b4265bac0ae4bada245e/mp4/0709_240p.mp4",
+            "quality": "240p",
+            "size": 1334.1,
+            "_id": "6a5105f32ed5ad1e1f8aba30"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a50b4265bac0ae4bada245e/mp4/0709_360p.mp4",
+            "quality": "360p",
+            "size": 1548.15,
+            "_id": "6a5105f32ed5ad1e1f8aba31"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a50b4265bac0ae4bada245e/mp4/0709_480p.mp4",
+            "quality": "480p",
+            "size": 2068.24,
+            "_id": "6a5105f32ed5ad1e1f8aba32"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a50b4265bac0ae4bada245e/mp4/0709_720p.mp4",
+            "quality": "720p",
+            "size": 3031.01,
+            "_id": "6a5105f32ed5ad1e1f8aba33"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a268ce8b927c1a84a018468",
+          "classId": "6a50b4265bac0ae4bada245e",
+          "topicId": "68e4c2a1c181958faccff569",
           "rawRecordIndex": 56
         }
       }

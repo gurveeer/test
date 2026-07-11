@@ -1,6 +1,6 @@
 {
   "courseName": "तथास्तु BATCH 2026",
-  "extractedAt": "2026-07-10T04:29:47+0000",
+  "extractedAt": "2026-07-11T03:48:53+0000",
   "videos": {
     "POLITY": [
       {
@@ -4362,6 +4362,49 @@
         "source": {
           "courseId": "69622fc8027f25d29ebca4f6",
           "classId": "6a468a5db927c1a84a965150",
+          "topicId": "696a10e3719de161eee6326b",
+          "rawRecordIndex": 96
+        }
+      },
+      {
+        "title": "Class -06 | Geography | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 4490.214,
+        "startDate": "2026-07-09T08:14:00.000Z",
+        "endDate": "2026-07-09T09:14:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4c8f665bac0ae4ba9b27fc/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4c8f665bac0ae4ba9b27fc/mp4/4pm_jeet_sir_tomorrow_240p.mp4",
+            "quality": "240p",
+            "size": 339.66,
+            "_id": "6a5095722631e9eb3b94a95d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4c8f665bac0ae4ba9b27fc/mp4/4pm_jeet_sir_tomorrow_360p.mp4",
+            "quality": "360p",
+            "size": 393.66,
+            "_id": "6a5095722631e9eb3b94a95e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4c8f665bac0ae4ba9b27fc/mp4/4pm_jeet_sir_tomorrow_480p.mp4",
+            "quality": "480p",
+            "size": 525.29,
+            "_id": "6a5095722631e9eb3b94a95f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4c8f665bac0ae4ba9b27fc/mp4/4pm_jeet_sir_tomorrow_720p.mp4",
+            "quality": "720p",
+            "size": 768.01,
+            "_id": "6a5095722631e9eb3b94a960"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6a4c8f665bac0ae4ba9b27fc",
           "topicId": "696a10e3719de161eee6326b",
           "rawRecordIndex": 96
         }

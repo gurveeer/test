@@ -1,6 +1,6 @@
 {
   "courseName": "CGL RAPID BATCH",
-  "extractedAt": "2026-07-10T04:29:47+0000",
+  "extractedAt": "2026-07-11T03:48:53+0000",
   "videos": {
     "Introduction": [
       {
@@ -656,6 +656,49 @@
         "source": {
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a4d22b25bac0ae4baacc377",
+          "topicId": "68b9499ea721af475c9a79ac",
+          "rawRecordIndex": 57
+        }
+      },
+      {
+        "title": "Class -14 | Arrival of Europeans | by Jeet rana sir",
+        "description": "CGL RAPID BATCH\r\nClass -14 | Arrival of Europeans | by Jeet rana sir",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2988,
+        "startDate": "2026-07-10T04:30:00.000Z",
+        "endDate": "2026-07-10T05:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5000135bac0ae4bad17a9b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5000135bac0ae4bad17a9b/output_720p.mp4",
+            "quality": "720p",
+            "size": 446.28,
+            "_id": "6a508720847c19e9d5c6b920"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5000135bac0ae4bad17a9b/output_480p.mp4",
+            "quality": "480p",
+            "size": 308.22,
+            "_id": "6a508720847c19e9d5c6b921"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5000135bac0ae4bad17a9b/output_360p.mp4",
+            "quality": "360p",
+            "size": 219.87,
+            "_id": "6a508720847c19e9d5c6b922"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5000135bac0ae4bad17a9b/output_240p.mp4",
+            "quality": "240p",
+            "size": 163.58,
+            "_id": "6a508720847c19e9d5c6b923"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a1fe6bbb927c1a84abc606f",
+          "classId": "6a5000135bac0ae4bad17a9b",
           "topicId": "68b9499ea721af475c9a79ac",
           "rawRecordIndex": 57
         }

@@ -1,6 +1,6 @@
 {
   "courseName": "GS Special -8",
-  "extractedAt": "2026-07-10T04:29:47+0000",
+  "extractedAt": "2026-07-11T03:48:53+0000",
   "videos": {
     "POLITY": [
       {
@@ -1071,6 +1071,55 @@
         "source": {
           "courseId": "69f990e6b927c1a84afcbff2",
           "classId": "6a4e93f15bac0ae4babea50a",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 49
+        }
+      },
+      {
+        "title": "Class - 23 | Panchayati Raj System By Varun Sir",
+        "description": "\" GS Special- 06, 07, 08\r\n Selection Batch - 06, 07, 08\"",
+        "teacherName": "Varun Sir",
+        "duration": 2995,
+        "startDate": "2026-07-10T09:00:00.000Z",
+        "endDate": "2026-07-10T10:01:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5000625bac0ae4bad1f4df/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5000625bac0ae4bad1f4df/output_720p.mp4",
+            "quality": "720p",
+            "size": 456.99,
+            "_id": "6a50cdb22631e9eb3b1f1790"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5000625bac0ae4bad1f4df/output_480p.mp4",
+            "quality": "480p",
+            "size": 314.56,
+            "_id": "6a50cdb22631e9eb3b1f1791"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5000625bac0ae4bad1f4df/output_360p.mp4",
+            "quality": "360p",
+            "size": 224.45,
+            "_id": "6a50cdb22631e9eb3b1f1792"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5000625bac0ae4bad1f4df/output_240p.mp4",
+            "quality": "240p",
+            "size": 171.95,
+            "_id": "6a50cdb22631e9eb3b1f1793"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class 23 Prime Minister & Council",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Class 23 Prime Minister & Council.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a5000625bac0ae4bad1f4df",
           "topicId": "68e329ef48aa5900adba437b",
           "rawRecordIndex": 49
         }

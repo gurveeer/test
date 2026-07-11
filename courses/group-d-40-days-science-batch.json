@@ -1,6 +1,6 @@
 {
   "courseName": "Group D 40 days science Batch",
-  "extractedAt": "2026-07-10T04:29:47+0000",
+  "extractedAt": "2026-07-11T03:48:53+0000",
   "videos": {
     "BIOLOGY": [
       {
@@ -2239,125 +2239,6 @@
           "courseId": "68dbdf3a63a1698bf4194576",
           "classId": "6929b998dd258fd323ea09b3",
           "topicId": "68df3538c181958facf1e512",
-          "rawRecordIndex": 43
-        }
-      }
-    ],
-    "Arithmetic": [
-      {
-        "title": "Race_Class_1",
-        "description": "Video: Race_Class_1",
-        "teacherName": "Admin",
-        "duration": 5242.008005,
-        "startDate": "2026-04-30T18:30:00.000Z",
-        "endDate": "2026-04-30T18:30:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/692a9a5f759872676ecc8889/hls/master.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/692a9a5f759872676ecc8889/mp4/Race_Class_1_360p.mp4",
-            "quality": "360p",
-            "size": 268.9,
-            "_id": "694902b46bcc97e09ed12303"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/692a9a5f759872676ecc8889/mp4/Race_Class_1_480p.mp4",
-            "quality": "480p",
-            "size": 375.65,
-            "_id": "694902b46bcc97e09ed12304"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/692a9a5f759872676ecc8889/mp4/Race_Class_1_720p.mp4",
-            "quality": "720p",
-            "size": 594.03,
-            "_id": "694902b46bcc97e09ed12305"
-          }
-        ],
-        "classPdf": [],
-        "source": {
-          "courseId": "68dbdf3a63a1698bf4194576",
-          "classId": "692a9a5f759872676ecc8889",
-          "topicId": "68d7af97824c6e1af23ea66e",
-          "rawRecordIndex": 43
-        }
-      },
-      {
-        "title": "Race_Class_2",
-        "description": "Video: Race_Class_2",
-        "teacherName": "Admin",
-        "duration": 5169.833333,
-        "startDate": "2026-04-30T18:30:00.000Z",
-        "endDate": "2026-04-30T18:30:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/692a9a5f759872676ecc888a/hls/master.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/692a9a5f759872676ecc888a/mp4/Race_2_240p.mp4",
-            "quality": "240p",
-            "size": 98.92,
-            "_id": "692aa5f9dd258fd3233302f6"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/692a9a5f759872676ecc888a/mp4/Race_2_360p.mp4",
-            "quality": "360p",
-            "size": 160.76,
-            "_id": "692aa5f9dd258fd3233302f7"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/692a9a5f759872676ecc888a/mp4/Race_2_480p.mp4",
-            "quality": "480p",
-            "size": 227.78,
-            "_id": "692aa5f9dd258fd3233302f8"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/692a9a5f759872676ecc888a/mp4/Race_2_720p.mp4",
-            "quality": "720p",
-            "size": 368.06,
-            "_id": "692aa5f9dd258fd3233302f9"
-          }
-        ],
-        "classPdf": [],
-        "source": {
-          "courseId": "68dbdf3a63a1698bf4194576",
-          "classId": "692a9a5f759872676ecc888a",
-          "topicId": "68d7af97824c6e1af23ea66e",
-          "rawRecordIndex": 43
-        }
-      },
-      {
-        "title": "Race_Class_3",
-        "description": "Video: Race_Class_3",
-        "teacherName": "Admin",
-        "duration": 3168.02,
-        "startDate": "2026-04-30T18:30:00.000Z",
-        "endDate": "2026-04-30T18:30:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/692a9a5f759872676ecc888b/hls/master.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/692a9a5f759872676ecc888b/mp4/Race_Class_3_360p.mp4",
-            "quality": "360p",
-            "size": 134.9,
-            "_id": "6949013e6bcc97e09ebdc692"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/692a9a5f759872676ecc888b/mp4/Race_Class_3_480p.mp4",
-            "quality": "480p",
-            "size": 183.47,
-            "_id": "6949013e6bcc97e09ebdc693"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/692a9a5f759872676ecc888b/mp4/Race_Class_3_720p.mp4",
-            "quality": "720p",
-            "size": 290.05,
-            "_id": "6949013e6bcc97e09ebdc694"
-          }
-        ],
-        "classPdf": [],
-        "source": {
-          "courseId": "68dbdf3a63a1698bf4194576",
-          "classId": "692a9a5f759872676ecc888b",
-          "topicId": "68d7af97824c6e1af23ea66e",
           "rawRecordIndex": 43
         }
       }

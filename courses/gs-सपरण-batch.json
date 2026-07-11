@@ -1,6 +1,6 @@
 {
   "courseName": "GS संपूर्ण Batch",
-  "extractedAt": "2026-07-10T04:29:47+0000",
+  "extractedAt": "2026-07-11T03:48:53+0000",
   "videos": {
     "HISTORY": [
       {
@@ -2051,6 +2051,42 @@
         "source": {
           "courseId": "698487d5fdd21a8a2d1a5270",
           "classId": "6a4cc3325bac0ae4baa5d6d9",
+          "topicId": "6a265997b927c1a84af6d41d",
+          "rawRecordIndex": 110
+        }
+      },
+      {
+        "title": "Class -17 || Western Ghats | by Shubham sir",
+        "description": "complete gs",
+        "teacherName": "Shubham sir",
+        "duration": 0,
+        "startDate": "2026-07-08T14:54:00.000Z",
+        "endDate": "2026-07-08T15:54:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://www.youtube.com/watch?v=UX_WTd4yQj8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "698487d5fdd21a8a2d1a5270",
+          "classId": "6a5107215bac0ae4bae18d06",
+          "topicId": "6a265997b927c1a84af6d41d",
+          "rawRecordIndex": 110
+        }
+      },
+      {
+        "title": "Class -18 || Introduction to Drainage System | by Shubham sir",
+        "description": "complete gs",
+        "teacherName": "Shubham sir",
+        "duration": 0,
+        "startDate": "2026-07-09T14:54:00.000Z",
+        "endDate": "2026-07-09T15:54:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://www.youtube.com/watch?v=3OB-W6Edh9E",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "698487d5fdd21a8a2d1a5270",
+          "classId": "6a5107605bac0ae4bae1ca83",
           "topicId": "6a265997b927c1a84af6d41d",
           "rawRecordIndex": 110
         }

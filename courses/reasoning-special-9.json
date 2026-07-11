@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Special - 9",
-  "extractedAt": "2026-07-10T04:29:47+0000",
+  "extractedAt": "2026-07-11T03:48:53+0000",
   "videos": {
     "Verbal": [
       {
@@ -958,12 +958,37 @@
         "title": "Class-03 | Ranking Test | Problem solving || by Balram sir",
         "description": "\"Reasoning  Special 01, 02.03,04  05, 06  & 07, 08 ,09\r\n Selection Batch 01 , 02.03,04  05, 06  & 07, 08 ,09\"",
         "teacherName": "Balram Sir",
-        "duration": 0,
+        "duration": 4468,
         "startDate": "2026-07-10T04:00:00.000Z",
         "endDate": "2026-07-10T05:00:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4fffc55bac0ae4bad13d3c/playlist.m3u8",
-        "mp4Recordings": [],
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4fffc55bac0ae4bad13d3c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4fffc55bac0ae4bad13d3c/output_720p.mp4",
+            "quality": "720p",
+            "size": 615.74,
+            "_id": "6a508462f3c29aafad93410e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4fffc55bac0ae4bad13d3c/output_480p.mp4",
+            "quality": "480p",
+            "size": 414.57,
+            "_id": "6a508462f3c29aafad93410f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4fffc55bac0ae4bad13d3c/output_360p.mp4",
+            "quality": "360p",
+            "size": 290.6,
+            "_id": "6a508462f3c29aafad934110"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4fffc55bac0ae4bad13d3c/output_240p.mp4",
+            "quality": "240p",
+            "size": 201.91,
+            "_id": "6a508462f3c29aafad934111"
+          }
+        ],
         "classPdf": [],
         "source": {
           "courseId": "6a268a1bb927c1a84afff91b",
