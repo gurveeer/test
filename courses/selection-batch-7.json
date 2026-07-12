@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch - 7",
-  "extractedAt": "2026-07-11T03:48:53+0000",
+  "extractedAt": "2026-07-12T04:04:26+0000",
   "videos": {
     "ARITHMETIC": [
       {
@@ -7424,6 +7424,11 @@
             "priority": 1,
             "name": "Number Series 01 BOARD PDF by balram sir",
             "url": "https://selectionwayserver.hranker.com/pdfs/files/Number Series 01 BOARD PDF by balram sir.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Number Series by balram sir without anno PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Number Series by balram sir without anno PDF.pdf"
           }
         ],
         "source": {
@@ -7811,7 +7816,13 @@
             "_id": "6a508462f3c29aafad934111"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class 03 Ranking Test  BOARD PDF by balram sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Class 03 Ranking Test  BOARD PDF by balram sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a4fffc55bac0ae4bad13d3c",
@@ -27966,7 +27977,7 @@
         }
       },
       {
-        "title": "Class - 23 | Panchayati Raj System By Varun Sir",
+        "title": "Class - 23 | Prime Minister & Council By Varun Sir",
         "description": "\" GS Special- 06, 07, 08\r\n Selection Batch - 06, 07, 08\"",
         "teacherName": "Varun Sir",
         "duration": 2995,
@@ -29915,6 +29926,60 @@
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a5000b75bac0ae4bad23226",
+          "topicId": "696e0150719de161eef5677e",
+          "rawRecordIndex": 12
+        }
+      },
+      {
+        "title": "Class -35 | Verb lec-4 || by Aman sir",
+        "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
+        "teacherName": "AMAN SIR",
+        "duration": 6232,
+        "startDate": "2026-07-11T05:30:00.000Z",
+        "endDate": "2026-07-11T06:41:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5105d55bac0ae4bae1119c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5105d55bac0ae4bae1119c/output_720p.mp4",
+            "quality": "720p",
+            "size": 891.2,
+            "_id": "6a51f41ebbe5d19c13e5c921"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5105d55bac0ae4bae1119c/output_480p.mp4",
+            "quality": "480p",
+            "size": 602.81,
+            "_id": "6a51f41ebbe5d19c13e5c922"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5105d55bac0ae4bae1119c/output_360p.mp4",
+            "quality": "360p",
+            "size": 422.93,
+            "_id": "6a51f41ebbe5d19c13e5c923"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5105d55bac0ae4bae1119c/output_240p.mp4",
+            "quality": "240p",
+            "size": 315.43,
+            "_id": "6a51f41ebbe5d19c13e5c924"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Verb lec- 4 with annotations_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Verb lec- 4 with annotations.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Verb lec- 4 without annotations_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Verb lec- 4 without annotations.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8c322cc6f4d5f00839f",
+          "classId": "6a5105d55bac0ae4bae1119c",
           "topicId": "696e0150719de161eef5677e",
           "rawRecordIndex": 12
         }

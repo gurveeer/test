@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Special-1",
-  "extractedAt": "2026-07-11T03:48:53+0000",
+  "extractedAt": "2026-07-12T04:04:26+0000",
   "videos": {
     "Verbal": [
       {
@@ -7153,7 +7153,13 @@
             "_id": "6a508462f3c29aafad934111"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class 03 Ranking Test  BOARD PDF by balram sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Class 03 Ranking Test  BOARD PDF by balram sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "68dbd66763a1698bf4194574",
           "classId": "6a4fffc55bac0ae4bad13d3c",

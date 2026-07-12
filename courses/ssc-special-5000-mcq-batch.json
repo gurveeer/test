@@ -1,6 +1,6 @@
 {
   "courseName": "SSC special 5000 MCQ batch",
-  "extractedAt": "2026-07-11T03:48:53+0000",
+  "extractedAt": "2026-07-12T04:04:26+0000",
   "videos": {
     "Introduction": [
       {
@@ -527,9 +527,9 @@
         }
       }
     ],
-    "General awareness": [
+    "Special Class": [
       {
-        "title": "Class -10 | Later Vedic Period (उत्तर वैदिक काल) 03 || by Jeet rana sir",
+        "title": "Complete Gk Class | by Jeet rana sir",
         "description": "SSC special 5000 MCQ batch",
         "teacherName": "Jeet Rana Sir",
         "duration": 17806.339,
@@ -567,7 +567,7 @@
         "source": {
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a50b4265bac0ae4bada245e",
-          "topicId": "68e4c2a1c181958faccff569",
+          "topicId": "6a51d8735bac0ae4bae80a4d",
           "rawRecordIndex": 56
         }
       }
