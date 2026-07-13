@@ -1,6 +1,6 @@
 {
   "courseName": "SSC special 5000 MCQ batch",
-  "extractedAt": "2026-07-12T04:04:26+0000",
+  "extractedAt": "2026-07-13T04:06:31+0000",
   "videos": {
     "Introduction": [
       {
@@ -518,7 +518,13 @@
             "_id": "6a51146fbbe5d19c13477084"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "later vedic class 010 pdf by jeet rana sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/later vedic class 010 pdf by jeet rana sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a5103a45bac0ae4bae05841",

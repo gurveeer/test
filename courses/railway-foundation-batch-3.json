@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation Batch -3",
-  "extractedAt": "2026-07-12T04:04:26+0000",
+  "extractedAt": "2026-07-13T04:06:31+0000",
   "videos": {
     "Arithmetic": [
       {
@@ -34615,6 +34615,49 @@
           "topicId": "69ae68cc7b3188015e0551dd",
           "rawRecordIndex": 77
         }
+      },
+      {
+        "title": "Class-03 || Direction & Distance By Deepak Sir",
+        "description": "\"*Railway Foundation Batch ,2 ,3 4,5\r\n*RRB Group D \r\n\"",
+        "teacherName": "deepak sir",
+        "duration": 3536,
+        "startDate": "2026-07-13T02:30:00.000Z",
+        "endDate": "2026-07-13T03:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4fff845bac0ae4bad10005/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4fff845bac0ae4bad10005/output_720p.mp4",
+            "quality": "720p",
+            "size": 526.88,
+            "_id": "6a5460ddbbe5d19c13a8e0e9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4fff845bac0ae4bad10005/output_480p.mp4",
+            "quality": "480p",
+            "size": 357.09,
+            "_id": "6a5460ddbbe5d19c13a8e0ea"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4fff845bac0ae4bad10005/output_360p.mp4",
+            "quality": "360p",
+            "size": 250.6,
+            "_id": "6a5460ddbbe5d19c13a8e0eb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4fff845bac0ae4bad10005/output_240p.mp4",
+            "quality": "240p",
+            "size": 171.42,
+            "_id": "6a5460ddbbe5d19c13a8e0ec"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "6a4fff845bac0ae4bad10005",
+          "topicId": "69ae68cc7b3188015e0551dd",
+          "rawRecordIndex": 77
+        }
       }
     ],
     "Ancient India": [
@@ -37161,7 +37204,13 @@
             "_id": "6a4fc9f2847c19e9d50e702c"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "rivers of peninsular by jeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/rivers of peninsular by jeet sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a4d23185bac0ae4baad00ae",

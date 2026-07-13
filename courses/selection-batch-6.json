@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch -6",
-  "extractedAt": "2026-07-12T04:04:26+0000",
+  "extractedAt": "2026-07-13T04:06:31+0000",
   "videos": {
     "Number System and More": [
       {
@@ -18161,6 +18161,24 @@
         "source": {
           "courseId": "69ae9daca2b1ae04337afa9a",
           "classId": "6a4fffc55bac0ae4bad13d3c",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 59
+        }
+      },
+      {
+        "title": "Class-01 | Blood relation | Problem Solving |  by balram sir",
+        "description": "\"Reasoning  Special 01, 02.03,04  05, 06  & 07, 08 ,09\r\n Selection Batch 01 , 02.03,04  05, 06  & 07, 08 ,09\"",
+        "teacherName": "Balram Sir",
+        "duration": 0,
+        "startDate": "2026-07-13T04:00:00.000Z",
+        "endDate": "2026-07-13T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a53d0315bac0ae4baedd6dc/playlist.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "69ae9daca2b1ae04337afa9a",
+          "classId": "6a53d0315bac0ae4baedd6dc",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 59
         }
@@ -36698,7 +36716,13 @@
             "_id": "6a4bb215847c19e9d5b0a297"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "atomic structure class 003 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/atomic structure class 003 pdf by harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69ae9daca2b1ae04337afa9a",
           "classId": "6a4b892c5bac0ae4ba922f02",
@@ -36741,7 +36765,13 @@
             "_id": "6a4e4e44f3c29aafad10989c"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "atomic structure class 004 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/atomic structure class 004 pdf by harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69ae9daca2b1ae04337afa9a",
           "classId": "6a4cca425bac0ae4baa70c60",
@@ -39471,7 +39501,13 @@
             "_id": "6a3baa31847c19e9d528bbfa"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class 20 Question Practice",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Class 20 Question Practice.pdf"
+          }
+        ],
         "source": {
           "courseId": "69ae9daca2b1ae04337afa9a",
           "classId": "6a3ba557b927c1a84a0915d9",

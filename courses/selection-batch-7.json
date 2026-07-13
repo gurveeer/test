@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch - 7",
-  "extractedAt": "2026-07-12T04:04:26+0000",
+  "extractedAt": "2026-07-13T04:06:31+0000",
   "videos": {
     "ARITHMETIC": [
       {
@@ -27576,7 +27576,13 @@
             "_id": "6a3baa31847c19e9d528bbfa"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class 20 Question Practice",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Class 20 Question Practice.pdf"
+          }
+        ],
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a3ba557b927c1a84a0915d9",
@@ -32942,7 +32948,13 @@
             "_id": "6a4bb215847c19e9d5b0a297"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "atomic structure class 003 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/atomic structure class 003 pdf by harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a4b892c5bac0ae4ba922f02",
@@ -32985,7 +32997,13 @@
             "_id": "6a4e4e44f3c29aafad10989c"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "atomic structure class 004 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/atomic structure class 004 pdf by harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a4cca425bac0ae4baa70c60",

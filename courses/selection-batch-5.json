@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch-5",
-  "extractedAt": "2026-07-12T04:04:26+0000",
+  "extractedAt": "2026-07-13T04:06:31+0000",
   "videos": {
     "Grammar (Live Classes)": [
       {
@@ -44738,7 +44738,13 @@
             "_id": "6a4bb215847c19e9d5b0a297"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "atomic structure class 003 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/atomic structure class 003 pdf by harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "698481c9fdd21a8a2d18ac5b",
           "classId": "6a4b892c5bac0ae4ba922f02",
@@ -44781,7 +44787,13 @@
             "_id": "6a4e4e44f3c29aafad10989c"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "atomic structure class 004 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/atomic structure class 004 pdf by harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "698481c9fdd21a8a2d18ac5b",
           "classId": "6a4cca425bac0ae4baa70c60",

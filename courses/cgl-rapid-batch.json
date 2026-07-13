@@ -1,6 +1,6 @@
 {
   "courseName": "CGL RAPID BATCH",
-  "extractedAt": "2026-07-12T04:04:26+0000",
+  "extractedAt": "2026-07-13T04:06:31+0000",
   "videos": {
     "Introduction": [
       {
@@ -695,7 +695,13 @@
             "_id": "6a508720847c19e9d5c6b923"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "arrival of europeans class 14 pdf by jeet rana sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/arrival of europeans class 14 pdf by jeet rana sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a5000135bac0ae4bad17a9b",

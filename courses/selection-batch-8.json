@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch - 8",
-  "extractedAt": "2026-07-12T04:04:26+0000",
+  "extractedAt": "2026-07-13T04:06:31+0000",
   "videos": {
     "ARITHMETIC": [
       {
@@ -21703,7 +21703,13 @@
             "_id": "6a3baa31847c19e9d528bbfa"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class 20 Question Practice",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Class 20 Question Practice.pdf"
+          }
+        ],
         "source": {
           "courseId": "69f990f7b927c1a84afd2673",
           "classId": "6a3ba557b927c1a84a0915d9",
