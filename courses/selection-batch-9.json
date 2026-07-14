@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch - 9",
-  "extractedAt": "2026-07-13T04:06:31+0000",
+  "extractedAt": "2026-07-14T03:41:41+0000",
   "videos": {
     "Introduction": [
       {
@@ -20587,6 +20587,60 @@
           "topicId": "696e0150719de161eef5677e",
           "rawRecordIndex": 33
         }
+      },
+      {
+        "title": "Class -35 | Verb lec -5 (Modals) || by Aman sir",
+        "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
+        "teacherName": "AMAN SIR",
+        "duration": 5880,
+        "startDate": "2026-07-13T05:30:00.000Z",
+        "endDate": "2026-07-13T07:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a53d3895bac0ae4baef48b1/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d3895bac0ae4baef48b1/output_720p.mp4",
+            "quality": "720p",
+            "size": 839.48,
+            "_id": "6a5496db2ed5ad1e1f7ce575"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d3895bac0ae4baef48b1/output_480p.mp4",
+            "quality": "480p",
+            "size": 564.95,
+            "_id": "6a5496db2ed5ad1e1f7ce576"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d3895bac0ae4baef48b1/output_360p.mp4",
+            "quality": "360p",
+            "size": 399.01,
+            "_id": "6a5496db2ed5ad1e1f7ce577"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d3895bac0ae4baef48b1/output_240p.mp4",
+            "quality": "240p",
+            "size": 305.13,
+            "_id": "6a5496db2ed5ad1e1f7ce578"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Modal lec-1with annotations_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Modal lec-1with annotations.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Modal lec-1 without annotations _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Modal lec-1 without annotations (2).pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a53d3895bac0ae4baef48b1",
+          "topicId": "696e0150719de161eef5677e",
+          "rawRecordIndex": 33
+        }
       }
     ],
     "Very Very Important Information": [
@@ -21657,6 +21711,55 @@
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 33
         }
+      },
+      {
+        "title": "Class-01 | Blood relation | Problem Solving |  by balram sir",
+        "description": "\"Reasoning  Special 01, 02.03,04  05, 06  & 07, 08 ,09\r\n Selection Batch 01 , 02.03,04  05, 06  & 07, 08 ,09\"",
+        "teacherName": "Balram Sir",
+        "duration": 3602,
+        "startDate": "2026-07-13T04:00:00.000Z",
+        "endDate": "2026-07-13T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a53d0315bac0ae4baedd6dc/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d0315bac0ae4baedd6dc/output_720p.mp4",
+            "quality": "720p",
+            "size": 583.86,
+            "_id": "6a5476372ed5ad1e1f12bc10"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d0315bac0ae4baedd6dc/output_480p.mp4",
+            "quality": "480p",
+            "size": 390.41,
+            "_id": "6a5476372ed5ad1e1f12bc11"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d0315bac0ae4baedd6dc/output_360p.mp4",
+            "quality": "360p",
+            "size": 283.11,
+            "_id": "6a5476372ed5ad1e1f12bc12"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d0315bac0ae4baedd6dc/output_240p.mp4",
+            "quality": "240p",
+            "size": 211.39,
+            "_id": "6a5476372ed5ad1e1f12bc13"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Blood Relation By Balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Blood Relation By Balram sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a53d0315bac0ae4baedd6dc",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 33
+        }
       }
     ],
     "Information": [
@@ -22120,6 +22223,55 @@
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 33
         }
+      },
+      {
+        "title": "Class -10 || Geometry || by Gagan Sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08 , 09\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08 , 09\"",
+        "teacherName": "Gagan Sir",
+        "duration": 5432,
+        "startDate": "2026-07-13T12:30:00.000Z",
+        "endDate": "2026-07-13T13:46:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a50af265bac0ae4bad8ecf2/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a50af265bac0ae4bad8ecf2/output_720p.mp4",
+            "quality": "720p",
+            "size": 770,
+            "_id": "6a54f4fab104268c3f0e02e0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a50af265bac0ae4bad8ecf2/output_480p.mp4",
+            "quality": "480p",
+            "size": 520.43,
+            "_id": "6a54f4fab104268c3f0e02e1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a50af265bac0ae4bad8ecf2/output_360p.mp4",
+            "quality": "360p",
+            "size": 367.95,
+            "_id": "6a54f4fab104268c3f0e02e2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a50af265bac0ae4bad8ecf2/output_240p.mp4",
+            "quality": "240p",
+            "size": 256.15,
+            "_id": "6a54f4fab104268c3f0e02e3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class 10 pdf by gagan pratap sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sb 6 pm 13 july bp.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a50af265bac0ae4bad8ecf2",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 33
+        }
       }
     ],
     "GEOGRAPHY": [
@@ -22316,6 +22468,3162 @@
           "courseId": "6a268a36b927c1a84afff936",
           "classId": "6a435305b927c1a84a6133d6",
           "topicId": "696db9e5719de161eef1358c",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -05 | Phase I: Solar System III by Varun sir",
+        "description": "\" GS Special- 05, 06, 07, 08, 09\r\n Selection Batch - 05, 06, 07, 08, 09\"",
+        "teacherName": "Varun Sir",
+        "duration": 3928,
+        "startDate": "2026-07-13T10:30:00.000Z",
+        "endDate": "2026-07-13T11:43:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a44c223b927c1a84a7d66bf/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44c223b927c1a84a7d66bf/output_720p.mp4",
+            "quality": "720p",
+            "size": 603.14,
+            "_id": "6a54d4278b1eb266bf1ae0f7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44c223b927c1a84a7d66bf/output_480p.mp4",
+            "quality": "480p",
+            "size": 415.83,
+            "_id": "6a54d4278b1eb266bf1ae0f8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44c223b927c1a84a7d66bf/output_360p.mp4",
+            "quality": "360p",
+            "size": 296.85,
+            "_id": "6a54d4278b1eb266bf1ae0f9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44c223b927c1a84a7d66bf/output_240p.mp4",
+            "quality": "240p",
+            "size": 227.59,
+            "_id": "6a54d4278b1eb266bf1ae0fa"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "The Earth by varun sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/The Earth by varun sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a44c223b927c1a84a7d66bf",
+          "topicId": "696db9e5719de161eef1358c",
+          "rawRecordIndex": 33
+        }
+      }
+    ],
+    "Physics": [
+      {
+        "title": "class -01 | Unit and measurement | by harish sir",
+        "description": "sb344567",
+        "teacherName": "HARISH SIR",
+        "duration": 3158,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69ef80a022cc6f4d5ffb15b3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ef80a022cc6f4d5ffb15b3/output_720p.mp4",
+            "quality": "720p",
+            "size": 505.04,
+            "_id": "69ef930ed94bc142019bd8b8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ef80a022cc6f4d5ffb15b3/output_480p.mp4",
+            "quality": "480p",
+            "size": 323.34,
+            "_id": "69ef930ed94bc142019bd8b9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ef80a022cc6f4d5ffb15b3/output_360p.mp4",
+            "quality": "360p",
+            "size": 237.06,
+            "_id": "69ef930ed94bc142019bd8ba"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ef80a022cc6f4d5ffb15b3/output_240p.mp4",
+            "quality": "240p",
+            "size": 198.92,
+            "_id": "69ef930ed94bc142019bd8bb"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "unit and measurement class 1",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/unit and measurement class 1.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "69ef80a022cc6f4d5ffb15b3",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "class -02 | Unit and measurement | by harish sir",
+        "description": "\"Selection Batch-3, 4, 5, 6, 7\r\nRAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 3239,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69f1b37a22cc6f4d5f29a31f/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f1b37a22cc6f4d5f29a31f/output_720p.mp4",
+            "quality": "720p",
+            "size": 519.33,
+            "_id": "69f2389e01288a19fb15635d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f1b37a22cc6f4d5f29a31f/output_480p.mp4",
+            "quality": "480p",
+            "size": 330.21,
+            "_id": "69f2389e01288a19fb15635e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f1b37a22cc6f4d5f29a31f/output_360p.mp4",
+            "quality": "360p",
+            "size": 240.52,
+            "_id": "69f2389e01288a19fb15635f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f1b37a22cc6f4d5f29a31f/output_240p.mp4",
+            "quality": "240p",
+            "size": 199.77,
+            "_id": "69f2389e01288a19fb156360"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "unit and measurement class 2",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/unit and measurement class 2.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "69f1b37a22cc6f4d5f29a31f",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "class -03 | Unit and measurement | by harish sir",
+        "description": "\"Selection Batch-3, 4, 5, 6, 7\r\nRAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 1378,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69f2edd822cc6f4d5f47158a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f2edd822cc6f4d5f47158a/output_720p.mp4",
+            "quality": "720p",
+            "size": 221.85,
+            "_id": "69f381b4a6956332eb81e51d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f2edd822cc6f4d5f47158a/output_480p.mp4",
+            "quality": "480p",
+            "size": 145.25,
+            "_id": "69f381b4a6956332eb81e51e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f2edd822cc6f4d5f47158a/output_360p.mp4",
+            "quality": "360p",
+            "size": 104.12,
+            "_id": "69f381b4a6956332eb81e51f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f2edd822cc6f4d5f47158a/output_240p.mp4",
+            "quality": "240p",
+            "size": 68.93,
+            "_id": "69f381b4a6956332eb81e520"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "unit and measurement class 3",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/unit and measurement class 3.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "69f2edd822cc6f4d5f47158a",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -01 | Motion (गति) | by Harish sir",
+        "description": "rf 23\r\nrrb gd",
+        "teacherName": "Harish sir",
+        "duration": 4123.261,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69f8433822cc6f4d5f778ee0/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69f8433822cc6f4d5f778ee0/mp4/Railway_Foundation_4.0_Motion_Demo_01_Harish_Sir_LIVE_Physics_Class_Railway_2026_240p.mp4",
+            "quality": "240p",
+            "size": 302.65,
+            "_id": "69f999f85c9069cb8c6d3b07"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69f8433822cc6f4d5f778ee0/mp4/Railway_Foundation_4.0_Motion_Demo_01_Harish_Sir_LIVE_Physics_Class_Railway_2026_360p.mp4",
+            "quality": "360p",
+            "size": 352.61,
+            "_id": "69f999f85c9069cb8c6d3b08"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69f8433822cc6f4d5f778ee0/mp4/Railway_Foundation_4.0_Motion_Demo_01_Harish_Sir_LIVE_Physics_Class_Railway_2026_480p.mp4",
+            "quality": "480p",
+            "size": 471.62,
+            "_id": "69f999f85c9069cb8c6d3b09"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69f8433822cc6f4d5f778ee0/mp4/Railway_Foundation_4.0_Motion_Demo_01_Harish_Sir_LIVE_Physics_Class_Railway_2026_720p.mp4",
+            "quality": "720p",
+            "size": 692.03,
+            "_id": "69f999f85c9069cb8c6d3b0a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "motion class 1 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/motion class 1 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "69f8433822cc6f4d5f778ee0",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -02 | Motion (गति) | by Harish sir",
+        "description": "\"RAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 3126,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69f99c19b927c1a84a00c8a5/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f99c19b927c1a84a00c8a5/output_720p.mp4",
+            "quality": "720p",
+            "size": 505.38,
+            "_id": "69fa1fd20e571441337f9733"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f99c19b927c1a84a00c8a5/output_480p.mp4",
+            "quality": "480p",
+            "size": 322.86,
+            "_id": "69fa1fd20e571441337f9734"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f99c19b927c1a84a00c8a5/output_360p.mp4",
+            "quality": "360p",
+            "size": 235.51,
+            "_id": "69fa1fd20e571441337f9735"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f99c19b927c1a84a00c8a5/output_240p.mp4",
+            "quality": "240p",
+            "size": 194.28,
+            "_id": "69fa1fd20e571441337f9736"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "motion class 2 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/motion class 2 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "69f99c19b927c1a84a00c8a5",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -03 | Motion (गति) | by Harish sir",
+        "description": "\"RAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 3134,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69fb1de1b927c1a84a206729/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fb1de1b927c1a84a206729/output_720p.mp4",
+            "quality": "720p",
+            "size": 505.09,
+            "_id": "69fb70ef5c9069cb8c4d16f7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fb1de1b927c1a84a206729/output_480p.mp4",
+            "quality": "480p",
+            "size": 324.97,
+            "_id": "69fb70ef5c9069cb8c4d16f8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fb1de1b927c1a84a206729/output_360p.mp4",
+            "quality": "360p",
+            "size": 237.21,
+            "_id": "69fb70ef5c9069cb8c4d16f9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fb1de1b927c1a84a206729/output_240p.mp4",
+            "quality": "240p",
+            "size": 196.3,
+            "_id": "69fb70ef5c9069cb8c4d16fa"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "motion class 3 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/motion class 3 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "69fb1de1b927c1a84a206729",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -04 | Motion (गति) | by Harish sir",
+        "description": "\"RAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 2787,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69fda938b927c1a84a3267cc/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fda938b927c1a84a3267cc/output_720p.mp4",
+            "quality": "720p",
+            "size": 448.06,
+            "_id": "69fe13411efffcd5db7adbdc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fda938b927c1a84a3267cc/output_480p.mp4",
+            "quality": "480p",
+            "size": 290.15,
+            "_id": "69fe13411efffcd5db7adbdd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fda938b927c1a84a3267cc/output_360p.mp4",
+            "quality": "360p",
+            "size": 213.57,
+            "_id": "69fe13411efffcd5db7adbde"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69fda938b927c1a84a3267cc/output_240p.mp4",
+            "quality": "240p",
+            "size": 180.41,
+            "_id": "69fe13411efffcd5db7adbdf"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "motion class 4 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/motion class 4 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "69fda938b927c1a84a3267cc",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -05 | Motion (गति) | by Harish sir",
+        "description": "\"RAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 4306,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69ff0324b927c1a84a3a7e21/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ff0324b927c1a84a3a7e21/output_720p.mp4",
+            "quality": "720p",
+            "size": 691.28,
+            "_id": "69ff6ff9df79cdc5ac9b11f8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ff0324b927c1a84a3a7e21/output_480p.mp4",
+            "quality": "480p",
+            "size": 441.32,
+            "_id": "69ff6ff9df79cdc5ac9b11f9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ff0324b927c1a84a3a7e21/output_360p.mp4",
+            "quality": "360p",
+            "size": 320.55,
+            "_id": "69ff6ff9df79cdc5ac9b11fa"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ff0324b927c1a84a3a7e21/output_240p.mp4",
+            "quality": "240p",
+            "size": 265.39,
+            "_id": "69ff6ff9df79cdc5ac9b11fb"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "motion class 5 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/motion class 5 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "69ff0324b927c1a84a3a7e21",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -06 | Motion (गति) | by Harish sir",
+        "description": "\"RAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 3178,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a01a567b927c1a84a4cdf04/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a01a567b927c1a84a4cdf04/output_720p.mp4",
+            "quality": "720p",
+            "size": 515.9,
+            "_id": "6a02090bcf3592796b69c9d8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a01a567b927c1a84a4cdf04/output_480p.mp4",
+            "quality": "480p",
+            "size": 334.47,
+            "_id": "6a02090bcf3592796b69c9d9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a01a567b927c1a84a4cdf04/output_360p.mp4",
+            "quality": "360p",
+            "size": 246.13,
+            "_id": "6a02090bcf3592796b69c9da"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a01a567b927c1a84a4cdf04/output_240p.mp4",
+            "quality": "240p",
+            "size": 206.32,
+            "_id": "6a02090bcf3592796b69c9db"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "motion class 006 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/motion class 006 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a01a567b927c1a84a4cdf04",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -07 | Motion (गति) | by Harish sir",
+        "description": "\"RAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 3027,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a02fe44b927c1a84a600d27/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a02fe44b927c1a84a600d27/output_720p.mp4",
+            "quality": "720p",
+            "size": 481.21,
+            "_id": "6a035a7f2c1c54debdadcca4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a02fe44b927c1a84a600d27/output_480p.mp4",
+            "quality": "480p",
+            "size": 305.47,
+            "_id": "6a035a7f2c1c54debdadcca5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a02fe44b927c1a84a600d27/output_360p.mp4",
+            "quality": "360p",
+            "size": 221.28,
+            "_id": "6a035a7f2c1c54debdadcca6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a02fe44b927c1a84a600d27/output_240p.mp4",
+            "quality": "240p",
+            "size": 182.79,
+            "_id": "6a035a7f2c1c54debdadcca7"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "motion class 07 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/motion class 06 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a02fe44b927c1a84a600d27",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -01 | Force and Laws of Motion | by Harish sir",
+        "description": "\"RAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 2632,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a04195db927c1a84a6fe378/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a04195db927c1a84a6fe378/output_720p.mp4",
+            "quality": "720p",
+            "size": 422.61,
+            "_id": "6a04ac130c214c6c981ab885"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a04195db927c1a84a6fe378/output_480p.mp4",
+            "quality": "480p",
+            "size": 271.69,
+            "_id": "6a04ac130c214c6c981ab886"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a04195db927c1a84a6fe378/output_360p.mp4",
+            "quality": "360p",
+            "size": 200.58,
+            "_id": "6a04ac130c214c6c981ab887"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a04195db927c1a84a6fe378/output_240p.mp4",
+            "quality": "240p",
+            "size": 170.23,
+            "_id": "6a04ac130c214c6c981ab888"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "force and law class 001 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/force and law class 001 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a04195db927c1a84a6fe378",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -02 | Force and Laws of Motion | by Harish sir",
+        "description": "bse",
+        "teacherName": "HARISH SIR",
+        "duration": 2752.867,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a05adcfb927c1a84a8536db/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a05adcfb927c1a84a8536db/mp4/2026_05_14_17_19_30_240p.mp4",
+            "quality": "240p",
+            "size": 205.9,
+            "_id": "6a05d318b6394c66442f1c75"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a05adcfb927c1a84a8536db/mp4/2026_05_14_17_19_30_360p.mp4",
+            "quality": "360p",
+            "size": 239.51,
+            "_id": "6a05d318b6394c66442f1c76"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a05adcfb927c1a84a8536db/mp4/2026_05_14_17_19_30_480p.mp4",
+            "quality": "480p",
+            "size": 319.99,
+            "_id": "6a05d318b6394c66442f1c77"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a05adcfb927c1a84a8536db/mp4/2026_05_14_17_19_30_720p.mp4",
+            "quality": "720p",
+            "size": 468.81,
+            "_id": "6a05d318b6394c66442f1c78"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "force and law class 002 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/force and law class 002 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a05adcfb927c1a84a8536db",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -03 | Force and Laws of Motion | by Harish sir",
+        "description": "\"RAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 2531,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a0afba3b927c1a84ac1b03a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0afba3b927c1a84ac1b03a/output_720p.mp4",
+            "quality": "720p",
+            "size": 407.92,
+            "_id": "6a0b403db6394c6644be9438"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0afba3b927c1a84ac1b03a/output_480p.mp4",
+            "quality": "480p",
+            "size": 263.67,
+            "_id": "6a0b403db6394c6644be9439"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0afba3b927c1a84ac1b03a/output_360p.mp4",
+            "quality": "360p",
+            "size": 191.92,
+            "_id": "6a0b403db6394c6644be943a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0afba3b927c1a84ac1b03a/output_240p.mp4",
+            "quality": "240p",
+            "size": 158.19,
+            "_id": "6a0b403db6394c6644be943b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "force and law class 003 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/force and law class 003 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a0afba3b927c1a84ac1b03a",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -04 | Force and Laws of Motion | by Harish sir",
+        "description": "\"RAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 2550,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a0c0617b927c1a84ac9cedf/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0c0617b927c1a84ac9cedf/output_720p.mp4",
+            "quality": "720p",
+            "size": 366.31,
+            "_id": "6a0de270ae2853380c07bc46"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0c0617b927c1a84ac9cedf/output_480p.mp4",
+            "quality": "480p",
+            "size": 247.89,
+            "_id": "6a0de270ae2853380c07bc47"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0c0617b927c1a84ac9cedf/output_360p.mp4",
+            "quality": "360p",
+            "size": 174.33,
+            "_id": "6a0de270ae2853380c07bc48"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0c0617b927c1a84ac9cedf/output_240p.mp4",
+            "quality": "240p",
+            "size": 136.52,
+            "_id": "6a0de270ae2853380c07bc49"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "force and laws of motion class 0004",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/force and laws of motion class 0004.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a0c0617b927c1a84ac9cedf",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -01 | Work Power Energy | by Harish sir",
+        "description": "BSE",
+        "teacherName": "HARISH SIR",
+        "duration": 3893,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a0e5115b927c1a84afe0185/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0e5115b927c1a84afe0185/output_720p.mp4",
+            "quality": "720p",
+            "size": 587.65,
+            "_id": "6a0f3a56ae2853380cb154e7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0e5115b927c1a84afe0185/output_480p.mp4",
+            "quality": "480p",
+            "size": 403.51,
+            "_id": "6a0f3a56ae2853380cb154e8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0e5115b927c1a84afe0185/output_360p.mp4",
+            "quality": "360p",
+            "size": 282.03,
+            "_id": "6a0f3a56ae2853380cb154e9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a0e5115b927c1a84afe0185/output_240p.mp4",
+            "quality": "240p",
+            "size": 219.77,
+            "_id": "6a0f3a56ae2853380cb154ea"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "work power energy class 001 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/work power energy class 001 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a0e5115b927c1a84afe0185",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -02 | Work Power Energy | by Harish sir",
+        "description": "\"Selection Batch  3,4,5,6,7\r\nRAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 3577,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a102e5db927c1a84a15f8e4/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a102e5db927c1a84a15f8e4/output_720p.mp4",
+            "quality": "720p",
+            "size": 540.82,
+            "_id": "6a108db7c17d26e6dc8c6043"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a102e5db927c1a84a15f8e4/output_480p.mp4",
+            "quality": "480p",
+            "size": 371.05,
+            "_id": "6a108db7c17d26e6dc8c6044"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a102e5db927c1a84a15f8e4/output_360p.mp4",
+            "quality": "360p",
+            "size": 259.06,
+            "_id": "6a108db7c17d26e6dc8c6045"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a102e5db927c1a84a15f8e4/output_240p.mp4",
+            "quality": "240p",
+            "size": 200.71,
+            "_id": "6a108db7c17d26e6dc8c6046"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "work power energy class 002 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/work power energy class 002 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a102e5db927c1a84a15f8e4",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -03 | Work Power Energy || by Harish sir",
+        "description": "",
+        "teacherName": "HARISH SIR",
+        "duration": 3208,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a147a31b927c1a84a35c9ba/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a147a31b927c1a84a35c9ba/output_720p.mp4",
+            "quality": "720p",
+            "size": 482.45,
+            "_id": "6a16b13725fd37dc1cc503a0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a147a31b927c1a84a35c9ba/output_480p.mp4",
+            "quality": "480p",
+            "size": 330.2,
+            "_id": "6a16b13725fd37dc1cc503a1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a147a31b927c1a84a35c9ba/output_360p.mp4",
+            "quality": "360p",
+            "size": 230.32,
+            "_id": "6a16b13725fd37dc1cc503a2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a147a31b927c1a84a35c9ba/output_240p.mp4",
+            "quality": "240p",
+            "size": 178.17,
+            "_id": "6a16b13725fd37dc1cc503a3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "work power energy class 003 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/work power energy class 003 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a147a31b927c1a84a35c9ba",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -04 | Work Power Energy | by Harish sir",
+        "description": "\"Selection Batch  3,4,5,6,7\r\nRAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 2795,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a1571b6b927c1a84a42264f/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1571b6b927c1a84a42264f/output_720p.mp4",
+            "quality": "720p",
+            "size": 423.11,
+            "_id": "6a171fa7e0181e2f586fde58"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1571b6b927c1a84a42264f/output_480p.mp4",
+            "quality": "480p",
+            "size": 289.79,
+            "_id": "6a171fa7e0181e2f586fde59"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1571b6b927c1a84a42264f/output_360p.mp4",
+            "quality": "360p",
+            "size": 202.41,
+            "_id": "6a171fa7e0181e2f586fde5a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1571b6b927c1a84a42264f/output_240p.mp4",
+            "quality": "240p",
+            "size": 157.47,
+            "_id": "6a171fa7e0181e2f586fde5b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "work power energy class 004 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/work power energy class 004 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a1571b6b927c1a84a42264f",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -01 | Gravitation | by Harish sir",
+        "description": "\"Selection Batch  3,4,5,6,7\r\nRAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 3255.134,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a1928c9fdcb6528108524a7/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a1928c9fdcb6528108524a7/mp4/2025_11_10_18_11_53_240p.mp4",
+            "quality": "240p",
+            "size": 236.92,
+            "_id": "6a193e42fdcb652810998b94"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a1928c9fdcb6528108524a7/mp4/2025_11_10_18_11_53_360p.mp4",
+            "quality": "360p",
+            "size": 278.77,
+            "_id": "6a193e42fdcb652810998b95"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a1928c9fdcb6528108524a7/mp4/2025_11_10_18_11_53_480p.mp4",
+            "quality": "480p",
+            "size": 373.95,
+            "_id": "6a193e42fdcb652810998b96"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a1928c9fdcb6528108524a7/mp4/2025_11_10_18_11_53_720p.mp4",
+            "quality": "720p",
+            "size": 550.77,
+            "_id": "6a193e42fdcb652810998b97"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "gravitation class 01 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/gravitation class 01 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a1928c9fdcb6528108524a7",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -02 | Gravitation | by Harish sir",
+        "description": "\"Selection Batch  3,4,5,6,7\r\nRAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 3307,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a196bc8b927c1a84a7717dd/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a196bc8b927c1a84a7717dd/output_720p.mp4",
+            "quality": "720p",
+            "size": 499.19,
+            "_id": "6a1a73e5fdcb652810da737a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a196bc8b927c1a84a7717dd/output_480p.mp4",
+            "quality": "480p",
+            "size": 343.72,
+            "_id": "6a1a73e5fdcb652810da737b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a196bc8b927c1a84a7717dd/output_360p.mp4",
+            "quality": "360p",
+            "size": 240.23,
+            "_id": "6a1a73e5fdcb652810da737c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a196bc8b927c1a84a7717dd/output_240p.mp4",
+            "quality": "240p",
+            "size": 186.75,
+            "_id": "6a1a73e5fdcb652810da737d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "gravitation class 02 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/gravitation class 02 pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a196bc8b927c1a84a7717dd",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -03 | Gravitation | by Harish sir",
+        "description": "\"Selection Batch  3,4,5,6,7\r\nRAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 4404,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a1d6ca8717000808678f08e/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1d6ca8717000808678f08e/output_720p.mp4",
+            "quality": "720p",
+            "size": 666.76,
+            "_id": "6a1dc8c357a0c997f5f936e7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1d6ca8717000808678f08e/output_480p.mp4",
+            "quality": "480p",
+            "size": 458.55,
+            "_id": "6a1dc8c357a0c997f5f936e8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1d6ca8717000808678f08e/output_360p.mp4",
+            "quality": "360p",
+            "size": 320.28,
+            "_id": "6a1dc8c357a0c997f5f936e9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1d6ca8717000808678f08e/output_240p.mp4",
+            "quality": "240p",
+            "size": 250.79,
+            "_id": "6a1dc8c357a0c997f5f936ea"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "gravitation class 03 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/gravitation class 03 pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a1d6ca8717000808678f08e",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -04 | Gravitation | by Harish sir",
+        "description": "\"Selection Batch  3,4,5,6,7\r\nRAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 2668,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a1eb6cab927c1a84aaa7912/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1eb6cab927c1a84aaa7912/output_720p.mp4",
+            "quality": "720p",
+            "size": 407.17,
+            "_id": "6a1f087557a0c997f5f8ca1c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1eb6cab927c1a84aaa7912/output_480p.mp4",
+            "quality": "480p",
+            "size": 278.87,
+            "_id": "6a1f087557a0c997f5f8ca1d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1eb6cab927c1a84aaa7912/output_360p.mp4",
+            "quality": "360p",
+            "size": 194.76,
+            "_id": "6a1f087557a0c997f5f8ca1e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1eb6cab927c1a84aaa7912/output_240p.mp4",
+            "quality": "240p",
+            "size": 150.62,
+            "_id": "6a1f087557a0c997f5f8ca1f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "gravitation class 04 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/gravitation class 04 pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a1eb6cab927c1a84aaa7912",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class-01 | Wave concept | by Harish sir",
+        "description": "\"Selection Batch  3,4,5,6,7\r\nRAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "Harish sir",
+        "duration": 4925,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a1fe8e8510ed6b362a04fce/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1fe8e8510ed6b362a04fce/output_720p.mp4",
+            "quality": "720p",
+            "size": 743.19,
+            "_id": "6a20630671700080865264da"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1fe8e8510ed6b362a04fce/output_480p.mp4",
+            "quality": "480p",
+            "size": 510.48,
+            "_id": "6a20630671700080865264db"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1fe8e8510ed6b362a04fce/output_360p.mp4",
+            "quality": "360p",
+            "size": 356.39,
+            "_id": "6a20630671700080865264dc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a1fe8e8510ed6b362a04fce/output_240p.mp4",
+            "quality": "240p",
+            "size": 277.23,
+            "_id": "6a20630671700080865264dd"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "wave class 001 pdf byy harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/wave class 001 pdf byy harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a1fe8e8510ed6b362a04fce",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class-02 | Wave concept | by Harish sir",
+        "description": "\"Selection Batch  3,4,5,6,7\r\nRAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 2693.334,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a21477db927c1a84ad664ef/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a21477db927c1a84ad664ef/mp4/EMW_240p.mp4",
+            "quality": "240p",
+            "size": 191.75,
+            "_id": "6a2152dac17d26e6dc112d5d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a21477db927c1a84ad664ef/mp4/EMW_360p.mp4",
+            "quality": "360p",
+            "size": 225.99,
+            "_id": "6a2152dac17d26e6dc112d5e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a21477db927c1a84ad664ef/mp4/EMW_480p.mp4",
+            "quality": "480p",
+            "size": 305.18,
+            "_id": "6a2152dac17d26e6dc112d5f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a21477db927c1a84ad664ef/mp4/EMW_720p.mp4",
+            "quality": "720p",
+            "size": 453.2,
+            "_id": "6a2152dac17d26e6dc112d60"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "waves class 002 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/waves class 002 pdf by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a21477db927c1a84ad664ef",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class-01 | Sound | by Harish sir",
+        "description": "\"Selection Batch  3,4,5,6,7\r\nRAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 4741.12,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a2266e9b927c1a84add0e98/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a2266e9b927c1a84add0e98/mp4/0605_240p.mp4",
+            "quality": "240p",
+            "size": 348.51,
+            "_id": "6a22a4e392611fdf699708a8"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a2266e9b927c1a84add0e98/mp4/0605_360p.mp4",
+            "quality": "360p",
+            "size": 410.26,
+            "_id": "6a22a4e392611fdf699708a9"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a2266e9b927c1a84add0e98/mp4/0605_480p.mp4",
+            "quality": "480p",
+            "size": 548.83,
+            "_id": "6a22a4e392611fdf699708aa"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a2266e9b927c1a84add0e98/mp4/0605_720p.mp4",
+            "quality": "720p",
+            "size": 806.37,
+            "_id": "6a22a4e392611fdf699708ab"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "sound class 001 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sound class 001 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a2266e9b927c1a84add0e98",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class-02 | Sound | by Harish sir",
+        "description": "\"Selection Batch  3,4,5,6,7\r\nRAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 6503.69,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a26a8ebb927c1a84a0b1319/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a26a8ebb927c1a84a0b1319/mp4/0608_240p.mp4",
+            "quality": "240p",
+            "size": 464.83,
+            "_id": "6a26cc3592611fdf69d66457"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a26a8ebb927c1a84a0b1319/mp4/0608_360p.mp4",
+            "quality": "360p",
+            "size": 552.7,
+            "_id": "6a26cc3592611fdf69d66458"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a26a8ebb927c1a84a0b1319/mp4/0608_480p.mp4",
+            "quality": "480p",
+            "size": 741.47,
+            "_id": "6a26cc3592611fdf69d66459"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a26a8ebb927c1a84a0b1319/mp4/0608_720p.mp4",
+            "quality": "720p",
+            "size": 1091.4,
+            "_id": "6a26cc3592611fdf69d6645a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "sounnd class 002 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sounnd class 002 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a26a8ebb927c1a84a0b1319",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -01 | Pressure | by Harish sir",
+        "description": "\"Selection Batch  3,4,5,6,7\r\nRAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 2643,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a26aa8a71700080865f8599/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a26aa8a71700080865f8599/output_720p.mp4",
+            "quality": "720p",
+            "size": 394.65,
+            "_id": "6a26ef4071700080862f862e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a26aa8a71700080865f8599/output_480p.mp4",
+            "quality": "480p",
+            "size": 271.4,
+            "_id": "6a26ef4071700080862f862f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a26aa8a71700080865f8599/output_360p.mp4",
+            "quality": "360p",
+            "size": 189.17,
+            "_id": "6a26ef4071700080862f8630"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a26aa8a71700080865f8599/output_240p.mp4",
+            "quality": "240p",
+            "size": 147.88,
+            "_id": "6a26ef4071700080862f8631"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "pressure class 0001 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/pressure class 0001 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a26aa8a71700080865f8599",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -02 | Pressure | by Harish sir",
+        "description": "\"Selection Batch  3,4,5,6,7\r\nRAILWAY 2, 3, 4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 6091.547,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a27e389b927c1a84a1d6512/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a27e389b927c1a84a1d6512/mp4/0609_240p.mp4",
+            "quality": "240p",
+            "size": 446.08,
+            "_id": "6a29555dfdcb652810483ac6"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a27e389b927c1a84a1d6512/mp4/0609_360p.mp4",
+            "quality": "360p",
+            "size": 525.38,
+            "_id": "6a29555dfdcb652810483ac7"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a27e389b927c1a84a1d6512/mp4/0609_480p.mp4",
+            "quality": "480p",
+            "size": 702.25,
+            "_id": "6a29555dfdcb652810483ac8"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a27e389b927c1a84a1d6512/mp4/0609_720p.mp4",
+            "quality": "720p",
+            "size": 1032.25,
+            "_id": "6a29555dfdcb652810483ac9"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "pressure class 0002 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/pressure class 0002 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a27e389b927c1a84a1d6512",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class - 01 || Light (प्रकाश) | Physics by Harish sir",
+        "description": "Class - 01 || Light (प्रकाश) | Physics by Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 3694.805624,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/692d3f9ed4dda22dbe3cdeae/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/692d3f9ed4dda22dbe3cdeae/mp4/class_01_light_physics_by_harish_sir_240p.mp4",
+            "quality": "240p",
+            "size": 79.75,
+            "_id": "692efb59dd258fd323385f28"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/692d3f9ed4dda22dbe3cdeae/mp4/class_01_light_physics_by_harish_sir_360p.mp4",
+            "quality": "360p",
+            "size": 127.97,
+            "_id": "692efb59dd258fd323385f29"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/692d3f9ed4dda22dbe3cdeae/mp4/class_01_light_physics_by_harish_sir_480p.mp4",
+            "quality": "480p",
+            "size": 178.38,
+            "_id": "692efb59dd258fd323385f2a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/692d3f9ed4dda22dbe3cdeae/mp4/class_01_light_physics_by_harish_sir_720p.mp4",
+            "quality": "720p",
+            "size": 259.01,
+            "_id": "692efb59dd258fd323385f2b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LIGHT PDF CLASS 01",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/LIGHT PDF CLASS 01.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "692d3f9ed4dda22dbe3cdeae",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class - 02 || Light (प्रकाश) | Physics by Harish sir",
+        "description": "Class - 02 || Light (प्रकाश) | Physics by Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/692e8d39dd258fd32396086a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/692e8d39dd258fd32396086a/output_720p.mp4",
+            "quality": "720p",
+            "size": 543.34,
+            "_id": "692ef082dd258fd323ee0aea"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/692e8d39dd258fd32396086a/output_480p.mp4",
+            "quality": "480p",
+            "size": 348.06,
+            "_id": "692ef082dd258fd323ee0aeb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/692e8d39dd258fd32396086a/output_360p.mp4",
+            "quality": "360p",
+            "size": 304.01,
+            "_id": "692ef082dd258fd323ee0aec"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/692e8d39dd258fd32396086a/output_240p.mp4",
+            "quality": "240p",
+            "size": 238.65,
+            "_id": "692ef082dd258fd323ee0aed"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LIGHT CLASS 02 PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/LIGHT CLASS 02 PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "692e8d39dd258fd32396086a",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class - 03 || Light (प्रकाश) | Physics by Harish sir",
+        "description": "Class - 03 || Light (प्रकाश) | Physics by Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/692fcb26dd258fd323759180/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/692fcb26dd258fd323759180/output_720p.mp4",
+            "quality": "720p",
+            "size": 584.38,
+            "_id": "693125dddd258fd323e94373"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/692fcb26dd258fd323759180/output_480p.mp4",
+            "quality": "480p",
+            "size": 374.47,
+            "_id": "693125dddd258fd323e94374"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/692fcb26dd258fd323759180/output_360p.mp4",
+            "quality": "360p",
+            "size": 327.29,
+            "_id": "693125dddd258fd323e94375"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/692fcb26dd258fd323759180/output_240p.mp4",
+            "quality": "240p",
+            "size": 257.05,
+            "_id": "693125dddd258fd323e94376"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LIGHT CHAPTER 03 PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/LIGHT CHAPTER 03 PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "692fcb26dd258fd323759180",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class - 04 || Light (प्रकाश) | Physics by Harish sir",
+        "description": "Class - 04 || Light (प्रकाश) | Physics by Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69304331dd258fd323519e68/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69304331dd258fd323519e68/output_720p.mp4",
+            "quality": "720p",
+            "size": 717.97,
+            "_id": "6931a137dd258fd323ebd270"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69304331dd258fd323519e68/output_480p.mp4",
+            "quality": "480p",
+            "size": 459.99,
+            "_id": "6931a137dd258fd323ebd271"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69304331dd258fd323519e68/output_360p.mp4",
+            "quality": "360p",
+            "size": 401.85,
+            "_id": "6931a137dd258fd323ebd272"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69304331dd258fd323519e68/output_240p.mp4",
+            "quality": "240p",
+            "size": 315.76,
+            "_id": "6931a137dd258fd323ebd273"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LIGHT CHAPTER 04",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/LIGHT CHAPTER 04.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "69304331dd258fd323519e68",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class - 05 || Light (प्रकाश) | Physics by Harish sir",
+        "description": "Class - 05 || Light (प्रकाश) | Physics by Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6933f9f3dd258fd3234368c2/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6933f9f3dd258fd3234368c2/output_720p.mp4",
+            "quality": "720p",
+            "size": 543.13,
+            "_id": "6936da6b6385517afa649e4f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6933f9f3dd258fd3234368c2/output_480p.mp4",
+            "quality": "480p",
+            "size": 347.69,
+            "_id": "6936da6b6385517afa649e50"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6933f9f3dd258fd3234368c2/output_360p.mp4",
+            "quality": "360p",
+            "size": 303.7,
+            "_id": "6936da6b6385517afa649e51"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6933f9f3dd258fd3234368c2/output_240p.mp4",
+            "quality": "240p",
+            "size": 238.59,
+            "_id": "6936da6b6385517afa649e52"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "light class 05 board",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/light class 05 board.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6933f9f3dd258fd3234368c2",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class - 06 || Light (प्रकाश) | Physics by Harish sir",
+        "description": "Class - 06 || Light (प्रकाश) | Physics by Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6936e0ee6385517afa8cb524/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6936e0ee6385517afa8cb524/output_720p.mp4",
+            "quality": "720p",
+            "size": 457.84,
+            "_id": "693974cf6385517afa639a0d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6936e0ee6385517afa8cb524/output_480p.mp4",
+            "quality": "480p",
+            "size": 293.2,
+            "_id": "693974cf6385517afa639a0e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6936e0ee6385517afa8cb524/output_360p.mp4",
+            "quality": "360p",
+            "size": 255.55,
+            "_id": "693974cf6385517afa639a0f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6936e0ee6385517afa8cb524/output_240p.mp4",
+            "quality": "240p",
+            "size": 200.72,
+            "_id": "693974cf6385517afa639a10"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LIGHT CHAPTER 06",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/LIGHT CHAPTER 06.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6936e0ee6385517afa8cb524",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class - 07 || Light (प्रकाश) | Physics by Harish sir",
+        "description": "Class - 07 || Light (प्रकाश) | Physics by Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/693a51566385517afa01f80e/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693a51566385517afa01f80e/output_720p.mp4",
+            "quality": "720p",
+            "size": 508.38,
+            "_id": "693aca866385517afa5d1d80"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693a51566385517afa01f80e/output_480p.mp4",
+            "quality": "480p",
+            "size": 324.37,
+            "_id": "693aca866385517afa5d1d81"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693a51566385517afa01f80e/output_360p.mp4",
+            "quality": "360p",
+            "size": 283.14,
+            "_id": "693aca866385517afa5d1d82"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693a51566385517afa01f80e/output_240p.mp4",
+            "quality": "240p",
+            "size": 221.67,
+            "_id": "693aca866385517afa5d1d83"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LIGHT CHAPTER  CLASS 07 PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/LIGHT CHAPTER  CLASS 07 PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "693a51566385517afa01f80e",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class - 08 || Light (प्रकाश) | Physics by Harish sir",
+        "description": "Class - 08 || Light (प्रकाश) | Physics by Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/693ab64d6385517afadf3854/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693ab64d6385517afadf3854/output_720p.mp4",
+            "quality": "720p",
+            "size": 435.13,
+            "_id": "693c18836385517afada827f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693ab64d6385517afadf3854/output_480p.mp4",
+            "quality": "480p",
+            "size": 278.26,
+            "_id": "693c18836385517afada8280"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693ab64d6385517afadf3854/output_360p.mp4",
+            "quality": "360p",
+            "size": 242.97,
+            "_id": "693c18836385517afada8281"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693ab64d6385517afadf3854/output_240p.mp4",
+            "quality": "240p",
+            "size": 190.59,
+            "_id": "693c18836385517afada8282"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LIGHT CHAPTER 08",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/LIGHT CHAPTER 08.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "693ab64d6385517afadf3854",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class - 09 || Light (प्रकाश) | Physics by Harish sir",
+        "description": "Class - 09 || Light (प्रकाश) | Physics by Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/693d37996385517afab3a6b7/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693d37996385517afab3a6b7/output_720p.mp4",
+            "quality": "720p",
+            "size": 529.24,
+            "_id": "694015836385517afaec508c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693d37996385517afab3a6b7/output_480p.mp4",
+            "quality": "480p",
+            "size": 338.14,
+            "_id": "694015836385517afaec508d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693d37996385517afab3a6b7/output_360p.mp4",
+            "quality": "360p",
+            "size": 294.92,
+            "_id": "694015836385517afaec508e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693d37996385517afab3a6b7/output_240p.mp4",
+            "quality": "240p",
+            "size": 231.52,
+            "_id": "694015836385517afaec508f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LIGHT CHAPTER 09",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/LIGHT CHAPTER 09.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "693d37996385517afab3a6b7",
+          "topicId": "68ed14b9a3e6437ce1b36c37",
+          "rawRecordIndex": 33
+        }
+      }
+    ],
+    "Science Practice": [
+      {
+        "title": "Class – 01 | MCQs by Harish sir",
+        "description": "Class – 01 | MCQs by Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/695df58e2feca20f81d5292b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695df58e2feca20f81d5292b/output_720p.mp4",
+            "quality": "720p",
+            "size": 620.89,
+            "_id": "6966a501027f25d29e75ff80"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695df58e2feca20f81d5292b/output_480p.mp4",
+            "quality": "480p",
+            "size": 399.96,
+            "_id": "6966a501027f25d29e75ff81"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695df58e2feca20f81d5292b/output_360p.mp4",
+            "quality": "360p",
+            "size": 292.71,
+            "_id": "6966a501027f25d29e75ff82"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695df58e2feca20f81d5292b/output_240p.mp4",
+            "quality": "240p",
+            "size": 242.57,
+            "_id": "6966a501027f25d29e75ff83"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "MCQ 1 PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/MCQ 1 PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "695df58e2feca20f81d5292b",
+          "topicId": "695d21ce027f25d29e788206",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class – 02 | MCQs by Harish sir",
+        "description": "Class – 02 | MCQs by Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 3272,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69673bf62feca20f811c2f84/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69673bf62feca20f811c2f84/output_720p.mp4",
+            "quality": "720p",
+            "size": 530.58,
+            "_id": "6967cc88027f25d29e7d22c2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69673bf62feca20f811c2f84/output_480p.mp4",
+            "quality": "480p",
+            "size": 342.65,
+            "_id": "6967cc88027f25d29e7d22c3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69673bf62feca20f811c2f84/output_360p.mp4",
+            "quality": "360p",
+            "size": 251.81,
+            "_id": "6967cc88027f25d29e7d22c4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69673bf62feca20f811c2f84/output_240p.mp4",
+            "quality": "240p",
+            "size": 210.82,
+            "_id": "6967cc88027f25d29e7d22c5"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mcq 2 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/mcq 2 pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "69673bf62feca20f811c2f84",
+          "topicId": "695d21ce027f25d29e788206",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class – 03 | MCQs by Harish sir",
+        "description": "Class – 03 | MCQs by Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 2502,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/696880de2feca20f812157b9/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696880de2feca20f812157b9/output_720p.mp4",
+            "quality": "720p",
+            "size": 401.03,
+            "_id": "696fafae1fefb4acef23561a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696880de2feca20f812157b9/output_480p.mp4",
+            "quality": "480p",
+            "size": 259.3,
+            "_id": "696fafae1fefb4acef23561b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696880de2feca20f812157b9/output_360p.mp4",
+            "quality": "360p",
+            "size": 191.23,
+            "_id": "696fafae1fefb4acef23561c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696880de2feca20f812157b9/output_240p.mp4",
+            "quality": "240p",
+            "size": 161.73,
+            "_id": "696fafae1fefb4acef23561d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mcq 03",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/mcq 3.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "696880de2feca20f812157b9",
+          "topicId": "695d21ce027f25d29e788206",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class – 04 | MCQs by Harish sir",
+        "description": "Class – 04 | MCQs by Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 3010,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/696fdd25719de161ee09855b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696fdd25719de161ee09855b/output_720p.mp4",
+            "quality": "720p",
+            "size": 483.59,
+            "_id": "697103e657df4eebc582ecd6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696fdd25719de161ee09855b/output_480p.mp4",
+            "quality": "480p",
+            "size": 311,
+            "_id": "697103e657df4eebc582ecd7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696fdd25719de161ee09855b/output_360p.mp4",
+            "quality": "360p",
+            "size": 228.8,
+            "_id": "697103e657df4eebc582ecd8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696fdd25719de161ee09855b/output_240p.mp4",
+            "quality": "240p",
+            "size": 192.97,
+            "_id": "697103e657df4eebc582ecd9"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mcq 4",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/mcq 4.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "696fdd25719de161ee09855b",
+          "topicId": "695d21ce027f25d29e788206",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class – 05 | MCQs by Harish sir",
+        "description": "Class – 05 | MCQs by Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 2705,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6971cc58719de161ee1a1973/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6971cc58719de161ee1a1973/output_720p.mp4",
+            "quality": "720p",
+            "size": 430.29,
+            "_id": "69726488ff48ebed53e5db5e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6971cc58719de161ee1a1973/output_480p.mp4",
+            "quality": "480p",
+            "size": 272.3,
+            "_id": "69726488ff48ebed53e5db5f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6971cc58719de161ee1a1973/output_360p.mp4",
+            "quality": "360p",
+            "size": 198.7,
+            "_id": "69726488ff48ebed53e5db60"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6971cc58719de161ee1a1973/output_240p.mp4",
+            "quality": "240p",
+            "size": 164.81,
+            "_id": "69726488ff48ebed53e5db61"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "MCQ 05 without annotation",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/MCQ 05 without annotation.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6971cc58719de161ee1a1973",
+          "topicId": "695d21ce027f25d29e788206",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class – 06 | MCQs by Harish sir",
+        "description": "Class – 06 | MCQs by Harish sir",
+        "teacherName": "HARISH SIR",
+        "duration": 1765,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69732e3acc325625a6fff6c9/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69732e3acc325625a6fff6c9/output_720p.mp4",
+            "quality": "720p",
+            "size": 286.93,
+            "_id": "6973a1b9cb4a652aaa6bc3ba"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69732e3acc325625a6fff6c9/output_480p.mp4",
+            "quality": "480p",
+            "size": 184.39,
+            "_id": "6973a1b9cb4a652aaa6bc3bb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69732e3acc325625a6fff6c9/output_360p.mp4",
+            "quality": "360p",
+            "size": 135.07,
+            "_id": "6973a1b9cb4a652aaa6bc3bc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69732e3acc325625a6fff6c9/output_240p.mp4",
+            "quality": "240p",
+            "size": 112.34,
+            "_id": "6973a1b9cb4a652aaa6bc3bd"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mcq 6",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/mcq 5.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "69732e3acc325625a6fff6c9",
+          "topicId": "695d21ce027f25d29e788206",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class – 07 | MCQs by Harish sir",
+        "description": "Class – 07 | MCQs by Harish sir",
+        "teacherName": "Harish sir",
+        "duration": 2542.534,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/697b3d31cbfd1415c64ed3de/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/697b3d31cbfd1415c64ed3de/mp4/MTS_CLASS_01_240p.mp4",
+            "quality": "240p",
+            "size": 182.54,
+            "_id": "697b84cac40b4c4cefd602ba"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/697b3d31cbfd1415c64ed3de/mp4/MTS_CLASS_01_360p.mp4",
+            "quality": "360p",
+            "size": 210.37,
+            "_id": "697b84cac40b4c4cefd602bb"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/697b3d31cbfd1415c64ed3de/mp4/MTS_CLASS_01_480p.mp4",
+            "quality": "480p",
+            "size": 279.37,
+            "_id": "697b84cac40b4c4cefd602bc"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/697b3d31cbfd1415c64ed3de/mp4/MTS_CLASS_01_720p.mp4",
+            "quality": "720p",
+            "size": 420.97,
+            "_id": "697b84cac40b4c4cefd602bd"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mcq class 07",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/mcq class 07.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "697b3d31cbfd1415c64ed3de",
+          "topicId": "695d21ce027f25d29e788206",
+          "rawRecordIndex": 33
+        }
+      }
+    ],
+    "Biology": [
+      {
+        "title": "Class-01 || Nutrition (पोषक पदार्थ) by Harish sir",
+        "description": "rrb gd",
+        "teacherName": "HARISH SIR",
+        "duration": 3491,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698b1a0aab38bd7d53b91012/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698b1a0aab38bd7d53b91012/output_720p.mp4",
+            "quality": "720p",
+            "size": 563.96,
+            "_id": "698b6a8e8f569ce6cc76fb05"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698b1a0aab38bd7d53b91012/output_480p.mp4",
+            "quality": "480p",
+            "size": 364.34,
+            "_id": "698b6a8e8f569ce6cc76fb06"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698b1a0aab38bd7d53b91012/output_360p.mp4",
+            "quality": "360p",
+            "size": 269.88,
+            "_id": "698b6a8e8f569ce6cc76fb07"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698b1a0aab38bd7d53b91012/output_240p.mp4",
+            "quality": "240p",
+            "size": 230.18,
+            "_id": "698b6a8e8f569ce6cc76fb08"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "nutrition class",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/nutrition class.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "698b1a0aab38bd7d53b91012",
+          "topicId": "68e207c048aa5900ad9d8348",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class-02 || Nutrition (पोषक पदार्थ) by Harish sir",
+        "description": "rrb",
+        "teacherName": "HARISH SIR",
+        "duration": 4008,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698c21f8a003679fb8b73cde/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698c21f8a003679fb8b73cde/output_720p.mp4",
+            "quality": "720p",
+            "size": 649.63,
+            "_id": "698cb7bffbed628d536ecf59"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698c21f8a003679fb8b73cde/output_480p.mp4",
+            "quality": "480p",
+            "size": 420.86,
+            "_id": "698cb7bffbed628d536ecf5a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698c21f8a003679fb8b73cde/output_360p.mp4",
+            "quality": "360p",
+            "size": 311.11,
+            "_id": "698cb7bffbed628d536ecf5b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698c21f8a003679fb8b73cde/output_240p.mp4",
+            "quality": "240p",
+            "size": 263.25,
+            "_id": "698cb7bffbed628d536ecf5c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "nutrition class 02",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/nutrition class 02.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "698c21f8a003679fb8b73cde",
+          "topicId": "68e207c048aa5900ad9d8348",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class-03 || Nutrition (पोषक पदार्थ) by Harish sir",
+        "description": "RRB",
+        "teacherName": "HARISH SIR",
+        "duration": 3103,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698d6c0df934db83d31a9310/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698d6c0df934db83d31a9310/output_720p.mp4",
+            "quality": "720p",
+            "size": 498.72,
+            "_id": "698e052d0bbecd2afd4a18cd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698d6c0df934db83d31a9310/output_480p.mp4",
+            "quality": "480p",
+            "size": 323.32,
+            "_id": "698e052d0bbecd2afd4a18ce"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698d6c0df934db83d31a9310/output_360p.mp4",
+            "quality": "360p",
+            "size": 238.43,
+            "_id": "698e052d0bbecd2afd4a18cf"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698d6c0df934db83d31a9310/output_240p.mp4",
+            "quality": "240p",
+            "size": 200.95,
+            "_id": "698e052d0bbecd2afd4a18d0"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "nutrition class 03",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/nutrition class 03.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "698d6c0df934db83d31a9310",
+          "topicId": "68e207c048aa5900ad9d8348",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class-04 || Nutrition (पोषक पदार्थ) by Harish sir",
+        "description": "RRB",
+        "teacherName": "HARISH SIR",
+        "duration": 2535,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698f0a59466e8361a4f148a3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698f0a59466e8361a4f148a3/output_720p.mp4",
+            "quality": "720p",
+            "size": 407.61,
+            "_id": "699347afe2270e7832136c65"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698f0a59466e8361a4f148a3/output_480p.mp4",
+            "quality": "480p",
+            "size": 263.58,
+            "_id": "699347afe2270e7832136c66"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698f0a59466e8361a4f148a3/output_360p.mp4",
+            "quality": "360p",
+            "size": 194.58,
+            "_id": "699347afe2270e7832136c67"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698f0a59466e8361a4f148a3/output_240p.mp4",
+            "quality": "240p",
+            "size": 164.49,
+            "_id": "699347afe2270e7832136c68"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "nutrition class 04",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/nutrition class 04.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "698f0a59466e8361a4f148a3",
+          "topicId": "68e207c048aa5900ad9d8348",
+          "rawRecordIndex": 33
+        }
+      }
+    ],
+    "Chemistry": [
+      {
+        "title": "Class -01 | Mixture and Separation || by Harish Sir",
+        "description": "\"RAILWAY Foundation - 04 ,05\r\nSB 05, 06, 07\"",
+        "teacherName": "HARISH SIR",
+        "duration": 3792.516,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a2a50bbfdcb6528102182b6/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a2a50bbfdcb6528102182b6/mp4/Railway_Foundation_5.0_Chemistry_Mixture_and_Separation_Demo_01_Railway_Exam_2026_Harish_Sir_240p.mp4",
+            "quality": "240p",
+            "size": 276.27,
+            "_id": "6a2a682592611fdf693bd3c7"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a2a50bbfdcb6528102182b6/mp4/Railway_Foundation_5.0_Chemistry_Mixture_and_Separation_Demo_01_Railway_Exam_2026_Harish_Sir_360p.mp4",
+            "quality": "360p",
+            "size": 322.49,
+            "_id": "6a2a682592611fdf693bd3c8"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a2a50bbfdcb6528102182b6/mp4/Railway_Foundation_5.0_Chemistry_Mixture_and_Separation_Demo_01_Railway_Exam_2026_Harish_Sir_480p.mp4",
+            "quality": "480p",
+            "size": 432.85,
+            "_id": "6a2a682592611fdf693bd3c9"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a2a50bbfdcb6528102182b6/mp4/Railway_Foundation_5.0_Chemistry_Mixture_and_Separation_Demo_01_Railway_Exam_2026_Harish_Sir_720p.mp4",
+            "quality": "720p",
+            "size": 637.16,
+            "_id": "6a2a682592611fdf693bd3ca"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mixture and separation class 001 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/mixture and separation class 001 pdf by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a2a50bbfdcb6528102182b6",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -02 | Mixture and Separation || by Harish Sir",
+        "description": "\"RAILWAY Foundation - 04 ,05\r\nSB 05, 06, 07\"",
+        "teacherName": "HARISH SIR",
+        "duration": 2138,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a2a8050b927c1a84a3d88ed/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a2a8050b927c1a84a3d88ed/output_720p.mp4",
+            "quality": "720p",
+            "size": 320.08,
+            "_id": "6a2ad91092611fdf69f27f87"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a2a8050b927c1a84a3d88ed/output_480p.mp4",
+            "quality": "480p",
+            "size": 217.43,
+            "_id": "6a2ad91092611fdf69f27f88"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a2a8050b927c1a84a3d88ed/output_360p.mp4",
+            "quality": "360p",
+            "size": 150.82,
+            "_id": "6a2ad91092611fdf69f27f89"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a2a8050b927c1a84a3d88ed/output_240p.mp4",
+            "quality": "240p",
+            "size": 117.08,
+            "_id": "6a2ad91092611fdf69f27f8a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mixture and separation class 002 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/mixture and separation class 002 pdf by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a2a8050b927c1a84a3d88ed",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -03 | Mixture and Separation || by Harish Sir",
+        "description": "\"RAILWAY Foundation - 04 ,05\r\nSB 05, 06, 07\"",
+        "teacherName": "HARISH SIR",
+        "duration": 2558,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a33ba31b927c1a84aa18234/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a33ba31b927c1a84aa18234/output_720p.mp4",
+            "quality": "720p",
+            "size": 388.47,
+            "_id": "6a340f9a7170008086ba48dc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a33ba31b927c1a84aa18234/output_480p.mp4",
+            "quality": "480p",
+            "size": 269.22,
+            "_id": "6a340f9a7170008086ba48dd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a33ba31b927c1a84aa18234/output_360p.mp4",
+            "quality": "360p",
+            "size": 188.12,
+            "_id": "6a340f9a7170008086ba48de"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a33ba31b927c1a84aa18234/output_240p.mp4",
+            "quality": "240p",
+            "size": 147.26,
+            "_id": "6a340f9a7170008086ba48df"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mixture and separation class 003 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/mixture and separation class 003 pdf by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a33ba31b927c1a84aa18234",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -04 | Mixture and Separation || by Harish Sir",
+        "description": "\"RAILWAY Foundation - 04 ,05\r\nSB 05, 06, 07\"",
+        "teacherName": "HARISH SIR",
+        "duration": 3944,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a34eda0b927c1a84ab4918a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a34eda0b927c1a84ab4918a/output_720p.mp4",
+            "quality": "720p",
+            "size": 600.95,
+            "_id": "6a3941cbf3c29aafad70eeba"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a34eda0b927c1a84ab4918a/output_480p.mp4",
+            "quality": "480p",
+            "size": 416.22,
+            "_id": "6a3941cbf3c29aafad70eebb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a34eda0b927c1a84ab4918a/output_360p.mp4",
+            "quality": "360p",
+            "size": 291.2,
+            "_id": "6a3941cbf3c29aafad70eebc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a34eda0b927c1a84ab4918a/output_240p.mp4",
+            "quality": "240p",
+            "size": 229.28,
+            "_id": "6a3941cbf3c29aafad70eebd"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mixture and separation class 004 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/mixture and separation class 004 pdf by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a34eda0b927c1a84ab4918a",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -05 | Mixture and Separation || by Harish Sir",
+        "description": "\"RAILWAY Foundation - 04 ,05\r\nSB 05, 06, 07\"",
+        "teacherName": "HARISH SIR",
+        "duration": 3840,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3a49d7b927c1a84aea0f51/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3a49d7b927c1a84aea0f51/output_720p.mp4",
+            "quality": "720p",
+            "size": 584.3,
+            "_id": "6a3a93ab71700080868b22db"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3a49d7b927c1a84aea0f51/output_480p.mp4",
+            "quality": "480p",
+            "size": 406.31,
+            "_id": "6a3a93ab71700080868b22dc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3a49d7b927c1a84aea0f51/output_360p.mp4",
+            "quality": "360p",
+            "size": 284.84,
+            "_id": "6a3a93ab71700080868b22dd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3a49d7b927c1a84aea0f51/output_240p.mp4",
+            "quality": "240p",
+            "size": 225.47,
+            "_id": "6a3a93ab71700080868b22de"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mixture and separation class 005 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/mixture and separation class 005 pdf by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a3a49d7b927c1a84aea0f51",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -06 | Mixture and Separation || by Harish Sir",
+        "description": "\"RAILWAY Foundation - 04 ,05\r\nSB 05, 06, 07\"",
+        "teacherName": "HARISH SIR",
+        "duration": 3117,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3b9d8eb927c1a84a085e02/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3b9d8eb927c1a84a085e02/output_720p.mp4",
+            "quality": "720p",
+            "size": 473.37,
+            "_id": "6a3bdf3d2ed5ad1e1f7eafe2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3b9d8eb927c1a84a085e02/output_480p.mp4",
+            "quality": "480p",
+            "size": 326.75,
+            "_id": "6a3bdf3d2ed5ad1e1f7eafe3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3b9d8eb927c1a84a085e02/output_360p.mp4",
+            "quality": "360p",
+            "size": 228.6,
+            "_id": "6a3bdf3d2ed5ad1e1f7eafe4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3b9d8eb927c1a84a085e02/output_240p.mp4",
+            "quality": "240p",
+            "size": 179.93,
+            "_id": "6a3bdf3d2ed5ad1e1f7eafe5"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mixture and separation class 006 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/mixture and separation class 006 pdf by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a3b9d8eb927c1a84a085e02",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -07 | Mixture and Separation || by Harish Sir",
+        "description": "\"RAILWAY Foundation - 04 ,05\r\nSB 05, 06, 07\"",
+        "teacherName": "HARISH SIR",
+        "duration": 2636,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a3cd144b927c1a84a1fdd7d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3cd144b927c1a84a1fdd7d/output_720p.mp4",
+            "quality": "720p",
+            "size": 399.74,
+            "_id": "6a3d2e42b104268c3f082ac5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3cd144b927c1a84a1fdd7d/output_480p.mp4",
+            "quality": "480p",
+            "size": 274.71,
+            "_id": "6a3d2e42b104268c3f082ac6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3cd144b927c1a84a1fdd7d/output_360p.mp4",
+            "quality": "360p",
+            "size": 191.38,
+            "_id": "6a3d2e42b104268c3f082ac7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a3cd144b927c1a84a1fdd7d/output_240p.mp4",
+            "quality": "240p",
+            "size": 149.52,
+            "_id": "6a3d2e42b104268c3f082ac8"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mixture and separation class 007 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/mixture and separation class 007 pdf by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a3cd144b927c1a84a1fdd7d",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -01| Atom and Molecules || by Harish Sir",
+        "description": "\"RAILWAY Foundation - 04 ,05\r\nSB 05, 06, 07\"",
+        "teacherName": "HARISH SIR",
+        "duration": 5790.314,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a3e5ee9b927c1a84a38cfc4/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a3e5ee9b927c1a84a38cfc4/mp4/0626_240p.mp4",
+            "quality": "240p",
+            "size": 425.65,
+            "_id": "6a3e71cc8b1eb266bfd68ce3"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a3e5ee9b927c1a84a38cfc4/mp4/0626_360p.mp4",
+            "quality": "360p",
+            "size": 501,
+            "_id": "6a3e71cc8b1eb266bfd68ce4"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a3e5ee9b927c1a84a38cfc4/mp4/0626_480p.mp4",
+            "quality": "480p",
+            "size": 667.87,
+            "_id": "6a3e71cc8b1eb266bfd68ce5"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a3e5ee9b927c1a84a38cfc4/mp4/0626_720p.mp4",
+            "quality": "720p",
+            "size": 981.18,
+            "_id": "6a3e71cc8b1eb266bfd68ce6"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mixture and separation class 008 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/mixture and separation class 008 pdf by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a3e5ee9b927c1a84a38cfc4",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -02 | Atom and Molecules || by Harish Sir",
+        "description": "\"RAILWAY Foundation - 04 ,05\r\nSB 05, 06, 07\"",
+        "teacherName": "HARISH SIR",
+        "duration": 2465,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a42433fb927c1a84a590872/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a42433fb927c1a84a590872/output_720p.mp4",
+            "quality": "720p",
+            "size": 373.06,
+            "_id": "6a4274562631e9eb3b6e6ce2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a42433fb927c1a84a590872/output_480p.mp4",
+            "quality": "480p",
+            "size": 255.77,
+            "_id": "6a4274562631e9eb3b6e6ce3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a42433fb927c1a84a590872/output_360p.mp4",
+            "quality": "360p",
+            "size": 178.23,
+            "_id": "6a4274562631e9eb3b6e6ce4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a42433fb927c1a84a590872/output_240p.mp4",
+            "quality": "240p",
+            "size": 138.19,
+            "_id": "6a4274562631e9eb3b6e6ce5"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "atoms and molecule class 002 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/atoms and molecule class 002 pdf by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a42433fb927c1a84a590872",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -03 | Atom and Molecules || by Harish Sir",
+        "description": "\"RAILWAY Foundation - 04 ,05\r\nSB 05, 06, 07\"",
+        "teacherName": "HARISH SIR",
+        "duration": 0,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a44eb9eb927c1a84a7fa7fd/hls/master.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "atom and molecule class 003 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/atom and molecule class 001 pdf by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a44eb9eb927c1a84a7fa7fd",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -01 | Atomic Structure || by Harish sir",
+        "description": "\"RAILWAY Foundation - 04 ,05\r\nSB 05, 06, 07\"",
+        "teacherName": "HARISH SIR",
+        "duration": 3184,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a44f43fb927c1a84a806147/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44f43fb927c1a84a806147/output_720p.mp4",
+            "quality": "720p",
+            "size": 482.31,
+            "_id": "6a451b9d847c19e9d5857cd8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44f43fb927c1a84a806147/output_480p.mp4",
+            "quality": "480p",
+            "size": 335.69,
+            "_id": "6a451b9d847c19e9d5857cd9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44f43fb927c1a84a806147/output_360p.mp4",
+            "quality": "360p",
+            "size": 234.84,
+            "_id": "6a451b9d847c19e9d5857cda"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44f43fb927c1a84a806147/output_240p.mp4",
+            "quality": "240p",
+            "size": 184.3,
+            "_id": "6a451b9d847c19e9d5857cdb"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "atomic structure class 001 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/atomic structure class 001 pdf by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a44f43fb927c1a84a806147",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -02 | Atomic Structure || by Harish sir",
+        "description": "\"RAILWAY Foundation - 04 ,05\r\nSB 05, 06, 07\"",
+        "teacherName": "Harish sir",
+        "duration": 5406,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a463bc8b927c1a84a90343f/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a463bc8b927c1a84a90343f/output_720p.mp4",
+            "quality": "720p",
+            "size": 824.57,
+            "_id": "6a4677ab1386d236beec597d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a463bc8b927c1a84a90343f/output_480p.mp4",
+            "quality": "480p",
+            "size": 573.74,
+            "_id": "6a4677ab1386d236beec597e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a463bc8b927c1a84a90343f/output_360p.mp4",
+            "quality": "360p",
+            "size": 402.9,
+            "_id": "6a4677ab1386d236beec597f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a463bc8b927c1a84a90343f/output_240p.mp4",
+            "quality": "240p",
+            "size": 318.81,
+            "_id": "6a4677ab1386d236beec5980"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "atomic structure class 002 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/atomic structure class 002 pdf by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a463bc8b927c1a84a90343f",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -03 | Atomic Structure || by Harish sir",
+        "description": "Class -03 | Atomic Structure || by Harish sir",
+        "teacherName": "Harish sir",
+        "duration": 2953,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4b892c5bac0ae4ba922f02/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b892c5bac0ae4ba922f02/output_720p.mp4",
+            "quality": "720p",
+            "size": 441.99,
+            "_id": "6a4bb215847c19e9d5b0a294"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b892c5bac0ae4ba922f02/output_480p.mp4",
+            "quality": "480p",
+            "size": 302.87,
+            "_id": "6a4bb215847c19e9d5b0a295"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b892c5bac0ae4ba922f02/output_360p.mp4",
+            "quality": "360p",
+            "size": 211.54,
+            "_id": "6a4bb215847c19e9d5b0a296"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4b892c5bac0ae4ba922f02/output_240p.mp4",
+            "quality": "240p",
+            "size": 165.6,
+            "_id": "6a4bb215847c19e9d5b0a297"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "atomic structure class 003 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/atomic structure class 003 pdf by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a4b892c5bac0ae4ba922f02",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -04 | Atomic Structure || by Harish sir",
+        "description": "\"RAILWAY Foundation - 04 ,05\r\nSB 05, 06, 07\"",
+        "teacherName": "Harish sir",
+        "duration": 3227.967,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4cca425bac0ae4baa70c60/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4cca425bac0ae4baa70c60/mp4/QUANTUM_NUMBER_240p.mp4",
+            "quality": "240p",
+            "size": 228.16,
+            "_id": "6a4e4e44f3c29aafad109899"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4cca425bac0ae4baa70c60/mp4/QUANTUM_NUMBER_360p.mp4",
+            "quality": "360p",
+            "size": 271.88,
+            "_id": "6a4e4e44f3c29aafad10989a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4cca425bac0ae4baa70c60/mp4/QUANTUM_NUMBER_480p.mp4",
+            "quality": "480p",
+            "size": 368.54,
+            "_id": "6a4e4e44f3c29aafad10989b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4cca425bac0ae4baa70c60/mp4/QUANTUM_NUMBER_720p.mp4",
+            "quality": "720p",
+            "size": 546.3,
+            "_id": "6a4e4e44f3c29aafad10989c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "atomic structure class 004 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/atomic structure class 004 pdf by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a4cca425bac0ae4baa70c60",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -05 | Atomic Structure || by Harish sir",
+        "description": "\"RAILWAY Foundation - 04 ,05\r\nSB 05, 06, 07\"",
+        "teacherName": "Harish sir",
+        "duration": 3345.534,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4f82e55bac0ae4bac9cffb/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f82e55bac0ae4bac9cffb/mp4/ATOMIC_STRUCTURE_01_240p.mp4",
+            "quality": "240p",
+            "size": 245.54,
+            "_id": "6a4fd5d18b1eb266bf1dda26"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f82e55bac0ae4bac9cffb/mp4/ATOMIC_STRUCTURE_01_360p.mp4",
+            "quality": "360p",
+            "size": 288.12,
+            "_id": "6a4fd5d18b1eb266bf1dda27"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f82e55bac0ae4bac9cffb/mp4/ATOMIC_STRUCTURE_01_480p.mp4",
+            "quality": "480p",
+            "size": 385.99,
+            "_id": "6a4fd5d18b1eb266bf1dda28"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4f82e55bac0ae4bac9cffb/mp4/ATOMIC_STRUCTURE_01_720p.mp4",
+            "quality": "720p",
+            "size": 567.78,
+            "_id": "6a4fd5d18b1eb266bf1dda29"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a4f82e55bac0ae4bac9cffb",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class -06 | Atomic Structure || by Harish sir",
+        "description": "\"RAILWAY Foundation - 04 ,05\r\nSB 05, 06, 07\"",
+        "teacherName": "Harish sir",
+        "duration": 3883,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a50b58e5bac0ae4badadc64/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a50b58e5bac0ae4badadc64/output_720p.mp4",
+            "quality": "720p",
+            "size": 571.95,
+            "_id": "6a510a5d8b1eb266bf0a5b1c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a50b58e5bac0ae4badadc64/output_480p.mp4",
+            "quality": "480p",
+            "size": 394.23,
+            "_id": "6a510a5d8b1eb266bf0a5b1d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a50b58e5bac0ae4badadc64/output_360p.mp4",
+            "quality": "360p",
+            "size": 275.66,
+            "_id": "6a510a5d8b1eb266bf0a5b1e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a50b58e5bac0ae4badadc64/output_240p.mp4",
+            "quality": "240p",
+            "size": 214.22,
+            "_id": "6a510a5d8b1eb266bf0a5b1f"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a50b58e5bac0ae4badadc64",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
           "rawRecordIndex": 33
         }
       }

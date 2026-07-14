@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation Batch -4",
-  "extractedAt": "2026-07-13T04:06:31+0000",
+  "extractedAt": "2026-07-14T03:41:41+0000",
   "videos": {
     "Physics": [
       {
@@ -8946,6 +8946,49 @@
           "topicId": "68fa5f40aed5b4af7a841a2a",
           "rawRecordIndex": 38
         }
+      },
+      {
+        "title": "Class -07 | Atomic Structure || by Harish sir",
+        "description": "\"RAILWAY Foundation - 04 ,05\r\nSB 05, 06, 07\"",
+        "teacherName": "Harish sir",
+        "duration": 3735,
+        "startDate": "2026-07-13T12:30:00.000Z",
+        "endDate": "2026-07-13T13:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a54a68d2a646901986e8dc7/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a54a68d2a646901986e8dc7/output_720p.mp4",
+            "quality": "720p",
+            "size": 566.72,
+            "_id": "6a54efcdbbe5d19c136e7583"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a54a68d2a646901986e8dc7/output_480p.mp4",
+            "quality": "480p",
+            "size": 389.81,
+            "_id": "6a54efcdbbe5d19c136e7584"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a54a68d2a646901986e8dc7/output_360p.mp4",
+            "quality": "360p",
+            "size": 272.3,
+            "_id": "6a54efcdbbe5d19c136e7585"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a54a68d2a646901986e8dc7/output_240p.mp4",
+            "quality": "240p",
+            "size": 211.5,
+            "_id": "6a54efcdbbe5d19c136e7586"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69eb26c022cc6f4d5fd1b02e",
+          "classId": "6a54a68d2a646901986e8dc7",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 38
+        }
       }
     ],
     "Number System & More": [
@@ -12709,10 +12752,34 @@
             "_id": "6a5460ddbbe5d19c13a8e0ec"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Direction Test Class 003 By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Class-23 !! Direction Test-03 By Deepak Sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69eb26c022cc6f4d5fd1b02e",
           "classId": "6a4fff845bac0ae4bad10005",
+          "topicId": "69ae68cc7b3188015e0551dd",
+          "rawRecordIndex": 38
+        }
+      },
+      {
+        "title": "Class-04 || Direction & Distance By Deepak Sir",
+        "description": "\"*Railway Foundation Batch ,2 ,3 4,5\r\n*RRB Group D \r\n\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-14T02:30:00.000Z",
+        "endDate": "2026-07-14T03:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5584752a646901987d91a2/playlist.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "69eb26c022cc6f4d5fd1b02e",
+          "classId": "6a5584752a646901987d91a2",
           "topicId": "69ae68cc7b3188015e0551dd",
           "rawRecordIndex": 38
         }
@@ -20523,6 +20590,55 @@
         "source": {
           "courseId": "69eb26c022cc6f4d5fd1b02e",
           "classId": "69e0c85f22cc6f4d5f7c31d0",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 38
+        }
+      },
+      {
+        "title": "Class-01 | Simplification (सरलीकरण) | By Gagan Sir",
+        "description": "\"Railway 1,2,3,4,5\r\nRRB Group D\"",
+        "teacherName": "Gagan sir",
+        "duration": 5092,
+        "startDate": "2026-07-13T05:30:00.000Z",
+        "endDate": "2026-07-13T07:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4c4cc55bac0ae4ba963fa6/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4c4cc55bac0ae4ba963fa6/output_720p.mp4",
+            "quality": "720p",
+            "size": 737.28,
+            "_id": "6a5491488b1eb266bf8addcf"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4c4cc55bac0ae4ba963fa6/output_480p.mp4",
+            "quality": "480p",
+            "size": 496.42,
+            "_id": "6a5491488b1eb266bf8addd0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4c4cc55bac0ae4ba963fa6/output_360p.mp4",
+            "quality": "360p",
+            "size": 351.3,
+            "_id": "6a5491488b1eb266bf8addd1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4c4cc55bac0ae4ba963fa6/output_240p.mp4",
+            "quality": "240p",
+            "size": 241.72,
+            "_id": "6a5491488b1eb266bf8addd2"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "simplification class 0001 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/railway 11 am 13 july bp.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69eb26c022cc6f4d5fd1b02e",
+          "classId": "6a4c4cc55bac0ae4ba963fa6",
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 38
         }
@@ -28692,6 +28808,49 @@
         "source": {
           "courseId": "69eb26c022cc6f4d5fd1b02e",
           "classId": "6a508e295bac0ae4bad5f6aa",
+          "topicId": "6a265997b927c1a84af6d41d",
+          "rawRecordIndex": 38
+        }
+      },
+      {
+        "title": "Class - 18 | Rivers of Peninsular India 02 | by Jeet Rana sir",
+        "description": "\"Railway Foundation Batch 1,2,3,4,5\r\nRRB Group d\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2676,
+        "startDate": "2026-07-13T08:30:00.000Z",
+        "endDate": "2026-07-13T09:33:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a53d14e5bac0ae4baee8f66/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d14e5bac0ae4baee8f66/output_720p.mp4",
+            "quality": "720p",
+            "size": 414.37,
+            "_id": "6a54b2d22ed5ad1e1f6ccacb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d14e5bac0ae4baee8f66/output_480p.mp4",
+            "quality": "480p",
+            "size": 286.32,
+            "_id": "6a54b2d22ed5ad1e1f6ccacc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d14e5bac0ae4baee8f66/output_360p.mp4",
+            "quality": "360p",
+            "size": 205.48,
+            "_id": "6a54b2d22ed5ad1e1f6ccacd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d14e5bac0ae4baee8f66/output_240p.mp4",
+            "quality": "240p",
+            "size": 154.49,
+            "_id": "6a54b2d22ed5ad1e1f6ccace"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69eb26c022cc6f4d5fd1b02e",
+          "classId": "6a53d14e5bac0ae4baee8f66",
           "topicId": "6a265997b927c1a84af6d41d",
           "rawRecordIndex": 38
         }

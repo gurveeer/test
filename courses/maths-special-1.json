@@ -1,6 +1,6 @@
 {
   "courseName": "Maths Special-1",
-  "extractedAt": "2026-07-13T04:06:31+0000",
+  "extractedAt": "2026-07-14T03:41:41+0000",
   "videos": {
     "Number System & More": [
       {
@@ -7918,6 +7918,55 @@
           "topicId": "68d7af97824c6e1af23ea66e",
           "rawRecordIndex": 82
         }
+      },
+      {
+        "title": "Class -06 || Compound Interest (चक्रवृद्धि ब्याज़) || by Gagan sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05\r\n & Selection Batch  01, 02, 03, 04 , 05\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 3536,
+        "startDate": "2026-07-13T07:30:00.000Z",
+        "endDate": "2026-07-13T07:25:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5447df5bac0ae4baf0cdae/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5447df5bac0ae4baf0cdae/output_720p.mp4",
+            "quality": "720p",
+            "size": 474.08,
+            "_id": "6a54a582847c19e9d56ea48d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5447df5bac0ae4baf0cdae/output_480p.mp4",
+            "quality": "480p",
+            "size": 316.82,
+            "_id": "6a54a582847c19e9d56ea48e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5447df5bac0ae4baf0cdae/output_360p.mp4",
+            "quality": "360p",
+            "size": 222.95,
+            "_id": "6a54a582847c19e9d56ea48f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5447df5bac0ae4baf0cdae/output_240p.mp4",
+            "quality": "240p",
+            "size": 153.96,
+            "_id": "6a54a582847c19e9d56ea490"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "compound interest class 0006 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sb 1 pm 13 july bp.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ce5fe8bb3c8f24bb3d4f77",
+          "classId": "6a5447df5bac0ae4baf0cdae",
+          "topicId": "68d7af97824c6e1af23ea66e",
+          "rawRecordIndex": 82
+        }
       }
     ],
     "Advance": [
@@ -12572,6 +12621,104 @@
         "source": {
           "courseId": "68ce5fe8bb3c8f24bb3d4f77",
           "classId": "6a4cbbe25bac0ae4baa42153",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 82
+        }
+      },
+      {
+        "title": "Class -10 || Geometry || by Gagan Sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08 , 09\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08 , 09\"",
+        "teacherName": "Gagan Sir",
+        "duration": 5432,
+        "startDate": "2026-07-13T12:30:00.000Z",
+        "endDate": "2026-07-13T13:46:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a50af265bac0ae4bad8ecf2/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a50af265bac0ae4bad8ecf2/output_720p.mp4",
+            "quality": "720p",
+            "size": 770,
+            "_id": "6a54f4fab104268c3f0e02e0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a50af265bac0ae4bad8ecf2/output_480p.mp4",
+            "quality": "480p",
+            "size": 520.43,
+            "_id": "6a54f4fab104268c3f0e02e1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a50af265bac0ae4bad8ecf2/output_360p.mp4",
+            "quality": "360p",
+            "size": 367.95,
+            "_id": "6a54f4fab104268c3f0e02e2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a50af265bac0ae4bad8ecf2/output_240p.mp4",
+            "quality": "240p",
+            "size": 256.15,
+            "_id": "6a54f4fab104268c3f0e02e3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class 10 pdf by gagan pratap sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sb 6 pm 13 july bp.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ce5fe8bb3c8f24bb3d4f77",
+          "classId": "6a50af265bac0ae4bad8ecf2",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 82
+        }
+      },
+      {
+        "title": "Class 19 || Trigonometry (त्रिकोणमिति) By Gagan Sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08\"",
+        "teacherName": "Gagan sir",
+        "duration": 5979,
+        "startDate": "2026-07-13T14:30:00.000Z",
+        "endDate": "2026-07-13T16:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4cc0d45bac0ae4baa51c2f/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4cc0d45bac0ae4baa51c2f/output_720p.mp4",
+            "quality": "720p",
+            "size": 827.16,
+            "_id": "6a5514562631e9eb3bbade23"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4cc0d45bac0ae4baa51c2f/output_480p.mp4",
+            "quality": "480p",
+            "size": 555.91,
+            "_id": "6a5514562631e9eb3bbade24"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4cc0d45bac0ae4baa51c2f/output_360p.mp4",
+            "quality": "360p",
+            "size": 392.32,
+            "_id": "6a5514562631e9eb3bbade25"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4cc0d45bac0ae4baa51c2f/output_240p.mp4",
+            "quality": "240p",
+            "size": 268.04,
+            "_id": "6a5514562631e9eb3bbade26"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "trigonometry class 19 pdf by gagan pratap sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sb 8 pm 13 july bp.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ce5fe8bb3c8f24bb3d4f77",
+          "classId": "6a4cc0d45bac0ae4baa51c2f",
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 82
         }

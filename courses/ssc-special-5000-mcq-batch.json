@@ -1,6 +1,6 @@
 {
   "courseName": "SSC special 5000 MCQ batch",
-  "extractedAt": "2026-07-13T04:06:31+0000",
+  "extractedAt": "2026-07-14T03:41:41+0000",
   "videos": {
     "Introduction": [
       {
@@ -528,6 +528,49 @@
         "source": {
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a5103a45bac0ae4bae05841",
+          "topicId": "6a153570b927c1a84a3b92c7",
+          "rawRecordIndex": 56
+        }
+      },
+      {
+        "title": "Class -11 | Later Vedic Period (उत्तर वैदिक काल) || by Jeet rana sir",
+        "description": "SSC special 5000 MCQ batch",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2735,
+        "startDate": "2026-07-13T14:30:00.000Z",
+        "endDate": "2026-07-13T15:41:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a54a4a32a646901986dd233/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a54a4a32a646901986dd233/output_720p.mp4",
+            "quality": "720p",
+            "size": 403.71,
+            "_id": "6a5508472631e9eb3b10b9ba"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a54a4a32a646901986dd233/output_480p.mp4",
+            "quality": "480p",
+            "size": 276.91,
+            "_id": "6a5508472631e9eb3b10b9bb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a54a4a32a646901986dd233/output_360p.mp4",
+            "quality": "360p",
+            "size": 197.63,
+            "_id": "6a5508472631e9eb3b10b9bc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a54a4a32a646901986dd233/output_240p.mp4",
+            "quality": "240p",
+            "size": 148.68,
+            "_id": "6a5508472631e9eb3b10b9bd"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a268ce8b927c1a84a018468",
+          "classId": "6a54a4a32a646901986dd233",
           "topicId": "6a153570b927c1a84a3b92c7",
           "rawRecordIndex": 56
         }

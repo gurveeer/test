@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation 6.0",
-  "extractedAt": "2026-07-13T04:06:31+0000",
+  "extractedAt": "2026-07-14T03:41:41+0000",
   "videos": {
     "Introduction": [
       {
@@ -18,6 +18,57 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a4e57b02631e9eb3b781a48",
           "topicId": "68df3538c181958facf1e512",
+          "rawRecordIndex": 0
+        }
+      }
+    ],
+    "Advance": [
+      {
+        "title": "Class-01 | Simplification (सरलीकरण) | By Gagan Sir",
+        "description": "\"Railway 1,2,3,4,5\r\nRRB Group D\"",
+        "teacherName": "Gagan sir",
+        "duration": 5092,
+        "startDate": "2026-07-13T05:30:00.000Z",
+        "endDate": "2026-07-13T07:00:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a4c4cc55bac0ae4ba963fa6/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4c4cc55bac0ae4ba963fa6/output_720p.mp4",
+            "quality": "720p",
+            "size": 737.28,
+            "_id": "6a5491488b1eb266bf8addcf"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4c4cc55bac0ae4ba963fa6/output_480p.mp4",
+            "quality": "480p",
+            "size": 496.42,
+            "_id": "6a5491488b1eb266bf8addd0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4c4cc55bac0ae4ba963fa6/output_360p.mp4",
+            "quality": "360p",
+            "size": 351.3,
+            "_id": "6a5491488b1eb266bf8addd1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a4c4cc55bac0ae4ba963fa6/output_240p.mp4",
+            "quality": "240p",
+            "size": 241.72,
+            "_id": "6a5491488b1eb266bf8addd2"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "simplification class 0001 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/railway 11 am 13 july bp.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a4e376d5bac0ae4bab5a040",
+          "classId": "6a4c4cc55bac0ae4ba963fa6",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 0
         }
       }

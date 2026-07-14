@@ -1,6 +1,6 @@
 {
   "courseName": "English Special-8",
-  "extractedAt": "2026-07-13T04:06:31+0000",
+  "extractedAt": "2026-07-14T03:41:41+0000",
   "videos": {
     "Grammar": [
       {
@@ -15834,6 +15834,60 @@
         "source": {
           "courseId": "69f990eeb927c1a84afcbff8",
           "classId": "6a5105d55bac0ae4bae1119c",
+          "topicId": "696e0150719de161eef5677e",
+          "rawRecordIndex": 48
+        }
+      },
+      {
+        "title": "Class -35 | Verb lec -5 (Modals) || by Aman sir",
+        "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
+        "teacherName": "AMAN SIR",
+        "duration": 5880,
+        "startDate": "2026-07-13T05:30:00.000Z",
+        "endDate": "2026-07-13T07:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a53d3895bac0ae4baef48b1/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d3895bac0ae4baef48b1/output_720p.mp4",
+            "quality": "720p",
+            "size": 839.48,
+            "_id": "6a5496db2ed5ad1e1f7ce575"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d3895bac0ae4baef48b1/output_480p.mp4",
+            "quality": "480p",
+            "size": 564.95,
+            "_id": "6a5496db2ed5ad1e1f7ce576"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d3895bac0ae4baef48b1/output_360p.mp4",
+            "quality": "360p",
+            "size": 399.01,
+            "_id": "6a5496db2ed5ad1e1f7ce577"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d3895bac0ae4baef48b1/output_240p.mp4",
+            "quality": "240p",
+            "size": 305.13,
+            "_id": "6a5496db2ed5ad1e1f7ce578"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Modal lec-1with annotations_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Modal lec-1with annotations.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Modal lec-1 without annotations _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Modal lec-1 without annotations (2).pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990eeb927c1a84afcbff8",
+          "classId": "6a53d3895bac0ae4baef48b1",
           "topicId": "696e0150719de161eef5677e",
           "rawRecordIndex": 48
         }

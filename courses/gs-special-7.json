@@ -1,6 +1,6 @@
 {
   "courseName": "GS Special - 7",
-  "extractedAt": "2026-07-13T04:06:31+0000",
+  "extractedAt": "2026-07-14T03:41:41+0000",
   "videos": {
     "HISTORY": [
       {
@@ -3590,6 +3590,55 @@
         "source": {
           "courseId": "69d4b8af22cc6f4d5f008380",
           "classId": "6a435305b927c1a84a6133d6",
+          "topicId": "696db9e5719de161eef1358c",
+          "rawRecordIndex": 39
+        }
+      },
+      {
+        "title": "Class -05 | Phase I: Solar System III by Varun sir",
+        "description": "\" GS Special- 05, 06, 07, 08, 09\r\n Selection Batch - 05, 06, 07, 08, 09\"",
+        "teacherName": "Varun Sir",
+        "duration": 3928,
+        "startDate": "2026-07-13T10:30:00.000Z",
+        "endDate": "2026-07-13T11:43:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a44c223b927c1a84a7d66bf/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44c223b927c1a84a7d66bf/output_720p.mp4",
+            "quality": "720p",
+            "size": 603.14,
+            "_id": "6a54d4278b1eb266bf1ae0f7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44c223b927c1a84a7d66bf/output_480p.mp4",
+            "quality": "480p",
+            "size": 415.83,
+            "_id": "6a54d4278b1eb266bf1ae0f8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44c223b927c1a84a7d66bf/output_360p.mp4",
+            "quality": "360p",
+            "size": 296.85,
+            "_id": "6a54d4278b1eb266bf1ae0f9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44c223b927c1a84a7d66bf/output_240p.mp4",
+            "quality": "240p",
+            "size": 227.59,
+            "_id": "6a54d4278b1eb266bf1ae0fa"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "The Earth by varun sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/The Earth by varun sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8af22cc6f4d5f008380",
+          "classId": "6a44c223b927c1a84a7d66bf",
           "topicId": "696db9e5719de161eef1358c",
           "rawRecordIndex": 39
         }

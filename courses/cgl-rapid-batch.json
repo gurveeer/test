@@ -1,6 +1,6 @@
 {
   "courseName": "CGL RAPID BATCH",
-  "extractedAt": "2026-07-13T04:06:31+0000",
+  "extractedAt": "2026-07-14T03:41:41+0000",
   "videos": {
     "Introduction": [
       {
@@ -705,6 +705,49 @@
         "source": {
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a5000135bac0ae4bad17a9b",
+          "topicId": "68b9499ea721af475c9a79ac",
+          "rawRecordIndex": 57
+        }
+      },
+      {
+        "title": "Class -15 | Arrival of Europeans | by Jeet rana sir",
+        "description": "CGL RAPID BATCH",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3011,
+        "startDate": "2026-07-13T04:30:00.000Z",
+        "endDate": "2026-07-13T05:32:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a53d0c15bac0ae4baee519c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d0c15bac0ae4baee519c/output_720p.mp4",
+            "quality": "720p",
+            "size": 442.1,
+            "_id": "6a547c002631e9eb3b0cfd10"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d0c15bac0ae4baee519c/output_480p.mp4",
+            "quality": "480p",
+            "size": 303.66,
+            "_id": "6a547c002631e9eb3b0cfd11"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d0c15bac0ae4baee519c/output_360p.mp4",
+            "quality": "360p",
+            "size": 215.94,
+            "_id": "6a547c002631e9eb3b0cfd12"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d0c15bac0ae4baee519c/output_240p.mp4",
+            "quality": "240p",
+            "size": 159.47,
+            "_id": "6a547c002631e9eb3b0cfd13"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a1fe6bbb927c1a84abc606f",
+          "classId": "6a53d0c15bac0ae4baee519c",
           "topicId": "68b9499ea721af475c9a79ac",
           "rawRecordIndex": 57
         }

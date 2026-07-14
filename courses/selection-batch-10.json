@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch - 10",
-  "extractedAt": "2026-07-13T04:06:31+0000",
+  "extractedAt": "2026-07-14T03:41:41+0000",
   "videos": {
     "(Live Classes) Very Very Important": [
       {
@@ -45,9 +45,45 @@
           "topicId": "6a50b8b05bac0ae4badb95d2",
           "rawRecordIndex": 2
         }
+      },
+      {
+        "title": "Strategy | How to Study from This Batch | By Aman Sir",
+        "description": "sb 10",
+        "teacherName": "AMAN SIR",
+        "duration": 0,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a0a5e4eb927c1a84ab2f24c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a462e62b927c1a84a8b7879",
+          "classId": "6a547c9e5bac0ae4baf448b9",
+          "topicId": "6a50b8b05bac0ae4badb95d2",
+          "rawRecordIndex": 2
+        }
       }
     ],
     "Grammar": [
+      {
+        "title": "Strategy | How to Study from This Batch || By Aman Sir",
+        "description": "sb 10",
+        "teacherName": "AMAN SIR",
+        "duration": 0,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a0a5e4eb927c1a84ab2f24c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a462e62b927c1a84a8b7879",
+          "classId": "6a547d2b5bac0ae4baf4c4bc",
+          "topicId": "69f1b6d9010a46fbe1fb235b",
+          "rawRecordIndex": 2
+        }
+      },
       {
         "title": "Class -1 | English Basics Lecture 01 || by Aman Sir",
         "description": "ssc vod",
@@ -18540,22 +18576,53 @@
         }
       }
     ],
-    "Very Very Important Information": [
+    "Verbal": [
       {
-        "title": "Strategy || How to study from this batch || by Aman sir",
-        "description": "sb10",
-        "teacherName": "AMAN SIR",
-        "duration": 0,
-        "startDate": "2026-07-10T10:56:00.000Z",
-        "endDate": "2026-07-10T09:56:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a0a5e4eb927c1a84ab2f24c/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [],
-        "classPdf": [],
+        "title": "Class-01 | Blood relation | Problem Solving |  by balram sir",
+        "description": "\"Reasoning  Special 01, 02.03,04  05, 06  & 07, 08 ,09\r\n Selection Batch 01 , 02.03,04  05, 06  & 07, 08 ,09\"",
+        "teacherName": "Balram Sir",
+        "duration": 3602,
+        "startDate": "2026-07-13T04:00:00.000Z",
+        "endDate": "2026-07-13T05:00:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a53d0315bac0ae4baedd6dc/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d0315bac0ae4baedd6dc/output_720p.mp4",
+            "quality": "720p",
+            "size": 583.86,
+            "_id": "6a5476372ed5ad1e1f12bc10"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d0315bac0ae4baedd6dc/output_480p.mp4",
+            "quality": "480p",
+            "size": 390.41,
+            "_id": "6a5476372ed5ad1e1f12bc11"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d0315bac0ae4baedd6dc/output_360p.mp4",
+            "quality": "360p",
+            "size": 283.11,
+            "_id": "6a5476372ed5ad1e1f12bc12"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d0315bac0ae4baedd6dc/output_240p.mp4",
+            "quality": "240p",
+            "size": 211.39,
+            "_id": "6a5476372ed5ad1e1f12bc13"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Blood Relation By Balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Blood Relation By Balram sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a462e62b927c1a84a8b7879",
-          "classId": "6a50a8fd5bac0ae4bad7b561",
-          "topicId": "6a2bcb5eb927c1a84a49a592",
+          "classId": "6a53d0315bac0ae4baedd6dc",
+          "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 2
         }
       }
