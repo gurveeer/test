@@ -1,6 +1,6 @@
 {
   "courseName": "तथास्तु BATCH 2026",
-  "extractedAt": "2026-07-14T03:41:41+0000",
+  "extractedAt": "2026-07-15T03:41:45+0000",
   "videos": {
     "POLITY": [
       {
@@ -4444,10 +4444,59 @@
             "_id": "6a54d1d2b104268c3f0a5028"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Terminology of Plateau By jeet sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Terminology of Plateau By jeet sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "69622fc8027f25d29ebca4f6",
           "classId": "6a50aa315bac0ae4bad86e1d",
+          "topicId": "696a10e3719de161eee6326b",
+          "rawRecordIndex": 96
+        }
+      },
+      {
+        "title": "Class -08 | Geography | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2915,
+        "startDate": "2026-07-14T10:30:00.000Z",
+        "endDate": "2026-07-14T11:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a55fb402a646901988ef78d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a55fb402a646901988ef78d/output_720p.mp4",
+            "quality": "720p",
+            "size": 444.2,
+            "_id": "6a5622308b1eb266bfd71538"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a55fb402a646901988ef78d/output_480p.mp4",
+            "quality": "480p",
+            "size": 306.21,
+            "_id": "6a5622308b1eb266bfd71539"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a55fb402a646901988ef78d/output_360p.mp4",
+            "quality": "360p",
+            "size": 218.99,
+            "_id": "6a5622308b1eb266bfd7153a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a55fb402a646901988ef78d/output_240p.mp4",
+            "quality": "240p",
+            "size": 162.04,
+            "_id": "6a5622308b1eb266bfd7153b"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6a55fb402a646901988ef78d",
           "topicId": "696a10e3719de161eee6326b",
           "rawRecordIndex": 96
         }

@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation 6.0",
-  "extractedAt": "2026-07-14T03:41:41+0000",
+  "extractedAt": "2026-07-15T03:41:45+0000",
   "videos": {
     "Introduction": [
       {
@@ -68,6 +68,55 @@
         "source": {
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a4c4cc55bac0ae4ba963fa6",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 0
+        }
+      },
+      {
+        "title": "Class-02 | Simplification (सरलीकरण) | By Gagan Sir",
+        "description": "\"Railway 1,2,3,4,5,6\r\nRRB Group D\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 3927,
+        "startDate": "2026-07-14T05:30:00.000Z",
+        "endDate": "2026-07-14T07:04:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5587382a646901987ffa37/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5587382a646901987ffa37/output_720p.mp4",
+            "quality": "720p",
+            "size": 554.62,
+            "_id": "6a55e47e2ed5ad1e1f281384"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5587382a646901987ffa37/output_480p.mp4",
+            "quality": "480p",
+            "size": 368.55,
+            "_id": "6a55e47e2ed5ad1e1f281385"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5587382a646901987ffa37/output_360p.mp4",
+            "quality": "360p",
+            "size": 259.42,
+            "_id": "6a55e47e2ed5ad1e1f281386"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5587382a646901987ffa37/output_240p.mp4",
+            "quality": "240p",
+            "size": 182.17,
+            "_id": "6a55e47e2ed5ad1e1f281387"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "simplification class 0002 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/simplification class 0002 pdf by gagan sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a4e376d5bac0ae4bab5a040",
+          "classId": "6a5587382a646901987ffa37",
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 0
         }

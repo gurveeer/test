@@ -1,6 +1,6 @@
 {
   "courseName": "GS संपूर्ण Batch",
-  "extractedAt": "2026-07-14T03:41:41+0000",
+  "extractedAt": "2026-07-15T03:41:45+0000",
   "videos": {
     "HISTORY": [
       {
@@ -2087,6 +2087,42 @@
         "source": {
           "courseId": "698487d5fdd21a8a2d1a5270",
           "classId": "6a5107605bac0ae4bae1ca83",
+          "topicId": "6a265997b927c1a84af6d41d",
+          "rawRecordIndex": 110
+        }
+      },
+      {
+        "title": "Class -19 || Indus & Brahmaputra River Systems | by Shubham sir",
+        "description": "GS सम्पूर्ण Batch",
+        "teacherName": "Shubham sir",
+        "duration": 0,
+        "startDate": "2026-07-12T10:04:00.000Z",
+        "endDate": "2026-07-12T11:04:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://www.youtube.com/watch?v=WApxH-tPnEw",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "698487d5fdd21a8a2d1a5270",
+          "classId": "6a5609682a6469019891ec47",
+          "topicId": "6a265997b927c1a84af6d41d",
+          "rawRecordIndex": 110
+        }
+      },
+      {
+        "title": "Class -20 || Ganga River System | by Shubham sir",
+        "description": "GS सम्पूर्ण Batch",
+        "teacherName": "Shubham sir",
+        "duration": 0,
+        "startDate": "2026-07-13T10:04:00.000Z",
+        "endDate": "2026-07-13T11:04:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://www.youtube.com/watch?v=WApxH-tPnEw",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "698487d5fdd21a8a2d1a5270",
+          "classId": "6a5609a02a64690198922a9d",
           "topicId": "6a265997b927c1a84af6d41d",
           "rawRecordIndex": 110
         }

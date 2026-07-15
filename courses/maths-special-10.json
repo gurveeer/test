@@ -1,6 +1,6 @@
 {
   "courseName": "Maths Special - 10",
-  "extractedAt": "2026-07-14T03:41:41+0000",
+  "extractedAt": "2026-07-15T03:41:45+0000",
   "videos": {
     "Number System and More": [
       {
@@ -4766,6 +4766,51 @@
           "courseId": "6a462e5db927c1a84a8b7858",
           "classId": "69aec2dda2b1ae04339c21a2",
           "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 3
+        }
+      }
+    ],
+    "must watch": [
+      {
+        "title": "must watch this video",
+        "description": "must watch this video  selection batch 10 20 july announcement",
+        "teacherName": "gagan sir",
+        "duration": 1192.67,
+        "startDate": "2026-07-13T06:21:00.000Z",
+        "endDate": "2026-07-13T07:21:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a55be098b1eb266bf9295ed/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a55be098b1eb266bf9295ed/mp4/0714_240p.mp4",
+            "quality": "240p",
+            "size": 89.47,
+            "_id": "6a55c2fe8b1eb266bfef2491"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a55be098b1eb266bf9295ed/mp4/0714_360p.mp4",
+            "quality": "360p",
+            "size": 103.54,
+            "_id": "6a55c2fe8b1eb266bfef2492"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a55be098b1eb266bf9295ed/mp4/0714_480p.mp4",
+            "quality": "480p",
+            "size": 138.56,
+            "_id": "6a55c2fe8b1eb266bfef2493"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a55be098b1eb266bf9295ed/mp4/0714_720p.mp4",
+            "quality": "720p",
+            "size": 203.11,
+            "_id": "6a55c2fe8b1eb266bfef2494"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a462e5db927c1a84a8b7858",
+          "classId": "6a55be098b1eb266bf9295ed",
+          "topicId": "69adb43ba2b1ae04336d1504",
           "rawRecordIndex": 3
         }
       }

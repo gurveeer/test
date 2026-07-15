@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch - 10",
-  "extractedAt": "2026-07-14T03:41:41+0000",
+  "extractedAt": "2026-07-15T03:41:45+0000",
   "videos": {
     "(Live Classes) Very Very Important": [
       {
@@ -18623,6 +18623,75 @@
           "courseId": "6a462e62b927c1a84a8b7879",
           "classId": "6a53d0315bac0ae4baedd6dc",
           "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 2
+        }
+      },
+      {
+        "title": "Class-02 | Blood relation | Problem Solving | by balram sir",
+        "description": "\"Reasoning  Special  04, 07, 08 ,09, 10\r\n Selection Batch 03, 04, 07, 08 ,09, 10\"",
+        "teacherName": "Balram Sir",
+        "duration": 0,
+        "startDate": "2026-07-14T04:00:00.000Z",
+        "endDate": "2026-07-14T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a55858a2a646901987e4ad9/playlist.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Blood Relation  02 By balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Blood Relation  02 By balram sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a462e62b927c1a84a8b7879",
+          "classId": "6a55858a2a646901987e4ad9",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 2
+        }
+      }
+    ],
+    "must watch": [
+      {
+        "title": "must watch this video",
+        "description": "must watch this video  selection batch 10 20 july announcement",
+        "teacherName": "gagan sir",
+        "duration": 1192.67,
+        "startDate": "2026-07-13T06:21:00.000Z",
+        "endDate": "2026-07-13T07:21:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a55be098b1eb266bf9295ed/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a55be098b1eb266bf9295ed/mp4/0714_240p.mp4",
+            "quality": "240p",
+            "size": 89.47,
+            "_id": "6a55c2fe8b1eb266bfef2491"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a55be098b1eb266bf9295ed/mp4/0714_360p.mp4",
+            "quality": "360p",
+            "size": 103.54,
+            "_id": "6a55c2fe8b1eb266bfef2492"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a55be098b1eb266bf9295ed/mp4/0714_480p.mp4",
+            "quality": "480p",
+            "size": 138.56,
+            "_id": "6a55c2fe8b1eb266bfef2493"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a55be098b1eb266bf9295ed/mp4/0714_720p.mp4",
+            "quality": "720p",
+            "size": 203.11,
+            "_id": "6a55c2fe8b1eb266bfef2494"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a462e62b927c1a84a8b7879",
+          "classId": "6a55be098b1eb266bf9295ed",
+          "topicId": "69adb43ba2b1ae04336d1504",
           "rawRecordIndex": 2
         }
       }
