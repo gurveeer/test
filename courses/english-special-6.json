@@ -1,6 +1,6 @@
 {
   "courseName": "English Special-6",
-  "extractedAt": "2026-07-15T03:41:45+0000",
+  "extractedAt": "2026-07-16T03:44:52+0000",
   "videos": {
     "Vocab": [
       {
@@ -15884,7 +15884,7 @@
         }
       },
       {
-        "title": "Class -35 | Verb lec -5 (Modals) || by Aman sir",
+        "title": "Class -36 | Verb lec -5 (Modals) || by Aman sir",
         "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
         "teacherName": "AMAN SIR",
         "duration": 5880,
@@ -15938,7 +15938,7 @@
         }
       },
       {
-        "title": "Class -36 | Verb lec -6 (Modals) || by Aman sir",
+        "title": "Class -37 | Verb lec -6 (Modals) || by Aman sir",
         "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
         "teacherName": "AMAN SIR",
         "duration": 7061,
@@ -15987,6 +15987,40 @@
         "source": {
           "courseId": "69ae9da2a2b1ae04337afa76",
           "classId": "6a5586952a646901987f411b",
+          "topicId": "696e0150719de161eef5677e",
+          "rawRecordIndex": 69
+        }
+      },
+      {
+        "title": "Class-38 || Verb Practice | by Aman sir",
+        "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
+        "teacherName": "AMAN SIR",
+        "duration": 0,
+        "startDate": "2026-07-15T05:29:00.000Z",
+        "endDate": "2026-07-15T04:29:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69280c27dd258fd3231aa7a3/hls/master.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Verb practice",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/MAINS CLASS-4 slides.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Verb practice Sheet",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Class -4 Practice sheet.pdf"
+          },
+          {
+            "priority": 3,
+            "name": "VERB PYQs CONCISE SHEET",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1773588694162-VERB_PYQs_.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69ae9da2a2b1ae04337afa76",
+          "classId": "6a56cc022a6469019898f6c6",
           "topicId": "696e0150719de161eef5677e",
           "rawRecordIndex": 69
         }

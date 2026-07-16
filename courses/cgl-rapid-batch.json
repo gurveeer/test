@@ -1,6 +1,6 @@
 {
   "courseName": "CGL RAPID BATCH",
-  "extractedAt": "2026-07-15T03:41:45+0000",
+  "extractedAt": "2026-07-16T03:44:52+0000",
   "videos": {
     "Introduction": [
       {
@@ -49,7 +49,7 @@
     ],
     "modern history": [
       {
-        "title": "Class -01 | Modern History (Demo Class) | by Jeet rana sir",
+        "title": "Class -01 | भारत में यूरोपीय कंपनियों का आगमन 01 | by Jeet rana sir",
         "description": "cgl repid batch",
         "teacherName": "Jeet Rana Sir",
         "duration": 0,
@@ -73,7 +73,7 @@
         }
       },
       {
-        "title": "Class -02 | Arrival of Europeans | by Jeet rana sir",
+        "title": "Class -02 | भारत में यूरोपीय कंपनियों का आगमन 02 | by Jeet rana sir",
         "description": "CGL RAPID BATCH",
         "teacherName": "Jeet Rana Sir",
         "duration": 4716,
@@ -122,7 +122,7 @@
         }
       },
       {
-        "title": "Class -03 | Arrival of Europeans | by Jeet rana sir",
+        "title": "Class -03 | क्षेत्रीय राज्यों का उदय 01 | by Jeet rana sir",
         "description": "CGL RAPID BATCH",
         "teacherName": "Jeet Rana Sir",
         "duration": 4933,
@@ -171,7 +171,7 @@
         }
       },
       {
-        "title": "Class -04 | Arrival of Europeans | by Jeet rana sir",
+        "title": "Class -04 | क्षेत्रीय राज्यों का उदय 02 | by Jeet rana sir",
         "description": "CGL RAPID BATCH",
         "teacherName": "Jeet Rana Sir",
         "duration": 4329,
@@ -220,7 +220,7 @@
         }
       },
       {
-        "title": "Class -05 | Arrival of Europeans | by Jeet rana sir",
+        "title": "Class -05 | क्षेत्रीय राज्यों का उदय 03 | by Jeet rana sir",
         "description": "CGL RAPID BATCH",
         "teacherName": "Jeet Rana Sir",
         "duration": 4406,
@@ -269,7 +269,7 @@
         }
       },
       {
-        "title": "Class -06 | Arrival of Europeans | by Jeet rana sir",
+        "title": "Class -06 | क्षेत्रीय राज्यों का उदय 04 | by Jeet rana sir",
         "description": "CGL RAPID BATCH",
         "teacherName": "Jeet Rana Sir",
         "duration": 3313,
@@ -318,7 +318,7 @@
         }
       },
       {
-        "title": "Class -07 | Arrival of Europeans | by Jeet rana sir",
+        "title": "Class -07 | सिख धर्म 01 | by Jeet rana sir",
         "description": "CGL RAPID BATCH",
         "teacherName": "Jeet Rana Sir",
         "duration": 3511,
@@ -367,7 +367,7 @@
         }
       },
       {
-        "title": "Class -08 | Arrival of Europeans | by Jeet rana sir",
+        "title": "Class -08 | सिख धर्म 02 | by Jeet rana sir",
         "description": "CGL RAPID BATCH",
         "teacherName": "Jeet Rana Sir",
         "duration": 4069,
@@ -416,7 +416,7 @@
         }
       },
       {
-        "title": "Class -09 | Arrival of Europeans | by Jeet rana sir",
+        "title": "Class -09 | मराठा साम्राज्य 01 | by Jeet rana sir",
         "description": "CGL RAPID BATCH",
         "teacherName": "Jeet Rana Sir",
         "duration": 3741,
@@ -465,7 +465,7 @@
         }
       },
       {
-        "title": "Class -10 | Arrival of Europeans | by Jeet rana sir",
+        "title": "Class -10 | मराठा साम्राज्य 02 | by Jeet rana sir",
         "description": "CGL RAPID BATCH",
         "teacherName": "Jeet Rana Sir",
         "duration": 3771,
@@ -797,6 +797,49 @@
         "source": {
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a5585d62a646901987ec5e4",
+          "topicId": "68b9499ea721af475c9a79ac",
+          "rawRecordIndex": 57
+        }
+      },
+      {
+        "title": "Class -17 | Arrival of Europeans | by Jeet rana sir",
+        "description": "CGL RAPID BATCH",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2957,
+        "startDate": "2026-07-15T04:45:00.000Z",
+        "endDate": "2026-07-15T05:45:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a56c9b32a64690198978473/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a56c9b32a64690198978473/output_720p.mp4",
+            "quality": "720p",
+            "size": 406.41,
+            "_id": "6a5722ef2ed5ad1e1f29a0bc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a56c9b32a64690198978473/output_480p.mp4",
+            "quality": "480p",
+            "size": 277.63,
+            "_id": "6a5722ef2ed5ad1e1f29a0bd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a56c9b32a64690198978473/output_360p.mp4",
+            "quality": "360p",
+            "size": 194.56,
+            "_id": "6a5722ef2ed5ad1e1f29a0be"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a56c9b32a64690198978473/output_240p.mp4",
+            "quality": "240p",
+            "size": 142.68,
+            "_id": "6a5722ef2ed5ad1e1f29a0bf"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a1fe6bbb927c1a84abc606f",
+          "classId": "6a56c9b32a64690198978473",
           "topicId": "68b9499ea721af475c9a79ac",
           "rawRecordIndex": 57
         }

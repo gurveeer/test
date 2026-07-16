@@ -1,6 +1,6 @@
 {
   "courseName": "Science special Foundation Batch",
-  "extractedAt": "2026-07-15T03:41:45+0000",
+  "extractedAt": "2026-07-16T03:44:52+0000",
   "videos": {
     "Introduction": [
       {
@@ -18,6 +18,45 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a4e57b02631e9eb3b781a48",
           "topicId": "68df3538c181958facf1e512",
+          "rawRecordIndex": 1
+        }
+      }
+    ],
+    "Most Important Video": [
+      {
+        "title": "Must Watch Video | by Radhika Ma'am",
+        "description": "sci 1 rf 6",
+        "teacherName": "radhika maam",
+        "duration": 24.498333,
+        "startDate": "2026-07-15T09:04:00.000Z",
+        "endDate": "2026-07-15T08:04:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a5732962a64690198a1b1e1/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a5732962a64690198a1b1e1/mp4/1000394169_360p.mp4",
+            "quality": "360p",
+            "size": 2.18,
+            "_id": "6a574250f3c29aafad3e2b3d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a5732962a64690198a1b1e1/mp4/1000394169_480p.mp4",
+            "quality": "480p",
+            "size": 2.9,
+            "_id": "6a574250f3c29aafad3e2b3e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a5732962a64690198a1b1e1/mp4/1000394169_720p.mp4",
+            "quality": "720p",
+            "size": 4.22,
+            "_id": "6a574250f3c29aafad3e2b3f"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a4e35315bac0ae4bab52444",
+          "classId": "6a5732962a64690198a1b1e1",
+          "topicId": "6a57350caacf22e8616a9d83",
           "rawRecordIndex": 1
         }
       }

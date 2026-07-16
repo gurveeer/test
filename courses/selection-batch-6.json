@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch -6",
-  "extractedAt": "2026-07-15T03:41:45+0000",
+  "extractedAt": "2026-07-16T03:44:52+0000",
   "videos": {
     "Number System and More": [
       {
@@ -18058,6 +18058,11 @@
             "priority": 1,
             "name": "Ranking Test  01 BOARD PDF by balram sir",
             "url": "https://selectionwayserver.hranker.com/pdfs/files/Ranking Test  01 BOARD PDF by balram sir.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Ranking Without Anno BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Ranking Without Anno BOARD PDF.pdf"
           }
         ],
         "source": {
@@ -18249,7 +18254,13 @@
             "_id": "6a55b4aabbe5d19c13aadbf5"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "MIRROR and WATER IMAGES Without Anno pdf_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/MIRROR and WATER IMAGES Without Anno pdf_.pdf"
+          }
+        ],
         "source": {
           "courseId": "69ae9daca2b1ae04337afa9a",
           "classId": "6a5584bd2a646901987dcf24",
@@ -18292,10 +18303,64 @@
             "_id": "6a56fef22ed5ad1e1f95d63d"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Embedded and Completion  figure By balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Embedded and Completion  figure By balram sir BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Completion of figures Without Anno BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Completion of figures Without Anno BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "69ae9daca2b1ae04337afa9a",
           "classId": "6a56c9042a6469019896cb49",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 59
+        }
+      },
+      {
+        "title": "Class - 01 || Figure Series | by Balram sir",
+        "description": "\"Reasoning  Special  05, 06\r\n Selection Batch 05, 06\"",
+        "teacherName": "Balram Sir",
+        "duration": 3795,
+        "startDate": "2026-07-16T02:00:00.000Z",
+        "endDate": "2026-07-16T03:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a57aec150ea50f7b3a99bfc/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57aec150ea50f7b3a99bfc/output_720p.mp4",
+            "quality": "720p",
+            "size": 570.57,
+            "_id": "6a584e8d2ed5ad1e1f7aef10"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57aec150ea50f7b3a99bfc/output_480p.mp4",
+            "quality": "480p",
+            "size": 375.1,
+            "_id": "6a584e8d2ed5ad1e1f7aef11"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57aec150ea50f7b3a99bfc/output_360p.mp4",
+            "quality": "360p",
+            "size": 266.65,
+            "_id": "6a584e8d2ed5ad1e1f7aef12"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57aec150ea50f7b3a99bfc/output_240p.mp4",
+            "quality": "240p",
+            "size": 191.81,
+            "_id": "6a584e8d2ed5ad1e1f7aef13"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69ae9daca2b1ae04337afa9a",
+          "classId": "6a57aec150ea50f7b3a99bfc",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 59
         }
@@ -22977,6 +23042,49 @@
         "source": {
           "courseId": "69ae9daca2b1ae04337afa9a",
           "classId": "6a55d2ec2a6469019883ddbb",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 59
+        }
+      },
+      {
+        "title": "Class -10 || Geometry || by Gagan Sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08 , 09\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08 , 09\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 3876,
+        "startDate": "2026-07-15T13:00:00.000Z",
+        "endDate": "2026-07-15T14:12:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a55fcd32a64690198902d66/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a55fcd32a64690198902d66/output_720p.mp4",
+            "quality": "720p",
+            "size": 550.62,
+            "_id": "6a579878847c19e9d54006da"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a55fcd32a64690198902d66/output_480p.mp4",
+            "quality": "480p",
+            "size": 372.75,
+            "_id": "6a579878847c19e9d54006db"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a55fcd32a64690198902d66/output_360p.mp4",
+            "quality": "360p",
+            "size": 263.73,
+            "_id": "6a579878847c19e9d54006dc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a55fcd32a64690198902d66/output_240p.mp4",
+            "quality": "240p",
+            "size": 188.09,
+            "_id": "6a579878847c19e9d54006dd"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69ae9daca2b1ae04337afa9a",
+          "classId": "6a55fcd32a64690198902d66",
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 59
         }
@@ -37073,6 +37181,49 @@
           "topicId": "68fa5f40aed5b4af7a841a2a",
           "rawRecordIndex": 59
         }
+      },
+      {
+        "title": "Class -01 || Chemical Reaction & Equation | by Harish sir",
+        "description": "\"RAILWAY Foundation - 04 ,05\r\nSB 05, 06, 07\"",
+        "teacherName": "Harish sir",
+        "duration": 3612,
+        "startDate": "2026-07-15T12:30:00.000Z",
+        "endDate": "2026-07-15T13:50:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5755d90f21c0a55be72fb6/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5755d90f21c0a55be72fb6/output_720p.mp4",
+            "quality": "720p",
+            "size": 545.01,
+            "_id": "6a579423847c19e9d5033dac"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5755d90f21c0a55be72fb6/output_480p.mp4",
+            "quality": "480p",
+            "size": 374.65,
+            "_id": "6a579423847c19e9d5033dad"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5755d90f21c0a55be72fb6/output_360p.mp4",
+            "quality": "360p",
+            "size": 261.97,
+            "_id": "6a579423847c19e9d5033dae"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5755d90f21c0a55be72fb6/output_240p.mp4",
+            "quality": "240p",
+            "size": 204.5,
+            "_id": "6a579423847c19e9d5033daf"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69ae9daca2b1ae04337afa9a",
+          "classId": "6a5755d90f21c0a55be72fb6",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 59
+        }
       }
     ],
     "Mock Test": [
@@ -42125,7 +42276,7 @@
         }
       },
       {
-        "title": "Class -35 | Verb lec -5 (Modals) || by Aman sir",
+        "title": "Class -36 | Verb lec -5 (Modals) || by Aman sir",
         "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
         "teacherName": "AMAN SIR",
         "duration": 5880,
@@ -42179,7 +42330,7 @@
         }
       },
       {
-        "title": "Class -36 | Verb lec -6 (Modals) || by Aman sir",
+        "title": "Class -37 | Verb lec -6 (Modals) || by Aman sir",
         "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
         "teacherName": "AMAN SIR",
         "duration": 7061,
@@ -42228,6 +42379,40 @@
         "source": {
           "courseId": "69ae9daca2b1ae04337afa9a",
           "classId": "6a5586952a646901987f411b",
+          "topicId": "696e0150719de161eef5677e",
+          "rawRecordIndex": 59
+        }
+      },
+      {
+        "title": "Class-38 || Verb Practice | by Aman sir",
+        "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
+        "teacherName": "AMAN SIR",
+        "duration": 0,
+        "startDate": "2026-07-15T05:29:00.000Z",
+        "endDate": "2026-07-15T04:29:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69280c27dd258fd3231aa7a3/hls/master.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Verb practice",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/MAINS CLASS-4 slides.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Verb practice Sheet",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Class -4 Practice sheet.pdf"
+          },
+          {
+            "priority": 3,
+            "name": "VERB PYQs CONCISE SHEET",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1773588694162-VERB_PYQs_.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69ae9daca2b1ae04337afa9a",
+          "classId": "6a56cc022a6469019898f6c6",
           "topicId": "696e0150719de161eef5677e",
           "rawRecordIndex": 59
         }
