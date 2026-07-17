@@ -1,6 +1,6 @@
 {
   "courseName": "Maths Special-8",
-  "extractedAt": "2026-07-16T03:44:52+0000",
+  "extractedAt": "2026-07-17T03:44:39+0000",
   "videos": {
     "ARITHMETIC": [
       {
@@ -6158,7 +6158,7 @@
         }
       },
       {
-        "title": "Class -09 || Geometry || by Gagan Sir - new class",
+        "title": "Class -09 || Geometry || by Gagan Sir",
         "description": "marge with class no, 9& 10",
         "teacherName": "Gagan Pratap",
         "duration": 7317.816,
@@ -6196,7 +6196,7 @@
           {
             "priority": 1,
             "name": "geometry  class 0009 pdf by gagan sir",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/geometry  class 0009 pdf by gagan sir.pdf"
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1784185751544-geometry-class-0009-pdf-by-gagan-sir_(1)-merged.pdf"
           }
         ],
         "source": {
@@ -6241,7 +6241,13 @@
             "_id": "6a579878847c19e9d54006dd"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class  10 pdf by gagan pratap sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/geometry class  10 pdf by gagan pratap sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69f990f3b927c1a84afcf32f",
           "classId": "6a55fcd32a64690198902d66",

@@ -1,6 +1,6 @@
 {
   "courseName": "GS Special -8",
-  "extractedAt": "2026-07-16T03:44:52+0000",
+  "extractedAt": "2026-07-17T03:44:39+0000",
   "videos": {
     "POLITY": [
       {
@@ -1423,6 +1423,106 @@
           "courseId": "69f990e6b927c1a84afcbff2",
           "classId": "6a55fbba2a646901988f730f",
           "topicId": "696db9e5719de161eef1358c",
+          "rawRecordIndex": 49
+        }
+      },
+      {
+        "title": "Class -07 | Phase I: The Earth III by Varun sir",
+        "description": "\" GS Special- 05, 06, 07, 08, 09\r\n Selection Batch - 05, 06, 07, 08, 09\"",
+        "teacherName": "Varun Sir",
+        "duration": 3332,
+        "startDate": "2026-07-16T10:30:00.000Z",
+        "endDate": "2026-07-16T11:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a57381baacf22e8616d0ac2/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57381baacf22e8616d0ac2/output_720p.mp4",
+            "quality": "720p",
+            "size": 506.67,
+            "_id": "6a58c71d2631e9eb3b915d30"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57381baacf22e8616d0ac2/output_480p.mp4",
+            "quality": "480p",
+            "size": 347.65,
+            "_id": "6a58c71d2631e9eb3b915d31"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57381baacf22e8616d0ac2/output_360p.mp4",
+            "quality": "360p",
+            "size": 246.88,
+            "_id": "6a58c71d2631e9eb3b915d32"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57381baacf22e8616d0ac2/output_240p.mp4",
+            "quality": "240p",
+            "size": 186.03,
+            "_id": "6a58c71d2631e9eb3b915d33"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Longitude and Latitude by varun sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Longitude and Latitude by varun sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a57381baacf22e8616d0ac2",
+          "topicId": "696db9e5719de161eef1358c",
+          "rawRecordIndex": 49
+        }
+      }
+    ],
+    "ECONOMICS": [
+      {
+        "title": "Class - 01 | Fundamental of Economics || By Varun Sir",
+        "description": "\" GS Special- 06, 07, 08\r\n Selection Batch - 06, 07, 08\"",
+        "teacherName": "Varun Sir",
+        "duration": 4808,
+        "startDate": "2026-07-16T09:00:00.000Z",
+        "endDate": "2026-07-16T10:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a53d2095bac0ae4baeecd98/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d2095bac0ae4baeecd98/output_720p.mp4",
+            "quality": "720p",
+            "size": 734.68,
+            "_id": "6a58b4c4847c19e9d5e214f1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d2095bac0ae4baeecd98/output_480p.mp4",
+            "quality": "480p",
+            "size": 505.04,
+            "_id": "6a58b4c4847c19e9d5e214f2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d2095bac0ae4baeecd98/output_360p.mp4",
+            "quality": "360p",
+            "size": 359.32,
+            "_id": "6a58b4c4847c19e9d5e214f3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a53d2095bac0ae4baeecd98/output_240p.mp4",
+            "quality": "240p",
+            "size": 273.62,
+            "_id": "6a58b4c4847c19e9d5e214f4"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Fundamental of Economics By varun sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Fundamental of Economics By varun sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a53d2095bac0ae4baeecd98",
+          "topicId": "69f5d55622cc6f4d5f6a917f",
           "rawRecordIndex": 49
         }
       }

@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch-5",
-  "extractedAt": "2026-07-16T03:44:52+0000",
+  "extractedAt": "2026-07-17T03:44:39+0000",
   "videos": {
     "Grammar (Live Classes)": [
       {
@@ -18745,6 +18745,55 @@
           "topicId": "68d7af97824c6e1af23ea66e",
           "rawRecordIndex": 22
         }
+      },
+      {
+        "title": "Class -08 || Compound Interest (चक्रवृद्धि ब्याज़) || by Gagan sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05\r\n & Selection Batch  01, 02, 03, 04 , 05\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 4007,
+        "startDate": "2026-07-16T07:30:00.000Z",
+        "endDate": "2026-07-16T09:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a57b12950ea50f7b3abcb3e/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57b12950ea50f7b3abcb3e/output_720p.mp4",
+            "quality": "720p",
+            "size": 545.19,
+            "_id": "6a58a00b2631e9eb3bca7e6b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57b12950ea50f7b3abcb3e/output_480p.mp4",
+            "quality": "480p",
+            "size": 359.26,
+            "_id": "6a58a00b2631e9eb3bca7e6c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57b12950ea50f7b3abcb3e/output_360p.mp4",
+            "quality": "360p",
+            "size": 250.45,
+            "_id": "6a58a00b2631e9eb3bca7e6d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57b12950ea50f7b3abcb3e/output_240p.mp4",
+            "quality": "240p",
+            "size": 175,
+            "_id": "6a58a00b2631e9eb3bca7e6e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "compound interest class 0008 pdf by gagan pratap sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/compound interest class 0008 pdf by gagan pratap sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "698481c9fdd21a8a2d18ac5b",
+          "classId": "6a57b12950ea50f7b3abcb3e",
+          "topicId": "68d7af97824c6e1af23ea66e",
+          "rawRecordIndex": 22
+        }
       }
     ],
     "Advance": [
@@ -23404,7 +23453,7 @@
         }
       },
       {
-        "title": "Class -09 || Geometry || by Gagan Sir - new class",
+        "title": "Class -09 || Geometry || by Gagan Sir",
         "description": "marge with class no, 9& 10",
         "teacherName": "Gagan Pratap",
         "duration": 7317.816,
@@ -23442,7 +23491,7 @@
           {
             "priority": 1,
             "name": "geometry  class 0009 pdf by gagan sir",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/geometry  class 0009 pdf by gagan sir.pdf"
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1784185751544-geometry-class-0009-pdf-by-gagan-sir_(1)-merged.pdf"
           }
         ],
         "source": {
@@ -23487,7 +23536,13 @@
             "_id": "6a579878847c19e9d54006dd"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class  10 pdf by gagan pratap sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/geometry class  10 pdf by gagan pratap sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "698481c9fdd21a8a2d18ac5b",
           "classId": "6a55fcd32a64690198902d66",
@@ -28738,6 +28793,11 @@
             "priority": 1,
             "name": "MIRROR and WATER IMAGES Without Anno pdf_",
             "url": "https://selectionwayserver.hranker.com/pdfs/files/MIRROR and WATER IMAGES Without Anno pdf_.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Mirror Image By Balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Mirror Image By Balram sir BOARD PDF.pdf"
           }
         ],
         "source": {
@@ -28836,10 +28896,59 @@
             "_id": "6a584e8d2ed5ad1e1f7aef13"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "figure series by balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/figure series by balram sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "698481c9fdd21a8a2d18ac5b",
           "classId": "6a57aec150ea50f7b3a99bfc",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class - 02 || Figure Series | by Balram sir",
+        "description": "\"Reasoning  Special  05, 06\r\n Selection Batch 05, 06\"",
+        "teacherName": "Balram Sir",
+        "duration": 3690,
+        "startDate": "2026-07-17T02:00:00.000Z",
+        "endDate": "2026-07-17T03:16:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a59806f98f6d3b7e598d336/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a59806f98f6d3b7e598d336/output_720p.mp4",
+            "quality": "720p",
+            "size": 584.42,
+            "_id": "6a59a0e7b104268c3f92428b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a59806f98f6d3b7e598d336/output_480p.mp4",
+            "quality": "480p",
+            "size": 385.02,
+            "_id": "6a59a0e7b104268c3f92428c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a59806f98f6d3b7e598d336/output_360p.mp4",
+            "quality": "360p",
+            "size": 273.45,
+            "_id": "6a59a0e7b104268c3f92428d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a59806f98f6d3b7e598d336/output_240p.mp4",
+            "quality": "240p",
+            "size": 193.49,
+            "_id": "6a59a0e7b104268c3f92428e"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "698481c9fdd21a8a2d18ac5b",
+          "classId": "6a59806f98f6d3b7e598d336",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 22
         }
@@ -55547,6 +55656,55 @@
         "source": {
           "courseId": "698481c9fdd21a8a2d18ac5b",
           "classId": "6a55fbba2a646901988f730f",
+          "topicId": "696db9e5719de161eef1358c",
+          "rawRecordIndex": 22
+        }
+      },
+      {
+        "title": "Class -07 | Phase I: The Earth III by Varun sir",
+        "description": "\" GS Special- 05, 06, 07, 08, 09\r\n Selection Batch - 05, 06, 07, 08, 09\"",
+        "teacherName": "Varun Sir",
+        "duration": 3332,
+        "startDate": "2026-07-16T10:30:00.000Z",
+        "endDate": "2026-07-16T11:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a57381baacf22e8616d0ac2/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57381baacf22e8616d0ac2/output_720p.mp4",
+            "quality": "720p",
+            "size": 506.67,
+            "_id": "6a58c71d2631e9eb3b915d30"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57381baacf22e8616d0ac2/output_480p.mp4",
+            "quality": "480p",
+            "size": 347.65,
+            "_id": "6a58c71d2631e9eb3b915d31"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57381baacf22e8616d0ac2/output_360p.mp4",
+            "quality": "360p",
+            "size": 246.88,
+            "_id": "6a58c71d2631e9eb3b915d32"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57381baacf22e8616d0ac2/output_240p.mp4",
+            "quality": "240p",
+            "size": 186.03,
+            "_id": "6a58c71d2631e9eb3b915d33"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Longitude and Latitude by varun sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Longitude and Latitude by varun sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "698481c9fdd21a8a2d18ac5b",
+          "classId": "6a57381baacf22e8616d0ac2",
           "topicId": "696db9e5719de161eef1358c",
           "rawRecordIndex": 22
         }

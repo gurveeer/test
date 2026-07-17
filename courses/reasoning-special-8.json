@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Special-8",
-  "extractedAt": "2026-07-16T03:44:52+0000",
+  "extractedAt": "2026-07-17T03:44:39+0000",
   "videos": {
     "Verbal": [
       {
@@ -2443,6 +2443,55 @@
         "source": {
           "courseId": "69f990e0b927c1a84afcbfed",
           "classId": "6a56c9632a64690198970910",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 50
+        }
+      },
+      {
+        "title": "Class-04 | Blood relation | Problem Solving | by balram sir",
+        "description": "\"Reasoning  Special  04, 07, 08 ,09, 10\r\n Selection Batch 03, 04, 07, 08 ,09, 10\"",
+        "teacherName": "Balram Sir",
+        "duration": 4167,
+        "startDate": "2026-07-16T04:00:00.000Z",
+        "endDate": "2026-07-16T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a57af1150ea50f7b3aa17f8/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57af1150ea50f7b3aa17f8/output_720p.mp4",
+            "quality": "720p",
+            "size": 635.65,
+            "_id": "6a586de02631e9eb3b18a88b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57af1150ea50f7b3aa17f8/output_480p.mp4",
+            "quality": "480p",
+            "size": 420.58,
+            "_id": "6a586de02631e9eb3b18a88c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57af1150ea50f7b3aa17f8/output_360p.mp4",
+            "quality": "360p",
+            "size": 304.05,
+            "_id": "6a586de02631e9eb3b18a88d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57af1150ea50f7b3aa17f8/output_240p.mp4",
+            "quality": "240p",
+            "size": 220.71,
+            "_id": "6a586de02631e9eb3b18a88e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Blood Relation 04 by balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Blood Relation 04 by balram sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e0b927c1a84afcbfed",
+          "classId": "6a57af1150ea50f7b3aa17f8",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 50
         }

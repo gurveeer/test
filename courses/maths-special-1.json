@@ -1,6 +1,6 @@
 {
   "courseName": "Maths Special-1",
-  "extractedAt": "2026-07-16T03:44:52+0000",
+  "extractedAt": "2026-07-17T03:44:39+0000",
   "videos": {
     "Number System & More": [
       {
@@ -8016,6 +8016,55 @@
           "topicId": "68d7af97824c6e1af23ea66e",
           "rawRecordIndex": 82
         }
+      },
+      {
+        "title": "Class -08 || Compound Interest (चक्रवृद्धि ब्याज़) || by Gagan sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05\r\n & Selection Batch  01, 02, 03, 04 , 05\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 4007,
+        "startDate": "2026-07-16T07:30:00.000Z",
+        "endDate": "2026-07-16T09:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a57b12950ea50f7b3abcb3e/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57b12950ea50f7b3abcb3e/output_720p.mp4",
+            "quality": "720p",
+            "size": 545.19,
+            "_id": "6a58a00b2631e9eb3bca7e6b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57b12950ea50f7b3abcb3e/output_480p.mp4",
+            "quality": "480p",
+            "size": 359.26,
+            "_id": "6a58a00b2631e9eb3bca7e6c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57b12950ea50f7b3abcb3e/output_360p.mp4",
+            "quality": "360p",
+            "size": 250.45,
+            "_id": "6a58a00b2631e9eb3bca7e6d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a57b12950ea50f7b3abcb3e/output_240p.mp4",
+            "quality": "240p",
+            "size": 175,
+            "_id": "6a58a00b2631e9eb3bca7e6e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "compound interest class 0008 pdf by gagan pratap sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/compound interest class 0008 pdf by gagan pratap sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "68ce5fe8bb3c8f24bb3d4f77",
+          "classId": "6a57b12950ea50f7b3abcb3e",
+          "topicId": "68d7af97824c6e1af23ea66e",
+          "rawRecordIndex": 82
+        }
       }
     ],
     "Advance": [
@@ -12675,7 +12724,7 @@
         }
       },
       {
-        "title": "Class -09 || Geometry || by Gagan Sir - new class",
+        "title": "Class -09 || Geometry || by Gagan Sir",
         "description": "marge with class no, 9& 10",
         "teacherName": "Gagan Pratap",
         "duration": 7317.816,
@@ -12713,7 +12762,7 @@
           {
             "priority": 1,
             "name": "geometry  class 0009 pdf by gagan sir",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/geometry  class 0009 pdf by gagan sir.pdf"
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1784185751544-geometry-class-0009-pdf-by-gagan-sir_(1)-merged.pdf"
           }
         ],
         "source": {
@@ -12758,7 +12807,13 @@
             "_id": "6a579878847c19e9d54006dd"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class  10 pdf by gagan pratap sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/geometry class  10 pdf by gagan pratap sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "68ce5fe8bb3c8f24bb3d4f77",
           "classId": "6a55fcd32a64690198902d66",
