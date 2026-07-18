@@ -1,6 +1,6 @@
 {
   "courseName": "SSC special 5000 MCQ batch",
-  "extractedAt": "2026-07-17T03:44:39+0000",
+  "extractedAt": "2026-07-18T03:39:17+0000",
   "videos": {
     "Introduction": [
       {
@@ -43,7 +43,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a2cfa21b927c1a84a5b7b85",
           "topicId": "68df3538c181958facf1e512",
-          "rawRecordIndex": 56
+          "rawRecordIndex": 61
         }
       }
     ],
@@ -94,7 +94,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a3a4ab9b927c1a84aea8551",
           "topicId": "6a153570b927c1a84a3b92c7",
-          "rawRecordIndex": 56
+          "rawRecordIndex": 61
         }
       },
       {
@@ -137,7 +137,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a3cf4c8b927c1a84a2458d4",
           "topicId": "6a153570b927c1a84a3b92c7",
-          "rawRecordIndex": 56
+          "rawRecordIndex": 61
         }
       },
       {
@@ -186,7 +186,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a3e4d3eb927c1a84a3492f5",
           "topicId": "6a153570b927c1a84a3b92c7",
-          "rawRecordIndex": 56
+          "rawRecordIndex": 61
         }
       },
       {
@@ -235,7 +235,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a423cefb927c1a84a584d35",
           "topicId": "6a153570b927c1a84a3b92c7",
-          "rawRecordIndex": 56
+          "rawRecordIndex": 61
         }
       },
       {
@@ -284,7 +284,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a438f61b927c1a84a6a1dc3",
           "topicId": "6a153570b927c1a84a3b92c7",
-          "rawRecordIndex": 56
+          "rawRecordIndex": 61
         }
       },
       {
@@ -333,7 +333,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a44e23cb927c1a84a7eec44",
           "topicId": "6a153570b927c1a84a3b92c7",
-          "rawRecordIndex": 56
+          "rawRecordIndex": 61
         }
       },
       {
@@ -382,7 +382,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a463cb0b927c1a84a9072c2",
           "topicId": "6a153570b927c1a84a3b92c7",
-          "rawRecordIndex": 56
+          "rawRecordIndex": 61
         }
       },
       {
@@ -431,7 +431,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a4b48be5bac0ae4ba875021",
           "topicId": "6a153570b927c1a84a3b92c7",
-          "rawRecordIndex": 56
+          "rawRecordIndex": 61
         }
       },
       {
@@ -480,7 +480,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a4cb8715bac0ae4baa275f8",
           "topicId": "6a153570b927c1a84a3b92c7",
-          "rawRecordIndex": 56
+          "rawRecordIndex": 61
         }
       },
       {
@@ -529,7 +529,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a5103a45bac0ae4bae05841",
           "topicId": "6a153570b927c1a84a3b92c7",
-          "rawRecordIndex": 56
+          "rawRecordIndex": 61
         }
       },
       {
@@ -578,7 +578,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a54a4a32a646901986dd233",
           "topicId": "6a153570b927c1a84a3b92c7",
-          "rawRecordIndex": 56
+          "rawRecordIndex": 61
         }
       },
       {
@@ -616,12 +616,18 @@
             "_id": "6a58849ab104268c3fd470ff"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "History of South India by jeet sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/History of South India by jeet sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a572dfc2a646901989dd0aa",
           "topicId": "6a153570b927c1a84a3b92c7",
-          "rawRecordIndex": 56
+          "rawRecordIndex": 61
         }
       },
       {
@@ -664,7 +670,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a5897a339beccbe5839ebaf",
           "topicId": "6a153570b927c1a84a3b92c7",
-          "rawRecordIndex": 56
+          "rawRecordIndex": 61
         }
       }
     ],
@@ -709,7 +715,7 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a50b4265bac0ae4bada245e",
           "topicId": "6a51d8735bac0ae4bae80a4d",
-          "rawRecordIndex": 56
+          "rawRecordIndex": 61
         }
       }
     ]

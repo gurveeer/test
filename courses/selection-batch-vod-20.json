@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch VOD 2.0",
-  "extractedAt": "2026-07-17T03:44:39+0000",
+  "extractedAt": "2026-07-18T03:39:17+0000",
   "videos": {
     "HISTORY": [
       {
@@ -43184,7 +43184,7 @@
         "title": "Time_Speed_Distance_Class_15",
         "description": "Video: Time_Speed_Distance_Class_15",
         "teacherName": "Admin",
-        "duration": 5129.966667,
+        "duration": 5130.005333,
         "startDate": "2026-04-30T18:30:00.000Z",
         "endDate": "2026-04-30T18:30:00.000Z",
         "isFree": false,
@@ -43193,26 +43193,26 @@
           {
             "url": "https://selectionwayrecordedmp4.hranker.com/561/692292bee2b37c269bc949cb/mp4/Time_Speed_Distance_Class_15_240p.mp4",
             "quality": "240p",
-            "size": 54.5,
-            "_id": "6926e42cdd258fd323bfce51"
+            "size": 203.19,
+            "_id": "6a5a1f8d2631e9eb3b5bcdcf"
           },
           {
             "url": "https://selectionwayrecordedmp4.hranker.com/561/692292bee2b37c269bc949cb/mp4/Time_Speed_Distance_Class_15_360p.mp4",
             "quality": "360p",
-            "size": 89.2,
-            "_id": "6926e42cdd258fd323bfce52"
+            "size": 241.97,
+            "_id": "6a5a1f8d2631e9eb3b5bcdd0"
           },
           {
             "url": "https://selectionwayrecordedmp4.hranker.com/561/692292bee2b37c269bc949cb/mp4/Time_Speed_Distance_Class_15_480p.mp4",
             "quality": "480p",
-            "size": 131.04,
-            "_id": "6926e42cdd258fd323bfce53"
+            "size": 331.17,
+            "_id": "6a5a1f8d2631e9eb3b5bcdd1"
           },
           {
             "url": "https://selectionwayrecordedmp4.hranker.com/561/692292bee2b37c269bc949cb/mp4/Time_Speed_Distance_Class_15_720p.mp4",
             "quality": "720p",
-            "size": 227.23,
-            "_id": "6926e42cdd258fd323bfce54"
+            "size": 495.11,
+            "_id": "6a5a1f8d2631e9eb3b5bcdd2"
           }
         ],
         "classPdf": [],

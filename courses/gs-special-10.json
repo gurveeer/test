@@ -1,6 +1,6 @@
 {
   "courseName": "GS Special  - 10",
-  "extractedAt": "2026-07-17T03:44:39+0000",
+  "extractedAt": "2026-07-18T03:39:17+0000",
   "videos": {
     "ECONOMICS": [
       {
@@ -48,6 +48,49 @@
         "source": {
           "courseId": "6a462e4eb927c1a84a8b784c",
           "classId": "6a53d2095bac0ae4baeecd98",
+          "topicId": "69f5d55622cc6f4d5f6a917f",
+          "rawRecordIndex": 5
+        }
+      },
+      {
+        "title": "Class - 02 | Fundamental of Economics- II || By Varun Sir",
+        "description": "\" GS Special-  07, 08, 09, 10\r\n Selection Batch - 07, 08, 09, 10\"",
+        "teacherName": "Varun Sir",
+        "duration": 3053,
+        "startDate": "2026-07-17T12:00:00.000Z",
+        "endDate": "2026-07-17T13:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5981a198f6d3b7e59a09f1/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5981a198f6d3b7e59a09f1/output_720p.mp4",
+            "quality": "720p",
+            "size": 469.76,
+            "_id": "6a5a28eb8b1eb266bf038498"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5981a198f6d3b7e59a09f1/output_480p.mp4",
+            "quality": "480p",
+            "size": 324.2,
+            "_id": "6a5a28eb8b1eb266bf038499"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5981a198f6d3b7e59a09f1/output_360p.mp4",
+            "quality": "360p",
+            "size": 231.91,
+            "_id": "6a5a28eb8b1eb266bf03849a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5981a198f6d3b7e59a09f1/output_240p.mp4",
+            "quality": "240p",
+            "size": 178.82,
+            "_id": "6a5a28eb8b1eb266bf03849b"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a462e4eb927c1a84a8b784c",
+          "classId": "6a5981a198f6d3b7e59a09f1",
           "topicId": "69f5d55622cc6f4d5f6a917f",
           "rawRecordIndex": 5
         }
