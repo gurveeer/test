@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch - 8",
-  "extractedAt": "2026-07-18T03:39:17+0000",
+  "extractedAt": "2026-07-19T04:01:32+0000",
   "videos": {
     "ARITHMETIC": [
       {
@@ -24573,7 +24573,18 @@
             "_id": "6a59dc54b104268c3fced657"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Noun lec-2 with annotations _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Noun lec-2 with annotations (2).pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Noun lec-2 without annotations _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Noun lec-2 without annotations (2).pdf"
+          }
+        ],
         "source": {
           "courseId": "69f990f7b927c1a84afd2673",
           "classId": "6a59821f98f6d3b7e59a4864",
@@ -29763,7 +29774,13 @@
             "_id": "6a5a28eb8b1eb266bf03849b"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Fundamental of Economics 02 by varun sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Fundamental of Economics 02 by varun sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "69f990f7b927c1a84afd2673",
           "classId": "6a5981a198f6d3b7e59a09f1",

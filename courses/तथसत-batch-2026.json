@@ -1,6 +1,6 @@
 {
   "courseName": "तथास्तु BATCH 2026",
-  "extractedAt": "2026-07-18T03:39:17+0000",
+  "extractedAt": "2026-07-19T04:01:32+0000",
   "videos": {
     "POLITY": [
       {
@@ -4536,7 +4536,13 @@
             "_id": "6a58c4af847c19e9d502fe55"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Rivers of India by jeet sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Rivers of India by jeet sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "69622fc8027f25d29ebca4f6",
           "classId": "6a572d612a646901989d8fa4",

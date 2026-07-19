@@ -1,6 +1,6 @@
 {
   "courseName": "English Special-6",
-  "extractedAt": "2026-07-18T03:39:17+0000",
+  "extractedAt": "2026-07-19T04:01:32+0000",
   "videos": {
     "Vocab": [
       {
@@ -16114,7 +16114,18 @@
             "_id": "6a59dc54b104268c3fced657"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Noun lec-2 with annotations _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Noun lec-2 with annotations (2).pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Noun lec-2 without annotations _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Noun lec-2 without annotations (2).pdf"
+          }
+        ],
         "source": {
           "courseId": "69ae9da2a2b1ae04337afa76",
           "classId": "6a59821f98f6d3b7e59a4864",

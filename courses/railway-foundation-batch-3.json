@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation Batch -3",
-  "extractedAt": "2026-07-18T03:39:17+0000",
+  "extractedAt": "2026-07-19T04:01:32+0000",
   "videos": {
     "Arithmetic": [
       {
@@ -37884,7 +37884,13 @@
             "_id": "6a59ef271386d236bef8c4c9"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Biosphere of India by jeet sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Biosphere of India by jeet sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a59e94a8eefdd1ae57b1870",

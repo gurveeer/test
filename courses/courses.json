@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-18T03:39:17+0000",
+  "generatedAt": "2026-07-19T04:01:32+0000",
   "source": {
     "mode": "all",
-    "rawExportFile": "/home/runner/work/test/test/FILES/delta_study_courses_export_20260718_033915.json",
+    "rawExportFile": "/home/runner/work/test/test/FILES/delta_study_courses_export_20260719_040130.json",
     "rawCourseCount": 117,
     "appCourseCount": 117
   },
@@ -303,8 +303,8 @@
       "price": 3999,
       "discountPrice": 1599,
       "validity": "2 years",
-      "subjectCount": 0,
-      "videoCount": 0,
+      "subjectCount": 13,
+      "videoCount": 633,
       "dataFile": "courses/selection-batch-vod-40.json"
     },
     {
@@ -438,8 +438,8 @@
       "price": 2999,
       "discountPrice": 999,
       "validity": "2 years",
-      "subjectCount": 0,
-      "videoCount": 0,
+      "subjectCount": 6,
+      "videoCount": 263,
       "dataFile": "courses/english-special-vod-40.json"
     },
     {
@@ -1764,8 +1764,8 @@
     }
   ],
   "stats": {
-    "appVideoCount": 31090,
+    "appVideoCount": 31986,
     "skippedInactiveCourses": 0,
-    "skippedEmptyRows": 9
+    "skippedEmptyRows": 8
   }
 }

@@ -1,6 +1,6 @@
 {
   "courseName": "SSC special 5000 MCQ batch",
-  "extractedAt": "2026-07-18T03:39:17+0000",
+  "extractedAt": "2026-07-19T04:01:32+0000",
   "videos": {
     "Introduction": [
       {
@@ -665,7 +665,13 @@
             "_id": "6a58fbce2631e9eb3b6e5e1f"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Dynasties of south india by jeet sir BOARD PDF _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Dynasties of south india by jeet sir BOARD PDF _.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a5897a339beccbe5839ebaf",

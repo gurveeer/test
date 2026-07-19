@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch  Vod 3.0",
-  "extractedAt": "2026-07-18T03:39:17+0000",
+  "extractedAt": "2026-07-19T04:01:32+0000",
   "videos": {
     "First Watch this video": [
       {
@@ -50095,49 +50095,6 @@
         }
       },
       {
-        "title": "Class -03  || Blood Relation (रक्त संबंध) by Balram sir",
-        "description": "Class -03 || Blood Relation (रक्त संबंध) by Balram sir",
-        "teacherName": "Balram sir",
-        "duration": 0,
-        "startDate": "2026-05-31T18:30:00.000Z",
-        "endDate": "2026-05-31T18:30:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6946216c311016d02f41cda0/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6946216c311016d02f41cda0/output_720p.mp4",
-            "quality": "720p",
-            "size": 1.13,
-            "_id": "694622383428d2436fd06ff4"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6946216c311016d02f41cda0/output_480p.mp4",
-            "quality": "480p",
-            "size": 0.64,
-            "_id": "694622383428d2436fd06ff5"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6946216c311016d02f41cda0/output_360p.mp4",
-            "quality": "360p",
-            "size": 0.43,
-            "_id": "694622383428d2436fd06ff6"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/6946216c311016d02f41cda0/output_240p.mp4",
-            "quality": "240p",
-            "size": 0.16,
-            "_id": "694622383428d2436fd06ff7"
-          }
-        ],
-        "classPdf": [],
-        "source": {
-          "courseId": "6a1fe6acb927c1a84abc603d",
-          "classId": "6946216c311016d02f41cda0",
-          "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 20
-        }
-      },
-      {
         "title": "Class -03 || Blood Relation (रक्त संबंध) 03 | by Balram sir",
         "description": "Class -03 || Blood Relation 03 (रक्त संबंध) | by Balram sir",
         "teacherName": "Balram sir",
@@ -55872,7 +55829,7 @@
         "teacherName": "Varun Sir",
         "duration": 3510,
         "startDate": "2026-05-31T18:30:00.000Z",
-        "endDate": "2026-05-31T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/69cc14219f4e3b6d5846ae3b/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
@@ -55911,6 +55868,55 @@
         "source": {
           "courseId": "6a1fe6acb927c1a84abc603d",
           "classId": "69cc14219f4e3b6d5846ae3b",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 20
+        }
+      },
+      {
+        "title": "Class-29 || Question Practice I  by Varun sir",
+        "description": "\" GS Special- 02,03,04,05  &\r\n Selection Batch -02,03,04,05\"",
+        "teacherName": "Varun Sir",
+        "duration": 3968,
+        "startDate": "2026-07-01T10:42:00.000Z",
+        "endDate": "2026-07-18T11:42:29.243Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69ccde315ba6dcc3b0bbe69f/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ccde315ba6dcc3b0bbe69f/output_720p.mp4",
+            "quality": "720p",
+            "size": 615.7,
+            "_id": "69cf4123923f9ce0c47239cc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ccde315ba6dcc3b0bbe69f/output_480p.mp4",
+            "quality": "480p",
+            "size": 424.93,
+            "_id": "69cf4123923f9ce0c47239cd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ccde315ba6dcc3b0bbe69f/output_360p.mp4",
+            "quality": "360p",
+            "size": 305.41,
+            "_id": "69cf4123923f9ce0c47239ce"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ccde315ba6dcc3b0bbe69f/output_240p.mp4",
+            "quality": "240p",
+            "size": 228.38,
+            "_id": "69cf4123923f9ce0c47239cf"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Question Practice BOARD PDF __",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Question Practice BOARD PDF __.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a1fe6acb927c1a84abc603d",
+          "classId": "69ccde315ba6dcc3b0bbe69f",
           "topicId": "68e329ef48aa5900adba437b",
           "rawRecordIndex": 20
         }
