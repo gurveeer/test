@@ -1,5 +1,4774 @@
 {
   "courseName": "Maths Special VOD 6.0",
-  "extractedAt": "2026-07-19T04:01:32+0000",
-  "videos": {}
+  "extractedAt": "2026-07-20T04:11:56+0000",
+  "videos": {
+    "Number System and More": [
+      {
+        "title": "आरम्भ Batch || Class - 01 || Classification of Numbers (संख्याओं का वर्गीकरण) | by Gagan sir",
+        "description": "ARAMBH BATCH",
+        "teacherName": "Gagan Pratap",
+        "duration": 3168.038,
+        "startDate": "2026-07-19T12:19:51.138Z",
+        "endDate": "2026-07-19T13:19:51.138Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69ad4882a2b1ae043369156d/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ad4882a2b1ae043369156d/mp4/NUMBER_SYSTEM_CLASS_1_AARAMBH_BATCH_240p.mp4",
+            "quality": "240p",
+            "size": 229.18,
+            "_id": "69ad4eb0d6af58ec9aefed2b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ad4882a2b1ae043369156d/mp4/NUMBER_SYSTEM_CLASS_1_AARAMBH_BATCH_360p.mp4",
+            "quality": "360p",
+            "size": 269.23,
+            "_id": "69ad4eb0d6af58ec9aefed2c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ad4882a2b1ae043369156d/mp4/NUMBER_SYSTEM_CLASS_1_AARAMBH_BATCH_480p.mp4",
+            "quality": "480p",
+            "size": 361.23,
+            "_id": "69ad4eb0d6af58ec9aefed2d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ad4882a2b1ae043369156d/mp4/NUMBER_SYSTEM_CLASS_1_AARAMBH_BATCH_720p.mp4",
+            "quality": "720p",
+            "size": 533.31,
+            "_id": "69ad4eb0d6af58ec9aefed2e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 2,
+            "name": "arambh class 001  pdf by gagann sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/gd-class-1-board-pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69ad4882a2b1ae043369156d",
+          "topicId": "6a0d7cabb927c1a84af39ddb",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 02 || Classification of Numbers (संख्याओं का वर्गीकरण) | by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:19:59.498Z",
+        "endDate": "2026-07-19T13:19:59.498Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6936e2ef6385517afa9a1bfd/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6936e2ef6385517afa9a1bfd/mp4/1000545476_360p.mp4",
+            "quality": "360p",
+            "size": 189.78,
+            "_id": "693af3ff6385517afa2d3020"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6936e2ef6385517afa9a1bfd/mp4/1000545476_480p.mp4",
+            "quality": "480p",
+            "size": 261.76,
+            "_id": "693af3ff6385517afa2d3021"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6936e2ef6385517afa9a1bfd/mp4/1000545476_720p.mp4",
+            "quality": "720p",
+            "size": 443.79,
+            "_id": "693af3ff6385517afa2d3022"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 2,
+            "name": "aarmbh batch number system class 0002 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/aarmbh batch number system class 0002 pdff.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69ae94f9a2b1ae04337635d3",
+          "topicId": "6a0d7cabb927c1a84af39ddb",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 03 || Classification of Numbers (संख्याओं का वर्गीकरण) | by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:20:06.443Z",
+        "endDate": "2026-07-19T13:20:06.443Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69390e7bd3220ee0f5093d7c/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69390e7bd3220ee0f5093d7c/mp4/gd_classs_3__360p.mp4",
+            "quality": "360p",
+            "size": 160.5,
+            "_id": "693ac4736385517afa3a9ebd"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69390e7bd3220ee0f5093d7c/mp4/gd_classs_3__480p.mp4",
+            "quality": "480p",
+            "size": 219.3,
+            "_id": "693ac4736385517afa3a9ebe"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69390e7bd3220ee0f5093d7c/mp4/gd_classs_3__720p.mp4",
+            "quality": "720p",
+            "size": 388.62,
+            "_id": "693ac4736385517afa3a9ebf"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "class 3 simplification",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/class 3 simplification.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69ae95c6795a3ab116c5f5c7",
+          "topicId": "6a0d7cabb927c1a84af39ddb",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 01 || Sequence and Series ( अनुक्रम और श्रेणी ) by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:20:22.308Z",
+        "endDate": "2026-07-19T13:20:22.308Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/693fc2376385517afa40ebcc/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/693fc2376385517afa40ebcc/mp4/1000206309_360p.mp4",
+            "quality": "360p",
+            "size": 155.03,
+            "_id": "693fd1ba6385517afacbe102"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/693fc2376385517afa40ebcc/mp4/1000206309_480p.mp4",
+            "quality": "480p",
+            "size": 213.74,
+            "_id": "693fd1ba6385517afacbe103"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/693fc2376385517afa40ebcc/mp4/1000206309_720p.mp4",
+            "quality": "720p",
+            "size": 340.86,
+            "_id": "693fd1ba6385517afacbe104"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "ap gp board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/ap gp board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69ae9765a2b1ae04337766fe",
+          "topicId": "6a0d7cabb927c1a84af39ddb",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 02 || Sequence and Series ( अनुक्रम और श्रेणी ) by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:20:26.985Z",
+        "endDate": "2026-07-19T13:20:26.985Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6939403c6385517afa1fb07c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6939403c6385517afa1fb07c/output_720p.mp4",
+            "quality": "720p",
+            "size": 475.76,
+            "_id": "693bc79d6385517afacebf29"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6939403c6385517afa1fb07c/output_480p.mp4",
+            "quality": "480p",
+            "size": 300.35,
+            "_id": "693bc79d6385517afacebf2a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6939403c6385517afa1fb07c/output_360p.mp4",
+            "quality": "360p",
+            "size": 260.64,
+            "_id": "693bc79d6385517afacebf2b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6939403c6385517afa1fb07c/output_240p.mp4",
+            "quality": "240p",
+            "size": 202.01,
+            "_id": "693bc79d6385517afacebf2c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "ap gp class 2 board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/upsi gd class 2 board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69ae9792a2b1ae043377b323",
+          "topicId": "6a0d7cabb927c1a84af39ddb",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 03 || Sequence and Series ( अनुक्रम और श्रेणी ) by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:20:32.867Z",
+        "endDate": "2026-07-19T13:20:32.867Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/693d11856385517afac4032b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693d11856385517afac4032b/output_720p.mp4",
+            "quality": "720p",
+            "size": 522.36,
+            "_id": "693fb8146385517afad8f1ca"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693d11856385517afac4032b/output_480p.mp4",
+            "quality": "480p",
+            "size": 330.33,
+            "_id": "693fb8146385517afad8f1cb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693d11856385517afac4032b/output_360p.mp4",
+            "quality": "360p",
+            "size": 287,
+            "_id": "693fb8146385517afad8f1cc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693d11856385517afac4032b/output_240p.mp4",
+            "quality": "240p",
+            "size": 222.85,
+            "_id": "693fb8146385517afad8f1cd"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "sequence and series class 3 board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sequence and series class 3 board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69ae97b1a2b1ae043377ff2b",
+          "topicId": "6a0d7cabb927c1a84af39ddb",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 01 || Remainder Theorem (शेषफल प्रमेय || by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:20:57.128Z",
+        "endDate": "2026-07-19T13:20:57.128Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/693fefa26385517afab5e474/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693fefa26385517afab5e474/output_720p.mp4",
+            "quality": "720p",
+            "size": 519.08,
+            "_id": "69410f1d6385517afa647af2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693fefa26385517afab5e474/output_480p.mp4",
+            "quality": "480p",
+            "size": 328.33,
+            "_id": "69410f1d6385517afa647af3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693fefa26385517afab5e474/output_360p.mp4",
+            "quality": "360p",
+            "size": 285.29,
+            "_id": "69410f1d6385517afa647af4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/693fefa26385517afab5e474/output_240p.mp4",
+            "quality": "240p",
+            "size": 221.5,
+            "_id": "69410f1d6385517afa647af5"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "sequence series class 4 board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sequence series class 4 board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69ae97d8a2b1ae0433784b52",
+          "topicId": "6a0d7cabb927c1a84af39ddb",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 02 || Divisibility Rule (विभाज्यता नियम) || by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:21:08.662Z",
+        "endDate": "2026-07-19T13:21:08.662Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/694121566385517afa02ec0b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694121566385517afa02ec0b/output_720p.mp4",
+            "quality": "720p",
+            "size": 687.64,
+            "_id": "694257d06385517afa3326fa"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694121566385517afa02ec0b/output_480p.mp4",
+            "quality": "480p",
+            "size": 432.54,
+            "_id": "694257d06385517afa3326fb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694121566385517afa02ec0b/output_360p.mp4",
+            "quality": "360p",
+            "size": 374.64,
+            "_id": "694257d06385517afa3326fc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694121566385517afa02ec0b/output_240p.mp4",
+            "quality": "240p",
+            "size": 290.08,
+            "_id": "694257d06385517afa3326fd"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "ap gp class 5",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/ap gp class 5.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69ae9805a2b1ae043378975d",
+          "topicId": "6a0d7cabb927c1a84af39ddb",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 03 || Divisibility Rule (विभाज्यता नियम) || by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:21:12.671Z",
+        "endDate": "2026-07-19T13:21:12.671Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/694283496385517afab8e952/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694283496385517afab8e952/output_720p.mp4",
+            "quality": "720p",
+            "size": 763.08,
+            "_id": "6943abe86385517afa6d84f9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694283496385517afab8e952/output_480p.mp4",
+            "quality": "480p",
+            "size": 479.63,
+            "_id": "6943abe86385517afa6d84fa"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694283496385517afab8e952/output_360p.mp4",
+            "quality": "360p",
+            "size": 416.25,
+            "_id": "6943abe86385517afa6d84fb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694283496385517afab8e952/output_240p.mp4",
+            "quality": "240p",
+            "size": 322.29,
+            "_id": "6943abe86385517afa6d84fc"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "number system class 6 board",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/number system class 6 board.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69ae9873a2b1ae043378e38e",
+          "topicId": "6a0d7cabb927c1a84af39ddb",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 04 || Divisibility Rule (विभाज्यता नियम) || by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:21:21.230Z",
+        "endDate": "2026-07-19T13:21:21.230Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6943ebf26385517afa96c0f6/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6943ebf26385517afa96c0f6/output_720p.mp4",
+            "quality": "720p",
+            "size": 502.12,
+            "_id": "6944f4396385517afa32b2f0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6943ebf26385517afa96c0f6/output_480p.mp4",
+            "quality": "480p",
+            "size": 316.86,
+            "_id": "6944f4396385517afa32b2f1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6943ebf26385517afa96c0f6/output_360p.mp4",
+            "quality": "360p",
+            "size": 275.11,
+            "_id": "6944f4396385517afa32b2f2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6943ebf26385517afa96c0f6/output_240p.mp4",
+            "quality": "240p",
+            "size": 213.52,
+            "_id": "6944f4396385517afa32b2f3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "number system board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/number system board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69ae9bc8a2b1ae04337956b4",
+          "topicId": "6a0d7cabb927c1a84af39ddb",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 01 || LCM and HCF (ल.स.प.और म.स.प.) || by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:21:33.793Z",
+        "endDate": "2026-07-19T13:21:33.793Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6946667fdf16ce64638a96f1/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6946667fdf16ce64638a96f1/output_720p.mp4",
+            "quality": "720p",
+            "size": 818.49,
+            "_id": "694a43e9b38db8674b1b6ee8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6946667fdf16ce64638a96f1/output_480p.mp4",
+            "quality": "480p",
+            "size": 516.67,
+            "_id": "694a43e9b38db8674b1b6ee9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6946667fdf16ce64638a96f1/output_360p.mp4",
+            "quality": "360p",
+            "size": 448.25,
+            "_id": "694a43e9b38db8674b1b6eea"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6946667fdf16ce64638a96f1/output_240p.mp4",
+            "quality": "240p",
+            "size": 348.37,
+            "_id": "694a43e9b38db8674b1b6eeb"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "lcm hcf class 1 board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/gd and upsi lcm hcf class 1 board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69ae9c313e2bfc6072a166ef",
+          "topicId": "6a0d7cabb927c1a84af39ddb",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 02 || LCM and HCF (ल.स.प.और म.स.प.) || by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:21:36.601Z",
+        "endDate": "2026-07-19T13:21:36.601Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/694a9100b38db8674bbc788e/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694a9100b38db8674bbc788e/output_720p.mp4",
+            "quality": "720p",
+            "size": 883.85,
+            "_id": "694b9764faec4ba165d780f6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694a9100b38db8674bbc788e/output_480p.mp4",
+            "quality": "480p",
+            "size": 558.5,
+            "_id": "694b9764faec4ba165d780f7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694a9100b38db8674bbc788e/output_360p.mp4",
+            "quality": "360p",
+            "size": 485.07,
+            "_id": "694b9764faec4ba165d780f8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694a9100b38db8674bbc788e/output_240p.mp4",
+            "quality": "240p",
+            "size": 377.42,
+            "_id": "694b9764faec4ba165d780f9"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "class 9 lcm hcf pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/class 9 lcm hcf pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69ae9d70a2b1ae04337a15e5",
+          "topicId": "6a0d7cabb927c1a84af39ddb",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 03 || LCM and HCF (ल.स.प.और म.स.प.) || by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:21:39.601Z",
+        "endDate": "2026-07-19T13:21:39.601Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/694bc3fa2feca20f817f2dfa/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694bc3fa2feca20f817f2dfa/output_720p.mp4",
+            "quality": "720p",
+            "size": 787.19,
+            "_id": "694ce653b54cadeb61e33c09"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694bc3fa2feca20f817f2dfa/output_480p.mp4",
+            "quality": "480p",
+            "size": 495.09,
+            "_id": "694ce653b54cadeb61e33c0a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694bc3fa2feca20f817f2dfa/output_360p.mp4",
+            "quality": "360p",
+            "size": 429.56,
+            "_id": "694ce653b54cadeb61e33c0b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694bc3fa2feca20f817f2dfa/output_240p.mp4",
+            "quality": "240p",
+            "size": 332.57,
+            "_id": "694ce653b54cadeb61e33c0c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "class 10 cm hcf  board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/class 10 cm hcf  board pdf .pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69ae9d91a2b1ae04337a887e",
+          "topicId": "6a0d7cabb927c1a84af39ddb",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 04 || LCM and HCF (ल.स.प.और म.स.प.) || by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:21:43.341Z",
+        "endDate": "2026-07-19T13:21:43.341Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/694d0790b54cadeb61a1697e/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694d0790b54cadeb61a1697e/output_720p.mp4",
+            "quality": "720p",
+            "size": 349.29,
+            "_id": "694e2987b54cadeb610bbaac"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694d0790b54cadeb61a1697e/output_480p.mp4",
+            "quality": "480p",
+            "size": 220.06,
+            "_id": "694e2987b54cadeb610bbaad"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694d0790b54cadeb61a1697e/output_360p.mp4",
+            "quality": "360p",
+            "size": 190.95,
+            "_id": "694e2987b54cadeb610bbaae"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694d0790b54cadeb61a1697e/output_240p.mp4",
+            "quality": "240p",
+            "size": 148.05,
+            "_id": "694e2987b54cadeb610bbaaf"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "class 11 lcm hcf board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/class 11 lcm hcf board pdf .pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69ae9db0a2b1ae04337afaaf",
+          "topicId": "6a0d7cabb927c1a84af39ddb",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 01 || Simplification (सरलीकरण) || by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:21:57.202Z",
+        "endDate": "2026-07-19T13:21:57.202Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69517475b54cadeb6163d7df/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69517475b54cadeb6163d7df/output_720p.mp4",
+            "quality": "720p",
+            "size": 877.19,
+            "_id": "69538100b54cadeb615a9b9f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69517475b54cadeb6163d7df/output_480p.mp4",
+            "quality": "480p",
+            "size": 551.31,
+            "_id": "69538100b54cadeb615a9ba0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69517475b54cadeb6163d7df/output_360p.mp4",
+            "quality": "360p",
+            "size": 478.12,
+            "_id": "69538100b54cadeb615a9ba1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69517475b54cadeb6163d7df/output_240p.mp4",
+            "quality": "240p",
+            "size": 369.98,
+            "_id": "69538100b54cadeb615a9ba2"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "class 1 simplification",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/class 1 simplification.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69ae9e06a2b1ae04337b92ff",
+          "topicId": "6a0d7cabb927c1a84af39ddb",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 02 || Simplification (सरलीकरण) || by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:21:58.908Z",
+        "endDate": "2026-07-19T13:21:58.908Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6953a37db54cadeb61512b29/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6953a37db54cadeb61512b29/output_720p.mp4",
+            "quality": "720p",
+            "size": 793.42,
+            "_id": "6954d100b54cadeb61ed9f10"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6953a37db54cadeb61512b29/output_480p.mp4",
+            "quality": "480p",
+            "size": 497.39,
+            "_id": "6954d100b54cadeb61ed9f11"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6953a37db54cadeb61512b29/output_360p.mp4",
+            "quality": "360p",
+            "size": 430.79,
+            "_id": "6954d100b54cadeb61ed9f12"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6953a37db54cadeb61512b29/output_240p.mp4",
+            "quality": "240p",
+            "size": 332.69,
+            "_id": "6954d100b54cadeb61ed9f13"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "class 2 simplification",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/class 2 simplification.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69ae9e30a2b1ae04337c0519",
+          "topicId": "6a0d7cabb927c1a84af39ddb",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 03 || Simplification (सरलीकरण) || by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:22:01.058Z",
+        "endDate": "2026-07-19T13:22:01.058Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6955625bc1e281b4645fc87b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6955625bc1e281b4645fc87b/output_720p.mp4",
+            "quality": "720p",
+            "size": 356.92,
+            "_id": "695756dec1e281b464f3de0a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6955625bc1e281b4645fc87b/output_480p.mp4",
+            "quality": "480p",
+            "size": 224.2,
+            "_id": "695756dec1e281b464f3de0b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6955625bc1e281b4645fc87b/output_360p.mp4",
+            "quality": "360p",
+            "size": 194.26,
+            "_id": "695756dec1e281b464f3de0c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6955625bc1e281b4645fc87b/output_240p.mp4",
+            "quality": "240p",
+            "size": 150.3,
+            "_id": "695756dec1e281b464f3de0d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "class 3 simplification",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/class 3 simplification.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69ae9e71a2b1ae04337c9d34",
+          "topicId": "6a0d7cabb927c1a84af39ddb",
+          "rawRecordIndex": 29
+        }
+      }
+    ],
+    "ADVANCE": [
+      {
+        "title": "आरम्भ Batch || Class - 01 || 2D Mensuration by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:22:20.616Z",
+        "endDate": "2026-07-19T13:22:20.616Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/697afa50c566674bff9a26b4/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697afa50c566674bff9a26b4/output_720p.mp4",
+            "quality": "720p",
+            "size": 667.99,
+            "_id": "697b8724769f03dc84f2df08"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697afa50c566674bff9a26b4/output_480p.mp4",
+            "quality": "480p",
+            "size": 448.11,
+            "_id": "697b8724769f03dc84f2df09"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697afa50c566674bff9a26b4/output_360p.mp4",
+            "quality": "360p",
+            "size": 323.98,
+            "_id": "697b8724769f03dc84f2df0a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697afa50c566674bff9a26b4/output_240p.mp4",
+            "quality": "240p",
+            "size": 239.63,
+            "_id": "697b8724769f03dc84f2df0b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "2d mensuration class 1 board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/2d mensuration class 1 board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69ae9f23a2b1ae04337d0f76",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 02 || 2D Mensuration by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:22:22.945Z",
+        "endDate": "2026-07-19T13:22:22.945Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/697c3dac4d8dc840697db7d4/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697c3dac4d8dc840697db7d4/output_720p.mp4",
+            "quality": "720p",
+            "size": 834.25,
+            "_id": "6980cfe0c40b4c4cef583a52"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697c3dac4d8dc840697db7d4/output_480p.mp4",
+            "quality": "480p",
+            "size": 559.03,
+            "_id": "6980cfe0c40b4c4cef583a53"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697c3dac4d8dc840697db7d4/output_360p.mp4",
+            "quality": "360p",
+            "size": 404.95,
+            "_id": "6980cfe0c40b4c4cef583a54"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697c3dac4d8dc840697db7d4/output_240p.mp4",
+            "quality": "240p",
+            "size": 296.51,
+            "_id": "6980cfe0c40b4c4cef583a55"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mensuration 2d class 02 board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/mensuration 2d class 02 board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea316a2b1ae04337df93f",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 03 || 2D Mensuration by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:22:25.503Z",
+        "endDate": "2026-07-19T13:22:25.503Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6981cc3f4ca8c7fbe811b1ef/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6981cc3f4ca8c7fbe811b1ef/output_720p.mp4",
+            "quality": "720p",
+            "size": 867.05,
+            "_id": "698376668676ad0dbd47974c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6981cc3f4ca8c7fbe811b1ef/output_480p.mp4",
+            "quality": "480p",
+            "size": 578.5,
+            "_id": "698376668676ad0dbd47974d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6981cc3f4ca8c7fbe811b1ef/output_360p.mp4",
+            "quality": "360p",
+            "size": 419.84,
+            "_id": "698376668676ad0dbd47974e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6981cc3f4ca8c7fbe811b1ef/output_240p.mp4",
+            "quality": "240p",
+            "size": 314.83,
+            "_id": "698376668676ad0dbd47974f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "2d mensuration class 03 board",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/2d mensuration class 03 board.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea33fa2b1ae04337e454f",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 04 || 2D Mensuration by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:22:27.229Z",
+        "endDate": "2026-07-19T13:22:27.229Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698460a9fdd21a8a2d15e3f9/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698460a9fdd21a8a2d15e3f9/output_720p.mp4",
+            "quality": "720p",
+            "size": 814,
+            "_id": "698615c0105ad07ca40dfe79"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698460a9fdd21a8a2d15e3f9/output_480p.mp4",
+            "quality": "480p",
+            "size": 538.87,
+            "_id": "698615c0105ad07ca40dfe7a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698460a9fdd21a8a2d15e3f9/output_360p.mp4",
+            "quality": "360p",
+            "size": 382.43,
+            "_id": "698615c0105ad07ca40dfe7b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698460a9fdd21a8a2d15e3f9/output_240p.mp4",
+            "quality": "240p",
+            "size": 269.52,
+            "_id": "698615c0105ad07ca40dfe7c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "2d mensuration class 4 board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/2d mensuration class 4 board.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea35ea2b1ae04337e9162",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 05 || 2D Mensuration by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:22:28.940Z",
+        "endDate": "2026-07-19T13:22:28.940Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698981975b61b5fe00058d80/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698981975b61b5fe00058d80/output_720p.mp4",
+            "quality": "720p",
+            "size": 893.91,
+            "_id": "698adacaab38bd7d53a190fc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698981975b61b5fe00058d80/output_480p.mp4",
+            "quality": "480p",
+            "size": 595.32,
+            "_id": "698adacaab38bd7d53a190fd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698981975b61b5fe00058d80/output_360p.mp4",
+            "quality": "360p",
+            "size": 431.78,
+            "_id": "698adacaab38bd7d53a190fe"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698981975b61b5fe00058d80/output_240p.mp4",
+            "quality": "240p",
+            "size": 318.6,
+            "_id": "698adacaab38bd7d53a190ff"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "2d mensuration class 5 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/2d mensuration class 5 pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea37ea2b1ae04337edd6e",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 06 || 2D Mensuration by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:22:30.393Z",
+        "endDate": "2026-07-19T13:22:30.393Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698af1384167f565027aa029/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698af1384167f565027aa029/output_720p.mp4",
+            "quality": "720p",
+            "size": 794.63,
+            "_id": "698b61d33ced459aa0e53666"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698af1384167f565027aa029/output_480p.mp4",
+            "quality": "480p",
+            "size": 523.72,
+            "_id": "698b61d33ced459aa0e53667"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698af1384167f565027aa029/output_360p.mp4",
+            "quality": "360p",
+            "size": 377.17,
+            "_id": "698b61d33ced459aa0e53668"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698af1384167f565027aa029/output_240p.mp4",
+            "quality": "240p",
+            "size": 275.93,
+            "_id": "698b61d33ced459aa0e53669"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mensuration 2d class 6 board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/mensuration 2d class 6 board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea39fa2b1ae04337f297d",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 07 || 2D Mensuration by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:22:31.973Z",
+        "endDate": "2026-07-19T13:22:31.973Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698c1d5ca003679fb8b5fe9b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698c1d5ca003679fb8b5fe9b/output_720p.mp4",
+            "quality": "720p",
+            "size": 872.52,
+            "_id": "698caf6c97f168266058fd97"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698c1d5ca003679fb8b5fe9b/output_480p.mp4",
+            "quality": "480p",
+            "size": 580.59,
+            "_id": "698caf6c97f168266058fd98"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698c1d5ca003679fb8b5fe9b/output_360p.mp4",
+            "quality": "360p",
+            "size": 422.78,
+            "_id": "698caf6c97f168266058fd99"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698c1d5ca003679fb8b5fe9b/output_240p.mp4",
+            "quality": "240p",
+            "size": 311.32,
+            "_id": "698caf6c97f168266058fd9a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mensuration 2d class 7  board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/class 7 mensuration 2d board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea3bea2b1ae04337f758c",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 08 || 2D Mensuration by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:22:33.561Z",
+        "endDate": "2026-07-19T13:22:33.561Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698da39d8f7f447d5623375d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698da39d8f7f447d5623375d/output_720p.mp4",
+            "quality": "720p",
+            "size": 865.33,
+            "_id": "698dfefa0bbecd2afd3679a5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698da39d8f7f447d5623375d/output_480p.mp4",
+            "quality": "480p",
+            "size": 577.33,
+            "_id": "698dfefa0bbecd2afd3679a6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698da39d8f7f447d5623375d/output_360p.mp4",
+            "quality": "360p",
+            "size": 419.28,
+            "_id": "698dfefa0bbecd2afd3679a7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698da39d8f7f447d5623375d/output_240p.mp4",
+            "quality": "240p",
+            "size": 312.32,
+            "_id": "698dfefa0bbecd2afd3679a8"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mensuration 2d class 8",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/mensuration 2d class 8.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea3dca2b1ae04337fc1b8",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 09 || 2D Mensuration by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:22:50.310Z",
+        "endDate": "2026-07-19T13:22:50.310Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69944f8c399756d4923fbd68/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69944f8c399756d4923fbd68/output_720p.mp4",
+            "quality": "720p",
+            "size": 869.7,
+            "_id": "69949f7f82e16e0f9cbd68dd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69944f8c399756d4923fbd68/output_480p.mp4",
+            "quality": "480p",
+            "size": 576.17,
+            "_id": "69949f7f82e16e0f9cbd68de"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69944f8c399756d4923fbd68/output_360p.mp4",
+            "quality": "360p",
+            "size": 416.01,
+            "_id": "69949f7f82e16e0f9cbd68df"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69944f8c399756d4923fbd68/output_240p.mp4",
+            "quality": "240p",
+            "size": 307.31,
+            "_id": "69949f7f82e16e0f9cbd68e0"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "2d mensuration class 9",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/2d mensuration class 9.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea40ba2b1ae0433800dc5",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 10 || 2D Mensuration by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:22:52.032Z",
+        "endDate": "2026-07-19T13:22:52.032Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698ef29f466e8361a4e88708/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698ef29f466e8361a4e88708/output_720p.mp4",
+            "quality": "720p",
+            "size": 928.6,
+            "_id": "6995f0073aa82ff1ff4c9166"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698ef29f466e8361a4e88708/output_480p.mp4",
+            "quality": "480p",
+            "size": 619.57,
+            "_id": "6995f0073aa82ff1ff4c9167"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698ef29f466e8361a4e88708/output_360p.mp4",
+            "quality": "360p",
+            "size": 450.42,
+            "_id": "6995f0073aa82ff1ff4c9168"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698ef29f466e8361a4e88708/output_240p.mp4",
+            "quality": "240p",
+            "size": 337.41,
+            "_id": "6995f0073aa82ff1ff4c9169"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "2d Mensuration class 10",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/class 9 2d Mensuration board.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea433a2b1ae04338059d5",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 11 || 2D Mensuration by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:22:53.332Z",
+        "endDate": "2026-07-19T13:22:53.332Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69983bd5399756d4926b3228/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69983bd5399756d4926b3228/output_720p.mp4",
+            "quality": "720p",
+            "size": 784.52,
+            "_id": "699889aebd84e0869c2bb6aa"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69983bd5399756d4926b3228/output_480p.mp4",
+            "quality": "480p",
+            "size": 517.99,
+            "_id": "699889aebd84e0869c2bb6ab"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69983bd5399756d4926b3228/output_360p.mp4",
+            "quality": "360p",
+            "size": 371.82,
+            "_id": "699889aebd84e0869c2bb6ac"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69983bd5399756d4926b3228/output_240p.mp4",
+            "quality": "240p",
+            "size": 267.65,
+            "_id": "699889aebd84e0869c2bb6ad"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "2d mensuration board class 11",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/class -11  2d mensuration board.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea453a2b1ae043380a5e4",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 12 || 2D Mensuration by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:22:54.859Z",
+        "endDate": "2026-07-19T13:22:54.859Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/699d48ef399756d4929906ab/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699d48ef399756d4929906ab/mp4/Maths_All_Batches_Class_11_by_Gagan_sir_240p.mp4",
+            "quality": "240p",
+            "size": 563.63,
+            "_id": "699d68050c4acb00f774ae0e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699d48ef399756d4929906ab/mp4/Maths_All_Batches_Class_11_by_Gagan_sir_360p.mp4",
+            "quality": "360p",
+            "size": 659.57,
+            "_id": "699d68050c4acb00f774ae0f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699d48ef399756d4929906ab/mp4/Maths_All_Batches_Class_11_by_Gagan_sir_480p.mp4",
+            "quality": "480p",
+            "size": 880.46,
+            "_id": "699d68050c4acb00f774ae10"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/699d48ef399756d4929906ab/mp4/Maths_All_Batches_Class_11_by_Gagan_sir_720p.mp4",
+            "quality": "720p",
+            "size": 1278,
+            "_id": "699d68050c4acb00f774ae11"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mensuration 2d class 12",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/mensuration 2d class 12.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea48ca2b1ae0433811821",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || 3D Mensuration All Concept and Tricks in single video",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:23:01.891Z",
+        "endDate": "2026-07-19T13:23:01.891Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/698d5eaf58d5b773dec341cc/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/698d5eaf58d5b773dec341cc/mp4/3d_mensuration_for_gd_240p.mp4",
+            "quality": "240p",
+            "size": 793.79,
+            "_id": "698d70953b43bfa26ff87f01"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/698d5eaf58d5b773dec341cc/mp4/3d_mensuration_for_gd_360p.mp4",
+            "quality": "360p",
+            "size": 932.42,
+            "_id": "698d70953b43bfa26ff87f02"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/698d5eaf58d5b773dec341cc/mp4/3d_mensuration_for_gd_480p.mp4",
+            "quality": "480p",
+            "size": 1252.38,
+            "_id": "698d70953b43bfa26ff87f03"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/698d5eaf58d5b773dec341cc/mp4/3d_mensuration_for_gd_720p.mp4",
+            "quality": "720p",
+            "size": 1846.69,
+            "_id": "698d70953b43bfa26ff87f04"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea4e3a2b1ae043381645f",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "Class -1 || Algebra by gagan sir | आरम्भ Batch",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 4664.832,
+        "startDate": "2026-07-19T12:29:02.768Z",
+        "endDate": "2026-07-19T13:29:02.768Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69b2aa719d14466cd0bb8550/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2aa719d14466cd0bb8550/mp4/Algebra_Class_01_Advance_Maths_for_RAILWAY_EXAMS_2025_Concepts_Practice_Gagan_Pratap_Sir_1080P_HD__240p.mp4",
+            "quality": "240p",
+            "size": 329.75,
+            "_id": "69b2bb83acbfc15d8f12fd61"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2aa719d14466cd0bb8550/mp4/Algebra_Class_01_Advance_Maths_for_RAILWAY_EXAMS_2025_Concepts_Practice_Gagan_Pratap_Sir_1080P_HD__360p.mp4",
+            "quality": "360p",
+            "size": 389.14,
+            "_id": "69b2bb83acbfc15d8f12fd62"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2aa719d14466cd0bb8550/mp4/Algebra_Class_01_Advance_Maths_for_RAILWAY_EXAMS_2025_Concepts_Practice_Gagan_Pratap_Sir_1080P_HD__480p.mp4",
+            "quality": "480p",
+            "size": 522.42,
+            "_id": "69b2bb83acbfc15d8f12fd63"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2aa719d14466cd0bb8550/mp4/Algebra_Class_01_Advance_Maths_for_RAILWAY_EXAMS_2025_Concepts_Practice_Gagan_Pratap_Sir_1080P_HD__720p.mp4",
+            "quality": "720p",
+            "size": 771.08,
+            "_id": "69b2bb83acbfc15d8f12fd64"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69b2aa719d14466cd0bb8550",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "Class -2 || Algebra by gagan sir | आरम्भ Batch",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 6434.474667,
+        "startDate": "2026-07-19T12:29:05.311Z",
+        "endDate": "2026-07-19T13:29:05.311Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69b2aa989d14466cd0bbacf5/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2aa989d14466cd0bbacf5/mp4/class_2_240p.mp4",
+            "quality": "240p",
+            "size": 455.3,
+            "_id": "69b2da1684f1ce0e7cbdf32d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2aa989d14466cd0bbacf5/mp4/class_2_360p.mp4",
+            "quality": "360p",
+            "size": 536.36,
+            "_id": "69b2da1684f1ce0e7cbdf32e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2aa989d14466cd0bbacf5/mp4/class_2_480p.mp4",
+            "quality": "480p",
+            "size": 720.55,
+            "_id": "69b2da1684f1ce0e7cbdf32f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2aa989d14466cd0bbacf5/mp4/class_2_720p.mp4",
+            "quality": "720p",
+            "size": 1061.83,
+            "_id": "69b2da1684f1ce0e7cbdf330"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69b2aa989d14466cd0bbacf5",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "Class -3 || Algebra by gagan sir | आरम्भ Batch",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 6971.498667,
+        "startDate": "2026-07-19T12:29:08.289Z",
+        "endDate": "2026-07-19T13:29:08.289Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69b2aabe9d14466cd0bbd4b6/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2aabe9d14466cd0bbd4b6/mp4/class_3_240p.mp4",
+            "quality": "240p",
+            "size": 484.1,
+            "_id": "69b309669f3bc868e920f08e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2aabe9d14466cd0bbd4b6/mp4/class_3_360p.mp4",
+            "quality": "360p",
+            "size": 571.78,
+            "_id": "69b309669f3bc868e920f08f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2aabe9d14466cd0bbd4b6/mp4/class_3_480p.mp4",
+            "quality": "480p",
+            "size": 768.86,
+            "_id": "69b309669f3bc868e920f090"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2aabe9d14466cd0bbd4b6/mp4/class_3_720p.mp4",
+            "quality": "720p",
+            "size": 1134.99,
+            "_id": "69b309669f3bc868e920f091"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69b2aabe9d14466cd0bbd4b6",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "Class -4 || Algebra by gagan sir | आरम्भ Batch",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 3314.602667,
+        "startDate": "2026-07-19T12:29:11.050Z",
+        "endDate": "2026-07-19T13:29:11.050Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69b2aadc9d14466cd0bbfc5a/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2aadc9d14466cd0bbfc5a/mp4/class_4_240p.mp4",
+            "quality": "240p",
+            "size": 239.25,
+            "_id": "69b31035acbfc15d8f8461b0"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2aadc9d14466cd0bbfc5a/mp4/class_4_360p.mp4",
+            "quality": "360p",
+            "size": 280.66,
+            "_id": "69b31035acbfc15d8f8461b1"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2aadc9d14466cd0bbfc5a/mp4/class_4_480p.mp4",
+            "quality": "480p",
+            "size": 376.01,
+            "_id": "69b31035acbfc15d8f8461b2"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2aadc9d14466cd0bbfc5a/mp4/class_4_720p.mp4",
+            "quality": "720p",
+            "size": 552.32,
+            "_id": "69b31035acbfc15d8f8461b3"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69b2aadc9d14466cd0bbfc5a",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "Complete Height and distance by Gagan sir | आरम्भ Batch",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 8471.658667,
+        "startDate": "2026-07-19T12:29:19.873Z",
+        "endDate": "2026-07-19T13:29:19.873Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69b2aaf19d14466cd0bc23fc/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2aaf19d14466cd0bc23fc/mp4/height_and_distance.5724.2532.aac_240p.mp4",
+            "quality": "240p",
+            "size": 600.9,
+            "_id": "69b3215435cf129ebdcadc33"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2aaf19d14466cd0bc23fc/mp4/height_and_distance.5724.2532.aac_360p.mp4",
+            "quality": "360p",
+            "size": 715.4,
+            "_id": "69b3215435cf129ebdcadc34"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2aaf19d14466cd0bc23fc/mp4/height_and_distance.5724.2532.aac_480p.mp4",
+            "quality": "480p",
+            "size": 962.99,
+            "_id": "69b3215435cf129ebdcadc35"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2aaf19d14466cd0bc23fc/mp4/height_and_distance.5724.2532.aac_720p.mp4",
+            "quality": "720p",
+            "size": 1423.31,
+            "_id": "69b3215435cf129ebdcadc36"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69b2aaf19d14466cd0bc23fc",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "Complete Quadratic Equation by Gagan sir | आरम्भ Batch",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 8591.061333,
+        "startDate": "2026-07-19T12:29:22.032Z",
+        "endDate": "2026-07-19T13:29:22.032Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69b2ab0d9d14466cd0bc4ba3/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2ab0d9d14466cd0bc4ba3/mp4/quadratic_Equation_240p.mp4",
+            "quality": "240p",
+            "size": 600.8,
+            "_id": "69b3466c7b9e3daca024596b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2ab0d9d14466cd0bc4ba3/mp4/quadratic_Equation_360p.mp4",
+            "quality": "360p",
+            "size": 709.25,
+            "_id": "69b3466c7b9e3daca024596c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2ab0d9d14466cd0bc4ba3/mp4/quadratic_Equation_480p.mp4",
+            "quality": "480p",
+            "size": 952.77,
+            "_id": "69b3466c7b9e3daca024596d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b2ab0d9d14466cd0bc4ba3/mp4/quadratic_Equation_720p.mp4",
+            "quality": "720p",
+            "size": 1404.09,
+            "_id": "69b3466c7b9e3daca024596e"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69b2ab0d9d14466cd0bc4ba3",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "Class -1 || Trigonometry by gagan sir | आरम्भ Batch",
+        "description": "Class -1 || Trigonometry by gagan sir | आरम्भ Batch",
+        "teacherName": "Gagan Pratap",
+        "duration": 9591.104,
+        "startDate": "2026-07-19T12:29:28.018Z",
+        "endDate": "2026-07-19T13:29:28.018Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69bb8c432086ac9f00c52dc8/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69bb8c432086ac9f00c52dc8/mp4/Trigo_class_1_240p.mp4",
+            "quality": "240p",
+            "size": 665.97,
+            "_id": "69cd060f30735a1ba7597626"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69bb8c432086ac9f00c52dc8/mp4/Trigo_class_1_360p.mp4",
+            "quality": "360p",
+            "size": 791.36,
+            "_id": "69cd060f30735a1ba7597627"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69bb8c432086ac9f00c52dc8/mp4/Trigo_class_1_480p.mp4",
+            "quality": "480p",
+            "size": 1064.56,
+            "_id": "69cd060f30735a1ba7597628"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69bb8c432086ac9f00c52dc8/mp4/Trigo_class_1_720p.mp4",
+            "quality": "720p",
+            "size": 1569.33,
+            "_id": "69cd060f30735a1ba7597629"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69bb8c432086ac9f00c52dc8",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "Class -2 || Trigonometry by gagan sir | आरम्भ Batch",
+        "description": "Class -2 || Trigonometry by gagan sir | आरम्भ Batch",
+        "teacherName": "Gagan Pratap",
+        "duration": 8023.594667,
+        "startDate": "2026-07-19T12:29:29.840Z",
+        "endDate": "2026-07-19T13:29:29.840Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69bb93ae2086ac9f00c7c348/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69bb93ae2086ac9f00c7c348/mp4/Trigo_class_2_240p.mp4",
+            "quality": "240p",
+            "size": 575.05,
+            "_id": "69bba74c14b6b6349b9ff4da"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69bb93ae2086ac9f00c7c348/mp4/Trigo_class_2_360p.mp4",
+            "quality": "360p",
+            "size": 674.54,
+            "_id": "69bba74c14b6b6349b9ff4db"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69bb93ae2086ac9f00c7c348/mp4/Trigo_class_2_480p.mp4",
+            "quality": "480p",
+            "size": 904.73,
+            "_id": "69bba74c14b6b6349b9ff4dc"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69bb93ae2086ac9f00c7c348/mp4/Trigo_class_2_720p.mp4",
+            "quality": "720p",
+            "size": 1331.17,
+            "_id": "69bba74c14b6b6349b9ff4dd"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69bb93ae2086ac9f00c7c348",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "Class -3 || Trigonometry by gagan sir | आरम्भ Batch",
+        "description": "Class -3 || Trigonometry by gagan sir | आरम्भ Batch",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 8171.221333,
+        "startDate": "2026-07-19T12:29:31.682Z",
+        "endDate": "2026-07-19T13:29:31.682Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69bb94142086ac9f00c8158c/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69bb94142086ac9f00c8158c/mp4/Trigo_class_3_240p.mp4",
+            "quality": "240p",
+            "size": 592.89,
+            "_id": "69bbc06f0df79f6d5869f506"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69bb94142086ac9f00c8158c/mp4/Trigo_class_3_360p.mp4",
+            "quality": "360p",
+            "size": 691.58,
+            "_id": "69bbc06f0df79f6d5869f507"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69bb94142086ac9f00c8158c/mp4/Trigo_class_3_480p.mp4",
+            "quality": "480p",
+            "size": 926.87,
+            "_id": "69bbc06f0df79f6d5869f508"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69bb94142086ac9f00c8158c/mp4/Trigo_class_3_720p.mp4",
+            "quality": "720p",
+            "size": 1362.79,
+            "_id": "69bbc06f0df79f6d5869f509"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69bb94142086ac9f00c8158c",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "Class -1 || Geometry by gagan sir | आरम्भ Batch",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 12204.138667,
+        "startDate": "2026-07-19T12:29:33.446Z",
+        "endDate": "2026-07-19T13:29:33.446Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69bb94502086ac9f00c86797/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69bb94502086ac9f00c86797/mp4/geometry_240p.mp4",
+            "quality": "240p",
+            "size": 888.97,
+            "_id": "69bbfae98f238c1744136ac6"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69bb94502086ac9f00c86797/mp4/geometry_360p.mp4",
+            "quality": "360p",
+            "size": 1039.64,
+            "_id": "69bbfae98f238c1744136ac7"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69bb94502086ac9f00c86797/mp4/geometry_480p.mp4",
+            "quality": "480p",
+            "size": 1393.96,
+            "_id": "69bbfae98f238c1744136ac8"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69bb94502086ac9f00c86797/mp4/geometry_720p.mp4",
+            "quality": "720p",
+            "size": 2048.69,
+            "_id": "69bbfae98f238c1744136ac9"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69bb94502086ac9f00c86797",
+          "topicId": "69afef26a2b1ae0433b3d44b",
+          "rawRecordIndex": 29
+        }
+      }
+    ],
+    "ARITHMETIC": [
+      {
+        "title": "आरम्भ Batch | Class - 01 || Percentage (प्रतिशत) | by Gagan sir",
+        "description": "AARAMBH BATCH",
+        "teacherName": "Gagan Pratap",
+        "duration": 2385.874,
+        "startDate": "2026-07-19T12:23:07.257Z",
+        "endDate": "2026-07-19T13:23:07.257Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69ad4a17795a3ab1161a4cb0/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ad4a17795a3ab1161a4cb0/mp4/PERCENTAGE_CLASS_1_240p.mp4",
+            "quality": "240p",
+            "size": 173.99,
+            "_id": "69ad52d33e2bfc6072033fd2"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ad4a17795a3ab1161a4cb0/mp4/PERCENTAGE_CLASS_1_360p.mp4",
+            "quality": "360p",
+            "size": 203.47,
+            "_id": "69ad52d33e2bfc6072033fd3"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ad4a17795a3ab1161a4cb0/mp4/PERCENTAGE_CLASS_1_480p.mp4",
+            "quality": "480p",
+            "size": 272.96,
+            "_id": "69ad52d33e2bfc6072033fd4"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ad4a17795a3ab1161a4cb0/mp4/PERCENTAGE_CLASS_1_720p.mp4",
+            "quality": "720p",
+            "size": 402.32,
+            "_id": "69ad52d33e2bfc6072033fd5"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Railway percentage class 1 board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Railway percentage class 1 board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69ad4a17795a3ab1161a4cb0",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch | Class - 02 || Percentage (प्रतिशत) | by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:23:08.855Z",
+        "endDate": "2026-07-19T13:23:08.855Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6958cf869ed6d5d242badab5/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6958cf869ed6d5d242badab5/output_720p.mp4",
+            "quality": "720p",
+            "size": 827.64,
+            "_id": "695b690a9ed6d5d242f6c95a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6958cf869ed6d5d242badab5/output_480p.mp4",
+            "quality": "480p",
+            "size": 520.63,
+            "_id": "695b690a9ed6d5d242f6c95b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6958cf869ed6d5d242badab5/output_360p.mp4",
+            "quality": "360p",
+            "size": 451.91,
+            "_id": "695b690a9ed6d5d242f6c95c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6958cf869ed6d5d242badab5/output_240p.mp4",
+            "quality": "240p",
+            "size": 349.87,
+            "_id": "695b690a9ed6d5d242f6c95d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "percentage class 2  board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/percentage class 2  board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea569a2b1ae043381d6dc",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch | Class - 03 || Percentage (प्रतिशत) | by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:23:10.950Z",
+        "endDate": "2026-07-19T13:23:10.950Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/695b77389ed6d5d242ec5e6f/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695b77389ed6d5d242ec5e6f/output_720p.mp4",
+            "quality": "720p",
+            "size": 808.85,
+            "_id": "695cb9919ed6d5d2425a6c11"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695b77389ed6d5d242ec5e6f/output_480p.mp4",
+            "quality": "480p",
+            "size": 509.48,
+            "_id": "695cb9919ed6d5d2425a6c12"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695b77389ed6d5d242ec5e6f/output_360p.mp4",
+            "quality": "360p",
+            "size": 442.61,
+            "_id": "695cb9919ed6d5d2425a6c13"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695b77389ed6d5d242ec5e6f/output_240p.mp4",
+            "quality": "240p",
+            "size": 343.09,
+            "_id": "695cb9919ed6d5d2425a6c14"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "percentage class 03",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/percentage class 03.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea596a2b1ae0433822307",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch | Class - 04 || Percentage (प्रतिशत) | by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:23:12.504Z",
+        "endDate": "2026-07-19T13:23:12.504Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/695cbb502feca20f81cfc95c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695cbb502feca20f81cfc95c/output_720p.mp4",
+            "quality": "720p",
+            "size": 531.98,
+            "_id": "695e0552027f25d29ed2fc5c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695cbb502feca20f81cfc95c/output_480p.mp4",
+            "quality": "480p",
+            "size": 335.82,
+            "_id": "695e0552027f25d29ed2fc5d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695cbb502feca20f81cfc95c/output_360p.mp4",
+            "quality": "360p",
+            "size": 291.51,
+            "_id": "695e0552027f25d29ed2fc5e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695cbb502feca20f81cfc95c/output_240p.mp4",
+            "quality": "240p",
+            "size": 226.34,
+            "_id": "695e0552027f25d29ed2fc5f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "railway percentage class 4 board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/railway percentage class 4 board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea5bba2b1ae0433826f34",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch | Class - 05 || Percentage (प्रतिशत) | by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:23:13.782Z",
+        "endDate": "2026-07-19T13:23:13.782Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/695e45cc027f25d29e58bd9f/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695e45cc027f25d29e58bd9f/output_720p.mp4",
+            "quality": "720p",
+            "size": 772.03,
+            "_id": "695f5b95027f25d29e3139e0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695e45cc027f25d29e58bd9f/output_480p.mp4",
+            "quality": "480p",
+            "size": 486.43,
+            "_id": "695f5b95027f25d29e3139e1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695e45cc027f25d29e58bd9f/output_360p.mp4",
+            "quality": "360p",
+            "size": 422.41,
+            "_id": "695f5b95027f25d29e3139e2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695e45cc027f25d29e58bd9f/output_240p.mp4",
+            "quality": "240p",
+            "size": 327.53,
+            "_id": "695f5b95027f25d29e3139e3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "percentage class 5  board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/percentage class 5  board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea5e0a2b1ae043382bb63",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch | Class - 06 || Percentage (प्रतिशत) | by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:23:16.043Z",
+        "endDate": "2026-07-19T13:23:16.043Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/695f7af3027f25d29e8c4f29/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695f7af3027f25d29e8c4f29/output_720p.mp4",
+            "quality": "720p",
+            "size": 653.34,
+            "_id": "6960a938027f25d29e2f23e3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695f7af3027f25d29e8c4f29/output_480p.mp4",
+            "quality": "480p",
+            "size": 412.22,
+            "_id": "6960a938027f25d29e2f23e4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695f7af3027f25d29e8c4f29/output_360p.mp4",
+            "quality": "360p",
+            "size": 357.97,
+            "_id": "6960a938027f25d29e2f23e5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/695f7af3027f25d29e8c4f29/output_240p.mp4",
+            "quality": "240p",
+            "size": 278.28,
+            "_id": "6960a938027f25d29e2f23e6"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "percentage class 06 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/percentage class 06 pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea5fca2b1ae0433830775",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch | Class - 07 || Percentage (प्रतिशत) | by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:23:17.277Z",
+        "endDate": "2026-07-19T13:23:17.277Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/696b30f3719de161eee99233/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696b30f3719de161eee99233/output_720p.mp4",
+            "quality": "720p",
+            "size": 800.94,
+            "_id": "696dda00027f25d29e60ae92"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696b30f3719de161eee99233/output_480p.mp4",
+            "quality": "480p",
+            "size": 536.22,
+            "_id": "696dda00027f25d29e60ae93"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696b30f3719de161eee99233/output_360p.mp4",
+            "quality": "360p",
+            "size": 388.47,
+            "_id": "696dda00027f25d29e60ae94"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696b30f3719de161eee99233/output_240p.mp4",
+            "quality": "240p",
+            "size": 276.38,
+            "_id": "696dda00027f25d29e60ae95"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "percentage class 007",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/percentage class 001.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea62da2b1ae043383539d",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch | Class - 08 || Percentage (प्रतिशत) | by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:23:19.596Z",
+        "endDate": "2026-07-19T13:23:19.596Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/696dfe25719de161eef4ffc4/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696dfe25719de161eef4ffc4/output_720p.mp4",
+            "quality": "720p",
+            "size": 922.35,
+            "_id": "696f3187027f25d29e0e8e7a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696dfe25719de161eef4ffc4/output_480p.mp4",
+            "quality": "480p",
+            "size": 617.88,
+            "_id": "696f3187027f25d29e0e8e7b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696dfe25719de161eef4ffc4/output_360p.mp4",
+            "quality": "360p",
+            "size": 449.97,
+            "_id": "696f3187027f25d29e0e8e7c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696dfe25719de161eef4ffc4/output_240p.mp4",
+            "quality": "240p",
+            "size": 336.76,
+            "_id": "696f3187027f25d29e0e8e7d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "percentage class 02  pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/percentage class 02  pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea64ca2b1ae0433839fab",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch | Class - 09 || Percentage (प्रतिशत) | by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:23:21.537Z",
+        "endDate": "2026-07-19T13:23:21.537Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/696fcf73719de161ee085fe5/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696fcf73719de161ee085fe5/output_720p.mp4",
+            "quality": "720p",
+            "size": 962.37,
+            "_id": "6970821257df4eebc5e50b27"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696fcf73719de161ee085fe5/output_480p.mp4",
+            "quality": "480p",
+            "size": 639.95,
+            "_id": "6970821257df4eebc5e50b28"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696fcf73719de161ee085fe5/output_360p.mp4",
+            "quality": "360p",
+            "size": 464.41,
+            "_id": "6970821257df4eebc5e50b29"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/696fcf73719de161ee085fe5/output_240p.mp4",
+            "quality": "240p",
+            "size": 342.27,
+            "_id": "6970821257df4eebc5e50b2a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "percentage class 09 board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/percentage class 09 board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea670a2b1ae043383ebc5",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch | Class - 10 || Percentage (प्रतिशत) | by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:23:23.223Z",
+        "endDate": "2026-07-19T13:23:23.223Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6971a26e719de161ee159588/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6971a26e719de161ee159588/output_720p.mp4",
+            "quality": "720p",
+            "size": 775.03,
+            "_id": "6971ce84c4d5677c532c3419"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6971a26e719de161ee159588/output_480p.mp4",
+            "quality": "480p",
+            "size": 512.06,
+            "_id": "6971ce84c4d5677c532c341a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6971a26e719de161ee159588/output_360p.mp4",
+            "quality": "360p",
+            "size": 368.69,
+            "_id": "6971ce84c4d5677c532c341b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6971a26e719de161ee159588/output_240p.mp4",
+            "quality": "240p",
+            "size": 273.72,
+            "_id": "6971ce84c4d5677c532c341c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "percentage class 05",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/percentage class 05.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea68aa2b1ae04338437d7",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 01 || Problem on AGES by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:23:33.125Z",
+        "endDate": "2026-07-19T13:23:33.125Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/697202905914a96ddfe105dd/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/697202905914a96ddfe105dd/mp4/Class_01_Problem_on_Ages_By_Gagan_sir_720p_1__240p.mp4",
+            "quality": "240p",
+            "size": 299.27,
+            "_id": "69720a7a0f472d5393f9f046"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/697202905914a96ddfe105dd/mp4/Class_01_Problem_on_Ages_By_Gagan_sir_720p_1__360p.mp4",
+            "quality": "360p",
+            "size": 354.49,
+            "_id": "69720a7a0f472d5393f9f047"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/697202905914a96ddfe105dd/mp4/Class_01_Problem_on_Ages_By_Gagan_sir_720p_1__480p.mp4",
+            "quality": "480p",
+            "size": 480.37,
+            "_id": "69720a7a0f472d5393f9f048"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/697202905914a96ddfe105dd/mp4/Class_01_Problem_on_Ages_By_Gagan_sir_720p_1__720p.mp4",
+            "quality": "720p",
+            "size": 715.07,
+            "_id": "69720a7a0f472d5393f9f049"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "problem of ages class 1",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1768991970833-Problem_on_ages_class_01.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea6e7a2b1ae0433851cbf",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 02 || Problem on AGES by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:23:36.935Z",
+        "endDate": "2026-07-19T13:23:36.935Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/697202cb57df4eebc5465b6e/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/697202cb57df4eebc5465b6e/mp4/Class_02_Problem_on_Ages_By_Gagan_sir_720p_240p.mp4",
+            "quality": "240p",
+            "size": 405.21,
+            "_id": "697219c657df3eab1f0f1788"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/697202cb57df4eebc5465b6e/mp4/Class_02_Problem_on_Ages_By_Gagan_sir_720p_360p.mp4",
+            "quality": "360p",
+            "size": 482.82,
+            "_id": "697219c657df3eab1f0f1789"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/697202cb57df4eebc5465b6e/mp4/Class_02_Problem_on_Ages_By_Gagan_sir_720p_480p.mp4",
+            "quality": "480p",
+            "size": 654.93,
+            "_id": "697219c657df3eab1f0f178a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/697202cb57df4eebc5465b6e/mp4/Class_02_Problem_on_Ages_By_Gagan_sir_720p_720p.mp4",
+            "quality": "720p",
+            "size": 977.03,
+            "_id": "697219c657df3eab1f0f178b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "problem of ages class 2",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1768285320234-problem_on_ages_class_02_board_pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea710a2b1ae04338568d0",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 03 || Problem on AGES by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:23:40.145Z",
+        "endDate": "2026-07-19T13:23:40.145Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/697203140f472d5393e609a3/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/697203140f472d5393e609a3/mp4/Class_03_Problem_on_Ages_By_Gagan_sir_720p_240p.mp4",
+            "quality": "240p",
+            "size": 385.35,
+            "_id": "697224fca9698185229c4ce8"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/697203140f472d5393e609a3/mp4/Class_03_Problem_on_Ages_By_Gagan_sir_720p_360p.mp4",
+            "quality": "360p",
+            "size": 461.56,
+            "_id": "697224fca9698185229c4ce9"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/697203140f472d5393e609a3/mp4/Class_03_Problem_on_Ages_By_Gagan_sir_720p_480p.mp4",
+            "quality": "480p",
+            "size": 629.23,
+            "_id": "697224fca9698185229c4cea"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/697203140f472d5393e609a3/mp4/Class_03_Problem_on_Ages_By_Gagan_sir_720p_720p.mp4",
+            "quality": "720p",
+            "size": 950.23,
+            "_id": "697224fca9698185229c4ceb"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "problem of ages class 3 ",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/problem on ages class 3 pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea731a2b1ae043385b504",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class -01 || Ratio (अनुपात) | by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:23:58.355Z",
+        "endDate": "2026-07-19T13:23:58.355Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6971fa7c719de161ee29b6b8/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6971fa7c719de161ee29b6b8/output_720p.mp4",
+            "quality": "720p",
+            "size": 862.09,
+            "_id": "697342035020b7f1bfbd60ef"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6971fa7c719de161ee29b6b8/output_480p.mp4",
+            "quality": "480p",
+            "size": 572.29,
+            "_id": "697342035020b7f1bfbd60f0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6971fa7c719de161ee29b6b8/output_360p.mp4",
+            "quality": "360p",
+            "size": 409.76,
+            "_id": "697342035020b7f1bfbd60f1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6971fa7c719de161ee29b6b8/output_240p.mp4",
+            "quality": "240p",
+            "size": 299.39,
+            "_id": "697342035020b7f1bfbd60f2"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "ratio class 01",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/ratio class 01.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea77aa2b1ae0433860192",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class -02 || Ratio (अनुपात) | by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:24:01.618Z",
+        "endDate": "2026-07-19T13:24:01.618Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69734f8ccc325625a60563f5/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69734f8ccc325625a60563f5/output_720p.mp4",
+            "quality": "720p",
+            "size": 682.26,
+            "_id": "69746f36eec4934c0ef4deb1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69734f8ccc325625a60563f5/output_480p.mp4",
+            "quality": "480p",
+            "size": 460.96,
+            "_id": "69746f36eec4934c0ef4deb2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69734f8ccc325625a60563f5/output_360p.mp4",
+            "quality": "360p",
+            "size": 332.55,
+            "_id": "69746f36eec4934c0ef4deb3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69734f8ccc325625a60563f5/output_240p.mp4",
+            "quality": "240p",
+            "size": 236.47,
+            "_id": "69746f36eec4934c0ef4deb4"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "ratio class board",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/ratio class board.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea7b0a2b1ae0433864dfb",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class -03 || Ratio (अनुपात) | by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:24:05.296Z",
+        "endDate": "2026-07-19T13:24:05.296Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69779fb6c566674bff854279/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69779fb6c566674bff854279/output_720p.mp4",
+            "quality": "720p",
+            "size": 582.15,
+            "_id": "697861f9186e87919937de9a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69779fb6c566674bff854279/output_480p.mp4",
+            "quality": "480p",
+            "size": 383.15,
+            "_id": "697861f9186e87919937de9b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69779fb6c566674bff854279/output_360p.mp4",
+            "quality": "360p",
+            "size": 274.57,
+            "_id": "697861f9186e87919937de9c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69779fb6c566674bff854279/output_240p.mp4",
+            "quality": "240p",
+            "size": 197.38,
+            "_id": "697861f9186e87919937de9d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "ratio class 03 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/upsi 27 jan board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea7d4a2b1ae0433869a16",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class -04 || Ratio (अनुपात) | by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:24:09.397Z",
+        "endDate": "2026-07-19T13:24:09.397Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6978deddc566674bff8d3db6/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6978deddc566674bff8d3db6/output_720p.mp4",
+            "quality": "720p",
+            "size": 828.71,
+            "_id": "6979baf4c920e7a1d08a986f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6978deddc566674bff8d3db6/output_480p.mp4",
+            "quality": "480p",
+            "size": 544.49,
+            "_id": "6979baf4c920e7a1d08a9870"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6978deddc566674bff8d3db6/output_360p.mp4",
+            "quality": "360p",
+            "size": 392.06,
+            "_id": "6979baf4c920e7a1d08a9871"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6978deddc566674bff8d3db6/output_240p.mp4",
+            "quality": "240p",
+            "size": 281.08,
+            "_id": "6979baf4c920e7a1d08a9872"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "ratio class 04 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/ratio class 04 pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea7f4a2b1ae043386e63b",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class -01 || Profit and loss (लाभ और हानि) | by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:24:35.586Z",
+        "endDate": "2026-07-19T13:24:35.586Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6979cbcfc566674bff94b470/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6979cbcfc566674bff94b470/output_720p.mp4",
+            "quality": "720p",
+            "size": 815.44,
+            "_id": "697b0b660884f164a57476c7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6979cbcfc566674bff94b470/output_480p.mp4",
+            "quality": "480p",
+            "size": 543.05,
+            "_id": "697b0b660884f164a57476c8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6979cbcfc566674bff94b470/output_360p.mp4",
+            "quality": "360p",
+            "size": 390.31,
+            "_id": "697b0b660884f164a57476c9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6979cbcfc566674bff94b470/output_240p.mp4",
+            "quality": "240p",
+            "size": 285.87,
+            "_id": "697b0b660884f164a57476ca"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "profit and loss class 01",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/profit and loss class 01 .pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea833a2b1ae0433873256",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class -02 || Profit and loss (लाभ और हानि) | by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:24:39.514Z",
+        "endDate": "2026-07-19T13:24:39.514Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/697bacdb4d8dc840697bf825/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697bacdb4d8dc840697bf825/output_720p.mp4",
+            "quality": "720p",
+            "size": 883.58,
+            "_id": "697c5d8ec40b4c4cef342246"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697bacdb4d8dc840697bf825/output_480p.mp4",
+            "quality": "480p",
+            "size": 588.46,
+            "_id": "697c5d8ec40b4c4cef342247"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697bacdb4d8dc840697bf825/output_360p.mp4",
+            "quality": "360p",
+            "size": 425.83,
+            "_id": "697c5d8ec40b4c4cef342248"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697bacdb4d8dc840697bf825/output_240p.mp4",
+            "quality": "240p",
+            "size": 314.15,
+            "_id": "697c5d8ec40b4c4cef342249"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "profit and loss class 02",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/profit and loss class 02.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea858a2b1ae0433877e6c",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class -03 || Profit and loss (लाभ और हानि) | by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:24:42.534Z",
+        "endDate": "2026-07-19T13:24:42.534Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/697d788f4ca8c7fbe8eff97a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697d788f4ca8c7fbe8eff97a/output_720p.mp4",
+            "quality": "720p",
+            "size": 832.18,
+            "_id": "697dacc3769f03dc840b5d37"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697d788f4ca8c7fbe8eff97a/output_480p.mp4",
+            "quality": "480p",
+            "size": 551.91,
+            "_id": "697dacc3769f03dc840b5d38"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697d788f4ca8c7fbe8eff97a/output_360p.mp4",
+            "quality": "360p",
+            "size": 400.83,
+            "_id": "697dacc3769f03dc840b5d39"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/697d788f4ca8c7fbe8eff97a/output_240p.mp4",
+            "quality": "240p",
+            "size": 308.74,
+            "_id": "697dacc3769f03dc840b5d3a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "profit and loss class 03 board",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/profit and loss class 03 board.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea893a2b1ae043387ca87",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class -01 || Discount छूट | by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:24:53.476Z",
+        "endDate": "2026-07-19T13:24:53.476Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69817f2d4ca8c7fbe809c6f8/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69817f2d4ca8c7fbe809c6f8/mp4/GD_UPSI_Constable_Class_01_Discount_by_Gagan_sir_240p.mp4",
+            "quality": "240p",
+            "size": 384.12,
+            "_id": "6981894d77701de87552bbf7"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69817f2d4ca8c7fbe809c6f8/mp4/GD_UPSI_Constable_Class_01_Discount_by_Gagan_sir_360p.mp4",
+            "quality": "360p",
+            "size": 448.24,
+            "_id": "6981894d77701de87552bbf8"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69817f2d4ca8c7fbe809c6f8/mp4/GD_UPSI_Constable_Class_01_Discount_by_Gagan_sir_480p.mp4",
+            "quality": "480p",
+            "size": 598.03,
+            "_id": "6981894d77701de87552bbf9"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69817f2d4ca8c7fbe809c6f8/mp4/GD_UPSI_Constable_Class_01_Discount_by_Gagan_sir_720p.mp4",
+            "quality": "720p",
+            "size": 869.58,
+            "_id": "6981894d77701de87552bbfa"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "discount class 001",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/discount class 001.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea8e2a2b1ae04338816a3",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class -02 || Discount छूट | by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:24:56.607Z",
+        "endDate": "2026-07-19T13:24:56.607Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698072134ca8c7fbe8018b27/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698072134ca8c7fbe8018b27/output_720p.mp4",
+            "quality": "720p",
+            "size": 859,
+            "_id": "6981a3208676ad0dbdc89627"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698072134ca8c7fbe8018b27/output_480p.mp4",
+            "quality": "480p",
+            "size": 572.63,
+            "_id": "6981a3208676ad0dbdc89628"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698072134ca8c7fbe8018b27/output_360p.mp4",
+            "quality": "360p",
+            "size": 414.7,
+            "_id": "6981a3208676ad0dbdc89629"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698072134ca8c7fbe8018b27/output_240p.mp4",
+            "quality": "240p",
+            "size": 300.39,
+            "_id": "6981a3208676ad0dbdc8962a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "discount class 002",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/discount class 002.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea90ba2b1ae04338862bd",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class -03 || Discount छूट | by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:25:00.057Z",
+        "endDate": "2026-07-19T13:25:00.057Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6981a23e4ca8c7fbe80d9b3b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6981a23e4ca8c7fbe80d9b3b/output_720p.mp4",
+            "quality": "720p",
+            "size": 1141.78,
+            "_id": "698300f3509c72be62264a59"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6981a23e4ca8c7fbe80d9b3b/output_480p.mp4",
+            "quality": "480p",
+            "size": 761.08,
+            "_id": "698300f3509c72be62264a5a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6981a23e4ca8c7fbe80d9b3b/output_360p.mp4",
+            "quality": "360p",
+            "size": 555.09,
+            "_id": "698300f3509c72be62264a5b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6981a23e4ca8c7fbe80d9b3b/output_240p.mp4",
+            "quality": "240p",
+            "size": 410.39,
+            "_id": "698300f3509c72be62264a5c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "discount class 003",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/discount class 003.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea963a2b1ae043388aef5",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 01 || Time and Work (समय और कार्य) | By Gagan Sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:25:16.249Z",
+        "endDate": "2026-07-19T13:25:16.249Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69831d8efc5097091c0765bc/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69831d8efc5097091c0765bc/output_720p.mp4",
+            "quality": "720p",
+            "size": 826,
+            "_id": "6984453059d9aefff3fe335c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69831d8efc5097091c0765bc/output_480p.mp4",
+            "quality": "480p",
+            "size": 546.9,
+            "_id": "6984453059d9aefff3fe335d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69831d8efc5097091c0765bc/output_360p.mp4",
+            "quality": "360p",
+            "size": 394.9,
+            "_id": "6984453059d9aefff3fe335e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69831d8efc5097091c0765bc/output_240p.mp4",
+            "quality": "240p",
+            "size": 289.28,
+            "_id": "6984453059d9aefff3fe335f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 2,
+            "name": "arambh time and work class 001 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/time-and-work-class-01 (2).pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea99ea2b1ae043388fb1c",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 02 || Time and Work (समय और कार्य) | By Gagan Sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:25:18.825Z",
+        "endDate": "2026-07-19T13:25:18.825Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698458e1fdd21a8a2d14f0a1/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698458e1fdd21a8a2d14f0a1/output_720p.mp4",
+            "quality": "720p",
+            "size": 789.92,
+            "_id": "6985956518f71e2cee252aa2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698458e1fdd21a8a2d14f0a1/output_480p.mp4",
+            "quality": "480p",
+            "size": 527.36,
+            "_id": "6985956518f71e2cee252aa3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698458e1fdd21a8a2d14f0a1/output_360p.mp4",
+            "quality": "360p",
+            "size": 382.45,
+            "_id": "6985956518f71e2cee252aa4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698458e1fdd21a8a2d14f0a1/output_240p.mp4",
+            "quality": "240p",
+            "size": 265.24,
+            "_id": "6985956518f71e2cee252aa5"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "time and work class 002",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/time and work class 002.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aea9d0a2b1ae0433894732",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 03 || Time and Work (समय और कार्य) | By Gagan Sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:25:22.036Z",
+        "endDate": "2026-07-19T13:25:22.036Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6985cb1b0df4ffd2b9b08b65/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6985cb1b0df4ffd2b9b08b65/output_720p.mp4",
+            "quality": "720p",
+            "size": 1014.76,
+            "_id": "6989917d82e2b59e55762151"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6985cb1b0df4ffd2b9b08b65/output_480p.mp4",
+            "quality": "480p",
+            "size": 678,
+            "_id": "6989917d82e2b59e55762152"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6985cb1b0df4ffd2b9b08b65/output_360p.mp4",
+            "quality": "360p",
+            "size": 495.53,
+            "_id": "6989917d82e2b59e55762153"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6985cb1b0df4ffd2b9b08b65/output_240p.mp4",
+            "quality": "240p",
+            "size": 367.32,
+            "_id": "6989917d82e2b59e55762154"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "time and work class 03 pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/upsi 9 feb board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeaa67a2b1ae043389b9e5",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 04 || Time and Work (समय और कार्य) | By Gagan Sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:25:25.446Z",
+        "endDate": "2026-07-19T13:25:25.446Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6989ab5e5b61b5fe0009786d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6989ab5e5b61b5fe0009786d/output_720p.mp4",
+            "quality": "720p",
+            "size": 826.82,
+            "_id": "698af0d53ced459aa0272e18"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6989ab5e5b61b5fe0009786d/output_480p.mp4",
+            "quality": "480p",
+            "size": 548.99,
+            "_id": "698af0d53ced459aa0272e19"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6989ab5e5b61b5fe0009786d/output_360p.mp4",
+            "quality": "360p",
+            "size": 399.14,
+            "_id": "698af0d53ced459aa0272e1a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6989ab5e5b61b5fe0009786d/output_240p.mp4",
+            "quality": "240p",
+            "size": 287.83,
+            "_id": "698af0d53ced459aa0272e1b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "time and work class 004",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/time and work class 004.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeaaa9a2b1ae04338a0602",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 05 || Time and Work (समय और कार्य) | By Gagan Sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:25:27.537Z",
+        "endDate": "2026-07-19T13:25:27.537Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698b7484a003679fb8ade331/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698b7484a003679fb8ade331/output_720p.mp4",
+            "quality": "720p",
+            "size": 633.67,
+            "_id": "698c279b105ad07ca4e6cb6e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698b7484a003679fb8ade331/output_480p.mp4",
+            "quality": "480p",
+            "size": 419.54,
+            "_id": "698c279b105ad07ca4e6cb6f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698b7484a003679fb8ade331/output_360p.mp4",
+            "quality": "360p",
+            "size": 304.35,
+            "_id": "698c279b105ad07ca4e6cb70"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698b7484a003679fb8ade331/output_240p.mp4",
+            "quality": "240p",
+            "size": 226.62,
+            "_id": "698c279b105ad07ca4e6cb71"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "time and work class 05",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/time and work class 05.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeabc3a2b1ae04338a5298",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 01 || Pipe and cistern (नल और टंकी) | By Gagan Sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 5418.867,
+        "startDate": "2026-07-19T12:25:43.336Z",
+        "endDate": "2026-07-19T13:25:43.336Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69aeac3ba2b1ae04338a9edc/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69aeac3ba2b1ae04338a9edc/mp4/1000298020_240p.mp4",
+            "quality": "240p",
+            "size": 381.28,
+            "_id": "69c59028c8d7a41f985122b0"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69aeac3ba2b1ae04338a9edc/mp4/1000298020_360p.mp4",
+            "quality": "360p",
+            "size": 448.19,
+            "_id": "69c59028c8d7a41f985122b1"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69aeac3ba2b1ae04338a9edc/mp4/1000298020_480p.mp4",
+            "quality": "480p",
+            "size": 599.58,
+            "_id": "69c59028c8d7a41f985122b2"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69aeac3ba2b1ae04338a9edc/mp4/1000298020_720p.mp4",
+            "quality": "720p",
+            "size": 877.37,
+            "_id": "69c59028c8d7a41f985122b3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "pipe and cistern class 01",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1774552188840-pipe_and_cistern_class_01_compressed.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeac3ba2b1ae04338a9edc",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class-01 || Partnership by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:26:02.681Z",
+        "endDate": "2026-07-19T13:26:02.681Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698ebb958f7f447d563143c5/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698ebb958f7f447d563143c5/output_720p.mp4",
+            "quality": "720p",
+            "size": 831.4,
+            "_id": "698f46459ba67f730fd8f255"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698ebb958f7f447d563143c5/output_480p.mp4",
+            "quality": "480p",
+            "size": 557.54,
+            "_id": "698f46459ba67f730fd8f256"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698ebb958f7f447d563143c5/output_360p.mp4",
+            "quality": "360p",
+            "size": 408.91,
+            "_id": "698f46459ba67f730fd8f257"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698ebb958f7f447d563143c5/output_240p.mp4",
+            "quality": "240p",
+            "size": 311.78,
+            "_id": "698f46459ba67f730fd8f258"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "class 01 Partnership",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/class 01 Partnership.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aead62a2b1ae04338bf57e",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class-02 || Partnership by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:26:05.285Z",
+        "endDate": "2026-07-19T13:26:05.285Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699209bae23f1dc0e52da70e/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699209bae23f1dc0e52da70e/output_720p.mp4",
+            "quality": "720p",
+            "size": 705.67,
+            "_id": "69947de182e16e0f9c3ad969"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699209bae23f1dc0e52da70e/output_480p.mp4",
+            "quality": "480p",
+            "size": 466.2,
+            "_id": "69947de182e16e0f9c3ad96a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699209bae23f1dc0e52da70e/output_360p.mp4",
+            "quality": "360p",
+            "size": 338.29,
+            "_id": "69947de182e16e0f9c3ad96b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699209bae23f1dc0e52da70e/output_240p.mp4",
+            "quality": "240p",
+            "size": 250.91,
+            "_id": "69947de182e16e0f9c3ad96c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "partnership class 02",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1771339667236-railway_17_feb_board_pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aead82a2b1ae04338c418c",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class-03 || Partnership by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:26:08.458Z",
+        "endDate": "2026-07-19T13:26:08.458Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699557f4399756d49246c610/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699557f4399756d49246c610/output_720p.mp4",
+            "quality": "720p",
+            "size": 760.54,
+            "_id": "6995cc4870d0462766927e7c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699557f4399756d49246c610/output_480p.mp4",
+            "quality": "480p",
+            "size": 506.77,
+            "_id": "6995cc4870d0462766927e7d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699557f4399756d49246c610/output_360p.mp4",
+            "quality": "360p",
+            "size": 370.68,
+            "_id": "6995cc4870d0462766927e7e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699557f4399756d49246c610/output_240p.mp4",
+            "quality": "240p",
+            "size": 279.57,
+            "_id": "6995cc4870d0462766927e7f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Partnership class 03",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/class 03 Partnership board.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeada9a2b1ae04338c8d9d",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Time_Speed_Distance_Class_1",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:26:16.493Z",
+        "endDate": "2026-07-19T13:26:16.493Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7efc/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7efc/mp4/Time_Speed_Distance_Class_1_240p.mp4",
+            "quality": "240p",
+            "size": 88.27,
+            "_id": "6922a1dbdd258fd3238d5db7"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7efc/mp4/Time_Speed_Distance_Class_1_360p.mp4",
+            "quality": "360p",
+            "size": 160.37,
+            "_id": "6922a1dbdd258fd3238d5db8"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7efc/mp4/Time_Speed_Distance_Class_1_480p.mp4",
+            "quality": "480p",
+            "size": 246.26,
+            "_id": "6922a1dbdd258fd3238d5db9"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7efc/mp4/Time_Speed_Distance_Class_1_720p.mp4",
+            "quality": "720p",
+            "size": 408.04,
+            "_id": "6922a1dbdd258fd3238d5dba"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeae08a2b1ae04338cda04",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Time_Speed_Distance_Class_2",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:26:23.125Z",
+        "endDate": "2026-07-19T13:26:23.125Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7efd/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7efd/mp4/Time_Speed_Distance_Class_2_240p.mp4",
+            "quality": "240p",
+            "size": 84.99,
+            "_id": "69229fc6dd258fd32385c8da"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7efd/mp4/Time_Speed_Distance_Class_2_360p.mp4",
+            "quality": "360p",
+            "size": 142.87,
+            "_id": "69229fc6dd258fd32385c8db"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7efd/mp4/Time_Speed_Distance_Class_2_480p.mp4",
+            "quality": "480p",
+            "size": 216.16,
+            "_id": "69229fc6dd258fd32385c8dc"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7efd/mp4/Time_Speed_Distance_Class_2_720p.mp4",
+            "quality": "720p",
+            "size": 349.11,
+            "_id": "69229fc6dd258fd32385c8dd"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeae38a2b1ae04338d2655",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Time_Speed_Distance_Class_3",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:26:59.155Z",
+        "endDate": "2026-07-19T13:26:59.155Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7efe/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7efe/mp4/Time_Speed_Distance_Class_3_240p.mp4",
+            "quality": "240p",
+            "size": 88.3,
+            "_id": "6922a7cedd258fd323a30ba8"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7efe/mp4/Time_Speed_Distance_Class_3_360p.mp4",
+            "quality": "360p",
+            "size": 141.75,
+            "_id": "6922a7cedd258fd323a30ba9"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7efe/mp4/Time_Speed_Distance_Class_3_480p.mp4",
+            "quality": "480p",
+            "size": 205.58,
+            "_id": "6922a7cedd258fd323a30baa"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7efe/mp4/Time_Speed_Distance_Class_3_720p.mp4",
+            "quality": "720p",
+            "size": 344.48,
+            "_id": "6922a7cedd258fd323a30bab"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeae58a2b1ae04338d98b0",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Time_Speed_Distance_Class_4",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:27:01.915Z",
+        "endDate": "2026-07-19T13:27:01.915Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7eff/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7eff/mp4/Time_Speed_Distance_Class_4_240p.mp4",
+            "quality": "240p",
+            "size": 72.62,
+            "_id": "6922a3b9dd258fd323946dfc"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7eff/mp4/Time_Speed_Distance_Class_4_360p.mp4",
+            "quality": "360p",
+            "size": 122.48,
+            "_id": "6922a3b9dd258fd323946dfd"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7eff/mp4/Time_Speed_Distance_Class_4_480p.mp4",
+            "quality": "480p",
+            "size": 184.3,
+            "_id": "6922a3b9dd258fd323946dfe"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7eff/mp4/Time_Speed_Distance_Class_4_720p.mp4",
+            "quality": "720p",
+            "size": 310.11,
+            "_id": "6922a3b9dd258fd323946dff"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeae7ca2b1ae04338e30ce",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Time_Speed_Distance_Class_5",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:27:04.890Z",
+        "endDate": "2026-07-19T13:27:04.890Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7f00/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7f00/mp4/Time_Speed_Distance_Class_5_240p.mp4",
+            "quality": "240p",
+            "size": 79.45,
+            "_id": "6926e91bdd258fd323d50a43"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7f00/mp4/Time_Speed_Distance_Class_5_360p.mp4",
+            "quality": "360p",
+            "size": 129.67,
+            "_id": "6926e91bdd258fd323d50a44"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7f00/mp4/Time_Speed_Distance_Class_5_480p.mp4",
+            "quality": "480p",
+            "size": 189.41,
+            "_id": "6926e91bdd258fd323d50a45"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7f00/mp4/Time_Speed_Distance_Class_5_720p.mp4",
+            "quality": "720p",
+            "size": 319.14,
+            "_id": "6926e91bdd258fd323d50a46"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeaea7a2b1ae04338e7cf7",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Time_Speed_Distance_Class_6",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:27:07.630Z",
+        "endDate": "2026-07-19T13:27:07.630Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7f01/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7f01/mp4/Time_Speed_Distance_Class_6_240p.mp4",
+            "quality": "240p",
+            "size": 85.43,
+            "_id": "692a94b6dd258fd323dd6fd1"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7f01/mp4/Time_Speed_Distance_Class_6_360p.mp4",
+            "quality": "360p",
+            "size": 141.73,
+            "_id": "692a94b6dd258fd323dd6fd2"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7f01/mp4/Time_Speed_Distance_Class_6_480p.mp4",
+            "quality": "480p",
+            "size": 209.4,
+            "_id": "692a94b6dd258fd323dd6fd3"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7f01/mp4/Time_Speed_Distance_Class_6_720p.mp4",
+            "quality": "720p",
+            "size": 369.22,
+            "_id": "692a94b6dd258fd323dd6fd4"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeaedfa2b1ae04338eef11",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Time_Speed_Distance_Class_7",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:27:09.382Z",
+        "endDate": "2026-07-19T13:27:09.382Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7f02/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7f02/mp4/Time_Speed_Distance_Class_7_240p.mp4",
+            "quality": "240p",
+            "size": 90.12,
+            "_id": "692a9481dd258fd323dc54c0"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7f02/mp4/Time_Speed_Distance_Class_7_360p.mp4",
+            "quality": "360p",
+            "size": 143.61,
+            "_id": "692a9481dd258fd323dc54c1"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7f02/mp4/Time_Speed_Distance_Class_7_480p.mp4",
+            "quality": "480p",
+            "size": 208.63,
+            "_id": "692a9481dd258fd323dc54c2"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6922929e8b0d4f251f7f7f02/mp4/Time_Speed_Distance_Class_7_720p.mp4",
+            "quality": "720p",
+            "size": 356.66,
+            "_id": "692a9481dd258fd323dc54c3"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeaf0da2b1ae04338f612b",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || COMPLETE || BOAT AND STREAM",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:27:17.472Z",
+        "endDate": "2026-07-19T13:27:17.472Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/695bb9729ed6d5d2423b789d/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/695bb9729ed6d5d2423b789d/mp4/boat_and_strema_mains_240p.mp4",
+            "quality": "240p",
+            "size": 795.56,
+            "_id": "695c03039ed6d5d242eb7527"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/695bb9729ed6d5d2423b789d/mp4/boat_and_strema_mains_360p.mp4",
+            "quality": "360p",
+            "size": 958.04,
+            "_id": "695c03039ed6d5d242eb7528"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/695bb9729ed6d5d2423b789d/mp4/boat_and_strema_mains_480p.mp4",
+            "quality": "480p",
+            "size": 1301.31,
+            "_id": "695c03039ed6d5d242eb7529"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/695bb9729ed6d5d2423b789d/mp4/boat_and_strema_mains_720p.mp4",
+            "quality": "720p",
+            "size": 1887.47,
+            "_id": "695c03039ed6d5d242eb752a"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeaf56a2b1ae04338fd33d",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Complete || TRAIN",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:27:23.347Z",
+        "endDate": "2026-07-19T13:27:23.347Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/695bc4f89ed6d5d242fd71a2/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/695bc4f89ed6d5d242fd71a2/mp4/TRAIN_240p.mp4",
+            "quality": "240p",
+            "size": 565.88,
+            "_id": "695cd03b027f25d29e3de244"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/695bc4f89ed6d5d242fd71a2/mp4/TRAIN_360p.mp4",
+            "quality": "360p",
+            "size": 689.37,
+            "_id": "695cd03b027f25d29e3de245"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/695bc4f89ed6d5d242fd71a2/mp4/TRAIN_480p.mp4",
+            "quality": "480p",
+            "size": 940.88,
+            "_id": "695cd03b027f25d29e3de246"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/695bc4f89ed6d5d242fd71a2/mp4/TRAIN_720p.mp4",
+            "quality": "720p",
+            "size": 1382.43,
+            "_id": "695cd03b027f25d29e3de247"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeafa1a2b1ae0433904563",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class -01 || Compound Interest (चक्रवृद्धि ब्याज) | By Gagan Sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:27:38.934Z",
+        "endDate": "2026-07-19T13:27:38.934Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69951223399756d49243f0d3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69951223399756d49243f0d3/output_720p.mp4",
+            "quality": "720p",
+            "size": 924.85,
+            "_id": "69956e23bc2aae3cc3680fc0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69951223399756d49243f0d3/output_480p.mp4",
+            "quality": "480p",
+            "size": 620.09,
+            "_id": "69956e23bc2aae3cc3680fc1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69951223399756d49243f0d3/output_360p.mp4",
+            "quality": "360p",
+            "size": 452.36,
+            "_id": "69956e23bc2aae3cc3680fc2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69951223399756d49243f0d3/output_240p.mp4",
+            "quality": "240p",
+            "size": 344.85,
+            "_id": "69956e23bc2aae3cc3680fc3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "compound interest class 01",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/compound interest class 01.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeb001a2b1ae043390919a",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class -02 || Compound Interest (चक्रवृद्धि ब्याज) | By Gagan Sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:27:41.532Z",
+        "endDate": "2026-07-19T13:27:41.532Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69958a4a399756d4924b51fb/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69958a4a399756d4924b51fb/output_720p.mp4",
+            "quality": "720p",
+            "size": 932.51,
+            "_id": "6996bc88bd84e0869cc3ddb5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69958a4a399756d4924b51fb/output_480p.mp4",
+            "quality": "480p",
+            "size": 622.87,
+            "_id": "6996bc88bd84e0869cc3ddb6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69958a4a399756d4924b51fb/output_360p.mp4",
+            "quality": "360p",
+            "size": 453.06,
+            "_id": "6996bc88bd84e0869cc3ddb7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69958a4a399756d4924b51fb/output_240p.mp4",
+            "quality": "240p",
+            "size": 333.53,
+            "_id": "6996bc88bd84e0869cc3ddb8"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "compound interest class 02",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/compound interest class 02.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeb028a2b1ae043390ddcb",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class -03 || Compound Interest (चक्रवृद्धि ब्याज) | By Gagan Sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:27:45.539Z",
+        "endDate": "2026-07-19T13:27:45.539Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6996db54399756d492589cee/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6996db54399756d492589cee/output_720p.mp4",
+            "quality": "720p",
+            "size": 590.38,
+            "_id": "6998069b70d0462766efca2d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6996db54399756d492589cee/output_480p.mp4",
+            "quality": "480p",
+            "size": 395.61,
+            "_id": "6998069b70d0462766efca2e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6996db54399756d492589cee/output_360p.mp4",
+            "quality": "360p",
+            "size": 288.91,
+            "_id": "6998069b70d0462766efca2f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6996db54399756d492589cee/output_240p.mp4",
+            "quality": "240p",
+            "size": 216.02,
+            "_id": "6998069b70d0462766efca30"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "compound interest class 03",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/upsi 20 feb board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeb052a2b1ae04339129f6",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class -04 || Compound Interest (चक्रवृद्धि ब्याज) | By Gagan Sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:27:49.007Z",
+        "endDate": "2026-07-19T13:27:49.007Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699953e8399756d49272c10f/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699953e8399756d49272c10f/output_720p.mp4",
+            "quality": "720p",
+            "size": 679.89,
+            "_id": "699bfb933aa82ff1ff72aeb8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699953e8399756d49272c10f/output_480p.mp4",
+            "quality": "480p",
+            "size": 447.16,
+            "_id": "699bfb933aa82ff1ff72aeb9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699953e8399756d49272c10f/output_360p.mp4",
+            "quality": "360p",
+            "size": 321.64,
+            "_id": "699bfb933aa82ff1ff72aeba"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699953e8399756d49272c10f/output_240p.mp4",
+            "quality": "240p",
+            "size": 230.81,
+            "_id": "699bfb933aa82ff1ff72aebb"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "compound interest class 04",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/compound interest class 04.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeb07ca2b1ae043391760b",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class -05 || Compound Interest (चक्रवृद्धि ब्याज) | By Gagan Sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:27:51.704Z",
+        "endDate": "2026-07-19T13:27:51.704Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699c2372399756d492879bb1/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699c2372399756d492879bb1/output_720p.mp4",
+            "quality": "720p",
+            "size": 824.94,
+            "_id": "699d5524a746ce3726e64d18"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699c2372399756d492879bb1/output_480p.mp4",
+            "quality": "480p",
+            "size": 549.74,
+            "_id": "699d5524a746ce3726e64d19"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699c2372399756d492879bb1/output_360p.mp4",
+            "quality": "360p",
+            "size": 400.83,
+            "_id": "699d5524a746ce3726e64d1a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699c2372399756d492879bb1/output_240p.mp4",
+            "quality": "240p",
+            "size": 305.96,
+            "_id": "699d5524a746ce3726e64d1b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "compound interest class 05",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/compound interest class 05.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeb0b3a2b1ae043391c21e",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class -06 || Compound Interest (चक्रवृद्धि ब्याज) | By Gagan Sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:27:53.882Z",
+        "endDate": "2026-07-19T13:27:53.882Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699d8aea399756d492a06d42/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699d8aea399756d492a06d42/output_720p.mp4",
+            "quality": "720p",
+            "size": 887.15,
+            "_id": "699ea4e2cc56db9e90902c2c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699d8aea399756d492a06d42/output_480p.mp4",
+            "quality": "480p",
+            "size": 588.3,
+            "_id": "699ea4e2cc56db9e90902c2d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699d8aea399756d492a06d42/output_360p.mp4",
+            "quality": "360p",
+            "size": 425.32,
+            "_id": "699ea4e2cc56db9e90902c2e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699d8aea399756d492a06d42/output_240p.mp4",
+            "quality": "240p",
+            "size": 308.23,
+            "_id": "699ea4e2cc56db9e90902c2f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "compound interest class 06",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/compound interest class 06.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeb0e0a2b1ae0433920e33",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 01 || Simple Interest (साधारण ब्याज) | By Gagan Sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:28:06.061Z",
+        "endDate": "2026-07-19T13:28:06.061Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698db8648f7f447d56267f3e/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698db8648f7f447d56267f3e/output_720p.mp4",
+            "quality": "720p",
+            "size": 911.19,
+            "_id": "698ede1eee08d906a049c8b3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698db8648f7f447d56267f3e/output_480p.mp4",
+            "quality": "480p",
+            "size": 610.78,
+            "_id": "698ede1eee08d906a049c8b4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698db8648f7f447d56267f3e/output_360p.mp4",
+            "quality": "360p",
+            "size": 446.09,
+            "_id": "698ede1eee08d906a049c8b5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698db8648f7f447d56267f3e/output_240p.mp4",
+            "quality": "240p",
+            "size": 337.33,
+            "_id": "698ede1eee08d906a049c8b6"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "simple interest class 1",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/simple interest class 1.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeacb3a2b1ae04338aeaf8",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 02 || Simple Interest (साधारण ब्याज) | By Gagan Sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:28:07.925Z",
+        "endDate": "2026-07-19T13:28:07.925Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699208a7e23f1dc0e52d24e6/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699208a7e23f1dc0e52d24e6/output_720p.mp4",
+            "quality": "720p",
+            "size": 846.93,
+            "_id": "6992c5ab9ba67f730f4f6ca0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699208a7e23f1dc0e52d24e6/output_480p.mp4",
+            "quality": "480p",
+            "size": 565.62,
+            "_id": "6992c5ab9ba67f730f4f6ca1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699208a7e23f1dc0e52d24e6/output_360p.mp4",
+            "quality": "360p",
+            "size": 413.3,
+            "_id": "6992c5ab9ba67f730f4f6ca2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699208a7e23f1dc0e52d24e6/output_240p.mp4",
+            "quality": "240p",
+            "size": 312.91,
+            "_id": "6992c5ab9ba67f730f4f6ca3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "simple interest class 02",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1779953729991-upsi_16_feb_board_pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeacdda2b1ae04338b371a",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class - 03 || Simple Interest (साधारण ब्याज) | By Gagan Sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:28:10.144Z",
+        "endDate": "2026-07-19T13:28:10.144Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699344dae23f1dc0e53b742a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699344dae23f1dc0e53b742a/output_720p.mp4",
+            "quality": "720p",
+            "size": 737.17,
+            "_id": "69941a4a08fc838a4222eb3d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699344dae23f1dc0e53b742a/output_480p.mp4",
+            "quality": "480p",
+            "size": 492.13,
+            "_id": "69941a4a08fc838a4222eb3e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699344dae23f1dc0e53b742a/output_360p.mp4",
+            "quality": "360p",
+            "size": 359.06,
+            "_id": "69941a4a08fc838a4222eb3f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699344dae23f1dc0e53b742a/output_240p.mp4",
+            "quality": "240p",
+            "size": 264.27,
+            "_id": "69941a4a08fc838a4222eb40"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "simple interest class 3",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/simple interest class 3.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aead00a2b1ae04338b8349",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class-01 | Mixture and Alligation by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:28:20.740Z",
+        "endDate": "2026-07-19T13:28:20.740Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69980542399756d49264cb59/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69980542399756d49264cb59/mp4/RF1_2_RRB_UPSI_GD_Constable_Class_4_Maths_By_Gagan_Sir_240p.mp4",
+            "quality": "240p",
+            "size": 385.08,
+            "_id": "69980f55ebd78590327b2192"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69980542399756d49264cb59/mp4/RF1_2_RRB_UPSI_GD_Constable_Class_4_Maths_By_Gagan_Sir_360p.mp4",
+            "quality": "360p",
+            "size": 449.48,
+            "_id": "69980f55ebd78590327b2193"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69980542399756d49264cb59/mp4/RF1_2_RRB_UPSI_GD_Constable_Class_4_Maths_By_Gagan_Sir_480p.mp4",
+            "quality": "480p",
+            "size": 600.87,
+            "_id": "69980f55ebd78590327b2194"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69980542399756d49264cb59/mp4/RF1_2_RRB_UPSI_GD_Constable_Class_4_Maths_By_Gagan_Sir_720p.mp4",
+            "quality": "720p",
+            "size": 879.01,
+            "_id": "69980f55ebd78590327b2195"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mixture and alligation Class 01 board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/mixture and alligation Class 01 board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeb148a2b1ae0433925a58",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class-02 | Mixture and Alligation by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:28:23.940Z",
+        "endDate": "2026-07-19T13:28:23.940Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699804e1399756d492648555/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699804e1399756d492648555/output_720p.mp4",
+            "quality": "720p",
+            "size": 689.64,
+            "_id": "699884dea746ce372659c792"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699804e1399756d492648555/output_480p.mp4",
+            "quality": "480p",
+            "size": 459.79,
+            "_id": "699884dea746ce372659c793"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699804e1399756d492648555/output_360p.mp4",
+            "quality": "360p",
+            "size": 336.44,
+            "_id": "699884dea746ce372659c794"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699804e1399756d492648555/output_240p.mp4",
+            "quality": "240p",
+            "size": 249.59,
+            "_id": "699884dea746ce372659c795"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mixture and alligation board class 02",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/class 02 mixture and alligaton board.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeb16ea2b1ae043392a66b",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class-03 | Mixture and Alligation by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:28:25.483Z",
+        "endDate": "2026-07-19T13:28:25.483Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699954a4399756d492734da2/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699954a4399756d492734da2/output_720p.mp4",
+            "quality": "720p",
+            "size": 932.41,
+            "_id": "699c67884f6da3d1a2d24f47"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699954a4399756d492734da2/output_480p.mp4",
+            "quality": "480p",
+            "size": 622.94,
+            "_id": "699c67884f6da3d1a2d24f48"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699954a4399756d492734da2/output_360p.mp4",
+            "quality": "360p",
+            "size": 455.92,
+            "_id": "699c67884f6da3d1a2d24f49"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699954a4399756d492734da2/output_240p.mp4",
+            "quality": "240p",
+            "size": 344.11,
+            "_id": "699c67884f6da3d1a2d24f4a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mixture and alligation class 03",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/mixtura and alligation class 03.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeb1a5a2b1ae043392f27e",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class-04 | Mixture and Alligation by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan sir",
+        "duration": 0,
+        "startDate": "2026-07-19T12:28:27.041Z",
+        "endDate": "2026-07-19T13:28:27.041Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699d345d399756d49294eead/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699d345d399756d49294eead/output_720p.mp4",
+            "quality": "720p",
+            "size": 897.42,
+            "_id": "699dbf740bf8ba46e829c29f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699d345d399756d49294eead/output_480p.mp4",
+            "quality": "480p",
+            "size": 598.55,
+            "_id": "699dbf740bf8ba46e829c2a0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699d345d399756d49294eead/output_360p.mp4",
+            "quality": "360p",
+            "size": 437.34,
+            "_id": "699dbf740bf8ba46e829c2a1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699d345d399756d49294eead/output_240p.mp4",
+            "quality": "240p",
+            "size": 337.85,
+            "_id": "699dbf740bf8ba46e829c2a2"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mixture and alligation class 04",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/mixture and alligation class 04.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeb1d5a2b1ae0433933ea7",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class-05 | Mixture and Alligation by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:28:28.455Z",
+        "endDate": "2026-07-19T13:28:28.455Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699e82a0399756d492a485f9/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699e82a0399756d492a485f9/output_720p.mp4",
+            "quality": "720p",
+            "size": 403.13,
+            "_id": "699efb2170d0462766b7e084"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699e82a0399756d492a485f9/output_480p.mp4",
+            "quality": "480p",
+            "size": 269.92,
+            "_id": "699efb2170d0462766b7e085"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699e82a0399756d492a485f9/output_360p.mp4",
+            "quality": "360p",
+            "size": 198.23,
+            "_id": "699efb2170d0462766b7e086"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699e82a0399756d492a485f9/output_240p.mp4",
+            "quality": "240p",
+            "size": 144.29,
+            "_id": "699efb2170d0462766b7e087"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mixture and alligation class 5",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/mixture and alligation class 5.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeb237a2b1ae0433938ad0",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class-06 | Mixture and Alligation by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:28:31.015Z",
+        "endDate": "2026-07-19T13:28:31.015Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69a0ff72a2b1ae043320d7d3/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69a0ff72a2b1ae043320d7d3/mp4/RF1_2_RRB_UPSI_GD_Constable_Class_9_Maths_By_Gagan_Sir_240p.mp4",
+            "quality": "240p",
+            "size": 267.52,
+            "_id": "69a106243dea97d68c4289ae"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69a0ff72a2b1ae043320d7d3/mp4/RF1_2_RRB_UPSI_GD_Constable_Class_9_Maths_By_Gagan_Sir_360p.mp4",
+            "quality": "360p",
+            "size": 312.53,
+            "_id": "69a106243dea97d68c4289af"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69a0ff72a2b1ae043320d7d3/mp4/RF1_2_RRB_UPSI_GD_Constable_Class_9_Maths_By_Gagan_Sir_480p.mp4",
+            "quality": "480p",
+            "size": 417.61,
+            "_id": "69a106243dea97d68c4289b0"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69a0ff72a2b1ae043320d7d3/mp4/RF1_2_RRB_UPSI_GD_Constable_Class_9_Maths_By_Gagan_Sir_720p.mp4",
+            "quality": "720p",
+            "size": 609.62,
+            "_id": "69a106243dea97d68c4289b1"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mixture and alligation class 6 board",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/mixture and alligation class 6 board pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeb26aa2b1ae043393d6fd",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class-07 | Mixture and Alligation by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:28:33.641Z",
+        "endDate": "2026-07-19T13:28:33.641Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69a13c0da2b1ae04332589e9/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a13c0da2b1ae04332589e9/output_720p.mp4",
+            "quality": "720p",
+            "size": 986.2,
+            "_id": "69a1b0967290e580fc31430f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a13c0da2b1ae04332589e9/output_480p.mp4",
+            "quality": "480p",
+            "size": 674.33,
+            "_id": "69a1b0967290e580fc314310"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a13c0da2b1ae04332589e9/output_360p.mp4",
+            "quality": "360p",
+            "size": 481.94,
+            "_id": "69a1b0967290e580fc314311"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69a13c0da2b1ae04332589e9/output_240p.mp4",
+            "quality": "240p",
+            "size": 353.72,
+            "_id": "69a1b0967290e580fc314312"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "mixture and alligation class 07",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/class 07 mixture and alligation board.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aeb293a2b1ae0433942310",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class -01 || Average (औसत) | By Gagan Sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:28:48.989Z",
+        "endDate": "2026-07-19T13:28:48.989Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699eba73a2b1ae04330c851e/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699eba73a2b1ae04330c851e/output_720p.mp4",
+            "quality": "720p",
+            "size": 797.35,
+            "_id": "69a14c293dea97d68c839c19"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699eba73a2b1ae04330c851e/output_480p.mp4",
+            "quality": "480p",
+            "size": 530.16,
+            "_id": "69a14c293dea97d68c839c1a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699eba73a2b1ae04330c851e/output_360p.mp4",
+            "quality": "360p",
+            "size": 380.75,
+            "_id": "69a14c293dea97d68c839c1b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699eba73a2b1ae04330c851e/output_240p.mp4",
+            "quality": "240p",
+            "size": 272.61,
+            "_id": "69a14c293dea97d68c839c1c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "average class 1",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/average class 1.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aec2743e2bfc60724dc9f1",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class -02 || Average (औसत) | By Gagan Sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:28:51.151Z",
+        "endDate": "2026-07-19T13:28:51.151Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6999512b399756d49271834d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6999512b399756d49271834d/output_720p.mp4",
+            "quality": "720p",
+            "size": 796.63,
+            "_id": "69a29a9fa4cb037859e76fdc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6999512b399756d49271834d/output_480p.mp4",
+            "quality": "480p",
+            "size": 544.72,
+            "_id": "69a29a9fa4cb037859e76fdd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6999512b399756d49271834d/output_360p.mp4",
+            "quality": "360p",
+            "size": 389,
+            "_id": "69a29a9fa4cb037859e76fde"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6999512b399756d49271834d/output_240p.mp4",
+            "quality": "240p",
+            "size": 290.21,
+            "_id": "69a29a9fa4cb037859e76fdf"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "average class 02",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/average class 02.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aec2bba2b1ae04339bd3ea",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      },
+      {
+        "title": "आरम्भ Batch || Class -03 || Average (औसत) | By Gagan Sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-19T12:28:53.399Z",
+        "endDate": "2026-07-19T13:28:53.399Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69abb6fa0cd8b6c0dd1894aa/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69abb6fa0cd8b6c0dd1894aa/output_720p.mp4",
+            "quality": "720p",
+            "size": 679.49,
+            "_id": "69ae71297b3188015e35156b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69abb6fa0cd8b6c0dd1894aa/output_480p.mp4",
+            "quality": "480p",
+            "size": 459.66,
+            "_id": "69ae71297b3188015e35156c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69abb6fa0cd8b6c0dd1894aa/output_360p.mp4",
+            "quality": "360p",
+            "size": 325.94,
+            "_id": "69ae71297b3188015e35156d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69abb6fa0cd8b6c0dd1894aa/output_240p.mp4",
+            "quality": "240p",
+            "size": 238.08,
+            "_id": "69ae71297b3188015e35156e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "average class 3",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/upsi 9 march.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a116e8eefdd1ae57e6aec",
+          "classId": "69aec2dda2b1ae04339c21a2",
+          "topicId": "69afef3ba2b1ae0433b3d453",
+          "rawRecordIndex": 29
+        }
+      }
+    ]
+  }
 }

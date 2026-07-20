@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-19T04:01:32+0000",
+  "generatedAt": "2026-07-20T04:11:56+0000",
   "source": {
     "mode": "all",
-    "rawExportFile": "/home/runner/work/test/test/FILES/delta_study_courses_export_20260719_040130.json",
+    "rawExportFile": "/home/runner/work/test/test/FILES/delta_study_courses_export_20260720_041154.json",
     "rawCourseCount": 117,
     "appCourseCount": 117
   },
@@ -199,7 +199,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 22,
-      "videoCount": 681,
+      "videoCount": 682,
       "dataFile": "courses/selection-batch-7.json"
     },
     {
@@ -303,8 +303,8 @@
       "price": 3999,
       "discountPrice": 1599,
       "validity": "2 years",
-      "subjectCount": 13,
-      "videoCount": 633,
+      "subjectCount": 22,
+      "videoCount": 995,
       "dataFile": "courses/selection-batch-vod-40.json"
     },
     {
@@ -453,8 +453,8 @@
       "price": 2999,
       "discountPrice": 999,
       "validity": "2 year",
-      "subjectCount": 0,
-      "videoCount": 0,
+      "subjectCount": 3,
+      "videoCount": 100,
       "dataFile": "courses/maths-special-vod-60.json"
     },
     {
@@ -529,7 +529,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 20,
-      "videoCount": 590,
+      "videoCount": 591,
       "dataFile": "courses/selection-batch-8.json"
     },
     {
@@ -544,7 +544,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 8,
-      "videoCount": 308,
+      "videoCount": 309,
       "dataFile": "courses/english-special-7.json"
     },
     {
@@ -589,7 +589,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 20,
-      "videoCount": 524,
+      "videoCount": 525,
       "dataFile": "courses/selection-batch-9.json"
     },
     {
@@ -619,7 +619,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 8,
-      "videoCount": 309,
+      "videoCount": 310,
       "dataFile": "courses/english-special-9.json"
     },
     {
@@ -664,7 +664,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 16,
-      "videoCount": 653,
+      "videoCount": 654,
       "dataFile": "courses/railway-foundation-batch-4.json"
     },
     {
@@ -784,7 +784,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 22,
-      "videoCount": 747,
+      "videoCount": 748,
       "dataFile": "courses/railway-foundation-batch-5.json"
     },
     {
@@ -814,7 +814,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 7,
-      "videoCount": 307,
+      "videoCount": 308,
       "dataFile": "courses/english-special-8.json"
     },
     {
@@ -979,7 +979,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 22,
-      "videoCount": 867,
+      "videoCount": 868,
       "dataFile": "courses/selection-batch-6.json"
     },
     {
@@ -1129,7 +1129,7 @@
       "discountPrice": 1,
       "validity": "2 years",
       "subjectCount": 8,
-      "videoCount": 308,
+      "videoCount": 309,
       "dataFile": "courses/english-special-6.json"
     },
     {
@@ -1249,7 +1249,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 24,
-      "videoCount": 793,
+      "videoCount": 794,
       "dataFile": "courses/railway-foundation-batch-3.json"
     },
     {
@@ -1279,7 +1279,7 @@
       "discountPrice": 799,
       "validity": "2 years",
       "subjectCount": 22,
-      "videoCount": 758,
+      "videoCount": 759,
       "dataFile": "courses/railway-foundation-batch-2.json"
     },
     {
@@ -1399,7 +1399,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 24,
-      "videoCount": 739,
+      "videoCount": 740,
       "dataFile": "courses/rrb-group-d-batch.json"
     },
     {
@@ -1764,8 +1764,8 @@
     }
   ],
   "stats": {
-    "appVideoCount": 31986,
+    "appVideoCount": 32461,
     "skippedInactiveCourses": 0,
-    "skippedEmptyRows": 8
+    "skippedEmptyRows": 30
   }
 }
