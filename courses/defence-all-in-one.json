@@ -1,6 +1,6 @@
 {
   "courseName": "Defence all in one",
-  "extractedAt": "2026-07-20T04:11:56+0000",
+  "extractedAt": "2026-07-21T03:52:42+0000",
   "videos": {
     "Verbal": [
       {
@@ -49,7 +49,7 @@
           "courseId": "683def9c2f4523ef6c8b18cb",
           "classId": "69c9688366923638fcda1cce",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 50
+          "rawRecordIndex": 51
         }
       }
     ],
@@ -94,7 +94,7 @@
           "courseId": "683def9c2f4523ef6c8b18cb",
           "classId": "699efb0370d0462766b74d2e",
           "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 50
+          "rawRecordIndex": 51
         }
       }
     ]

@@ -1,6 +1,6 @@
 {
   "courseName": "Science special Foundation Batch",
-  "extractedAt": "2026-07-20T04:11:56+0000",
+  "extractedAt": "2026-07-21T03:52:42+0000",
   "videos": {
     "Introduction": [
       {
@@ -18,7 +18,56 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a4e57b02631e9eb3b781a48",
           "topicId": "68df3538c181958facf1e512",
-          "rawRecordIndex": 1
+          "rawRecordIndex": 4
+        }
+      },
+      {
+        "title": "Introduction Class | by Radhika maam",
+        "description": "sci 1 rf 6",
+        "teacherName": "radhika maam",
+        "duration": 3523,
+        "startDate": "2026-07-20T07:30:00.000Z",
+        "endDate": "2026-07-20T08:30:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5db84b8eefdd1ae58b6af3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5db84b8eefdd1ae58b6af3/output_720p.mp4",
+            "quality": "720p",
+            "size": 533.85,
+            "_id": "6a5de45ab104268c3f42816a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5db84b8eefdd1ae58b6af3/output_480p.mp4",
+            "quality": "480p",
+            "size": 366.53,
+            "_id": "6a5de45ab104268c3f42816b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5db84b8eefdd1ae58b6af3/output_360p.mp4",
+            "quality": "360p",
+            "size": 261.16,
+            "_id": "6a5de45ab104268c3f42816c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5db84b8eefdd1ae58b6af3/output_240p.mp4",
+            "quality": "240p",
+            "size": 194.78,
+            "_id": "6a5de45ab104268c3f42816d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "BIOLOGY CLASS 1 INTRODUCTION PDF By Radhika Mam",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/BIOLOGY CLASS 1 INTRODUCTION PDF By Radhika Mam.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a4e35315bac0ae4bab52444",
+          "classId": "6a5db84b8eefdd1ae58b6af3",
+          "topicId": "68df3538c181958facf1e512",
+          "rawRecordIndex": 4
         }
       }
     ],
@@ -57,7 +106,27 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a5732962a64690198a1b1e1",
           "topicId": "6a57350caacf22e8616a9d83",
-          "rawRecordIndex": 1
+          "rawRecordIndex": 4
+        }
+      }
+    ],
+    "BIOLOGY": [
+      {
+        "title": "Class - 01 | Cell Part 1 (Demo Class) | by Radhika maam",
+        "description": "rf 6",
+        "teacherName": "radhika maam",
+        "duration": 0,
+        "startDate": "2026-07-21T07:30:00.000Z",
+        "endDate": "2026-07-21T08:30:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://www.youtube.com/live/wgu-yCva5oI",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a4e35315bac0ae4bab52444",
+          "classId": "6a5ed5518eefdd1ae5a2a343",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 4
         }
       }
     ]

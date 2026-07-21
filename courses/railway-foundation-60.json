@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation 6.0",
-  "extractedAt": "2026-07-20T04:11:56+0000",
+  "extractedAt": "2026-07-21T03:52:42+0000",
   "videos": {
     "Introduction": [
       {
@@ -18,7 +18,56 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a4e57b02631e9eb3b781a48",
           "topicId": "68df3538c181958facf1e512",
-          "rawRecordIndex": 0
+          "rawRecordIndex": 3
+        }
+      },
+      {
+        "title": "Introduction Class | by Radhika maam",
+        "description": "sci 1 rf 6",
+        "teacherName": "radhika maam",
+        "duration": 3523,
+        "startDate": "2026-07-20T07:30:00.000Z",
+        "endDate": "2026-07-20T08:30:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5db84b8eefdd1ae58b6af3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5db84b8eefdd1ae58b6af3/output_720p.mp4",
+            "quality": "720p",
+            "size": 533.85,
+            "_id": "6a5de45ab104268c3f42816a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5db84b8eefdd1ae58b6af3/output_480p.mp4",
+            "quality": "480p",
+            "size": 366.53,
+            "_id": "6a5de45ab104268c3f42816b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5db84b8eefdd1ae58b6af3/output_360p.mp4",
+            "quality": "360p",
+            "size": 261.16,
+            "_id": "6a5de45ab104268c3f42816c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5db84b8eefdd1ae58b6af3/output_240p.mp4",
+            "quality": "240p",
+            "size": 194.78,
+            "_id": "6a5de45ab104268c3f42816d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "BIOLOGY CLASS 1 INTRODUCTION PDF By Radhika Mam",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/BIOLOGY CLASS 1 INTRODUCTION PDF By Radhika Mam.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a4e376d5bac0ae4bab5a040",
+          "classId": "6a5db84b8eefdd1ae58b6af3",
+          "topicId": "68df3538c181958facf1e512",
+          "rawRecordIndex": 3
         }
       }
     ],
@@ -69,7 +118,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a4c4cc55bac0ae4ba963fa6",
           "topicId": "68d7afa61ccb525c5c92cfa4",
-          "rawRecordIndex": 0
+          "rawRecordIndex": 3
         }
       },
       {
@@ -118,7 +167,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a5587382a646901987ffa37",
           "topicId": "68d7afa61ccb525c5c92cfa4",
-          "rawRecordIndex": 0
+          "rawRecordIndex": 3
         }
       },
       {
@@ -167,7 +216,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a56cc9f2a646901989934a4",
           "topicId": "68d7afa61ccb525c5c92cfa4",
-          "rawRecordIndex": 0
+          "rawRecordIndex": 3
         }
       },
       {
@@ -216,7 +265,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a57b0d150ea50f7b3ab4ebe",
           "topicId": "68d7afa61ccb525c5c92cfa4",
-          "rawRecordIndex": 0
+          "rawRecordIndex": 3
         }
       },
       {
@@ -265,7 +314,56 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a5982ce98f6d3b7e59ac530",
           "topicId": "68d7afa61ccb525c5c92cfa4",
-          "rawRecordIndex": 0
+          "rawRecordIndex": 3
+        }
+      },
+      {
+        "title": "Class-06 | Simplification (सरलीकरण) | By Gagan Sir",
+        "description": "\"Railway 1,2,3,4,5,6\r\nRRB Group D\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 4757,
+        "startDate": "2026-07-20T05:30:00.000Z",
+        "endDate": "2026-07-20T06:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5cff2a8eefdd1ae5874897/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cff2a8eefdd1ae5874897/output_720p.mp4",
+            "quality": "720p",
+            "size": 664.52,
+            "_id": "6a5dcd3658cb0a2e66ee9773"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cff2a8eefdd1ae5874897/output_480p.mp4",
+            "quality": "480p",
+            "size": 441.1,
+            "_id": "6a5dcd3658cb0a2e66ee9774"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cff2a8eefdd1ae5874897/output_360p.mp4",
+            "quality": "360p",
+            "size": 310.17,
+            "_id": "6a5dcd3658cb0a2e66ee9775"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cff2a8eefdd1ae5874897/output_240p.mp4",
+            "quality": "240p",
+            "size": 214.61,
+            "_id": "6a5dcd3658cb0a2e66ee9776"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "simplification class 0006 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/railway 11 am 20 july bp.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a4e376d5bac0ae4bab5a040",
+          "classId": "6a5cff2a8eefdd1ae5874897",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 3
         }
       }
     ],
@@ -316,7 +414,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a5725252a646901989ccb6f",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 0
+          "rawRecordIndex": 3
         }
       },
       {
@@ -365,7 +463,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a57ac4e50ea50f7b3a864fd",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 0
+          "rawRecordIndex": 3
         }
       },
       {
@@ -403,12 +501,67 @@
             "_id": "6a5a15c62ed5ad1e1f4de574"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Alphabet Test Class 003 By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Class-03 !! Alphabet Test-03 By Deepak Sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a59801098f6d3b7e59894fd",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 0
+          "rawRecordIndex": 3
+        }
+      },
+      {
+        "title": "Class - 04 || Alphabet Test-04 || by Deepak Sir",
+        "description": "",
+        "teacherName": "deepak sir",
+        "duration": 3935,
+        "startDate": "2026-07-20T10:30:00.000Z",
+        "endDate": "2026-07-20T11:39:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5cfa4b8eefdd1ae584d525/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfa4b8eefdd1ae584d525/output_720p.mp4",
+            "quality": "720p",
+            "size": 581.75,
+            "_id": "6a5e0c731386d236be90926f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfa4b8eefdd1ae584d525/output_480p.mp4",
+            "quality": "480p",
+            "size": 395.77,
+            "_id": "6a5e0c731386d236be909270"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfa4b8eefdd1ae584d525/output_360p.mp4",
+            "quality": "360p",
+            "size": 280.18,
+            "_id": "6a5e0c731386d236be909271"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfa4b8eefdd1ae584d525/output_240p.mp4",
+            "quality": "240p",
+            "size": 199.62,
+            "_id": "6a5e0c731386d236be909272"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Alphabet Class 004 By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Class-04 !! Alphabet-04 By Deepak Sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a4e376d5bac0ae4bab5a040",
+          "classId": "6a5cfa4b8eefdd1ae584d525",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 3
         }
       }
     ],
@@ -447,7 +600,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a5732962a64690198a1b1e1",
           "topicId": "6a57350caacf22e8616a9d83",
-          "rawRecordIndex": 0
+          "rawRecordIndex": 3
         }
       }
     ],
@@ -492,7 +645,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a5755d90f21c0a55be72fb6",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 0
+          "rawRecordIndex": 3
         }
       },
       {
@@ -535,7 +688,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a57b19f50ea50f7b3ac471a",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 0
+          "rawRecordIndex": 3
         }
       },
       {
@@ -578,7 +731,72 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a59d50d8eefdd1ae57857cc",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 0
+          "rawRecordIndex": 3
+        }
+      }
+    ],
+    "Medieval History": [
+      {
+        "title": "Class 01 || Medieval History Introduction Class || by Jeet sir",
+        "description": "rf 6",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3240,
+        "startDate": "2026-07-20T09:00:00.000Z",
+        "endDate": "2026-07-20T10:00:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5dbaae8eefdd1ae58be991/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5dbaae8eefdd1ae58be991/output_720p.mp4",
+            "quality": "720p",
+            "size": 494.23,
+            "_id": "6a5df3febbe5d19c13441584"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5dbaae8eefdd1ae58be991/output_480p.mp4",
+            "quality": "480p",
+            "size": 340.75,
+            "_id": "6a5df3febbe5d19c13441585"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5dbaae8eefdd1ae58be991/output_360p.mp4",
+            "quality": "360p",
+            "size": 242.82,
+            "_id": "6a5df3febbe5d19c13441586"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5dbaae8eefdd1ae58be991/output_240p.mp4",
+            "quality": "240p",
+            "size": 176.26,
+            "_id": "6a5df3febbe5d19c13441587"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a4e376d5bac0ae4bab5a040",
+          "classId": "6a5dbaae8eefdd1ae58be991",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 3
+        }
+      }
+    ],
+    "BIOLOGY": [
+      {
+        "title": "Class - 01 | Cell Part 1 (Demo Class) | by Radhika maam",
+        "description": "rf 6",
+        "teacherName": "radhika maam",
+        "duration": 0,
+        "startDate": "2026-07-21T07:30:00.000Z",
+        "endDate": "2026-07-21T08:30:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://www.youtube.com/live/wgu-yCva5oI",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a4e376d5bac0ae4bab5a040",
+          "classId": "6a5ed5518eefdd1ae5a2a343",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 3
         }
       }
     ]
