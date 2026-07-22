@@ -1,6 +1,6 @@
 {
   "courseName": "GS संपूर्ण Batch",
-  "extractedAt": "2026-07-21T03:52:42+0000",
+  "extractedAt": "2026-07-22T03:53:08+0000",
   "videos": {
     "HISTORY": [
       {
@@ -2183,6 +2183,24 @@
         "source": {
           "courseId": "698487d5fdd21a8a2d1a5270",
           "classId": "6a59d4808eefdd1ae57818a6",
+          "topicId": "6a265997b927c1a84af6d41d",
+          "rawRecordIndex": 116
+        }
+      },
+      {
+        "title": "Class -23 || Peninsular River System | by Shubham sir",
+        "description": "complete gs",
+        "teacherName": "Shubham sir",
+        "duration": 0,
+        "startDate": "2026-07-21T06:18:00.000Z",
+        "endDate": "2026-07-20T03:18:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://www.youtube.com/watch?v=wyzSuuYoQJs",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "698487d5fdd21a8a2d1a5270",
+          "classId": "6a5f0f278eefdd1ae5a73646",
           "topicId": "6a265997b927c1a84af6d41d",
           "rawRecordIndex": 116
         }

@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch-5",
-  "extractedAt": "2026-07-21T03:52:42+0000",
+  "extractedAt": "2026-07-22T03:53:08+0000",
   "videos": {
     "Grammar (Live Classes)": [
       {
@@ -23647,6 +23647,55 @@
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 26
         }
+      },
+      {
+        "title": "Class -12 || Geometry || by Gagan Sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08 , 09,10\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08 , 09,10\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 5455,
+        "startDate": "2026-07-21T12:30:00.000Z",
+        "endDate": "2026-07-21T13:56:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5f4e828eefdd1ae5b71c25/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f4e828eefdd1ae5b71c25/output_720p.mp4",
+            "quality": "720p",
+            "size": 767.23,
+            "_id": "6a5f814458cb0a2e66f85829"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f4e828eefdd1ae5b71c25/output_480p.mp4",
+            "quality": "480p",
+            "size": 513.08,
+            "_id": "6a5f814458cb0a2e66f8582a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f4e828eefdd1ae5b71c25/output_360p.mp4",
+            "quality": "360p",
+            "size": 360.91,
+            "_id": "6a5f814458cb0a2e66f8582b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f4e828eefdd1ae5b71c25/output_240p.mp4",
+            "quality": "240p",
+            "size": 250.78,
+            "_id": "6a5f814458cb0a2e66f8582c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class 12 by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sb 6 pm 21 july bp.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "698481c9fdd21a8a2d18ac5b",
+          "classId": "6a5f4e828eefdd1ae5b71c25",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 26
+        }
       }
     ],
     "Verbal": [
@@ -28999,6 +29048,11 @@
             "priority": 1,
             "name": "figure series by balram sir BOARD PDF",
             "url": "https://selectionwayserver.hranker.com/pdfs/files/figure series by balram sir BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Figure Series without anno by balram sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Figure Series without anno by balram sir.pdf"
           }
         ],
         "source": {
@@ -29092,10 +29146,59 @@
             "_id": "6a5ee4ef58cb0a2e66aac0aa"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Paper Cutting & Folding By Balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Paper Cutting & Folding By Balram sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "698481c9fdd21a8a2d18ac5b",
           "classId": "6a5cfb068eefdd1ae58551f0",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 26
+        }
+      },
+      {
+        "title": "Class - 01 | Figure Analogy (Non Verbal) | By Balram Sir",
+        "description": "\"Reasoning  Special  05, 06\r\n Selection Batch 05, 06\"",
+        "teacherName": "Balram Sir",
+        "duration": 5008,
+        "startDate": "2026-07-22T02:00:00.000Z",
+        "endDate": "2026-07-22T03:17:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5f404b8eefdd1ae5b267d6/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f404b8eefdd1ae5b267d6/output_720p.mp4",
+            "quality": "720p",
+            "size": 813.62,
+            "_id": "6a603d1b1386d236bef51677"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f404b8eefdd1ae5b267d6/output_480p.mp4",
+            "quality": "480p",
+            "size": 544.2,
+            "_id": "6a603d1b1386d236bef51678"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f404b8eefdd1ae5b267d6/output_360p.mp4",
+            "quality": "360p",
+            "size": 395.84,
+            "_id": "6a603d1b1386d236bef51679"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f404b8eefdd1ae5b267d6/output_240p.mp4",
+            "quality": "240p",
+            "size": 292.36,
+            "_id": "6a603d1b1386d236bef5167a"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "698481c9fdd21a8a2d18ac5b",
+          "classId": "6a5f404b8eefdd1ae5b267d6",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 26
         }
@@ -45611,7 +45714,13 @@
             "_id": "6a579423847c19e9d5033daf"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "chemical reaction class 0001 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/chemical reaction class 0001 pdf by harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "698481c9fdd21a8a2d18ac5b",
           "classId": "6a5755d90f21c0a55be72fb6",
@@ -45654,10 +45763,59 @@
             "_id": "6a5a23ad847c19e9d5319e57"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "chemical reaction class 0003 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/chemical reaction class 0003 pdf by harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "698481c9fdd21a8a2d18ac5b",
           "classId": "6a59d50d8eefdd1ae57857cc",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 26
+        }
+      },
+      {
+        "title": "Class -04 || Chemical Reaction & Equation | by Harish sir",
+        "description": "\"RAILWAY Foundation - 04 ,05, 06\r\nSB 05, 06, 07, 08, 09, 10\"",
+        "teacherName": "Harish sir",
+        "duration": 2869,
+        "startDate": "2026-07-21T11:30:00.000Z",
+        "endDate": "2026-07-21T12:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5f3adf8eefdd1ae5afb25e/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f3adf8eefdd1ae5afb25e/output_720p.mp4",
+            "quality": "720p",
+            "size": 431.71,
+            "_id": "6a5f6a28847c19e9d50c4817"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f3adf8eefdd1ae5afb25e/output_480p.mp4",
+            "quality": "480p",
+            "size": 295,
+            "_id": "6a5f6a28847c19e9d50c4818"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f3adf8eefdd1ae5afb25e/output_360p.mp4",
+            "quality": "360p",
+            "size": 205.8,
+            "_id": "6a5f6a28847c19e9d50c4819"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f3adf8eefdd1ae5afb25e/output_240p.mp4",
+            "quality": "240p",
+            "size": 158.76,
+            "_id": "6a5f6a28847c19e9d50c481a"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "698481c9fdd21a8a2d18ac5b",
+          "classId": "6a5f3adf8eefdd1ae5afb25e",
           "topicId": "68fa5f40aed5b4af7a841a2a",
           "rawRecordIndex": 26
         }

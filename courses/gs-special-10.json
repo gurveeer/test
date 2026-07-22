@@ -1,6 +1,6 @@
 {
   "courseName": "GS Special  - 10",
-  "extractedAt": "2026-07-21T03:52:42+0000",
+  "extractedAt": "2026-07-22T03:53:08+0000",
   "videos": {
     "ECONOMICS": [
       {
@@ -97,6 +97,49 @@
         "source": {
           "courseId": "6a462e4eb927c1a84a8b784c",
           "classId": "6a5981a198f6d3b7e59a09f1",
+          "topicId": "69f5d55622cc6f4d5f6a917f",
+          "rawRecordIndex": 8
+        }
+      },
+      {
+        "title": "Class - 03 | Types of Market || By Varun Sir",
+        "description": "4juj-cqwc-t4m0-vjj4-duqu",
+        "teacherName": "Varun Sir",
+        "duration": 4229,
+        "startDate": "2026-07-21T09:00:00.000Z",
+        "endDate": "2026-07-21T10:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5cfe2b8eefdd1ae5868d02/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfe2b8eefdd1ae5868d02/output_720p.mp4",
+            "quality": "720p",
+            "size": 646.46,
+            "_id": "6a5f4995847c19e9d5d76724"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfe2b8eefdd1ae5868d02/output_480p.mp4",
+            "quality": "480p",
+            "size": 444.81,
+            "_id": "6a5f4995847c19e9d5d76725"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfe2b8eefdd1ae5868d02/output_360p.mp4",
+            "quality": "360p",
+            "size": 316.95,
+            "_id": "6a5f4995847c19e9d5d76726"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfe2b8eefdd1ae5868d02/output_240p.mp4",
+            "quality": "240p",
+            "size": 241.73,
+            "_id": "6a5f4995847c19e9d5d76727"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a462e4eb927c1a84a8b784c",
+          "classId": "6a5cfe2b8eefdd1ae5868d02",
           "topicId": "69f5d55622cc6f4d5f6a917f",
           "rawRecordIndex": 8
         }

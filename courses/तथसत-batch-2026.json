@@ -1,6 +1,6 @@
 {
   "courseName": "तथास्तु BATCH 2026",
-  "extractedAt": "2026-07-21T03:52:42+0000",
+  "extractedAt": "2026-07-22T03:53:08+0000",
   "videos": {
     "POLITY": [
       {
@@ -4560,7 +4560,13 @@
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/6a59fa6d8eefdd1ae57d1b18/playlist.m3u8",
         "mp4Recordings": [],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Rivers of India 02  By Jeet Sir BOARD PD",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Rivers of India 02  By Jeet Sir BOARD PD.pdf"
+          }
+        ],
         "source": {
           "courseId": "69622fc8027f25d29ebca4f6",
           "classId": "6a59fa6d8eefdd1ae57d1b18",
@@ -4603,7 +4609,13 @@
             "_id": "6a5e07d2b104268c3f724609"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Rivers of India 03 By Jeet Sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Rivers of India 03 By Jeet Sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "69622fc8027f25d29ebca4f6",
           "classId": "6a5dc23458cb0a2e6637cf6a",

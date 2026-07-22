@@ -1,6 +1,6 @@
 {
   "courseName": "CGL RAPID BATCH",
-  "extractedAt": "2026-07-21T03:52:42+0000",
+  "extractedAt": "2026-07-22T03:53:08+0000",
   "videos": {
     "Introduction": [
       {
@@ -894,26 +894,57 @@
         }
       },
       {
-        "title": "Class -19 | Some Major Incidents | by Jeet rana sir",
+        "title": "Class -19 | Gandhian Era 01 | by Jeet rana sir",
         "description": "CGL RAPID BATCH",
         "teacherName": "Jeet Rana Sir",
-        "duration": 0,
-        "startDate": "2026-07-17T04:30:00.000Z",
-        "endDate": "2026-07-17T05:30:00.000Z",
+        "duration": 2546.811003,
+        "startDate": "2026-07-17T09:10:00.000Z",
+        "endDate": "2026-07-17T10:10:00.000Z",
         "isFree": false,
-        "videoUrl": "https://livestream-selectionway.b-cdn.net/561/6a59814a98f6d3b7e599cbb9/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [],
-        "classPdf": [],
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a5f1a138eefdd1ae5a9746e/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a5f1a138eefdd1ae5a9746e/mp4/CGL_RAPID_BATCH_Modern_history_Class_19_by_jeet_rana_sir_240p.mp4",
+            "quality": "240p",
+            "size": 182.82,
+            "_id": "6a5f1f6e2ed5ad1e1ffa38e4"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a5f1a138eefdd1ae5a9746e/mp4/CGL_RAPID_BATCH_Modern_history_Class_19_by_jeet_rana_sir_360p.mp4",
+            "quality": "360p",
+            "size": 213.72,
+            "_id": "6a5f1f6e2ed5ad1e1ffa38e5"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a5f1a138eefdd1ae5a9746e/mp4/CGL_RAPID_BATCH_Modern_history_Class_19_by_jeet_rana_sir_480p.mp4",
+            "quality": "480p",
+            "size": 286.1,
+            "_id": "6a5f1f6e2ed5ad1e1ffa38e6"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a5f1a138eefdd1ae5a9746e/mp4/CGL_RAPID_BATCH_Modern_history_Class_19_by_jeet_rana_sir_720p.mp4",
+            "quality": "720p",
+            "size": 418.05,
+            "_id": "6a5f1f6e2ed5ad1e1ffa38e7"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Gandhian Era by jeet sir board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Gandhian Era by jeet sir board pdf.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a1fe6bbb927c1a84abc606f",
-          "classId": "6a59814a98f6d3b7e599cbb9",
+          "classId": "6a5f1a138eefdd1ae5a9746e",
           "topicId": "68b9499ea721af475c9a79ac",
           "rawRecordIndex": 63
         }
       },
       {
-        "title": "Class -20 | Some Major Incidents | by Jeet rana sir",
-        "description": "",
+        "title": "Class -20 | Gandhian Era 02 | by Jeet rana sir",
+        "description": "CGL RAPID BATCH",
         "teacherName": "Jeet Rana Sir",
         "duration": 2783,
         "startDate": "2026-07-20T04:30:00.000Z",

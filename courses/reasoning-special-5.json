@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Special-5",
-  "extractedAt": "2026-07-21T03:52:42+0000",
+  "extractedAt": "2026-07-22T03:53:08+0000",
   "videos": {
     "Verbal": [
       {
@@ -5352,6 +5352,11 @@
             "priority": 1,
             "name": "figure series by balram sir BOARD PDF",
             "url": "https://selectionwayserver.hranker.com/pdfs/files/figure series by balram sir BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Figure Series without anno by balram sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Figure Series without anno by balram sir.pdf"
           }
         ],
         "source": {
@@ -5445,10 +5450,59 @@
             "_id": "6a5ee4ef58cb0a2e66aac0aa"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Paper Cutting & Folding By Balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Paper Cutting & Folding By Balram sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "698481cefdd21a8a2d18ac6a",
           "classId": "6a5cfb068eefdd1ae58551f0",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class - 01 | Figure Analogy (Non Verbal) | By Balram Sir",
+        "description": "\"Reasoning  Special  05, 06\r\n Selection Batch 05, 06\"",
+        "teacherName": "Balram Sir",
+        "duration": 5008,
+        "startDate": "2026-07-22T02:00:00.000Z",
+        "endDate": "2026-07-22T03:17:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5f404b8eefdd1ae5b267d6/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f404b8eefdd1ae5b267d6/output_720p.mp4",
+            "quality": "720p",
+            "size": 813.62,
+            "_id": "6a603d1b1386d236bef51677"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f404b8eefdd1ae5b267d6/output_480p.mp4",
+            "quality": "480p",
+            "size": 544.2,
+            "_id": "6a603d1b1386d236bef51678"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f404b8eefdd1ae5b267d6/output_360p.mp4",
+            "quality": "360p",
+            "size": 395.84,
+            "_id": "6a603d1b1386d236bef51679"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f404b8eefdd1ae5b267d6/output_240p.mp4",
+            "quality": "240p",
+            "size": 292.36,
+            "_id": "6a603d1b1386d236bef5167a"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "698481cefdd21a8a2d18ac6a",
+          "classId": "6a5f404b8eefdd1ae5b267d6",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 77
         }

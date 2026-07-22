@@ -1,6 +1,6 @@
 {
   "courseName": "GS Special -8",
-  "extractedAt": "2026-07-21T03:52:42+0000",
+  "extractedAt": "2026-07-22T03:53:08+0000",
   "videos": {
     "POLITY": [
       {
@@ -1129,6 +1129,300 @@
           "topicId": "68e329ef48aa5900adba437b",
           "rawRecordIndex": 55
         }
+      },
+      {
+        "title": "Class-22 || Governor & State Legislature by Varun sir",
+        "description": "\" GS Special- 02,03,04,05  &\r\n Selection Batch -02,03,04,05\"",
+        "teacherName": "Varun sir",
+        "duration": 3875,
+        "startDate": "2026-07-21T07:08:00.000Z",
+        "endDate": "2026-07-21T05:08:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69c080067cbd92b8bfef01b3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c080067cbd92b8bfef01b3/output_720p.mp4",
+            "quality": "720p",
+            "size": 641.64,
+            "_id": "69c29686d284083a666e8f56"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c080067cbd92b8bfef01b3/output_480p.mp4",
+            "quality": "480p",
+            "size": 433.41,
+            "_id": "69c29686d284083a666e8f57"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c080067cbd92b8bfef01b3/output_360p.mp4",
+            "quality": "360p",
+            "size": 319.2,
+            "_id": "69c29686d284083a666e8f58"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c080067cbd92b8bfef01b3/output_240p.mp4",
+            "quality": "240p",
+            "size": 253.73,
+            "_id": "69c29686d284083a666e8f59"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Gov and State Legislature BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Gov and State Legislature BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "69c080067cbd92b8bfef01b3",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 55
+        }
+      },
+      {
+        "title": "Class-23 || Governor & State Legislature II by Varun sir",
+        "description": "\" GS Special- 02,03,04,05  &\r\n Selection Batch -02,03,04,05\"",
+        "teacherName": "Varun sir",
+        "duration": 4725,
+        "startDate": "2026-07-21T07:11:00.000Z",
+        "endDate": "2026-07-21T06:11:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69c3ab4a20b6656683fb44bf/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c3ab4a20b6656683fb44bf/output_720p.mp4",
+            "quality": "720p",
+            "size": 783.19,
+            "_id": "69c4b782f0078f7a34d26521"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c3ab4a20b6656683fb44bf/output_480p.mp4",
+            "quality": "480p",
+            "size": 530.1,
+            "_id": "69c4b782f0078f7a34d26522"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c3ab4a20b6656683fb44bf/output_360p.mp4",
+            "quality": "360p",
+            "size": 391.24,
+            "_id": "69c4b782f0078f7a34d26523"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c3ab4a20b6656683fb44bf/output_240p.mp4",
+            "quality": "240p",
+            "size": 318.43,
+            "_id": "69c4b782f0078f7a34d26524"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Gov and State Legislature 02  BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Gov and State Legislature 02  BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "69c3ab4a20b6656683fb44bf",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 55
+        }
+      },
+      {
+        "title": "Class-24 || Governor & State Legislature III by Varun sir",
+        "description": "\" GS Special- 02,03,04,05  &\r\n Selection Batch -02,03,04,05\"",
+        "teacherName": "Varun sir",
+        "duration": 3463,
+        "startDate": "2026-07-21T07:13:00.000Z",
+        "endDate": "2026-07-21T06:13:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69c5cf6a49ddc27679e1e56a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c5cf6a49ddc27679e1e56a/output_720p.mp4",
+            "quality": "720p",
+            "size": 573.87,
+            "_id": "69c689909b9d8177718274d0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c5cf6a49ddc27679e1e56a/output_480p.mp4",
+            "quality": "480p",
+            "size": 388.3,
+            "_id": "69c689909b9d8177718274d1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c5cf6a49ddc27679e1e56a/output_360p.mp4",
+            "quality": "360p",
+            "size": 286.58,
+            "_id": "69c689909b9d8177718274d2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c5cf6a49ddc27679e1e56a/output_240p.mp4",
+            "quality": "240p",
+            "size": 234.86,
+            "_id": "69c689909b9d8177718274d3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Emergency BOARD PDF_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Emergency BOARD PDF_.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "69c5cf6a49ddc27679e1e56a",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 55
+        }
+      },
+      {
+        "title": "Class-27 || Schedules As Blueprint of Constitution  by Varun sir",
+        "description": "gs2345",
+        "teacherName": "Varun Sir",
+        "duration": 3288,
+        "startDate": "2026-07-21T07:15:00.000Z",
+        "endDate": "2026-07-21T04:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69cb1a86c7f3b7e3fb700c73/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cb1a86c7f3b7e3fb700c73/output_720p.mp4",
+            "quality": "720p",
+            "size": 510.98,
+            "_id": "69cbce9e923f9ce0c48ee614"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cb1a86c7f3b7e3fb700c73/output_480p.mp4",
+            "quality": "480p",
+            "size": 354.32,
+            "_id": "69cbce9e923f9ce0c48ee615"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cb1a86c7f3b7e3fb700c73/output_360p.mp4",
+            "quality": "360p",
+            "size": 254.88,
+            "_id": "69cbce9e923f9ce0c48ee616"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cb1a86c7f3b7e3fb700c73/output_240p.mp4",
+            "quality": "240p",
+            "size": 195.83,
+            "_id": "69cbce9e923f9ce0c48ee617"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Schedules BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Schedules BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "69cb1a86c7f3b7e3fb700c73",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 55
+        }
+      },
+      {
+        "title": "Class-28 || Important Amendments & Constitutional Borrowings  by Varun sir",
+        "description": "\" GS Special- 02,03,04,05  &\r\n Selection Batch -02,03,04,05\"",
+        "teacherName": "Varun Sir",
+        "duration": 3510,
+        "startDate": "2026-07-21T07:17:00.000Z",
+        "endDate": "2026-07-21T06:17:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69cc14219f4e3b6d5846ae3b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cc14219f4e3b6d5846ae3b/output_720p.mp4",
+            "quality": "720p",
+            "size": 545.35,
+            "_id": "69cc9c6dd5432e914d5882b9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cc14219f4e3b6d5846ae3b/output_480p.mp4",
+            "quality": "480p",
+            "size": 377.85,
+            "_id": "69cc9c6dd5432e914d5882ba"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cc14219f4e3b6d5846ae3b/output_360p.mp4",
+            "quality": "360p",
+            "size": 271.53,
+            "_id": "69cc9c6dd5432e914d5882bb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cc14219f4e3b6d5846ae3b/output_240p.mp4",
+            "quality": "240p",
+            "size": 208.69,
+            "_id": "69cc9c6dd5432e914d5882bc"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Amendments BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Amendments BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "69cc14219f4e3b6d5846ae3b",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 55
+        }
+      },
+      {
+        "title": "Class-34 || Historical Background of Constitution  by Varun sir",
+        "description": "\" GS Special- 02,03,04,05  &\r\n Selection Batch -02,03,04,05\"",
+        "teacherName": "Varun Sir",
+        "duration": 3524,
+        "startDate": "2026-07-21T07:19:00.000Z",
+        "endDate": "2026-07-21T06:19:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69d7cda422cc6f4d5f352227/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d7cda422cc6f4d5f352227/output_720p.mp4",
+            "quality": "720p",
+            "size": 546.58,
+            "_id": "69d8795ebcd47007cd35bd18"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d7cda422cc6f4d5f352227/output_480p.mp4",
+            "quality": "480p",
+            "size": 379.07,
+            "_id": "69d8795ebcd47007cd35bd19"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d7cda422cc6f4d5f352227/output_360p.mp4",
+            "quality": "360p",
+            "size": 272.25,
+            "_id": "69d8795ebcd47007cd35bd1a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d7cda422cc6f4d5f352227/output_240p.mp4",
+            "quality": "240p",
+            "size": 207.79,
+            "_id": "69d8795ebcd47007cd35bd1b"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Historical Background of con BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Historical Background of con BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "69d7cda422cc6f4d5f352227",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 55
+        }
       }
     ],
     "GEOGRAPHY": [
@@ -1620,6 +1914,49 @@
         "source": {
           "courseId": "69f990e6b927c1a84afcbff2",
           "classId": "6a5981a198f6d3b7e59a09f1",
+          "topicId": "69f5d55622cc6f4d5f6a917f",
+          "rawRecordIndex": 55
+        }
+      },
+      {
+        "title": "Class - 03 | Types of Market || By Varun Sir",
+        "description": "4juj-cqwc-t4m0-vjj4-duqu",
+        "teacherName": "Varun Sir",
+        "duration": 4229,
+        "startDate": "2026-07-21T09:00:00.000Z",
+        "endDate": "2026-07-21T10:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5cfe2b8eefdd1ae5868d02/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfe2b8eefdd1ae5868d02/output_720p.mp4",
+            "quality": "720p",
+            "size": 646.46,
+            "_id": "6a5f4995847c19e9d5d76724"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfe2b8eefdd1ae5868d02/output_480p.mp4",
+            "quality": "480p",
+            "size": 444.81,
+            "_id": "6a5f4995847c19e9d5d76725"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfe2b8eefdd1ae5868d02/output_360p.mp4",
+            "quality": "360p",
+            "size": 316.95,
+            "_id": "6a5f4995847c19e9d5d76726"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfe2b8eefdd1ae5868d02/output_240p.mp4",
+            "quality": "240p",
+            "size": 241.73,
+            "_id": "6a5f4995847c19e9d5d76727"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a5cfe2b8eefdd1ae5868d02",
           "topicId": "69f5d55622cc6f4d5f6a917f",
           "rawRecordIndex": 55
         }

@@ -1,6 +1,6 @@
 {
   "courseName": "Maths Special-3",
-  "extractedAt": "2026-07-21T03:52:42+0000",
+  "extractedAt": "2026-07-22T03:53:08+0000",
   "videos": {
     "Introduction": [
       {
@@ -4864,6 +4864,55 @@
         "source": {
           "courseId": "69367e9933d222e80e32c6c9",
           "classId": "6a58991a39beccbe583a68b5",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 27
+        }
+      },
+      {
+        "title": "Class -12 || Geometry || by Gagan Sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08 , 09,10\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08 , 09,10\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 5455,
+        "startDate": "2026-07-21T12:30:00.000Z",
+        "endDate": "2026-07-21T13:56:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5f4e828eefdd1ae5b71c25/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f4e828eefdd1ae5b71c25/output_720p.mp4",
+            "quality": "720p",
+            "size": 767.23,
+            "_id": "6a5f814458cb0a2e66f85829"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f4e828eefdd1ae5b71c25/output_480p.mp4",
+            "quality": "480p",
+            "size": 513.08,
+            "_id": "6a5f814458cb0a2e66f8582a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f4e828eefdd1ae5b71c25/output_360p.mp4",
+            "quality": "360p",
+            "size": 360.91,
+            "_id": "6a5f814458cb0a2e66f8582b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f4e828eefdd1ae5b71c25/output_240p.mp4",
+            "quality": "240p",
+            "size": 250.78,
+            "_id": "6a5f814458cb0a2e66f8582c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class 12 by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sb 6 pm 21 july bp.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69367e9933d222e80e32c6c9",
+          "classId": "6a5f4e828eefdd1ae5b71c25",
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 27
         }

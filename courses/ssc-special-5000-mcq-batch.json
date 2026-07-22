@@ -1,6 +1,6 @@
 {
   "courseName": "SSC special 5000 MCQ batch",
-  "extractedAt": "2026-07-21T03:52:42+0000",
+  "extractedAt": "2026-07-22T03:53:08+0000",
   "videos": {
     "Introduction": [
       {
@@ -680,7 +680,7 @@
         }
       },
       {
-        "title": "Class -14 | History of south india 03 || by Jeet rana sir",
+        "title": "Class -14 | Delhi Sultanate 01 || by Jeet rana sir",
         "description": "SSC special 5000 MCQ batch",
         "teacherName": "Jeet Rana Sir",
         "duration": 2635,
@@ -714,7 +714,13 @@
             "_id": "6a5e41ef847c19e9d50e2970"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Delhi Sultanate by jeet sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Delhi Sultanate by jeet sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a59fe378eefdd1ae57d99ea",

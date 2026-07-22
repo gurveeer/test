@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Special-4",
-  "extractedAt": "2026-07-21T03:52:42+0000",
+  "extractedAt": "2026-07-22T03:53:08+0000",
   "videos": {
     "Verbal": [
       {
@@ -5854,6 +5854,55 @@
         "source": {
           "courseId": "695b8c282feca20f81c25e55",
           "classId": "6a5980e698f6d3b7e5994f71",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 90
+        }
+      },
+      {
+        "title": "Class -01 | Distance & Direction | Problem Solving | By Balram Sir",
+        "description": "\"Reasoning  Special  05, 06\r\n Selection Batch 05, 06\"",
+        "teacherName": "Balram Sir",
+        "duration": 3820,
+        "startDate": "2026-07-21T04:00:00.000Z",
+        "endDate": "2026-07-21T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5cfb168eefdd1ae5855209/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfb168eefdd1ae5855209/output_720p.mp4",
+            "quality": "720p",
+            "size": 607.36,
+            "_id": "6a5f0186b104268c3f47ad97"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfb168eefdd1ae5855209/output_480p.mp4",
+            "quality": "480p",
+            "size": 405.34,
+            "_id": "6a5f0186b104268c3f47ad98"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfb168eefdd1ae5855209/output_360p.mp4",
+            "quality": "360p",
+            "size": 294.26,
+            "_id": "6a5f0186b104268c3f47ad99"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfb168eefdd1ae5855209/output_240p.mp4",
+            "quality": "240p",
+            "size": 220.06,
+            "_id": "6a5f0186b104268c3f47ad9a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Distance and Direction 01 by  balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Distance and Direction 01 by  balram sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c282feca20f81c25e55",
+          "classId": "6a5cfb168eefdd1ae5855209",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 90
         }

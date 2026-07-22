@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch-4",
-  "extractedAt": "2026-07-21T03:52:42+0000",
+  "extractedAt": "2026-07-22T03:53:08+0000",
   "videos": {
     "Number System & More": [
       {
@@ -27477,6 +27477,55 @@
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 59
         }
+      },
+      {
+        "title": "Class -01 | Distance & Direction | Problem Solving | By Balram Sir",
+        "description": "\"Reasoning  Special  05, 06\r\n Selection Batch 05, 06\"",
+        "teacherName": "Balram Sir",
+        "duration": 3820,
+        "startDate": "2026-07-21T04:00:00.000Z",
+        "endDate": "2026-07-21T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5cfb168eefdd1ae5855209/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfb168eefdd1ae5855209/output_720p.mp4",
+            "quality": "720p",
+            "size": 607.36,
+            "_id": "6a5f0186b104268c3f47ad97"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfb168eefdd1ae5855209/output_480p.mp4",
+            "quality": "480p",
+            "size": 405.34,
+            "_id": "6a5f0186b104268c3f47ad98"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfb168eefdd1ae5855209/output_360p.mp4",
+            "quality": "360p",
+            "size": 294.26,
+            "_id": "6a5f0186b104268c3f47ad99"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfb168eefdd1ae5855209/output_240p.mp4",
+            "quality": "240p",
+            "size": 220.06,
+            "_id": "6a5f0186b104268c3f47ad9a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Distance and Direction 01 by  balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Distance and Direction 01 by  balram sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c2d2feca20f81c25e5b",
+          "classId": "6a5cfb168eefdd1ae5855209",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 59
+        }
       }
     ],
     "GEOGRAPHY": [
@@ -39954,6 +40003,55 @@
         "source": {
           "courseId": "695b8c2d2feca20f81c25e5b",
           "classId": "6a58991a39beccbe583a68b5",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 59
+        }
+      },
+      {
+        "title": "Class -12 || Geometry || by Gagan Sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08 , 09,10\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08 , 09,10\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 5455,
+        "startDate": "2026-07-21T12:30:00.000Z",
+        "endDate": "2026-07-21T13:56:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5f4e828eefdd1ae5b71c25/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f4e828eefdd1ae5b71c25/output_720p.mp4",
+            "quality": "720p",
+            "size": 767.23,
+            "_id": "6a5f814458cb0a2e66f85829"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f4e828eefdd1ae5b71c25/output_480p.mp4",
+            "quality": "480p",
+            "size": 513.08,
+            "_id": "6a5f814458cb0a2e66f8582a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f4e828eefdd1ae5b71c25/output_360p.mp4",
+            "quality": "360p",
+            "size": 360.91,
+            "_id": "6a5f814458cb0a2e66f8582b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f4e828eefdd1ae5b71c25/output_240p.mp4",
+            "quality": "240p",
+            "size": 250.78,
+            "_id": "6a5f814458cb0a2e66f8582c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class 12 by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sb 6 pm 21 july bp.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c2d2feca20f81c25e5b",
+          "classId": "6a5f4e828eefdd1ae5b71c25",
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 59
         }

@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation Batch -5",
-  "extractedAt": "2026-07-21T03:52:42+0000",
+  "extractedAt": "2026-07-22T03:53:08+0000",
   "videos": {
     "Arithmetic": [
       {
@@ -6153,7 +6153,13 @@
             "_id": "6a5d9d821386d236be2b8f3f"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Seating Arrangement Class 003 pdf By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Seating Arrangement Class 003 pdf By Deepak Sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a1d6b27b927c1a84a934528",
           "classId": "6a5cf86b8eefdd1ae5845798",
@@ -6196,10 +6202,34 @@
             "_id": "6a5eec2c2631e9eb3ba60aec"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Seating Arrangement Class 0004 pdf  By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Seating Arrangement Class 0004 pdf  By Deepak Sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a1d6b27b927c1a84a934528",
           "classId": "6a5ecdc78eefdd1ae59fae45",
+          "topicId": "69ae68cc7b3188015e0551dd",
+          "rawRecordIndex": 52
+        }
+      },
+      {
+        "title": "Class-05 || Seating Arrangement By Deepak Sir",
+        "description": "\"*Railway Foundation Batch ,2 ,3 4,5\r\n*RRB Group D \r\n\"",
+        "teacherName": "deepak sir",
+        "duration": 0,
+        "startDate": "2026-07-22T02:30:00.000Z",
+        "endDate": "2026-07-22T03:24:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5f3fce8eefdd1ae5b1ea59/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a1d6b27b927c1a84a934528",
+          "classId": "6a5f3fce8eefdd1ae5b1ea59",
           "topicId": "69ae68cc7b3188015e0551dd",
           "rawRecordIndex": 52
         }
@@ -8260,6 +8290,55 @@
         "source": {
           "courseId": "6a1d6b27b927c1a84a934528",
           "classId": "6a5cff2a8eefdd1ae5874897",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 52
+        }
+      },
+      {
+        "title": "Class-07 | Simplification (सरलीकरण) | By Gagan Sir",
+        "description": "\"Railway 1,2,3,4,5,6\r\nRRB Group D\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 5544,
+        "startDate": "2026-07-21T05:30:00.000Z",
+        "endDate": "2026-07-21T06:54:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5ecf388eefdd1ae5a0a878/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5ecf388eefdd1ae5a0a878/output_720p.mp4",
+            "quality": "720p",
+            "size": 785.63,
+            "_id": "6a5f23252ed5ad1e1f42c75f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5ecf388eefdd1ae5a0a878/output_480p.mp4",
+            "quality": "480p",
+            "size": 523.97,
+            "_id": "6a5f23252ed5ad1e1f42c760"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5ecf388eefdd1ae5a0a878/output_360p.mp4",
+            "quality": "360p",
+            "size": 369.25,
+            "_id": "6a5f23252ed5ad1e1f42c761"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5ecf388eefdd1ae5a0a878/output_240p.mp4",
+            "quality": "240p",
+            "size": 255.66,
+            "_id": "6a5f23252ed5ad1e1f42c762"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "simplification class 007 pdf  by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/railway 11 am 21 july bp.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a1d6b27b927c1a84a934528",
+          "classId": "6a5ecf388eefdd1ae5a0a878",
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 52
         }
@@ -21049,7 +21128,7 @@
         }
       },
       {
-        "title": "Class - 20 | Lakes of India 03 | by Jeet Rana sir",
+        "title": "Class - 20 | Dams of India 01 | by Jeet Rana sir",
         "description": "\"Railway Foundation Batch 1,2,3,4,5\r\nRRB Group d\"",
         "teacherName": "Jeet Rana Sir",
         "duration": 2688,
@@ -21083,7 +21162,13 @@
             "_id": "6a57547ef3c29aafada4bbf6"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Dams of India by Jeet sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Dams of India by Jeet sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a1d6b27b927c1a84a934528",
           "classId": "6a56ca942a64690198983db2",
@@ -21141,7 +21226,7 @@
         }
       },
       {
-        "title": "Class - 22 | Lakes of India 05 | by Jeet Rana sir",
+        "title": "Class - 22 | Types 0f Rocks | by Jeet Rana sir",
         "description": "\"Railway Foundation Batch 1,2,3,4,5\r\nRRB Group d\"",
         "teacherName": "Jeet Rana Sir",
         "duration": 3442,
@@ -21175,7 +21260,13 @@
             "_id": "6a59fc012ed5ad1e1f97590b"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Types of Rocks by jeet sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Types of Rocks by jeet sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a1d6b27b927c1a84a934528",
           "classId": "6a59844a98f6d3b7e59bbf44",
@@ -35276,7 +35367,13 @@
             "_id": "6a579423847c19e9d5033daf"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "chemical reaction class 0001 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/chemical reaction class 0001 pdf by harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a1d6b27b927c1a84a934528",
           "classId": "6a5755d90f21c0a55be72fb6",
@@ -35319,7 +35416,13 @@
             "_id": "6a58d2758b1eb266bf6c8e31"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "chemical reaction class 0002 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/chemical reaction class 0002 pdf by harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a1d6b27b927c1a84a934528",
           "classId": "6a57b19f50ea50f7b3ac471a",
@@ -35362,10 +35465,59 @@
             "_id": "6a5a23ad847c19e9d5319e57"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "chemical reaction class 0003 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/chemical reaction class 0003 pdf by harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a1d6b27b927c1a84a934528",
           "classId": "6a59d50d8eefdd1ae57857cc",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 52
+        }
+      },
+      {
+        "title": "Class -04 || Chemical Reaction & Equation | by Harish sir",
+        "description": "\"RAILWAY Foundation - 04 ,05, 06\r\nSB 05, 06, 07, 08, 09, 10\"",
+        "teacherName": "Harish sir",
+        "duration": 2869,
+        "startDate": "2026-07-21T11:30:00.000Z",
+        "endDate": "2026-07-21T12:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5f3adf8eefdd1ae5afb25e/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f3adf8eefdd1ae5afb25e/output_720p.mp4",
+            "quality": "720p",
+            "size": 431.71,
+            "_id": "6a5f6a28847c19e9d50c4817"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f3adf8eefdd1ae5afb25e/output_480p.mp4",
+            "quality": "480p",
+            "size": 295,
+            "_id": "6a5f6a28847c19e9d50c4818"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f3adf8eefdd1ae5afb25e/output_360p.mp4",
+            "quality": "360p",
+            "size": 205.8,
+            "_id": "6a5f6a28847c19e9d50c4819"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f3adf8eefdd1ae5afb25e/output_240p.mp4",
+            "quality": "240p",
+            "size": 158.76,
+            "_id": "6a5f6a28847c19e9d50c481a"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a1d6b27b927c1a84a934528",
+          "classId": "6a5f3adf8eefdd1ae5afb25e",
           "topicId": "68fa5f40aed5b4af7a841a2a",
           "rawRecordIndex": 52
         }
