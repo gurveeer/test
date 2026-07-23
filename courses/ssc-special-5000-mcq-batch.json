@@ -1,6 +1,6 @@
 {
   "courseName": "SSC special 5000 MCQ batch",
-  "extractedAt": "2026-07-22T03:53:08+0000",
+  "extractedAt": "2026-07-23T03:51:18+0000",
   "videos": {
     "Introduction": [
       {
@@ -724,6 +724,49 @@
         "source": {
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a59fe378eefdd1ae57d99ea",
+          "topicId": "6a153570b927c1a84a3b92c7",
+          "rawRecordIndex": 62
+        }
+      },
+      {
+        "title": "Class -15 | Delhi Sultanate 02 || by Jeet rana sir",
+        "description": "SSC special 5000 MCQ batch",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2830,
+        "startDate": "2026-07-22T14:30:00.000Z",
+        "endDate": "2026-07-22T15:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5f0e708eefdd1ae5a6f6db/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f0e708eefdd1ae5a6f6db/output_720p.mp4",
+            "quality": "720p",
+            "size": 419.91,
+            "_id": "6a60eba0847c19e9d5b24e1b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f0e708eefdd1ae5a6f6db/output_480p.mp4",
+            "quality": "480p",
+            "size": 289.44,
+            "_id": "6a60eba0847c19e9d5b24e1c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f0e708eefdd1ae5a6f6db/output_360p.mp4",
+            "quality": "360p",
+            "size": 206.93,
+            "_id": "6a60eba0847c19e9d5b24e1d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f0e708eefdd1ae5a6f6db/output_240p.mp4",
+            "quality": "240p",
+            "size": 154.31,
+            "_id": "6a60eba0847c19e9d5b24e1e"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a268ce8b927c1a84a018468",
+          "classId": "6a5f0e708eefdd1ae5a6f6db",
           "topicId": "6a153570b927c1a84a3b92c7",
           "rawRecordIndex": 62
         }

@@ -1,6 +1,6 @@
 {
   "courseName": "तथास्तु BATCH 2026",
-  "extractedAt": "2026-07-22T03:53:08+0000",
+  "extractedAt": "2026-07-23T03:51:18+0000",
   "videos": {
     "POLITY": [
       {
@@ -4619,6 +4619,30 @@
         "source": {
           "courseId": "69622fc8027f25d29ebca4f6",
           "classId": "6a5dc23458cb0a2e6637cf6a",
+          "topicId": "696a10e3719de161eee6326b",
+          "rawRecordIndex": 102
+        }
+      },
+      {
+        "title": "Class -12 | Rivers of India 04 | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 0,
+        "startDate": "2026-07-22T10:30:00.000Z",
+        "endDate": "2026-07-22T11:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5f0df08eefdd1ae5a6b77f/playlist.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Ganga River System by jeet sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Ganga River System by jeet sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6a5f0df08eefdd1ae5a6b77f",
           "topicId": "696a10e3719de161eee6326b",
           "rawRecordIndex": 102
         }

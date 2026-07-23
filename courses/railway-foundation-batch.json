@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation Batch",
-  "extractedAt": "2026-07-22T03:53:08+0000",
+  "extractedAt": "2026-07-23T03:51:18+0000",
   "videos": {
     "Arithmetic": [
       {
@@ -6923,6 +6923,55 @@
         "source": {
           "courseId": "69204816dd258fd323a45956",
           "classId": "6a5ecf388eefdd1ae5a0a878",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 67
+        }
+      },
+      {
+        "title": "Class-08 | Simplification (सरलीकरण) | By Gagan Sir",
+        "description": "\"Railway 1,2,3,4,5,6\r\nRRB Group D\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 5175,
+        "startDate": "2026-07-22T05:30:00.000Z",
+        "endDate": "2026-07-22T06:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5f432c8eefdd1ae5b460b2/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f432c8eefdd1ae5b460b2/output_720p.mp4",
+            "quality": "720p",
+            "size": 733.55,
+            "_id": "6a606f3a2631e9eb3b6113ed"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f432c8eefdd1ae5b460b2/output_480p.mp4",
+            "quality": "480p",
+            "size": 489.32,
+            "_id": "6a606f3a2631e9eb3b6113ee"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f432c8eefdd1ae5b460b2/output_360p.mp4",
+            "quality": "360p",
+            "size": 344.49,
+            "_id": "6a606f3a2631e9eb3b6113ef"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f432c8eefdd1ae5b460b2/output_240p.mp4",
+            "quality": "240p",
+            "size": 243.3,
+            "_id": "6a606f3a2631e9eb3b6113f0"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "simplification class 008 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/simplification class 008 pdf by gagan sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69204816dd258fd323a45956",
+          "classId": "6a5f432c8eefdd1ae5b460b2",
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 67
         }

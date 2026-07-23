@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Special-5",
-  "extractedAt": "2026-07-22T03:53:08+0000",
+  "extractedAt": "2026-07-23T03:51:18+0000",
   "videos": {
     "Verbal": [
       {
@@ -5499,10 +5499,59 @@
             "_id": "6a603d1b1386d236bef5167a"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Figure Analogy by balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Figure Analogy by balram sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "698481cefdd21a8a2d18ac6a",
           "classId": "6a5f404b8eefdd1ae5b267d6",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 77
+        }
+      },
+      {
+        "title": "Class - 01 | Figure Classification (Non Verbal) | By Balram Sir",
+        "description": "\"Reasoning  Special  05, 06\r\n Selection Batch 05, 06\"",
+        "teacherName": "Balram Sir",
+        "duration": 4240,
+        "startDate": "2026-07-23T02:00:00.000Z",
+        "endDate": "2026-07-23T03:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a61641c8eefdd1ae5ca0f0d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61641c8eefdd1ae5ca0f0d/output_720p.mp4",
+            "quality": "720p",
+            "size": 690.82,
+            "_id": "6a618ae02ed5ad1e1f73ba79"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61641c8eefdd1ae5ca0f0d/output_480p.mp4",
+            "quality": "480p",
+            "size": 462.95,
+            "_id": "6a618ae02ed5ad1e1f73ba7a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61641c8eefdd1ae5ca0f0d/output_360p.mp4",
+            "quality": "360p",
+            "size": 339.04,
+            "_id": "6a618ae02ed5ad1e1f73ba7b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61641c8eefdd1ae5ca0f0d/output_240p.mp4",
+            "quality": "240p",
+            "size": 280.48,
+            "_id": "6a618ae02ed5ad1e1f73ba7c"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "698481cefdd21a8a2d18ac6a",
+          "classId": "6a61641c8eefdd1ae5ca0f0d",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 77
         }

@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation Batch -4",
-  "extractedAt": "2026-07-22T03:53:08+0000",
+  "extractedAt": "2026-07-23T03:51:18+0000",
   "videos": {
     "Physics": [
       {
@@ -9172,10 +9172,59 @@
             "_id": "6a5f6a28847c19e9d50c481a"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "chemical reaction class 0004 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/chemical reaction class 0004 pdf by harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69eb26c022cc6f4d5fd1b02e",
           "classId": "6a5f3adf8eefdd1ae5afb25e",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 44
+        }
+      },
+      {
+        "title": "Class -05 || Chemical Reaction & Equation | by Harish sir",
+        "description": "\"RAILWAY Foundation - 04 ,05, 06\r\nSB 05, 06, 07, 08, 09, 10\"",
+        "teacherName": "Harish sir",
+        "duration": 3004.484,
+        "startDate": "2026-07-22T16:06:00.000Z",
+        "endDate": "2026-07-22T12:06:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a605e498eefdd1ae5bdf980/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a605e498eefdd1ae5bdf980/mp4/IONIC_BOND_240p.mp4",
+            "quality": "240p",
+            "size": 222.22,
+            "_id": "6a60e835847c19e9d586bb8b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a605e498eefdd1ae5bdf980/mp4/IONIC_BOND_360p.mp4",
+            "quality": "360p",
+            "size": 260.54,
+            "_id": "6a60e835847c19e9d586bb8c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a605e498eefdd1ae5bdf980/mp4/IONIC_BOND_480p.mp4",
+            "quality": "480p",
+            "size": 349.29,
+            "_id": "6a60e835847c19e9d586bb8d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a605e498eefdd1ae5bdf980/mp4/IONIC_BOND_720p.mp4",
+            "quality": "720p",
+            "size": 511.13,
+            "_id": "6a60e835847c19e9d586bb8e"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69eb26c022cc6f4d5fd1b02e",
+          "classId": "6a605e498eefdd1ae5bdf980",
           "topicId": "68fa5f40aed5b4af7a841a2a",
           "rawRecordIndex": 44
         }
@@ -13254,12 +13303,37 @@
         "title": "Class-05 || Seating Arrangement By Deepak Sir",
         "description": "\"*Railway Foundation Batch ,2 ,3 4,5\r\n*RRB Group D \r\n\"",
         "teacherName": "deepak sir",
-        "duration": 0,
+        "duration": 4079,
         "startDate": "2026-07-22T02:30:00.000Z",
         "endDate": "2026-07-22T03:24:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/6a5f3fce8eefdd1ae5b1ea59/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f3fce8eefdd1ae5b1ea59/output_720p.mp4",
+            "quality": "720p",
+            "size": 605.76,
+            "_id": "6a6041111386d236be3448be"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f3fce8eefdd1ae5b1ea59/output_480p.mp4",
+            "quality": "480p",
+            "size": 408.73,
+            "_id": "6a6041111386d236be3448bf"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f3fce8eefdd1ae5b1ea59/output_360p.mp4",
+            "quality": "360p",
+            "size": 287.26,
+            "_id": "6a6041111386d236be3448c0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f3fce8eefdd1ae5b1ea59/output_240p.mp4",
+            "quality": "240p",
+            "size": 206.71,
+            "_id": "6a6041111386d236be3448c1"
+          }
+        ],
         "classPdf": [],
         "source": {
           "courseId": "69eb26c022cc6f4d5fd1b02e",
@@ -21417,6 +21491,55 @@
         "source": {
           "courseId": "69eb26c022cc6f4d5fd1b02e",
           "classId": "6a5ecf388eefdd1ae5a0a878",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 44
+        }
+      },
+      {
+        "title": "Class-08 | Simplification (सरलीकरण) | By Gagan Sir",
+        "description": "\"Railway 1,2,3,4,5,6\r\nRRB Group D\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 5175,
+        "startDate": "2026-07-22T05:30:00.000Z",
+        "endDate": "2026-07-22T06:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5f432c8eefdd1ae5b460b2/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f432c8eefdd1ae5b460b2/output_720p.mp4",
+            "quality": "720p",
+            "size": 733.55,
+            "_id": "6a606f3a2631e9eb3b6113ed"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f432c8eefdd1ae5b460b2/output_480p.mp4",
+            "quality": "480p",
+            "size": 489.32,
+            "_id": "6a606f3a2631e9eb3b6113ee"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f432c8eefdd1ae5b460b2/output_360p.mp4",
+            "quality": "360p",
+            "size": 344.49,
+            "_id": "6a606f3a2631e9eb3b6113ef"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f432c8eefdd1ae5b460b2/output_240p.mp4",
+            "quality": "240p",
+            "size": 243.3,
+            "_id": "6a606f3a2631e9eb3b6113f0"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "simplification class 008 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/simplification class 008 pdf by gagan sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69eb26c022cc6f4d5fd1b02e",
+          "classId": "6a5f432c8eefdd1ae5b460b2",
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 44
         }

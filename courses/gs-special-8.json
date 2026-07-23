@@ -1,6 +1,6 @@
 {
   "courseName": "GS Special -8",
-  "extractedAt": "2026-07-22T03:53:08+0000",
+  "extractedAt": "2026-07-23T03:51:18+0000",
   "videos": {
     "POLITY": [
       {
@@ -1953,7 +1953,13 @@
             "_id": "6a5f4995847c19e9d5d76727"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Types of Market by varun sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Types of Market by varun sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "69f990e6b927c1a84afcbff2",
           "classId": "6a5cfe2b8eefdd1ae5868d02",

@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch - 7",
-  "extractedAt": "2026-07-22T03:53:08+0000",
+  "extractedAt": "2026-07-23T03:51:18+0000",
   "videos": {
     "ARITHMETIC": [
       {
@@ -8100,6 +8100,55 @@
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a5cfb168eefdd1ae5855209",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 15
+        }
+      },
+      {
+        "title": "Class -02 | Distance & Direction | Problem Solving | By Balram Sir",
+        "description": "\"Reasoning  Special  04, 07, 08 ,09, 10\r\n Selection Batch 03, 04, 07, 08 ,09, 10\"",
+        "teacherName": "Balram Sir",
+        "duration": 4504,
+        "startDate": "2026-07-22T04:00:00.000Z",
+        "endDate": "2026-07-22T05:19:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5f40d08eefdd1ae5b2e637/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f40d08eefdd1ae5b2e637/output_720p.mp4",
+            "quality": "720p",
+            "size": 670.33,
+            "_id": "6a60560d8b1eb266bfec7a86"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f40d08eefdd1ae5b2e637/output_480p.mp4",
+            "quality": "480p",
+            "size": 446.24,
+            "_id": "6a60560d8b1eb266bfec7a87"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f40d08eefdd1ae5b2e637/output_360p.mp4",
+            "quality": "360p",
+            "size": 322.53,
+            "_id": "6a60560d8b1eb266bfec7a88"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5f40d08eefdd1ae5b2e637/output_240p.mp4",
+            "quality": "240p",
+            "size": 234.39,
+            "_id": "6a60560d8b1eb266bfec7a89"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Distance & Direction 02 by balram sir BORD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Distance & Direction 02 by balram sir BORD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8c322cc6f4d5f00839f",
+          "classId": "6a5f40d08eefdd1ae5b2e637",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 15
         }
@@ -22931,6 +22980,92 @@
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 15
         }
+      },
+      {
+        "title": "Class -13 || Geometry || by Gagan Sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08 , 09,10\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08 , 09,10\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 4290,
+        "startDate": "2026-07-22T12:30:00.000Z",
+        "endDate": "2026-07-22T13:56:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a60937e8eefdd1ae5c3ce87/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a60937e8eefdd1ae5c3ce87/output_720p.mp4",
+            "quality": "720p",
+            "size": 611.52,
+            "_id": "6a60cdb5bbe5d19c13a3e084"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a60937e8eefdd1ae5c3ce87/output_480p.mp4",
+            "quality": "480p",
+            "size": 414.45,
+            "_id": "6a60cdb5bbe5d19c13a3e085"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a60937e8eefdd1ae5c3ce87/output_360p.mp4",
+            "quality": "360p",
+            "size": 293.81,
+            "_id": "6a60cdb5bbe5d19c13a3e086"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a60937e8eefdd1ae5c3ce87/output_240p.mp4",
+            "quality": "240p",
+            "size": 209.03,
+            "_id": "6a60cdb5bbe5d19c13a3e087"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69d4b8c322cc6f4d5f00839f",
+          "classId": "6a60937e8eefdd1ae5c3ce87",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 15
+        }
+      },
+      {
+        "title": "Class 20 || Trigonometry (त्रिकोणमिति) By Gagan Sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 3214,
+        "startDate": "2026-07-22T14:30:00.000Z",
+        "endDate": "2026-07-22T15:33:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5760d30f21c0a55be8eb55/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5760d30f21c0a55be8eb55/output_720p.mp4",
+            "quality": "720p",
+            "size": 452.2,
+            "_id": "6a60eda72631e9eb3b05d026"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5760d30f21c0a55be8eb55/output_480p.mp4",
+            "quality": "480p",
+            "size": 305.57,
+            "_id": "6a60eda72631e9eb3b05d027"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5760d30f21c0a55be8eb55/output_360p.mp4",
+            "quality": "360p",
+            "size": 216.26,
+            "_id": "6a60eda72631e9eb3b05d028"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5760d30f21c0a55be8eb55/output_240p.mp4",
+            "quality": "240p",
+            "size": 154.07,
+            "_id": "6a60eda72631e9eb3b05d029"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69d4b8c322cc6f4d5f00839f",
+          "classId": "6a5760d30f21c0a55be8eb55",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 15
+        }
       }
     ],
     "PQRS/CT/RC": [
@@ -31046,6 +31181,94 @@
           "topicId": "696e0150719de161eef5677e",
           "rawRecordIndex": 15
         }
+      },
+      {
+        "title": "Class-41 || Noun lec - 03 | by Aman sir",
+        "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
+        "teacherName": "Aman sir",
+        "duration": 5793,
+        "startDate": "2026-07-22T05:30:00.000Z",
+        "endDate": "2026-07-22T07:07:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5ed6088eefdd1ae5a320b4/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5ed6088eefdd1ae5a320b4/output_720p.mp4",
+            "quality": "720p",
+            "size": 812.77,
+            "_id": "6a6074a82631e9eb3bc74cd0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5ed6088eefdd1ae5a320b4/output_480p.mp4",
+            "quality": "480p",
+            "size": 547.69,
+            "_id": "6a6074a82631e9eb3bc74cd1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5ed6088eefdd1ae5a320b4/output_360p.mp4",
+            "quality": "360p",
+            "size": 387.02,
+            "_id": "6a6074a82631e9eb3bc74cd2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5ed6088eefdd1ae5a320b4/output_240p.mp4",
+            "quality": "240p",
+            "size": 295.32,
+            "_id": "6a6074a82631e9eb3bc74cd3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Noun lec-3 with annotations_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Noun lec-3 with annotations_.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Noun lec-3 without annotations _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Noun lec-3 without annotations _.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8c322cc6f4d5f00839f",
+          "classId": "6a5ed6088eefdd1ae5a320b4",
+          "topicId": "696e0150719de161eef5677e",
+          "rawRecordIndex": 15
+        }
+      },
+      {
+        "title": "Class-42 || English Noun practice | by Aman sir",
+        "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
+        "teacherName": "Aman sir",
+        "duration": 0,
+        "startDate": "2026-07-22T10:01:00.000Z",
+        "endDate": "2026-07-22T06:01:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/692d2ab3dd258fd32334a664/hls/master.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "NOUN PRACTICE SHEET",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/NOUN PRACTICE SHEET.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "NOUN PRACTICE SLIDES",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/NOUN PRACTICE SLIDES.pdf"
+          },
+          {
+            "priority": 3,
+            "name": "Noun PYQs CONCISE SHEET",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Noun PYQs CONCISE SHEET-4.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8c322cc6f4d5f00839f",
+          "classId": "6a6072a18eefdd1ae5c13e13",
+          "topicId": "696e0150719de161eef5677e",
+          "rawRecordIndex": 15
+        }
       }
     ],
     "Science Practice": [
@@ -34379,10 +34602,59 @@
             "_id": "6a5f6a28847c19e9d50c481a"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "chemical reaction class 0004 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/chemical reaction class 0004 pdf by harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a5f3adf8eefdd1ae5afb25e",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 15
+        }
+      },
+      {
+        "title": "Class -05 || Chemical Reaction & Equation | by Harish sir",
+        "description": "\"RAILWAY Foundation - 04 ,05, 06\r\nSB 05, 06, 07, 08, 09, 10\"",
+        "teacherName": "Harish sir",
+        "duration": 3004.484,
+        "startDate": "2026-07-22T16:06:00.000Z",
+        "endDate": "2026-07-22T15:06:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a605e498eefdd1ae5bdf980/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a605e498eefdd1ae5bdf980/mp4/IONIC_BOND_240p.mp4",
+            "quality": "240p",
+            "size": 222.22,
+            "_id": "6a60e835847c19e9d586bb8b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a605e498eefdd1ae5bdf980/mp4/IONIC_BOND_360p.mp4",
+            "quality": "360p",
+            "size": 260.54,
+            "_id": "6a60e835847c19e9d586bb8c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a605e498eefdd1ae5bdf980/mp4/IONIC_BOND_480p.mp4",
+            "quality": "480p",
+            "size": 349.29,
+            "_id": "6a60e835847c19e9d586bb8d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a605e498eefdd1ae5bdf980/mp4/IONIC_BOND_720p.mp4",
+            "quality": "720p",
+            "size": 511.13,
+            "_id": "6a60e835847c19e9d586bb8e"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69d4b8c322cc6f4d5f00839f",
+          "classId": "6a605e498eefdd1ae5bdf980",
           "topicId": "68fa5f40aed5b4af7a841a2a",
           "rawRecordIndex": 15
         }
@@ -34916,7 +35188,13 @@
             "_id": "6a5f4995847c19e9d5d76727"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Types of Market by varun sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Types of Market by varun sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a5cfe2b8eefdd1ae5868d02",
