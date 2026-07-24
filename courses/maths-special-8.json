@@ -1,6 +1,6 @@
 {
   "courseName": "Maths Special-8",
-  "extractedAt": "2026-07-23T03:51:18+0000",
+  "extractedAt": "2026-07-24T03:50:48+0000",
   "videos": {
     "ARITHMETIC": [
       {
@@ -6388,7 +6388,13 @@
             "_id": "6a60cdb5bbe5d19c13a3e087"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class 13 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/geometry class 13 pdf by gagan sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69f990f3b927c1a84afcf32f",
           "classId": "6a60937e8eefdd1ae5c3ce87",
@@ -6431,7 +6437,13 @@
             "_id": "6a60eda72631e9eb3b05d029"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "trigonometry class 20 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/trigonometry class 20 pdf by gagan sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69f990f3b927c1a84afcf32f",
           "classId": "6a5760d30f21c0a55be8eb55",

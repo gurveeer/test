@@ -1,5 +1,51 @@
 {
   "courseName": "Reasoning Crash Course",
-  "extractedAt": "2026-07-23T03:51:18+0000",
-  "videos": {}
+  "extractedAt": "2026-07-24T03:50:48+0000",
+  "videos": {
+    "Verbal": [
+      {
+        "title": "Class - 01 || Calendar || by Vikramjeet sir",
+        "description": "rrr",
+        "teacherName": "vikramjeet sir",
+        "duration": 5423,
+        "startDate": "2026-07-23T07:30:00.000Z",
+        "endDate": "2026-07-23T08:39:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a60653c8eefdd1ae5bf7a98/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a60653c8eefdd1ae5bf7a98/output_720p.mp4",
+            "quality": "720p",
+            "size": 781.83,
+            "_id": "6a61de7058cb0a2e66f14194"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a60653c8eefdd1ae5bf7a98/output_480p.mp4",
+            "quality": "480p",
+            "size": 528.45,
+            "_id": "6a61de7058cb0a2e66f14195"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a60653c8eefdd1ae5bf7a98/output_360p.mp4",
+            "quality": "360p",
+            "size": 366.47,
+            "_id": "6a61de7058cb0a2e66f14196"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a60653c8eefdd1ae5bf7a98/output_240p.mp4",
+            "quality": "240p",
+            "size": 248.28,
+            "_id": "6a61de7058cb0a2e66f14197"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5e38ca8eefdd1ae59a2a2f",
+          "classId": "6a60653c8eefdd1ae5bf7a98",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 0
+        }
+      }
+    ]
+  }
 }

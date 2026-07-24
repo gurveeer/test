@@ -1,6 +1,6 @@
 {
   "courseName": "Maths Special-3",
-  "extractedAt": "2026-07-23T03:51:18+0000",
+  "extractedAt": "2026-07-24T03:50:48+0000",
   "videos": {
     "Introduction": [
       {
@@ -4952,7 +4952,13 @@
             "_id": "6a60cdb5bbe5d19c13a3e087"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class 13 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/geometry class 13 pdf by gagan sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69367e9933d222e80e32c6c9",
           "classId": "6a60937e8eefdd1ae5c3ce87",
@@ -4995,7 +5001,13 @@
             "_id": "6a60eda72631e9eb3b05d029"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "trigonometry class 20 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/trigonometry class 20 pdf by gagan sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69367e9933d222e80e32c6c9",
           "classId": "6a5760d30f21c0a55be8eb55",
@@ -13113,6 +13125,55 @@
         "source": {
           "courseId": "69367e9933d222e80e32c6c9",
           "classId": "6a5ecf8b8eefdd1ae5a12561",
+          "topicId": "68d7af97824c6e1af23ea66e",
+          "rawRecordIndex": 27
+        }
+      },
+      {
+        "title": "Class -11 || Compound Interest (चक्रवृद्धि ब्याज़) || by Gagan sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05\r\n & Selection Batch  01, 02, 03, 04 , 05\"",
+        "teacherName": "Gagan sir",
+        "duration": 5259,
+        "startDate": "2026-07-23T07:30:00.000Z",
+        "endDate": "2026-07-23T09:11:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6166728eefdd1ae5cc4507/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6166728eefdd1ae5cc4507/output_720p.mp4",
+            "quality": "720p",
+            "size": 730.91,
+            "_id": "6a61e2012ed5ad1e1f82718d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6166728eefdd1ae5cc4507/output_480p.mp4",
+            "quality": "480p",
+            "size": 489.78,
+            "_id": "6a61e2012ed5ad1e1f82718e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6166728eefdd1ae5cc4507/output_360p.mp4",
+            "quality": "360p",
+            "size": 344.87,
+            "_id": "6a61e2012ed5ad1e1f82718f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6166728eefdd1ae5cc4507/output_240p.mp4",
+            "quality": "240p",
+            "size": 245.79,
+            "_id": "6a61e2012ed5ad1e1f827190"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "compound interest class 11 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sb 1 pm 23 july bp.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69367e9933d222e80e32c6c9",
+          "classId": "6a6166728eefdd1ae5cc4507",
           "topicId": "68d7af97824c6e1af23ea66e",
           "rawRecordIndex": 27
         }

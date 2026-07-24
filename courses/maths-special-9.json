@@ -1,6 +1,6 @@
 {
   "courseName": "Maths Special - 9",
-  "extractedAt": "2026-07-23T03:51:18+0000",
+  "extractedAt": "2026-07-24T03:50:48+0000",
   "videos": {
     "Introduction": [
       {
@@ -5452,7 +5452,13 @@
             "_id": "6a60cdb5bbe5d19c13a3e087"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class 13 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/geometry class 13 pdf by gagan sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a268a30b927c1a84afff930",
           "classId": "6a60937e8eefdd1ae5c3ce87",
