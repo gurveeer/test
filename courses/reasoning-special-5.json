@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Special-5",
-  "extractedAt": "2026-07-24T03:50:48+0000",
+  "extractedAt": "2026-07-25T03:44:37+0000",
   "videos": {
     "Verbal": [
       {
@@ -5548,7 +5548,13 @@
             "_id": "6a618ae02ed5ad1e1f73ba7c"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Figure Classification by Balram Sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Figure Classification by Balram Sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "698481cefdd21a8a2d18ac6a",
           "classId": "6a61641c8eefdd1ae5ca0f0d",
@@ -5591,7 +5597,13 @@
             "_id": "6a62dd9e2ed5ad1e1f5ca6ed"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Figure Grouping by Balram Sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Figure Grouping by Balram Sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "698481cefdd21a8a2d18ac6a",
           "classId": "6a61e67c8eefdd1ae5d494c5",

@@ -1,6 +1,6 @@
 {
   "courseName": "English Special-7",
-  "extractedAt": "2026-07-24T03:50:48+0000",
+  "extractedAt": "2026-07-25T03:44:37+0000",
   "videos": {
     "Uncategorized": [
       {
@@ -16314,6 +16314,60 @@
         "source": {
           "courseId": "69d4b8b422cc6f4d5f008386",
           "classId": "6a6165d18eefdd1ae5cb8850",
+          "topicId": "696e0150719de161eef5677e",
+          "rawRecordIndex": 36
+        }
+      },
+      {
+        "title": "Class-44 || Adverb lec-2 | by Aman sir",
+        "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
+        "teacherName": "Aman sir",
+        "duration": 5512,
+        "startDate": "2026-07-24T05:30:00.000Z",
+        "endDate": "2026-07-24T07:10:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a61e84a8eefdd1ae5d68e69/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e84a8eefdd1ae5d68e69/output_720p.mp4",
+            "quality": "720p",
+            "size": 751.54,
+            "_id": "6a6314c958cb0a2e66df22fe"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e84a8eefdd1ae5d68e69/output_480p.mp4",
+            "quality": "480p",
+            "size": 499.84,
+            "_id": "6a6314c958cb0a2e66df22ff"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e84a8eefdd1ae5d68e69/output_360p.mp4",
+            "quality": "360p",
+            "size": 350.89,
+            "_id": "6a6314c958cb0a2e66df2300"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e84a8eefdd1ae5d68e69/output_240p.mp4",
+            "quality": "240p",
+            "size": 265.29,
+            "_id": "6a6314c958cb0a2e66df2301"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Adverb lec-2 without annotations_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Adverb lec-2 without annotations (2).pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Adverb lec-2 with annotations_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Adverb lec-2 with annotations (2).pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8b422cc6f4d5f008386",
+          "classId": "6a61e84a8eefdd1ae5d68e69",
           "topicId": "696e0150719de161eef5677e",
           "rawRecordIndex": 36
         }

@@ -1,6 +1,6 @@
 {
   "courseName": "Science special Foundation Batch",
-  "extractedAt": "2026-07-24T03:50:48+0000",
+  "extractedAt": "2026-07-25T03:44:37+0000",
   "videos": {
     "Introduction": [
       {
@@ -219,7 +219,13 @@
             "_id": "6a61da94bbe5d19c13a34dda"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "cell class 003 by radhika mam",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/cell class 003 by radhika mam.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a6166c28eefdd1ae5ccc2b2",

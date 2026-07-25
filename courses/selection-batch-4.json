@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch-4",
-  "extractedAt": "2026-07-24T03:50:48+0000",
+  "extractedAt": "2026-07-25T03:44:37+0000",
   "videos": {
     "Number System & More": [
       {
@@ -8209,6 +8209,55 @@
         "source": {
           "courseId": "695b8c2d2feca20f81c25e5b",
           "classId": "6a6166728eefdd1ae5cc4507",
+          "topicId": "68d7af97824c6e1af23ea66e",
+          "rawRecordIndex": 59
+        }
+      },
+      {
+        "title": "Class -12 || Compound Interest (चक्रवृद्धि ब्याज़) || by Gagan sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05\r\n & Selection Batch  01, 02, 03, 04 , 05\"",
+        "teacherName": "Gagan Sir",
+        "duration": 4909,
+        "startDate": "2026-07-24T07:30:00.000Z",
+        "endDate": "2026-07-24T09:14:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a61e9138eefdd1ae5d74c05/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e9138eefdd1ae5d74c05/output_720p.mp4",
+            "quality": "720p",
+            "size": 695.15,
+            "_id": "6a632dfe2ed5ad1e1fcd9eb3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e9138eefdd1ae5d74c05/output_480p.mp4",
+            "quality": "480p",
+            "size": 469.05,
+            "_id": "6a632dfe2ed5ad1e1fcd9eb4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e9138eefdd1ae5d74c05/output_360p.mp4",
+            "quality": "360p",
+            "size": 330.96,
+            "_id": "6a632dfe2ed5ad1e1fcd9eb5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e9138eefdd1ae5d74c05/output_240p.mp4",
+            "quality": "240p",
+            "size": 239.14,
+            "_id": "6a632dfe2ed5ad1e1fcd9eb6"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "compound interest class 12 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/compound interest class 12 pdf by gagan sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c2d2feca20f81c25e5b",
+          "classId": "6a61e9138eefdd1ae5d74c05",
           "topicId": "68d7af97824c6e1af23ea66e",
           "rawRecordIndex": 59
         }
@@ -27722,6 +27771,49 @@
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 59
         }
+      },
+      {
+        "title": "Class -04 | Distance & Direction | Problem Solving | By Balram Sir",
+        "description": "\"Reasoning  Special  04, 07, 08 ,09, 10\r\n Selection Batch 03, 04, 07, 08 ,09, 10\"",
+        "teacherName": "Balram Sir",
+        "duration": 4965,
+        "startDate": "2026-07-24T04:00:00.000Z",
+        "endDate": "2026-07-24T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a61e6c38eefdd1ae5d4d3df/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e6c38eefdd1ae5d4d3df/output_720p.mp4",
+            "quality": "720p",
+            "size": 791.31,
+            "_id": "6a62feafbbe5d19c13358303"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e6c38eefdd1ae5d4d3df/output_480p.mp4",
+            "quality": "480p",
+            "size": 529.24,
+            "_id": "6a62feafbbe5d19c13358304"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e6c38eefdd1ae5d4d3df/output_360p.mp4",
+            "quality": "360p",
+            "size": 386.14,
+            "_id": "6a62feafbbe5d19c13358305"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e6c38eefdd1ae5d4d3df/output_240p.mp4",
+            "quality": "240p",
+            "size": 305.85,
+            "_id": "6a62feafbbe5d19c13358306"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "695b8c2d2feca20f81c25e5b",
+          "classId": "6a61e6c38eefdd1ae5d4d3df",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 59
+        }
       }
     ],
     "GEOGRAPHY": [
@@ -40346,6 +40438,49 @@
         "source": {
           "courseId": "695b8c2d2feca20f81c25e5b",
           "classId": "6a5760d30f21c0a55be8eb55",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 59
+        }
+      },
+      {
+        "title": "Class -14 || Geometry || by Gagan Sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08 , 09,10\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08 , 09,10\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 5561,
+        "startDate": "2026-07-24T12:30:00.000Z",
+        "endDate": "2026-07-24T13:58:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a61acff8eefdd1ae5cef3de/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61acff8eefdd1ae5cef3de/output_720p.mp4",
+            "quality": "720p",
+            "size": 800.14,
+            "_id": "6a6375ff847c19e9d54a25ee"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61acff8eefdd1ae5cef3de/output_480p.mp4",
+            "quality": "480p",
+            "size": 543.06,
+            "_id": "6a6375ff847c19e9d54a25ef"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61acff8eefdd1ae5cef3de/output_360p.mp4",
+            "quality": "360p",
+            "size": 385.02,
+            "_id": "6a6375ff847c19e9d54a25f0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61acff8eefdd1ae5cef3de/output_240p.mp4",
+            "quality": "240p",
+            "size": 278.67,
+            "_id": "6a6375ff847c19e9d54a25f1"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "695b8c2d2feca20f81c25e5b",
+          "classId": "6a61acff8eefdd1ae5cef3de",
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 59
         }

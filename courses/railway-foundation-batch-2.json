@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation Batch -2",
-  "extractedAt": "2026-07-24T03:50:48+0000",
+  "extractedAt": "2026-07-25T03:44:37+0000",
   "videos": {
     "Advance": [
       {
@@ -2204,6 +2204,55 @@
         "source": {
           "courseId": "6943f10fcd0a679bc1207d93",
           "classId": "6a61661d8eefdd1ae5cbc737",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 85
+        }
+      },
+      {
+        "title": "Class-10 | Simplification (सरलीकरण) | By Gagan Sir",
+        "description": "\"Railway 1,2,3,4,5,6\r\nRRB Group D\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 4560,
+        "startDate": "2026-07-24T05:30:00.000Z",
+        "endDate": "2026-07-24T07:12:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a61e8c38eefdd1ae5d6cdd5/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e8c38eefdd1ae5d6cdd5/output_720p.mp4",
+            "quality": "720p",
+            "size": 663.68,
+            "_id": "6a63102e2631e9eb3b2141c6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e8c38eefdd1ae5d6cdd5/output_480p.mp4",
+            "quality": "480p",
+            "size": 448.53,
+            "_id": "6a63102e2631e9eb3b2141c7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e8c38eefdd1ae5d6cdd5/output_360p.mp4",
+            "quality": "360p",
+            "size": 317.12,
+            "_id": "6a63102e2631e9eb3b2141c8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e8c38eefdd1ae5d6cdd5/output_240p.mp4",
+            "quality": "240p",
+            "size": 227.62,
+            "_id": "6a63102e2631e9eb3b2141c9"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "simplification class 10 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/simplification class 10 pdf by gagan sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6943f10fcd0a679bc1207d93",
+          "classId": "6a61e8c38eefdd1ae5d6cdd5",
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 85
         }
@@ -34354,15 +34403,40 @@
         }
       },
       {
-        "title": "Class-07 || Seating Arrangement By Deepak Sir",
+        "title": "Class- 01 || Puzzle Test-01 By Deepak Sir",
         "description": "\"*Railway Foundation Batch ,2 ,3 4,5\r\n*RRB Group D \r\n\"",
         "teacherName": "deepak sir",
-        "duration": 0,
+        "duration": 4102,
         "startDate": "2026-07-24T02:30:00.000Z",
         "endDate": "2026-07-24T03:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/6a61e5cf8eefdd1ae5d4165d/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e5cf8eefdd1ae5d4165d/output_720p.mp4",
+            "quality": "720p",
+            "size": 603.63,
+            "_id": "6a62e3b058cb0a2e6666da97"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e5cf8eefdd1ae5d4165d/output_480p.mp4",
+            "quality": "480p",
+            "size": 408.73,
+            "_id": "6a62e3b058cb0a2e6666da98"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e5cf8eefdd1ae5d4165d/output_360p.mp4",
+            "quality": "360p",
+            "size": 288,
+            "_id": "6a62e3b058cb0a2e6666da99"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e5cf8eefdd1ae5d4165d/output_240p.mp4",
+            "quality": "240p",
+            "size": 204.03,
+            "_id": "6a62e3b058cb0a2e6666da9a"
+          }
+        ],
         "classPdf": [],
         "source": {
           "courseId": "6943f10fcd0a679bc1207d93",

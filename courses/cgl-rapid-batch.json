@@ -1,6 +1,6 @@
 {
   "courseName": "CGL RAPID BATCH",
-  "extractedAt": "2026-07-24T03:50:48+0000",
+  "extractedAt": "2026-07-25T03:44:37+0000",
   "videos": {
     "Introduction": [
       {
@@ -1085,6 +1085,49 @@
         "source": {
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a6164ba8eefdd1ae5cacb97",
+          "topicId": "68b9499ea721af475c9a79ac",
+          "rawRecordIndex": 63
+        }
+      },
+      {
+        "title": "Class -23 | Gandhian Era 04 | by Jeet rana sir",
+        "description": "CGL RAPID BATCH",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2802,
+        "startDate": "2026-07-24T04:30:00.000Z",
+        "endDate": "2026-07-24T05:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a61e7158eefdd1ae5d55218/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e7158eefdd1ae5d55218/output_720p.mp4",
+            "quality": "720p",
+            "size": 430.73,
+            "_id": "6a62fbc72ed5ad1e1f699d4c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e7158eefdd1ae5d55218/output_480p.mp4",
+            "quality": "480p",
+            "size": 297.78,
+            "_id": "6a62fbc72ed5ad1e1f699d4d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e7158eefdd1ae5d55218/output_360p.mp4",
+            "quality": "360p",
+            "size": 213.09,
+            "_id": "6a62fbc72ed5ad1e1f699d4e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e7158eefdd1ae5d55218/output_240p.mp4",
+            "quality": "240p",
+            "size": 157.18,
+            "_id": "6a62fbc72ed5ad1e1f699d4f"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a1fe6bbb927c1a84abc606f",
+          "classId": "6a61e7158eefdd1ae5d55218",
           "topicId": "68b9499ea721af475c9a79ac",
           "rawRecordIndex": 63
         }
@@ -2503,6 +2546,94 @@
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "69a00a63a2b1ae04331b021a",
           "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 63
+        }
+      }
+    ],
+    "Medieval History": [
+      {
+        "title": "Class - 1,2,3 || Mediaeval History | by Jeet rana sir",
+        "description": "rail 345",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 6938.345,
+        "startDate": "2026-07-24T13:24:00.000Z",
+        "endDate": "2026-07-24T12:24:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a6334ec8eefdd1ae5e749b4/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6334ec8eefdd1ae5e749b4/mp4/0724_1__240p.mp4",
+            "quality": "240p",
+            "size": 515.98,
+            "_id": "6a634fa68b1eb266bf98687c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6334ec8eefdd1ae5e749b4/mp4/0724_1__360p.mp4",
+            "quality": "360p",
+            "size": 603.81,
+            "_id": "6a634fa68b1eb266bf98687d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6334ec8eefdd1ae5e749b4/mp4/0724_1__480p.mp4",
+            "quality": "480p",
+            "size": 807,
+            "_id": "6a634fa68b1eb266bf98687e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6334ec8eefdd1ae5e749b4/mp4/0724_1__720p.mp4",
+            "quality": "720p",
+            "size": 1182.39,
+            "_id": "6a634fa68b1eb266bf98687f"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a1fe6bbb927c1a84abc606f",
+          "classId": "6a6334ec8eefdd1ae5e749b4",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 63
+        }
+      },
+      {
+        "title": "Class 04 || Medieval History || by Jeet sir",
+        "description": "Railway Foundation Batch - 06",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2836,
+        "startDate": "2026-07-24T13:25:00.000Z",
+        "endDate": "2026-07-24T12:25:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a61e7578eefdd1ae5d59122/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e7578eefdd1ae5d59122/output_720p.mp4",
+            "quality": "720p",
+            "size": 424.44,
+            "_id": "6a633a9c2ed5ad1e1f9961a8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e7578eefdd1ae5d59122/output_480p.mp4",
+            "quality": "480p",
+            "size": 292.79,
+            "_id": "6a633a9c2ed5ad1e1f9961a9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e7578eefdd1ae5d59122/output_360p.mp4",
+            "quality": "360p",
+            "size": 209.3,
+            "_id": "6a633a9c2ed5ad1e1f9961aa"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e7578eefdd1ae5d59122/output_240p.mp4",
+            "quality": "240p",
+            "size": 155.3,
+            "_id": "6a633a9c2ed5ad1e1f9961ab"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a1fe6bbb927c1a84abc606f",
+          "classId": "6a61e7578eefdd1ae5d59122",
+          "topicId": "699806229119ee84e2e132b6",
           "rawRecordIndex": 63
         }
       }

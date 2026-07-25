@@ -1,6 +1,6 @@
 {
   "courseName": "SSC special 5000 MCQ batch",
-  "extractedAt": "2026-07-24T03:50:48+0000",
+  "extractedAt": "2026-07-25T03:44:37+0000",
   "videos": {
     "Introduction": [
       {
@@ -773,6 +773,98 @@
         "source": {
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a5f0e708eefdd1ae5a6f6db",
+          "topicId": "6a153570b927c1a84a3b92c7",
+          "rawRecordIndex": 62
+        }
+      },
+      {
+        "title": "Class -16 | Delhi Sultanate 03 || by Jeet rana sir",
+        "description": "SSC special 5000 MCQ batch",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2722,
+        "startDate": "2026-07-23T14:30:00.000Z",
+        "endDate": "2026-07-23T16:14:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a61ac808eefdd1ae5ceb3e8/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61ac808eefdd1ae5ceb3e8/output_720p.mp4",
+            "quality": "720p",
+            "size": 399.2,
+            "_id": "6a62378d8b1eb266bf0a32e8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61ac808eefdd1ae5ceb3e8/output_480p.mp4",
+            "quality": "480p",
+            "size": 273.73,
+            "_id": "6a62378d8b1eb266bf0a32e9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61ac808eefdd1ae5ceb3e8/output_360p.mp4",
+            "quality": "360p",
+            "size": 195.27,
+            "_id": "6a62378d8b1eb266bf0a32ea"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61ac808eefdd1ae5ceb3e8/output_240p.mp4",
+            "quality": "240p",
+            "size": 144.46,
+            "_id": "6a62378d8b1eb266bf0a32eb"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Delhi Sultanate 03 by jeet sir Board",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Delhi Sultanate 03 by jeet sir Board.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268ce8b927c1a84a018468",
+          "classId": "6a61ac808eefdd1ae5ceb3e8",
+          "topicId": "6a153570b927c1a84a3b92c7",
+          "rawRecordIndex": 62
+        }
+      },
+      {
+        "title": "Class -17 | Delhi Sultanate 04 || by Jeet rana sir",
+        "description": "SSC special 5000 MCQ batch",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2955,
+        "startDate": "2026-07-24T14:30:00.000Z",
+        "endDate": "2026-07-24T15:38:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6308088eefdd1ae5e0b763/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6308088eefdd1ae5e0b763/output_720p.mp4",
+            "quality": "720p",
+            "size": 443.57,
+            "_id": "6a6388f02631e9eb3b4a628f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6308088eefdd1ae5e0b763/output_480p.mp4",
+            "quality": "480p",
+            "size": 305.76,
+            "_id": "6a6388f02631e9eb3b4a6290"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6308088eefdd1ae5e0b763/output_360p.mp4",
+            "quality": "360p",
+            "size": 218.13,
+            "_id": "6a6388f02631e9eb3b4a6291"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6308088eefdd1ae5e0b763/output_240p.mp4",
+            "quality": "240p",
+            "size": 161.03,
+            "_id": "6a6388f02631e9eb3b4a6292"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a268ce8b927c1a84a018468",
+          "classId": "6a6308088eefdd1ae5e0b763",
           "topicId": "6a153570b927c1a84a3b92c7",
           "rawRecordIndex": 62
         }

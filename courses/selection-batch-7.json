@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch - 7",
-  "extractedAt": "2026-07-24T03:50:48+0000",
+  "extractedAt": "2026-07-25T03:44:37+0000",
   "videos": {
     "ARITHMETIC": [
       {
@@ -8198,6 +8198,49 @@
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a6164688eefdd1ae5ca4df0",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 15
+        }
+      },
+      {
+        "title": "Class -04 | Distance & Direction | Problem Solving | By Balram Sir",
+        "description": "\"Reasoning  Special  04, 07, 08 ,09, 10\r\n Selection Batch 03, 04, 07, 08 ,09, 10\"",
+        "teacherName": "Balram Sir",
+        "duration": 4965,
+        "startDate": "2026-07-24T04:00:00.000Z",
+        "endDate": "2026-07-24T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a61e6c38eefdd1ae5d4d3df/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e6c38eefdd1ae5d4d3df/output_720p.mp4",
+            "quality": "720p",
+            "size": 791.31,
+            "_id": "6a62feafbbe5d19c13358303"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e6c38eefdd1ae5d4d3df/output_480p.mp4",
+            "quality": "480p",
+            "size": 529.24,
+            "_id": "6a62feafbbe5d19c13358304"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e6c38eefdd1ae5d4d3df/output_360p.mp4",
+            "quality": "360p",
+            "size": 386.14,
+            "_id": "6a62feafbbe5d19c13358305"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e6c38eefdd1ae5d4d3df/output_240p.mp4",
+            "quality": "240p",
+            "size": 305.85,
+            "_id": "6a62feafbbe5d19c13358306"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69d4b8c322cc6f4d5f00839f",
+          "classId": "6a61e6c38eefdd1ae5d4d3df",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 15
         }
@@ -23127,6 +23170,49 @@
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 15
         }
+      },
+      {
+        "title": "Class -14 || Geometry || by Gagan Sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08 , 09,10\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08 , 09,10\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 5561,
+        "startDate": "2026-07-24T12:30:00.000Z",
+        "endDate": "2026-07-24T13:58:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a61acff8eefdd1ae5cef3de/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61acff8eefdd1ae5cef3de/output_720p.mp4",
+            "quality": "720p",
+            "size": 800.14,
+            "_id": "6a6375ff847c19e9d54a25ee"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61acff8eefdd1ae5cef3de/output_480p.mp4",
+            "quality": "480p",
+            "size": 543.06,
+            "_id": "6a6375ff847c19e9d54a25ef"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61acff8eefdd1ae5cef3de/output_360p.mp4",
+            "quality": "360p",
+            "size": 385.02,
+            "_id": "6a6375ff847c19e9d54a25f0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61acff8eefdd1ae5cef3de/output_240p.mp4",
+            "quality": "240p",
+            "size": 278.67,
+            "_id": "6a6375ff847c19e9d54a25f1"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69d4b8c322cc6f4d5f00839f",
+          "classId": "6a61acff8eefdd1ae5cef3de",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 15
+        }
       }
     ],
     "PQRS/CT/RC": [
@@ -31384,6 +31470,60 @@
           "topicId": "696e0150719de161eef5677e",
           "rawRecordIndex": 15
         }
+      },
+      {
+        "title": "Class-44 || Adverb lec-2 | by Aman sir",
+        "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
+        "teacherName": "Aman sir",
+        "duration": 5512,
+        "startDate": "2026-07-24T05:30:00.000Z",
+        "endDate": "2026-07-24T07:10:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a61e84a8eefdd1ae5d68e69/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e84a8eefdd1ae5d68e69/output_720p.mp4",
+            "quality": "720p",
+            "size": 751.54,
+            "_id": "6a6314c958cb0a2e66df22fe"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e84a8eefdd1ae5d68e69/output_480p.mp4",
+            "quality": "480p",
+            "size": 499.84,
+            "_id": "6a6314c958cb0a2e66df22ff"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e84a8eefdd1ae5d68e69/output_360p.mp4",
+            "quality": "360p",
+            "size": 350.89,
+            "_id": "6a6314c958cb0a2e66df2300"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e84a8eefdd1ae5d68e69/output_240p.mp4",
+            "quality": "240p",
+            "size": 265.29,
+            "_id": "6a6314c958cb0a2e66df2301"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Adverb lec-2 without annotations_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Adverb lec-2 without annotations (2).pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Adverb lec-2 with annotations_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Adverb lec-2 with annotations (2).pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8c322cc6f4d5f00839f",
+          "classId": "6a61e84a8eefdd1ae5d68e69",
+          "topicId": "696e0150719de161eef5677e",
+          "rawRecordIndex": 15
+        }
       }
     ],
     "Science Practice": [
@@ -34815,7 +34955,13 @@
             "_id": "6a620a788b1eb266bfbf275f"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "chemical reaction class 0006 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/chemical reaction class 0006 pdf by harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a61ec428eefdd1ae5d9473d",
@@ -35216,6 +35362,55 @@
           "topicId": "696db9e5719de161eef1358c",
           "rawRecordIndex": 15
         }
+      },
+      {
+        "title": "Class -09 | Phase II: Atmosphere I | by Varun sir",
+        "description": "\" GS Special- 05, 06, 07, 08, 09\r\n Selection Batch - 05, 06, 07, 08, 09\"",
+        "teacherName": "Varun sir",
+        "duration": 3987,
+        "startDate": "2026-07-24T10:30:00.000Z",
+        "endDate": "2026-07-24T11:45:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a5cfea78eefdd1ae58709c8/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfea78eefdd1ae58709c8/output_720p.mp4",
+            "quality": "720p",
+            "size": 606.07,
+            "_id": "6a635275847c19e9d55fc190"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfea78eefdd1ae58709c8/output_480p.mp4",
+            "quality": "480p",
+            "size": 415.28,
+            "_id": "6a635275847c19e9d55fc191"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfea78eefdd1ae58709c8/output_360p.mp4",
+            "quality": "360p",
+            "size": 295.15,
+            "_id": "6a635275847c19e9d55fc192"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a5cfea78eefdd1ae58709c8/output_240p.mp4",
+            "quality": "240p",
+            "size": 222.37,
+            "_id": "6a635275847c19e9d55fc193"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class 9 Atmosphere",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Class 9 Atmosphere.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8c322cc6f4d5f00839f",
+          "classId": "6a5cfea78eefdd1ae58709c8",
+          "topicId": "696db9e5719de161eef1358c",
+          "rawRecordIndex": 15
+        }
       }
     ],
     "ECONOMICS": [
@@ -35362,6 +35557,73 @@
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a5cfe2b8eefdd1ae5868d02",
+          "topicId": "69f5d55622cc6f4d5f6a917f",
+          "rawRecordIndex": 15
+        }
+      },
+      {
+        "title": "Class - 04 | Budget & Accounts I By Varun Sir",
+        "description": "\" GS Special-  07, 08, 09, 10\r\n Selection Batch - 07, 08, 09, 10\"",
+        "teacherName": "Varun sir",
+        "duration": 3896,
+        "startDate": "2026-07-24T09:00:00.000Z",
+        "endDate": "2026-07-24T10:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a601c7f8eefdd1ae5b9e0e0/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a601c7f8eefdd1ae5b9e0e0/output_720p.mp4",
+            "quality": "720p",
+            "size": 597.96,
+            "_id": "6a633d0b8b1eb266bf63bd2d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a601c7f8eefdd1ae5b9e0e0/output_480p.mp4",
+            "quality": "480p",
+            "size": 411.51,
+            "_id": "6a633d0b8b1eb266bf63bd2e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a601c7f8eefdd1ae5b9e0e0/output_360p.mp4",
+            "quality": "360p",
+            "size": 293.61,
+            "_id": "6a633d0b8b1eb266bf63bd2f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a601c7f8eefdd1ae5b9e0e0/output_240p.mp4",
+            "quality": "240p",
+            "size": 223.46,
+            "_id": "6a633d0b8b1eb266bf63bd30"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Class 4 Budget & Accounts",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Class 4 Budget & Accounts.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8c322cc6f4d5f00839f",
+          "classId": "6a601c7f8eefdd1ae5b9e0e0",
+          "topicId": "69f5d55622cc6f4d5f6a917f",
+          "rawRecordIndex": 15
+        }
+      },
+      {
+        "title": "Class - 05 | Budget & Accounts II By Varun Sir",
+        "description": "\" GS Special-  07, 08, 09, 10\r\n Selection Batch - 07, 08, 09, 10\"",
+        "teacherName": "Varun Sir",
+        "duration": 0,
+        "startDate": "2026-07-25T03:00:00.000Z",
+        "endDate": "2026-07-25T04:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6410278eefdd1ae5eb26c3/playlist.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "69d4b8c322cc6f4d5f00839f",
+          "classId": "6a6410278eefdd1ae5eb26c3",
           "topicId": "69f5d55622cc6f4d5f6a917f",
           "rawRecordIndex": 15
         }

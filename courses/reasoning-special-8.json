@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Special-8",
-  "extractedAt": "2026-07-24T03:50:48+0000",
+  "extractedAt": "2026-07-25T03:44:37+0000",
   "videos": {
     "Verbal": [
       {
@@ -2688,6 +2688,49 @@
         "source": {
           "courseId": "69f990e0b927c1a84afcbfed",
           "classId": "6a6164688eefdd1ae5ca4df0",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 56
+        }
+      },
+      {
+        "title": "Class -04 | Distance & Direction | Problem Solving | By Balram Sir",
+        "description": "\"Reasoning  Special  04, 07, 08 ,09, 10\r\n Selection Batch 03, 04, 07, 08 ,09, 10\"",
+        "teacherName": "Balram Sir",
+        "duration": 4965,
+        "startDate": "2026-07-24T04:00:00.000Z",
+        "endDate": "2026-07-24T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a61e6c38eefdd1ae5d4d3df/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e6c38eefdd1ae5d4d3df/output_720p.mp4",
+            "quality": "720p",
+            "size": 791.31,
+            "_id": "6a62feafbbe5d19c13358303"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e6c38eefdd1ae5d4d3df/output_480p.mp4",
+            "quality": "480p",
+            "size": 529.24,
+            "_id": "6a62feafbbe5d19c13358304"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e6c38eefdd1ae5d4d3df/output_360p.mp4",
+            "quality": "360p",
+            "size": 386.14,
+            "_id": "6a62feafbbe5d19c13358305"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e6c38eefdd1ae5d4d3df/output_240p.mp4",
+            "quality": "240p",
+            "size": 305.85,
+            "_id": "6a62feafbbe5d19c13358306"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69f990e0b927c1a84afcbfed",
+          "classId": "6a61e6c38eefdd1ae5d4d3df",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 56
         }

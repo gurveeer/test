@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Crash Course",
-  "extractedAt": "2026-07-24T03:50:48+0000",
+  "extractedAt": "2026-07-25T03:44:37+0000",
   "videos": {
     "Verbal": [
       {
@@ -42,6 +42,49 @@
         "source": {
           "courseId": "6a5e38ca8eefdd1ae59a2a2f",
           "classId": "6a60653c8eefdd1ae5bf7a98",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 0
+        }
+      },
+      {
+        "title": "Class - 02 || Calendar || by Vikramjeet sir",
+        "description": "Reasoning Crash Course",
+        "teacherName": "vikramjeet sir",
+        "duration": 3129,
+        "startDate": "2026-07-24T07:30:00.000Z",
+        "endDate": "2026-07-24T08:30:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a61e79a8eefdd1ae5d5d05e/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e79a8eefdd1ae5d5d05e/output_720p.mp4",
+            "quality": "720p",
+            "size": 442.47,
+            "_id": "6a632a755851348dd548c851"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e79a8eefdd1ae5d5d05e/output_480p.mp4",
+            "quality": "480p",
+            "size": 295.47,
+            "_id": "6a632a755851348dd548c852"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e79a8eefdd1ae5d5d05e/output_360p.mp4",
+            "quality": "360p",
+            "size": 202.09,
+            "_id": "6a632a755851348dd548c853"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a61e79a8eefdd1ae5d5d05e/output_240p.mp4",
+            "quality": "240p",
+            "size": 130.99,
+            "_id": "6a632a755851348dd548c854"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5e38ca8eefdd1ae59a2a2f",
+          "classId": "6a61e79a8eefdd1ae5d5d05e",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 0
         }
