@@ -1,6 +1,6 @@
 {
   "courseName": "Maths Special-3",
-  "extractedAt": "2026-07-25T03:44:37+0000",
+  "extractedAt": "2026-07-26T04:03:29+0000",
   "videos": {
     "Introduction": [
       {
@@ -5050,7 +5050,13 @@
             "_id": "6a6375ff847c19e9d54a25f1"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class 14 by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/geometry class 14 by gagan sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69367e9933d222e80e32c6c9",
           "classId": "6a61acff8eefdd1ae5cef3de",

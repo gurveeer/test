@@ -1,6 +1,6 @@
 {
   "courseName": "GS संपूर्ण Batch",
-  "extractedAt": "2026-07-25T03:44:37+0000",
+  "extractedAt": "2026-07-26T04:03:29+0000",
   "videos": {
     "HISTORY": [
       {
@@ -2161,7 +2161,13 @@
         "isFree": false,
         "videoUrl": "https://www.youtube.com/watch?v=fRBgc_3_iTU",
         "mp4Recordings": [],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Indian Geography class 21 PDF by shubham sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Indian Geography class 21 PDF by shubham sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "698487d5fdd21a8a2d1a5270",
           "classId": "6a59d44e8eefdd1ae577da62",
@@ -2179,7 +2185,13 @@
         "isFree": false,
         "videoUrl": "https://www.youtube.com/watch?v=xN8SPt7ZKbw",
         "mp4Recordings": [],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Indian Geography Class 22 PDF by shubham sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Indian Geography Class 22 PDF by shubham sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "698487d5fdd21a8a2d1a5270",
           "classId": "6a59d4808eefdd1ae57818a6",
@@ -2197,10 +2209,52 @@
         "isFree": false,
         "videoUrl": "https://www.youtube.com/watch?v=wyzSuuYoQJs",
         "mp4Recordings": [],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Indian Geography class 23 pdf by shubham sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Indian Geography class 23 pdf by shubham sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "698487d5fdd21a8a2d1a5270",
           "classId": "6a5f0f278eefdd1ae5a73646",
+          "topicId": "6a265997b927c1a84af6d41d",
+          "rawRecordIndex": 116
+        }
+      },
+      {
+        "title": "Class -24 || Climate of India | by Shubham sir",
+        "description": "complete gs",
+        "teacherName": "Shubham sir",
+        "duration": 0,
+        "startDate": "2026-07-24T09:51:00.000Z",
+        "endDate": "2026-07-24T10:51:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://www.youtube.com/watch?v=8tPlOG1j-zU",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "698487d5fdd21a8a2d1a5270",
+          "classId": "6a6486d38eefdd1ae5f89ae2",
+          "topicId": "6a265997b927c1a84af6d41d",
+          "rawRecordIndex": 116
+        }
+      },
+      {
+        "title": "Class -25 || Indian Monsoon | by Shubham sir",
+        "description": "COMPLETE GS",
+        "teacherName": "Shubham sir",
+        "duration": 0,
+        "startDate": "2026-07-25T09:52:00.000Z",
+        "endDate": "2026-07-25T08:52:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://www.youtube.com/watch?v=soJcOf-TrpE",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "698487d5fdd21a8a2d1a5270",
+          "classId": "6a6487098eefdd1ae5f8da4e",
           "topicId": "6a265997b927c1a84af6d41d",
           "rawRecordIndex": 116
         }

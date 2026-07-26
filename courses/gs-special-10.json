@@ -1,6 +1,6 @@
 {
   "courseName": "GS Special  - 10",
-  "extractedAt": "2026-07-25T03:44:37+0000",
+  "extractedAt": "2026-07-26T04:03:29+0000",
   "videos": {
     "ECONOMICS": [
       {
@@ -203,13 +203,44 @@
         "title": "Class - 05 | Budget & Accounts II By Varun Sir",
         "description": "\" GS Special-  07, 08, 09, 10\r\n Selection Batch - 07, 08, 09, 10\"",
         "teacherName": "Varun Sir",
-        "duration": 0,
+        "duration": 3744,
         "startDate": "2026-07-25T03:00:00.000Z",
         "endDate": "2026-07-25T04:00:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6410278eefdd1ae5eb26c3/playlist.m3u8",
-        "mp4Recordings": [],
-        "classPdf": [],
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6410278eefdd1ae5eb26c3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6410278eefdd1ae5eb26c3/output_720p.mp4",
+            "quality": "720p",
+            "size": 574.79,
+            "_id": "6a64399e1386d236be04886b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6410278eefdd1ae5eb26c3/output_480p.mp4",
+            "quality": "480p",
+            "size": 395.8,
+            "_id": "6a64399e1386d236be04886c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6410278eefdd1ae5eb26c3/output_360p.mp4",
+            "quality": "360p",
+            "size": 282.4,
+            "_id": "6a64399e1386d236be04886d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6410278eefdd1ae5eb26c3/output_240p.mp4",
+            "quality": "240p",
+            "size": 215.28,
+            "_id": "6a64399e1386d236be04886e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Union Budget by varun sir 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1784995244636-Union_Budget_05_by_Varun_sir_BOARD_PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a462e4eb927c1a84a8b784c",
           "classId": "6a6410278eefdd1ae5eb26c3",

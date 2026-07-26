@@ -1,6 +1,6 @@
 {
   "courseName": "CGL RAPID BATCH",
-  "extractedAt": "2026-07-25T03:44:37+0000",
+  "extractedAt": "2026-07-26T04:03:29+0000",
   "videos": {
     "Introduction": [
       {
@@ -1124,7 +1124,13 @@
             "_id": "6a62fbc72ed5ad1e1f699d4f"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Ghandhian Era 04 by jeet sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Ghandhian Era 04 by jeet sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a61e7158eefdd1ae5d55218",
@@ -2629,7 +2635,13 @@
             "_id": "6a633a9c2ed5ad1e1f9961ab"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Major Attacks by Ghaznavid  BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Major Attacks by Ghaznavid  BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a61e7578eefdd1ae5d59122",

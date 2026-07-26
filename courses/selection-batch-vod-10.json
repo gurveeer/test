@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch VOD 1.0",
-  "extractedAt": "2026-07-25T03:44:37+0000",
+  "extractedAt": "2026-07-26T04:03:29+0000",
   "videos": {
     "Arithmetic": [
       {
@@ -32064,6 +32064,550 @@
         "source": {
           "courseId": "69bbb54302b07cbc32f33240",
           "classId": "6917499a932c0deb70ca9700",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-23 || Governor & State Legislature II by Varun sir",
+        "description": "\" GS Special- 02,03,04,05  &\r\n Selection Batch -02,03,04,05\"",
+        "teacherName": "Varun sir",
+        "duration": 4725,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69c3ab4a20b6656683fb44bf/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c3ab4a20b6656683fb44bf/output_720p.mp4",
+            "quality": "720p",
+            "size": 783.19,
+            "_id": "69c4b782f0078f7a34d26521"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c3ab4a20b6656683fb44bf/output_480p.mp4",
+            "quality": "480p",
+            "size": 530.1,
+            "_id": "69c4b782f0078f7a34d26522"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c3ab4a20b6656683fb44bf/output_360p.mp4",
+            "quality": "360p",
+            "size": 391.24,
+            "_id": "69c4b782f0078f7a34d26523"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c3ab4a20b6656683fb44bf/output_240p.mp4",
+            "quality": "240p",
+            "size": 318.43,
+            "_id": "69c4b782f0078f7a34d26524"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Gov and State Legislature 02  BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Gov and State Legislature 02  BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69bbb54302b07cbc32f33240",
+          "classId": "69c3ab4a20b6656683fb44bf",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-24 || Governor & State Legislature III by Varun sir",
+        "description": "\" GS Special- 02,03,04,05  &\r\n Selection Batch -02,03,04,05\"",
+        "teacherName": "Varun sir",
+        "duration": 3463,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69c5cf6a49ddc27679e1e56a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c5cf6a49ddc27679e1e56a/output_720p.mp4",
+            "quality": "720p",
+            "size": 573.87,
+            "_id": "69c689909b9d8177718274d0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c5cf6a49ddc27679e1e56a/output_480p.mp4",
+            "quality": "480p",
+            "size": 388.3,
+            "_id": "69c689909b9d8177718274d1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c5cf6a49ddc27679e1e56a/output_360p.mp4",
+            "quality": "360p",
+            "size": 286.58,
+            "_id": "69c689909b9d8177718274d2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c5cf6a49ddc27679e1e56a/output_240p.mp4",
+            "quality": "240p",
+            "size": 234.86,
+            "_id": "69c689909b9d8177718274d3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Emergency BOARD PDF_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Emergency BOARD PDF_.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69bbb54302b07cbc32f33240",
+          "classId": "69c5cf6a49ddc27679e1e56a",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-25 || Vice President by Varun sir",
+        "description": "Sb2345",
+        "teacherName": "Varun sir",
+        "duration": 3617,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69c72ec036c7cf7f6c876fcf/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c72ec036c7cf7f6c876fcf/output_720p.mp4",
+            "quality": "720p",
+            "size": 594.85,
+            "_id": "69c75607f0078f7a348d62d5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c72ec036c7cf7f6c876fcf/output_480p.mp4",
+            "quality": "480p",
+            "size": 402.21,
+            "_id": "69c75607f0078f7a348d62d6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c72ec036c7cf7f6c876fcf/output_360p.mp4",
+            "quality": "360p",
+            "size": 295.29,
+            "_id": "69c75607f0078f7a348d62d7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c72ec036c7cf7f6c876fcf/output_240p.mp4",
+            "quality": "240p",
+            "size": 230.37,
+            "_id": "69c75607f0078f7a348d62d8"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Vice President BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Vice President BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Vice President without anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Vice President without anno.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69bbb54302b07cbc32f33240",
+          "classId": "69c72ec036c7cf7f6c876fcf",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-26 || Prime Minister & Council by Varun sir",
+        "description": "",
+        "teacherName": "Varun sir",
+        "duration": 3404,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69c9677d66923638fcd9c57d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c9677d66923638fcd9c57d/output_720p.mp4",
+            "quality": "720p",
+            "size": 566.64,
+            "_id": "69c9f83d923f9ce0c4b938cd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c9677d66923638fcd9c57d/output_480p.mp4",
+            "quality": "480p",
+            "size": 383.24,
+            "_id": "69c9f83d923f9ce0c4b938ce"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c9677d66923638fcd9c57d/output_360p.mp4",
+            "quality": "360p",
+            "size": 283.04,
+            "_id": "69c9f83d923f9ce0c4b938cf"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c9677d66923638fcd9c57d/output_240p.mp4",
+            "quality": "240p",
+            "size": 229.49,
+            "_id": "69c9f83d923f9ce0c4b938d0"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "PM and Council BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/PM and Council BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69bbb54302b07cbc32f33240",
+          "classId": "69c9677d66923638fcd9c57d",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-27 || Schedules As Blueprint of Constitution  by Varun sir",
+        "description": "gs2345",
+        "teacherName": "Varun Sir",
+        "duration": 3288,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69cb1a86c7f3b7e3fb700c73/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cb1a86c7f3b7e3fb700c73/output_720p.mp4",
+            "quality": "720p",
+            "size": 510.98,
+            "_id": "69cbce9e923f9ce0c48ee614"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cb1a86c7f3b7e3fb700c73/output_480p.mp4",
+            "quality": "480p",
+            "size": 354.32,
+            "_id": "69cbce9e923f9ce0c48ee615"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cb1a86c7f3b7e3fb700c73/output_360p.mp4",
+            "quality": "360p",
+            "size": 254.88,
+            "_id": "69cbce9e923f9ce0c48ee616"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cb1a86c7f3b7e3fb700c73/output_240p.mp4",
+            "quality": "240p",
+            "size": 195.83,
+            "_id": "69cbce9e923f9ce0c48ee617"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Schedules BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Schedules BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69bbb54302b07cbc32f33240",
+          "classId": "69cb1a86c7f3b7e3fb700c73",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-28 || Important Amendments & Constitutional Borrowings  by Varun sir",
+        "description": "\" GS Special- 02,03,04,05  &\r\n Selection Batch -02,03,04,05\"",
+        "teacherName": "Varun Sir",
+        "duration": 3510,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69cc14219f4e3b6d5846ae3b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cc14219f4e3b6d5846ae3b/output_720p.mp4",
+            "quality": "720p",
+            "size": 545.35,
+            "_id": "69cc9c6dd5432e914d5882b9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cc14219f4e3b6d5846ae3b/output_480p.mp4",
+            "quality": "480p",
+            "size": 377.85,
+            "_id": "69cc9c6dd5432e914d5882ba"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cc14219f4e3b6d5846ae3b/output_360p.mp4",
+            "quality": "360p",
+            "size": 271.53,
+            "_id": "69cc9c6dd5432e914d5882bb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cc14219f4e3b6d5846ae3b/output_240p.mp4",
+            "quality": "240p",
+            "size": 208.69,
+            "_id": "69cc9c6dd5432e914d5882bc"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Amendments BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Amendments BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69bbb54302b07cbc32f33240",
+          "classId": "69cc14219f4e3b6d5846ae3b",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-29 || Question Practice I  by Varun sir",
+        "description": "\" GS Special- 02,03,04,05  &\r\n Selection Batch -02,03,04,05\"",
+        "teacherName": "Varun Sir",
+        "duration": 3968,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69ccde315ba6dcc3b0bbe69f/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ccde315ba6dcc3b0bbe69f/output_720p.mp4",
+            "quality": "720p",
+            "size": 615.7,
+            "_id": "69cf4123923f9ce0c47239cc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ccde315ba6dcc3b0bbe69f/output_480p.mp4",
+            "quality": "480p",
+            "size": 424.93,
+            "_id": "69cf4123923f9ce0c47239cd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ccde315ba6dcc3b0bbe69f/output_360p.mp4",
+            "quality": "360p",
+            "size": 305.41,
+            "_id": "69cf4123923f9ce0c47239ce"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ccde315ba6dcc3b0bbe69f/output_240p.mp4",
+            "quality": "240p",
+            "size": 228.38,
+            "_id": "69cf4123923f9ce0c47239cf"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Question Practice BOARD PDF __",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Question Practice BOARD PDF __.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69bbb54302b07cbc32f33240",
+          "classId": "69ccde315ba6dcc3b0bbe69f",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-30 || Question Practice II  by Varun sir",
+        "description": "\" GS Special- 02,03,04,05  &\r\n Selection Batch -02,03,04,05\"",
+        "teacherName": "Varun Sir",
+        "duration": 3664,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69d2facb22cc6f4d5fd64818/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d2facb22cc6f4d5fd64818/output_720p.mp4",
+            "quality": "720p",
+            "size": 567.6,
+            "_id": "69d33375766be2ae347e9bc0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d2facb22cc6f4d5fd64818/output_480p.mp4",
+            "quality": "480p",
+            "size": 394.32,
+            "_id": "69d33375766be2ae347e9bc1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d2facb22cc6f4d5fd64818/output_360p.mp4",
+            "quality": "360p",
+            "size": 284.04,
+            "_id": "69d33375766be2ae347e9bc2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d2facb22cc6f4d5fd64818/output_240p.mp4",
+            "quality": "240p",
+            "size": 220.46,
+            "_id": "69d33375766be2ae347e9bc3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Question practice 02 BOARD PDF _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Question practice 02 BOARD PDF _.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69bbb54302b07cbc32f33240",
+          "classId": "69d2facb22cc6f4d5fd64818",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-31 || Question Practice III  by Varun sir",
+        "description": "\" GS Special- 02,03,04,05  &\r\n Selection Batch -02,03,04,05\"",
+        "teacherName": "Varun Sir",
+        "duration": 3725,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69d394dc22cc6f4d5ff64962/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d394dc22cc6f4d5ff64962/output_720p.mp4",
+            "quality": "720p",
+            "size": 578.05,
+            "_id": "69d48541923f9ce0c4f29ec8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d394dc22cc6f4d5ff64962/output_480p.mp4",
+            "quality": "480p",
+            "size": 398.94,
+            "_id": "69d48541923f9ce0c4f29ec9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d394dc22cc6f4d5ff64962/output_360p.mp4",
+            "quality": "360p",
+            "size": 286.44,
+            "_id": "69d48541923f9ce0c4f29eca"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d394dc22cc6f4d5ff64962/output_240p.mp4",
+            "quality": "240p",
+            "size": 214.89,
+            "_id": "69d48541923f9ce0c4f29ecb"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Question practice 03 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Question practice 03 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69bbb54302b07cbc32f33240",
+          "classId": "69d394dc22cc6f4d5ff64962",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-32 || Question Practice IV  by Varun sir",
+        "description": "\" GS Special- 02,03,04,05  &\r\n Selection Batch -02,03,04,05\"",
+        "teacherName": "Varun Sir",
+        "duration": 2344,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69d4dcbb22cc6f4d5f09ed2c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d4dcbb22cc6f4d5f09ed2c/output_720p.mp4",
+            "quality": "720p",
+            "size": 363.46,
+            "_id": "69d5d0aa923f9ce0c4d0605a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d4dcbb22cc6f4d5f09ed2c/output_480p.mp4",
+            "quality": "480p",
+            "size": 251.99,
+            "_id": "69d5d0aa923f9ce0c4d0605b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d4dcbb22cc6f4d5f09ed2c/output_360p.mp4",
+            "quality": "360p",
+            "size": 181.03,
+            "_id": "69d5d0aa923f9ce0c4d0605c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d4dcbb22cc6f4d5f09ed2c/output_240p.mp4",
+            "quality": "240p",
+            "size": 138.93,
+            "_id": "69d5d0aa923f9ce0c4d0605d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Question Practice 04 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Question Practice 04 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69bbb54302b07cbc32f33240",
+          "classId": "69d4dcbb22cc6f4d5f09ed2c",
+          "topicId": "68e329ef48aa5900adba437b",
+          "rawRecordIndex": 64
+        }
+      },
+      {
+        "title": "Class-33 || Question Practice V  by Varun sir",
+        "description": "\" GS Special- 02,03,04,05  &\r\n Selection Batch -02,03,04,05\"",
+        "teacherName": "Varun Sir",
+        "duration": 3704,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69d642a322cc6f4d5f25553c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d642a322cc6f4d5f25553c/output_720p.mp4",
+            "quality": "720p",
+            "size": 575.17,
+            "_id": "69d728e9923f9ce0c41972b0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d642a322cc6f4d5f25553c/output_480p.mp4",
+            "quality": "480p",
+            "size": 398.27,
+            "_id": "69d728e9923f9ce0c41972b1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d642a322cc6f4d5f25553c/output_360p.mp4",
+            "quality": "360p",
+            "size": 286.06,
+            "_id": "69d728e9923f9ce0c41972b2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d642a322cc6f4d5f25553c/output_240p.mp4",
+            "quality": "240p",
+            "size": 218.34,
+            "_id": "69d728e9923f9ce0c41972b3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Question Practice 05 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Question Practice 05 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69bbb54302b07cbc32f33240",
+          "classId": "69d642a322cc6f4d5f25553c",
           "topicId": "68e329ef48aa5900adba437b",
           "rawRecordIndex": 64
         }

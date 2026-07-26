@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch -6",
-  "extractedAt": "2026-07-25T03:44:37+0000",
+  "extractedAt": "2026-07-26T04:03:29+0000",
   "videos": {
     "Number System and More": [
       {
@@ -18470,6 +18470,11 @@
             "priority": 1,
             "name": "Paper Cutting & Folding By Balram sir BOARD PDF",
             "url": "https://selectionwayserver.hranker.com/pdfs/files/Paper Cutting & Folding By Balram sir BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "paper cutting & folding Without Anno pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/paper cutting & folding Without Anno pdf.pdf"
           }
         ],
         "source": {
@@ -18519,6 +18524,11 @@
             "priority": 1,
             "name": "Figure Analogy by balram sir BOARD PDF",
             "url": "https://selectionwayserver.hranker.com/pdfs/files/Figure Analogy by balram sir BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Figure Analogy Without Anno BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Figure Analogy Without Anno BOARD PDF.pdf"
           }
         ],
         "source": {
@@ -18568,6 +18578,11 @@
             "priority": 1,
             "name": "Figure Classification by Balram Sir BOARD PDF",
             "url": "https://selectionwayserver.hranker.com/pdfs/files/Figure Classification by Balram Sir BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Figure Classification Without Anno BAORD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Figure Classification Without Anno BAORD PDF.pdf"
           }
         ],
         "source": {
@@ -18617,6 +18632,11 @@
             "priority": 1,
             "name": "Figure Grouping by Balram Sir BOARD PDF",
             "url": "https://selectionwayserver.hranker.com/pdfs/files/Figure Grouping by Balram Sir BOARD PDF.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Dot & Grouping Without Anno BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Dot & Grouping Without Anno BOARD PDF.pdf"
           }
         ],
         "source": {
@@ -23587,7 +23607,13 @@
             "_id": "6a6375ff847c19e9d54a25f1"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class 14 by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/geometry class 14 by gagan sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69ae9daca2b1ae04337afa9a",
           "classId": "6a61acff8eefdd1ae5cef3de",
@@ -43811,6 +43837,60 @@
         "source": {
           "courseId": "69ae9daca2b1ae04337afa9a",
           "classId": "6a61e84a8eefdd1ae5d68e69",
+          "topicId": "696e0150719de161eef5677e",
+          "rawRecordIndex": 65
+        }
+      },
+      {
+        "title": "Class-45 || Adverb lec-3 | by Aman sir",
+        "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
+        "teacherName": "Aman sir",
+        "duration": 5400,
+        "startDate": "2026-07-25T05:30:00.000Z",
+        "endDate": "2026-07-25T07:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a64116d8eefdd1ae5ec2452/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a64116d8eefdd1ae5ec2452/output_720p.mp4",
+            "quality": "720p",
+            "size": 738.51,
+            "_id": "6a646ee4f11c79bcbade6bed"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a64116d8eefdd1ae5ec2452/output_480p.mp4",
+            "quality": "480p",
+            "size": 492.9,
+            "_id": "6a646ee4f11c79bcbade6bee"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a64116d8eefdd1ae5ec2452/output_360p.mp4",
+            "quality": "360p",
+            "size": 347.27,
+            "_id": "6a646ee4f11c79bcbade6bef"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a64116d8eefdd1ae5ec2452/output_240p.mp4",
+            "quality": "240p",
+            "size": 264.77,
+            "_id": "6a646ee4f11c79bcbade6bf0"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Adverb lec-3 without annotations_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Adverb lec-3 without annotations _.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Adverb lec-3 with annotations_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Adverb lec-3 with annotations _.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69ae9daca2b1ae04337afa9a",
+          "classId": "6a64116d8eefdd1ae5ec2452",
           "topicId": "696e0150719de161eef5677e",
           "rawRecordIndex": 65
         }

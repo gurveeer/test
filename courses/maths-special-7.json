@@ -1,6 +1,6 @@
 {
   "courseName": "Maths Special-7",
-  "extractedAt": "2026-07-25T03:44:37+0000",
+  "extractedAt": "2026-07-26T04:03:29+0000",
   "videos": {
     "ARITHMETIC": [
       {
@@ -7938,7 +7938,13 @@
             "_id": "6a6375ff847c19e9d54a25f1"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class 14 by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/geometry class 14 by gagan sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69d4b8ba22cc6f4d5f008399",
           "classId": "6a61acff8eefdd1ae5cef3de",

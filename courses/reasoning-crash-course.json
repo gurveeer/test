@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Crash Course",
-  "extractedAt": "2026-07-25T03:44:37+0000",
+  "extractedAt": "2026-07-26T04:03:29+0000",
   "videos": {
     "Verbal": [
       {
@@ -81,10 +81,34 @@
             "_id": "6a632a755851348dd548c854"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Calender Class 002 by vikram jeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Calender Class 002 by vikram jeet sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5e38ca8eefdd1ae59a2a2f",
           "classId": "6a61e79a8eefdd1ae5d5d05e",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 0
+        }
+      },
+      {
+        "title": "Class - 01 || Seating Arrangement (बैठने की व्यवस्था) || by Vikramjeet sir",
+        "description": "Reasoning Crash Course",
+        "teacherName": "vikramjeet sir",
+        "duration": 0,
+        "startDate": "2026-07-25T13:30:00.000Z",
+        "endDate": "2026-07-25T14:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://www.youtube.com/watch?v=I-YUnD87SOw",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5e38ca8eefdd1ae59a2a2f",
+          "classId": "6a643d488eefdd1ae5edb739",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 0
         }

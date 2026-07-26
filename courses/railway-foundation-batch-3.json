@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation Batch -3",
-  "extractedAt": "2026-07-25T03:44:37+0000",
+  "extractedAt": "2026-07-26T04:03:29+0000",
   "videos": {
     "Arithmetic": [
       {
@@ -22854,7 +22854,13 @@
             "_id": "6a633a9c2ed5ad1e1f9961ab"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Major Attacks by Ghaznavid  BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Major Attacks by Ghaznavid  BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a61e7578eefdd1ae5d59122",

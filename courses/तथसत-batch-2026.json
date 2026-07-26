@@ -1,6 +1,6 @@
 {
   "courseName": "तथास्तु BATCH 2026",
-  "extractedAt": "2026-07-25T03:44:37+0000",
+  "extractedAt": "2026-07-26T04:03:29+0000",
   "videos": {
     "POLITY": [
       {
@@ -4643,6 +4643,49 @@
         "source": {
           "courseId": "69622fc8027f25d29ebca4f6",
           "classId": "6a5f0df08eefdd1ae5a6b77f",
+          "topicId": "696a10e3719de161eee6326b",
+          "rawRecordIndex": 102
+        }
+      },
+      {
+        "title": "Class -13 | Rivers of India 05 | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 7467.584,
+        "startDate": "2026-07-23T05:44:00.000Z",
+        "endDate": "2026-07-23T06:44:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a6165468eefdd1ae5cb496a/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6165468eefdd1ae5cb496a/mp4/0725_240p.mp4",
+            "quality": "240p",
+            "size": 548.63,
+            "_id": "6a644eac2ed5ad1e1f22b510"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6165468eefdd1ae5cb496a/mp4/0725_360p.mp4",
+            "quality": "360p",
+            "size": 640.66,
+            "_id": "6a644eac2ed5ad1e1f22b511"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6165468eefdd1ae5cb496a/mp4/0725_480p.mp4",
+            "quality": "480p",
+            "size": 859.1,
+            "_id": "6a644eac2ed5ad1e1f22b512"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6165468eefdd1ae5cb496a/mp4/0725_720p.mp4",
+            "quality": "720p",
+            "size": 1262.82,
+            "_id": "6a644eac2ed5ad1e1f22b513"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6a6165468eefdd1ae5cb496a",
           "topicId": "696a10e3719de161eee6326b",
           "rawRecordIndex": 102
         }

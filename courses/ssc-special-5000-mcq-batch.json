@@ -1,6 +1,6 @@
 {
   "courseName": "SSC special 5000 MCQ batch",
-  "extractedAt": "2026-07-25T03:44:37+0000",
+  "extractedAt": "2026-07-26T04:03:29+0000",
   "videos": {
     "Introduction": [
       {
@@ -861,7 +861,13 @@
             "_id": "6a6388f02631e9eb3b4a6292"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Delhi Sultanate 04 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Delhi Sultanate 04 BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a6308088eefdd1ae5e0b763",
