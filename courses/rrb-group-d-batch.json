@@ -1,6 +1,6 @@
 {
   "courseName": "RRB Group D Batch",
-  "extractedAt": "2026-07-26T04:03:29+0000",
+  "extractedAt": "2026-07-27T04:11:52+0000",
   "videos": {
     "Introduction": [
       {
@@ -31733,6 +31733,49 @@
         "source": {
           "courseId": "697df3954ca8c7fbe8f501ee",
           "classId": "6a61e5cf8eefdd1ae5d4165d",
+          "topicId": "69ae68cc7b3188015e0551dd",
+          "rawRecordIndex": 93
+        }
+      },
+      {
+        "title": "Class-02 || Puzzle Test-02 By Deepak Sir",
+        "description": "\"*Railway Foundation Batch ,2 ,3 4,5\r\n*RRB Group D \r\n\"",
+        "teacherName": "deepak sir",
+        "duration": 3116,
+        "startDate": "2026-07-27T02:30:00.000Z",
+        "endDate": "2026-07-27T03:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a632e7c8eefdd1ae5e50bab/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a632e7c8eefdd1ae5e50bab/output_720p.mp4",
+            "quality": "720p",
+            "size": 447.6,
+            "_id": "6a66d3a91386d236bee5ce2a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a632e7c8eefdd1ae5e50bab/output_480p.mp4",
+            "quality": "480p",
+            "size": 298.82,
+            "_id": "6a66d3a91386d236bee5ce2b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a632e7c8eefdd1ae5e50bab/output_360p.mp4",
+            "quality": "360p",
+            "size": 209.61,
+            "_id": "6a66d3a91386d236bee5ce2c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a632e7c8eefdd1ae5e50bab/output_240p.mp4",
+            "quality": "240p",
+            "size": 146.3,
+            "_id": "6a66d3a91386d236bee5ce2d"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "697df3954ca8c7fbe8f501ee",
+          "classId": "6a632e7c8eefdd1ae5e50bab",
           "topicId": "69ae68cc7b3188015e0551dd",
           "rawRecordIndex": 93
         }

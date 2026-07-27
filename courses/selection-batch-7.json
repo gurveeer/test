@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch - 7",
-  "extractedAt": "2026-07-26T04:03:29+0000",
+  "extractedAt": "2026-07-27T04:11:52+0000",
   "videos": {
     "ARITHMETIC": [
       {
@@ -8241,6 +8241,24 @@
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a61e6c38eefdd1ae5d4d3df",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 15
+        }
+      },
+      {
+        "title": "Class -05 | Distance & Direction | Problem Solving | By Balram Sir",
+        "description": "\"Reasoning  Special  04, 07, 08 ,09, 10\r\n Selection Batch 03, 04, 07, 08 ,09, 10\"",
+        "teacherName": "Balram sir",
+        "duration": 0,
+        "startDate": "2026-07-27T04:00:00.000Z",
+        "endDate": "2026-07-27T05:15:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6458cf8eefdd1ae5ef8d95/playlist.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "69d4b8c322cc6f4d5f00839f",
+          "classId": "6a6458cf8eefdd1ae5ef8d95",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 15
         }
@@ -35025,6 +35043,49 @@
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a61ec428eefdd1ae5d9473d",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 15
+        }
+      },
+      {
+        "title": "Class -07 || Chemical Reaction & Equation | by Harish sir",
+        "description": "\"RAILWAY Foundation - 04 ,05, 06\r\nSB 05, 06, 07, 08, 09, 10\"",
+        "teacherName": "Harish sir",
+        "duration": 3721.45,
+        "startDate": "2026-07-25T01:07:00.000Z",
+        "endDate": "2026-07-25T02:07:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a6309758eefdd1ae5e1372b/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6309758eefdd1ae5e1372b/mp4/2026_02_10_17_08_21_240p.mp4",
+            "quality": "240p",
+            "size": 270.96,
+            "_id": "6a64d6f81386d236be0dc7d9"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6309758eefdd1ae5e1372b/mp4/2026_02_10_17_08_21_360p.mp4",
+            "quality": "360p",
+            "size": 318.45,
+            "_id": "6a64d6f81386d236be0dc7da"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6309758eefdd1ae5e1372b/mp4/2026_02_10_17_08_21_480p.mp4",
+            "quality": "480p",
+            "size": 427.87,
+            "_id": "6a64d6f81386d236be0dc7db"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6309758eefdd1ae5e1372b/mp4/2026_02_10_17_08_21_720p.mp4",
+            "quality": "720p",
+            "size": 629.7,
+            "_id": "6a64d6f81386d236be0dc7dc"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69d4b8c322cc6f4d5f00839f",
+          "classId": "6a6309758eefdd1ae5e1372b",
           "topicId": "68fa5f40aed5b4af7a841a2a",
           "rawRecordIndex": 15
         }
