@@ -1,6 +1,6 @@
 {
   "courseName": "Science special Foundation Batch",
-  "extractedAt": "2026-07-27T04:11:52+0000",
+  "extractedAt": "2026-07-28T03:43:27+0000",
   "videos": {
     "Introduction": [
       {
@@ -18,7 +18,7 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a4e57b02631e9eb3b781a48",
           "topicId": "68df3538c181958facf1e512",
-          "rawRecordIndex": 4
+          "rawRecordIndex": 9
         }
       },
       {
@@ -67,7 +67,7 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a5db84b8eefdd1ae58b6af3",
           "topicId": "68df3538c181958facf1e512",
-          "rawRecordIndex": 4
+          "rawRecordIndex": 9
         }
       }
     ],
@@ -106,7 +106,7 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a5732962a64690198a1b1e1",
           "topicId": "6a57350caacf22e8616a9d83",
-          "rawRecordIndex": 4
+          "rawRecordIndex": 9
         }
       }
     ],
@@ -132,7 +132,7 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a5ed5518eefdd1ae5a2a343",
           "topicId": "68e22134290f277f35d6d12b",
-          "rawRecordIndex": 4
+          "rawRecordIndex": 9
         }
       },
       {
@@ -181,7 +181,7 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a601e978eefdd1ae5baa073",
           "topicId": "68e22134290f277f35d6d12b",
-          "rawRecordIndex": 4
+          "rawRecordIndex": 9
         }
       },
       {
@@ -230,7 +230,7 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a6166c28eefdd1ae5ccc2b2",
           "topicId": "68e22134290f277f35d6d12b",
-          "rawRecordIndex": 4
+          "rawRecordIndex": 9
         }
       },
       {
@@ -268,12 +268,61 @@
             "_id": "6a647ea7bbe5d19c13eb2015"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "cell class 4 by radhika mama",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/CELL PART 4 APP.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a61e7f08eefdd1ae5d64f02",
           "topicId": "68e22134290f277f35d6d12b",
-          "rawRecordIndex": 4
+          "rawRecordIndex": 9
+        }
+      },
+      {
+        "title": "Class - 01 | Tissue Part 1 | by Radhika maam",
+        "description": "\"RAILWAY Foundation - 06\r\nScience Foundation - 01\"",
+        "teacherName": "radhika maam",
+        "duration": 4284,
+        "startDate": "2026-07-27T07:30:00.000Z",
+        "endDate": "2026-07-27T08:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a66b2ea8eefdd1ae50046a5/playlist.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a66b2ea8eefdd1ae50046a5/output_720p.mp4",
+            "quality": "720p",
+            "size": 638.18,
+            "_id": "6a6720c48b1eb266bf55b80b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a66b2ea8eefdd1ae50046a5/output_480p.mp4",
+            "quality": "480p",
+            "size": 436.4,
+            "_id": "6a6720c48b1eb266bf55b80c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a66b2ea8eefdd1ae50046a5/output_360p.mp4",
+            "quality": "360p",
+            "size": 311.4,
+            "_id": "6a6720c48b1eb266bf55b80d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a66b2ea8eefdd1ae50046a5/output_240p.mp4",
+            "quality": "240p",
+            "size": 231.46,
+            "_id": "6a6720c48b1eb266bf55b80e"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a4e35315bac0ae4bab52444",
+          "classId": "6a66b2ea8eefdd1ae50046a5",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 9
         }
       }
     ]

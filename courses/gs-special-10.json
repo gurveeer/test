@@ -1,6 +1,6 @@
 {
   "courseName": "GS Special  - 10",
-  "extractedAt": "2026-07-27T04:11:52+0000",
+  "extractedAt": "2026-07-28T03:43:27+0000",
   "videos": {
     "ECONOMICS": [
       {
@@ -49,7 +49,7 @@
           "courseId": "6a462e4eb927c1a84a8b784c",
           "classId": "6a53d2095bac0ae4baeecd98",
           "topicId": "69f5d55622cc6f4d5f6a917f",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 13
         }
       },
       {
@@ -98,7 +98,7 @@
           "courseId": "6a462e4eb927c1a84a8b784c",
           "classId": "6a5981a198f6d3b7e59a09f1",
           "topicId": "69f5d55622cc6f4d5f6a917f",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 13
         }
       },
       {
@@ -147,7 +147,7 @@
           "courseId": "6a462e4eb927c1a84a8b784c",
           "classId": "6a5cfe2b8eefdd1ae5868d02",
           "topicId": "69f5d55622cc6f4d5f6a917f",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 13
         }
       },
       {
@@ -196,7 +196,7 @@
           "courseId": "6a462e4eb927c1a84a8b784c",
           "classId": "6a601c7f8eefdd1ae5b9e0e0",
           "topicId": "69f5d55622cc6f4d5f6a917f",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 13
         }
       },
       {
@@ -245,7 +245,56 @@
           "courseId": "6a462e4eb927c1a84a8b784c",
           "classId": "6a6410278eefdd1ae5eb26c3",
           "topicId": "69f5d55622cc6f4d5f6a917f",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 13
+        }
+      },
+      {
+        "title": "Class - 06 | Demand & Supply I By Varun Sir",
+        "description": "\" GS Special-  07, 08, 09, 10\r\n Selection Batch - 07, 08, 09, 10\"",
+        "teacherName": "Varun Sir",
+        "duration": 2994,
+        "startDate": "2026-07-27T09:00:00.000Z",
+        "endDate": "2026-07-27T10:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a645c2a8eefdd1ae5f18acf/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a645c2a8eefdd1ae5f18acf/output_720p.mp4",
+            "quality": "720p",
+            "size": 456.97,
+            "_id": "6a672d46f11c79bcba1c63ef"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a645c2a8eefdd1ae5f18acf/output_480p.mp4",
+            "quality": "480p",
+            "size": 313.98,
+            "_id": "6a672d46f11c79bcba1c63f0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a645c2a8eefdd1ae5f18acf/output_360p.mp4",
+            "quality": "360p",
+            "size": 223.42,
+            "_id": "6a672d46f11c79bcba1c63f1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a645c2a8eefdd1ae5f18acf/output_240p.mp4",
+            "quality": "240p",
+            "size": 168.89,
+            "_id": "6a672d46f11c79bcba1c63f2"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Demand & Supply by varun sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Demand & Supply by varun sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a462e4eb927c1a84a8b784c",
+          "classId": "6a645c2a8eefdd1ae5f18acf",
+          "topicId": "69f5d55622cc6f4d5f6a917f",
+          "rawRecordIndex": 13
         }
       }
     ]

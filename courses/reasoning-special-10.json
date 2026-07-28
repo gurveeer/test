@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Special - 10",
-  "extractedAt": "2026-07-27T04:11:52+0000",
+  "extractedAt": "2026-07-28T03:43:27+0000",
   "videos": {
     "Verbal": [
       {
@@ -49,7 +49,7 @@
           "courseId": "6a462e48b927c1a84a8b7846",
           "classId": "6a53d0315bac0ae4baedd6dc",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 9
+          "rawRecordIndex": 14
         }
       },
       {
@@ -73,7 +73,7 @@
           "courseId": "6a462e48b927c1a84a8b7846",
           "classId": "6a55858a2a646901987e4ad9",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 9
+          "rawRecordIndex": 14
         }
       },
       {
@@ -122,7 +122,7 @@
           "courseId": "6a462e48b927c1a84a8b7846",
           "classId": "6a56c9632a64690198970910",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 9
+          "rawRecordIndex": 14
         }
       },
       {
@@ -171,7 +171,7 @@
           "courseId": "6a462e48b927c1a84a8b7846",
           "classId": "6a57af1150ea50f7b3aa17f8",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 9
+          "rawRecordIndex": 14
         }
       },
       {
@@ -220,7 +220,7 @@
           "courseId": "6a462e48b927c1a84a8b7846",
           "classId": "6a5980e698f6d3b7e5994f71",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 9
+          "rawRecordIndex": 14
         }
       },
       {
@@ -269,7 +269,7 @@
           "courseId": "6a462e48b927c1a84a8b7846",
           "classId": "6a5cfb168eefdd1ae5855209",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 9
+          "rawRecordIndex": 14
         }
       },
       {
@@ -318,7 +318,7 @@
           "courseId": "6a462e48b927c1a84a8b7846",
           "classId": "6a5f40d08eefdd1ae5b2e637",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 9
+          "rawRecordIndex": 14
         }
       },
       {
@@ -367,7 +367,7 @@
           "courseId": "6a462e48b927c1a84a8b7846",
           "classId": "6a6164688eefdd1ae5ca4df0",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 9
+          "rawRecordIndex": 14
         }
       },
       {
@@ -405,30 +405,67 @@
             "_id": "6a62feafbbe5d19c13358306"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Distance & Direction 04 by balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Distance & Direction 04 by balram sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a462e48b927c1a84a8b7846",
           "classId": "6a61e6c38eefdd1ae5d4d3df",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 9
+          "rawRecordIndex": 14
         }
       },
       {
         "title": "Class -05 | Distance & Direction | Problem Solving | By Balram Sir",
         "description": "\"Reasoning  Special  04, 07, 08 ,09, 10\r\n Selection Batch 03, 04, 07, 08 ,09, 10\"",
         "teacherName": "Balram sir",
-        "duration": 0,
+        "duration": 4082,
         "startDate": "2026-07-27T04:00:00.000Z",
         "endDate": "2026-07-27T05:15:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6458cf8eefdd1ae5ef8d95/playlist.m3u8",
-        "mp4Recordings": [],
-        "classPdf": [],
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6458cf8eefdd1ae5ef8d95/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6458cf8eefdd1ae5ef8d95/output_720p.mp4",
+            "quality": "720p",
+            "size": 618.49,
+            "_id": "6a66ec84f11c79bcbaa3f9cd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6458cf8eefdd1ae5ef8d95/output_480p.mp4",
+            "quality": "480p",
+            "size": 404.57,
+            "_id": "6a66ec84f11c79bcbaa3f9ce"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6458cf8eefdd1ae5ef8d95/output_360p.mp4",
+            "quality": "360p",
+            "size": 290.39,
+            "_id": "6a66ec84f11c79bcbaa3f9cf"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6458cf8eefdd1ae5ef8d95/output_240p.mp4",
+            "quality": "240p",
+            "size": 205.52,
+            "_id": "6a66ec84f11c79bcbaa3f9d0"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Distance & Direction 05  by balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Distance & Direction 05  by balram sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a462e48b927c1a84a8b7846",
           "classId": "6a6458cf8eefdd1ae5ef8d95",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 9
+          "rawRecordIndex": 14
         }
       }
     ]
