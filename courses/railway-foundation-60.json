@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation 6.0",
-  "extractedAt": "2026-07-28T03:43:27+0000",
+  "extractedAt": "2026-07-29T03:47:02+0000",
   "videos": {
     "Introduction": [
       {
@@ -18,7 +18,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a4e57b02631e9eb3b781a48",
           "topicId": "68df3538c181958facf1e512",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -67,7 +67,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a5db84b8eefdd1ae58b6af3",
           "topicId": "68df3538c181958facf1e512",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       }
     ],
@@ -118,7 +118,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a4c4cc55bac0ae4ba963fa6",
           "topicId": "68d7afa61ccb525c5c92cfa4",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -167,7 +167,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a5587382a646901987ffa37",
           "topicId": "68d7afa61ccb525c5c92cfa4",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -216,7 +216,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a56cc9f2a646901989934a4",
           "topicId": "68d7afa61ccb525c5c92cfa4",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -265,7 +265,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a57b0d150ea50f7b3ab4ebe",
           "topicId": "68d7afa61ccb525c5c92cfa4",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -314,7 +314,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a5982ce98f6d3b7e59ac530",
           "topicId": "68d7afa61ccb525c5c92cfa4",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -363,7 +363,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a5cff2a8eefdd1ae5874897",
           "topicId": "68d7afa61ccb525c5c92cfa4",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -412,7 +412,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a5ecf388eefdd1ae5a0a878",
           "topicId": "68d7afa61ccb525c5c92cfa4",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -461,7 +461,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a5f432c8eefdd1ae5b460b2",
           "topicId": "68d7afa61ccb525c5c92cfa4",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -510,7 +510,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a61661d8eefdd1ae5cbc737",
           "topicId": "68d7afa61ccb525c5c92cfa4",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -559,7 +559,56 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a61e8c38eefdd1ae5d6cdd5",
           "topicId": "68d7afa61ccb525c5c92cfa4",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
+        }
+      },
+      {
+        "title": "Class-11 | Simplification (सरलीकरण) | By Gagan Sir",
+        "description": "\"Railway 1,2,3,4,5,6\r\nRRB Group D\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 5110,
+        "startDate": "2026-07-28T05:30:00.000Z",
+        "endDate": "2026-07-28T07:24:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a645a8d8eefdd1ae5f08c1b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a645a8d8eefdd1ae5f08c1b/output_720p.mp4",
+            "quality": "720p",
+            "size": 741.37,
+            "_id": "6a685991fded68823da2515a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a645a8d8eefdd1ae5f08c1b/output_480p.mp4",
+            "quality": "480p",
+            "size": 505.83,
+            "_id": "6a685991fded68823da2515b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a645a8d8eefdd1ae5f08c1b/output_360p.mp4",
+            "quality": "360p",
+            "size": 357.98,
+            "_id": "6a685991fded68823da2515c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a645a8d8eefdd1ae5f08c1b/output_240p.mp4",
+            "quality": "240p",
+            "size": 259.42,
+            "_id": "6a685991fded68823da2515d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "simplification class 11 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/railway 11 am 28 july bp.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a4e376d5bac0ae4bab5a040",
+          "classId": "6a645a8d8eefdd1ae5f08c1b",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 95
         }
       }
     ],
@@ -610,7 +659,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a5725252a646901989ccb6f",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -659,7 +708,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a57ac4e50ea50f7b3a864fd",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -708,7 +757,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a59801098f6d3b7e59894fd",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -757,7 +806,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a5cfa4b8eefdd1ae584d525",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -806,7 +855,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a5cfda98eefdd1ae5864e85",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -855,7 +904,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a60540a8eefdd1ae5bbf84a",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -904,7 +953,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a6163898eefdd1ae5c9915e",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -953,7 +1002,56 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a632d9a8eefdd1ae5e48cc9",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
+        }
+      },
+      {
+        "title": "Class-01 || Coding Decoding-01 By Deepak Sir",
+        "description": "Railway Foundation - 06",
+        "teacherName": "deepak sir",
+        "duration": 4696,
+        "startDate": "2026-07-28T10:30:00.000Z",
+        "endDate": "2026-07-28T11:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6800b14700100f9d4185e7/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6800b14700100f9d4185e7/output_720p.mp4",
+            "quality": "720p",
+            "size": 697.96,
+            "_id": "6a68a40d5851348dd5df1d4f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6800b14700100f9d4185e7/output_480p.mp4",
+            "quality": "480p",
+            "size": 472.92,
+            "_id": "6a68a40d5851348dd5df1d50"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6800b14700100f9d4185e7/output_360p.mp4",
+            "quality": "360p",
+            "size": 332.55,
+            "_id": "6a68a40d5851348dd5df1d51"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6800b14700100f9d4185e7/output_240p.mp4",
+            "quality": "240p",
+            "size": 232.19,
+            "_id": "6a68a40d5851348dd5df1d52"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Coding Decoding 0001 By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Class-09 !! Coding Decoding-01 By Deepak Sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a4e376d5bac0ae4bab5a040",
+          "classId": "6a6800b14700100f9d4185e7",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 95
         }
       }
     ],
@@ -992,7 +1090,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a5732962a64690198a1b1e1",
           "topicId": "6a57350caacf22e8616a9d83",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       }
     ],
@@ -1043,7 +1141,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a5755d90f21c0a55be72fb6",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -1092,7 +1190,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a57b19f50ea50f7b3ac471a",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -1141,7 +1239,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a59d50d8eefdd1ae57857cc",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -1190,7 +1288,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a5f3adf8eefdd1ae5afb25e",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -1239,7 +1337,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a605e498eefdd1ae5bdf980",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -1288,7 +1386,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a61ec428eefdd1ae5d9473d",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -1337,7 +1435,50 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a6309758eefdd1ae5e1372b",
           "topicId": "68fa5f40aed5b4af7a841a2a",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
+        }
+      },
+      {
+        "title": "Class - 01 | Acid base & salt | by Harish sir",
+        "description": "\"RAILWAY Foundation - 04 ,05, 06\r\nSB 05, 06, 07, 08, 09, 10\"",
+        "teacherName": "HARISH SIR",
+        "duration": 2547,
+        "startDate": "2026-07-28T11:30:00.000Z",
+        "endDate": "2026-07-28T12:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a66fae68eefdd1ae503edd3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a66fae68eefdd1ae503edd3/output_720p.mp4",
+            "quality": "720p",
+            "size": 380.2,
+            "_id": "6a68a85ef11c79bcbac6052e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a66fae68eefdd1ae503edd3/output_480p.mp4",
+            "quality": "480p",
+            "size": 259.29,
+            "_id": "6a68a85ef11c79bcbac6052f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a66fae68eefdd1ae503edd3/output_360p.mp4",
+            "quality": "360p",
+            "size": 180.48,
+            "_id": "6a68a85ef11c79bcbac60530"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a66fae68eefdd1ae503edd3/output_240p.mp4",
+            "quality": "240p",
+            "size": 141.35,
+            "_id": "6a68a85ef11c79bcbac60531"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a4e376d5bac0ae4bab5a040",
+          "classId": "6a66fae68eefdd1ae503edd3",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 95
         }
       }
     ],
@@ -1388,7 +1529,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a5dbaae8eefdd1ae58be991",
           "topicId": "699806229119ee84e2e132b6",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -1437,7 +1578,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a5f0d838eefdd1ae5a6786a",
           "topicId": "699806229119ee84e2e132b6",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -1486,7 +1627,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a6165058eefdd1ae5cb0a85",
           "topicId": "699806229119ee84e2e132b6",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -1535,7 +1676,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a61e7578eefdd1ae5d59122",
           "topicId": "699806229119ee84e2e132b6",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -1573,12 +1714,61 @@
             "_id": "6a672fdff11c79bcba484a3e"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Gaurid Dynasty by jeet sir BOARD PDF_",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Gaurid Dynasty by jeet sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a6459738eefdd1ae5f04c04",
           "topicId": "699806229119ee84e2e132b6",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
+        }
+      },
+      {
+        "title": "Class 06 || Medieval History || by Jeet sir",
+        "description": "\"Railway Foundation Batch -03, 04, 05, 06\r\nCGL RAPID BATCH\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2787,
+        "startDate": "2026-07-28T09:00:00.000Z",
+        "endDate": "2026-07-28T10:09:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6749be4700100f9d3d4a38/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6749be4700100f9d3d4a38/output_720p.mp4",
+            "quality": "720p",
+            "size": 392,
+            "_id": "6a6880fe847c19e9d523cf4d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6749be4700100f9d3d4a38/output_480p.mp4",
+            "quality": "480p",
+            "size": 266.44,
+            "_id": "6a6880fe847c19e9d523cf4e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6749be4700100f9d3d4a38/output_360p.mp4",
+            "quality": "360p",
+            "size": 189.06,
+            "_id": "6a6880fe847c19e9d523cf4f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6749be4700100f9d3d4a38/output_240p.mp4",
+            "quality": "240p",
+            "size": 138.59,
+            "_id": "6a6880fe847c19e9d523cf50"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a4e376d5bac0ae4bab5a040",
+          "classId": "6a6749be4700100f9d3d4a38",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 95
         }
       }
     ],
@@ -1604,7 +1794,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a5ed5518eefdd1ae5a2a343",
           "topicId": "68e22134290f277f35d6d12b",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -1653,7 +1843,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a601e978eefdd1ae5baa073",
           "topicId": "68e22134290f277f35d6d12b",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -1702,7 +1892,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a6166c28eefdd1ae5ccc2b2",
           "topicId": "68e22134290f277f35d6d12b",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -1751,7 +1941,7 @@
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a61e7f08eefdd1ae5d64f02",
           "topicId": "68e22134290f277f35d6d12b",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
         }
       },
       {
@@ -1789,12 +1979,67 @@
             "_id": "6a6720c48b1eb266bf55b80e"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "tissue class 0001 pdf by radhika mam",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/TISSUE PART 1 APP.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a66b2ea8eefdd1ae50046a5",
           "topicId": "68e22134290f277f35d6d12b",
-          "rawRecordIndex": 8
+          "rawRecordIndex": 95
+        }
+      },
+      {
+        "title": "Class - 02 | Tissue Part 2 | by Radhika maam",
+        "description": "\"RAILWAY Foundation - 06\r\nScience Foundation - 01\"",
+        "teacherName": "radhika maam",
+        "duration": 3999,
+        "startDate": "2026-07-28T07:30:00.000Z",
+        "endDate": "2026-07-28T08:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6729e54700100f9d36b736/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6729e54700100f9d36b736/output_720p.mp4",
+            "quality": "720p",
+            "size": 589.09,
+            "_id": "6a686eb49efa548457491991"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6729e54700100f9d36b736/output_480p.mp4",
+            "quality": "480p",
+            "size": 399.1,
+            "_id": "6a686eb49efa548457491992"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6729e54700100f9d36b736/output_360p.mp4",
+            "quality": "360p",
+            "size": 282.96,
+            "_id": "6a686eb49efa548457491993"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6729e54700100f9d36b736/output_240p.mp4",
+            "quality": "240p",
+            "size": 199.14,
+            "_id": "6a686eb49efa548457491994"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "tissue class 002 by radhika mama",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Tissue Part 2 App.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a4e376d5bac0ae4bab5a040",
+          "classId": "6a6729e54700100f9d36b736",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 95
         }
       }
     ]

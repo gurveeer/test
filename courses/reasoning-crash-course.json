@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Crash Course",
-  "extractedAt": "2026-07-28T03:43:27+0000",
+  "extractedAt": "2026-07-29T03:47:02+0000",
   "videos": {
     "Verbal": [
       {
@@ -43,7 +43,7 @@
           "courseId": "6a5e38ca8eefdd1ae59a2a2f",
           "classId": "6a60653c8eefdd1ae5bf7a98",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 5
+          "rawRecordIndex": 4
         }
       },
       {
@@ -92,7 +92,7 @@
           "courseId": "6a5e38ca8eefdd1ae59a2a2f",
           "classId": "6a61e79a8eefdd1ae5d5d05e",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 5
+          "rawRecordIndex": 4
         }
       },
       {
@@ -116,7 +116,7 @@
           "courseId": "6a5e38ca8eefdd1ae59a2a2f",
           "classId": "6a643d488eefdd1ae5edb739",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 5
+          "rawRecordIndex": 4
         }
       },
       {
@@ -129,30 +129,18 @@
         "isFree": true,
         "videoUrl": "https://www.youtube.com/watch?v=7DM4M0cWdzI",
         "mp4Recordings": [],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "coded inequality class by vikramjeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1. Coded Inequality (PPT) (SSC) by vikramjeet sir (1).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5e38ca8eefdd1ae59a2a2f",
           "classId": "6a66e92f8eefdd1ae501e059",
           "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 5
-        }
-      },
-      {
-        "title": "Class - 01 || Syllogism (न्याय-निगमन) || by Vikramjeet sir",
-        "description": "Reasoning Crash Course",
-        "teacherName": "vikramjeet sir",
-        "duration": 0,
-        "startDate": "2026-07-28T13:30:00.000Z",
-        "endDate": "2026-07-28T14:30:00.000Z",
-        "isFree": true,
-        "videoUrl": "https://www.youtube.com/watch?v=F0XbHN1iqu8",
-        "mp4Recordings": [],
-        "classPdf": [],
-        "source": {
-          "courseId": "6a5e38ca8eefdd1ae59a2a2f",
-          "classId": "6a6805bd4700100f9d438a1c",
-          "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 5
+          "rawRecordIndex": 4
         }
       }
     ]
