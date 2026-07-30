@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Special-5",
-  "extractedAt": "2026-07-29T03:47:02+0000",
+  "extractedAt": "2026-07-30T03:38:48+0000",
   "videos": {
     "Verbal": [
       {
@@ -5715,7 +5715,13 @@
             "_id": "6a6820e15851348dd5053ce2"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Counting of Figure 02   By balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Counting of Figure 02   By balram sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "698481cefdd21a8a2d18ac6a",
           "classId": "6a6726c64700100f9d34b92d",
@@ -5758,10 +5764,59 @@
             "_id": "6a69789e5851348dd50dd49e"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Counting of Triangles 03  By balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Counting of Triangles 03  By balram sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "698481cefdd21a8a2d18ac6a",
           "classId": "6a6953c44700100f9db30785",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 69
+        }
+      },
+      {
+        "title": "Class-04 | Counting of Figures | Non-Verbal Reasoning | By Balram Sir",
+        "description": "\"Reasoning  Special  05, 06\r\n Selection Batch 05, 06\"",
+        "teacherName": "Balram Sir",
+        "duration": 2683,
+        "startDate": "2026-07-30T02:00:00.000Z",
+        "endDate": "2026-07-30T03:07:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6a41004700100f9dc1e445/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a41004700100f9dc1e445/output_720p.mp4",
+            "quality": "720p",
+            "size": 437.52,
+            "_id": "6a6ac09bf11c79bcbaaca058"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a41004700100f9dc1e445/output_480p.mp4",
+            "quality": "480p",
+            "size": 292.14,
+            "_id": "6a6ac09bf11c79bcbaaca059"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a41004700100f9dc1e445/output_360p.mp4",
+            "quality": "360p",
+            "size": 212.57,
+            "_id": "6a6ac09bf11c79bcbaaca05a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a41004700100f9dc1e445/output_240p.mp4",
+            "quality": "240p",
+            "size": 152.94,
+            "_id": "6a6ac09bf11c79bcbaaca05b"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "698481cefdd21a8a2d18ac6a",
+          "classId": "6a6a41004700100f9dc1e445",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 69
         }

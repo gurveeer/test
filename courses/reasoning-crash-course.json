@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Crash Course",
-  "extractedAt": "2026-07-29T03:47:02+0000",
+  "extractedAt": "2026-07-30T03:38:48+0000",
   "videos": {
     "Verbal": [
       {
@@ -139,6 +139,24 @@
         "source": {
           "courseId": "6a5e38ca8eefdd1ae59a2a2f",
           "classId": "6a66e92f8eefdd1ae501e059",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 4
+        }
+      },
+      {
+        "title": "Class - 01 || Syllogism (न्याय-निगमन) || by Vikramjeet sir",
+        "description": "Reasoning Crash Course",
+        "teacherName": "vikramjeet sir",
+        "duration": 0,
+        "startDate": "2026-07-29T13:30:00.000Z",
+        "endDate": "2026-07-29T14:35:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://www.youtube.com/watch?v=F0XbHN1iqu8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5e38ca8eefdd1ae59a2a2f",
+          "classId": "6a6805bd4700100f9d438a1c",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 4
         }

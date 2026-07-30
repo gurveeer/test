@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation Batch",
-  "extractedAt": "2026-07-29T03:47:02+0000",
+  "extractedAt": "2026-07-30T03:38:48+0000",
   "videos": {
     "Arithmetic": [
       {
@@ -7119,6 +7119,55 @@
         "source": {
           "courseId": "69204816dd258fd323a45956",
           "classId": "6a645a8d8eefdd1ae5f08c1b",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 58
+        }
+      },
+      {
+        "title": "Class-12 | Simplification (सरलीकरण) | By Gagan Sir",
+        "description": "\"Railway 1,2,3,4,5,6\r\nRRB Group D\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 5365,
+        "startDate": "2026-07-29T05:30:00.000Z",
+        "endDate": "2026-07-29T06:45:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6955f64700100f9db5ca34/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6955f64700100f9db5ca34/output_720p.mp4",
+            "quality": "720p",
+            "size": 740.05,
+            "_id": "6a69af8c58cb0a2e66fc63e4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6955f64700100f9db5ca34/output_480p.mp4",
+            "quality": "480p",
+            "size": 499.63,
+            "_id": "6a69af8c58cb0a2e66fc63e5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6955f64700100f9db5ca34/output_360p.mp4",
+            "quality": "360p",
+            "size": 350.73,
+            "_id": "6a69af8c58cb0a2e66fc63e6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6955f64700100f9db5ca34/output_240p.mp4",
+            "quality": "240p",
+            "size": 246.64,
+            "_id": "6a69af8c58cb0a2e66fc63e7"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "simplification class 12 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/simplification class 12 pdf by gagan sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69204816dd258fd323a45956",
+          "classId": "6a6955f64700100f9db5ca34",
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 58
         }

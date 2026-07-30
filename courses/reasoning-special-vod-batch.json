@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Special Vod Batch",
-  "extractedAt": "2026-07-29T03:47:02+0000",
+  "extractedAt": "2026-07-30T03:38:48+0000",
   "videos": {
     "Verbal": [
       {
@@ -305,6 +305,350 @@
         }
       },
       {
+        "title": "Class - 01 | Dice || by Vikramjeet sir",
+        "description": "Class - 01 | Dice || by Vikram jeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 3745.515,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a6884224700100f9d5b864c/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6884224700100f9d5b864c/mp4/01_240p.mp4",
+            "quality": "240p",
+            "size": 222.11,
+            "_id": "6a698df85851348dd57ee173"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6884224700100f9d5b864c/mp4/01_360p.mp4",
+            "quality": "360p",
+            "size": 269.3,
+            "_id": "6a698df85851348dd57ee174"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6884224700100f9d5b864c/mp4/01_480p.mp4",
+            "quality": "480p",
+            "size": 367.81,
+            "_id": "6a698df85851348dd57ee175"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6884224700100f9d5b864c/mp4/01_720p.mp4",
+            "quality": "720p",
+            "size": 556.61,
+            "_id": "6a698df85851348dd57ee176"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a6884224700100f9d5b864c",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
+        "title": "Class - 02 | Dice || by Vikramjeet sir",
+        "description": "Class - 02 | Dice || by Vikram jeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 3649.046,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a6884484700100f9d5c05bf/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6884484700100f9d5c05bf/mp4/02_240p.mp4",
+            "quality": "240p",
+            "size": 203.64,
+            "_id": "6a6993c4847c19e9d5521ffa"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6884484700100f9d5c05bf/mp4/02_360p.mp4",
+            "quality": "360p",
+            "size": 252.1,
+            "_id": "6a6993c4847c19e9d5521ffb"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6884484700100f9d5c05bf/mp4/02_480p.mp4",
+            "quality": "480p",
+            "size": 344.88,
+            "_id": "6a6993c4847c19e9d5521ffc"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6884484700100f9d5c05bf/mp4/02_720p.mp4",
+            "quality": "720p",
+            "size": 523,
+            "_id": "6a6993c4847c19e9d5521ffd"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a6884484700100f9d5c05bf",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
+        "title": "Class - 03 | Dice || by Vikramjeet sir",
+        "description": "Class - 03 | Dice || by Vikram jeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 3656.811,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a68846d4700100f9d5c8532/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68846d4700100f9d5c8532/mp4/03_240p.mp4",
+            "quality": "240p",
+            "size": 225.89,
+            "_id": "6a699fab847c19e9d53df936"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68846d4700100f9d5c8532/mp4/03_360p.mp4",
+            "quality": "360p",
+            "size": 274.34,
+            "_id": "6a699fab847c19e9d53df937"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68846d4700100f9d5c8532/mp4/03_480p.mp4",
+            "quality": "480p",
+            "size": 374.31,
+            "_id": "6a699fab847c19e9d53df938"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68846d4700100f9d5c8532/mp4/03_720p.mp4",
+            "quality": "720p",
+            "size": 568.35,
+            "_id": "6a699fab847c19e9d53df939"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a68846d4700100f9d5c8532",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
+        "title": "Class - 01 | Direction || by Vikramjeet sir",
+        "description": "Class - 01 | Direction & Distance || by Vikram jeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 3657.899,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a6884e94700100f9d5d0601/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6884e94700100f9d5d0601/mp4/DIRECTION_SENSE_1__240p.mp4",
+            "quality": "240p",
+            "size": 234.7,
+            "_id": "6a69a56df11c79bcbafc97f2"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6884e94700100f9d5d0601/mp4/DIRECTION_SENSE_1__360p.mp4",
+            "quality": "360p",
+            "size": 280.65,
+            "_id": "6a69a56df11c79bcbafc97f3"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6884e94700100f9d5d0601/mp4/DIRECTION_SENSE_1__480p.mp4",
+            "quality": "480p",
+            "size": 381.05,
+            "_id": "6a69a56df11c79bcbafc97f4"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6884e94700100f9d5d0601/mp4/DIRECTION_SENSE_1__720p.mp4",
+            "quality": "720p",
+            "size": 575.84,
+            "_id": "6a69a56df11c79bcbafc97f5"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a6884e94700100f9d5d0601",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
+        "title": "Class - 02 | Direction || by Vikramjeet sir",
+        "description": "Class - 02 | Direction || by Vikram jeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 3504.79,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a6885164700100f9d5d856d/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6885164700100f9d5d856d/mp4/DIRECTION_SENSE_2__240p.mp4",
+            "quality": "240p",
+            "size": 223.28,
+            "_id": "6a69ab968b1eb266bf5e236e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6885164700100f9d5d856d/mp4/DIRECTION_SENSE_2__360p.mp4",
+            "quality": "360p",
+            "size": 267.65,
+            "_id": "6a69ab968b1eb266bf5e236f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6885164700100f9d5d856d/mp4/DIRECTION_SENSE_2__480p.mp4",
+            "quality": "480p",
+            "size": 363.05,
+            "_id": "6a69ab968b1eb266bf5e2370"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6885164700100f9d5d856d/mp4/DIRECTION_SENSE_2__720p.mp4",
+            "quality": "720p",
+            "size": 548.33,
+            "_id": "6a69ab968b1eb266bf5e2371"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a6885164700100f9d5d856d",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
+        "title": "Class - 03 | Direction || by Vikramjeet sir",
+        "description": "Class - 03 | Direction || by Vikram jeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 3540.096,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a6885324700100f9d5e04de/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6885324700100f9d5e04de/mp4/DIRECTION_SENSE_3__240p.mp4",
+            "quality": "240p",
+            "size": 219.09,
+            "_id": "6a69bc4b1386d236be6855aa"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6885324700100f9d5e04de/mp4/DIRECTION_SENSE_3__360p.mp4",
+            "quality": "360p",
+            "size": 263.32,
+            "_id": "6a69bc4b1386d236be6855ab"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6885324700100f9d5e04de/mp4/DIRECTION_SENSE_3__480p.mp4",
+            "quality": "480p",
+            "size": 357.61,
+            "_id": "6a69bc4b1386d236be6855ac"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6885324700100f9d5e04de/mp4/DIRECTION_SENSE_3__720p.mp4",
+            "quality": "720p",
+            "size": 539.12,
+            "_id": "6a69bc4b1386d236be6855ad"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a6885324700100f9d5e04de",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
+        "title": "Class - 04 | Direction || by Vikramjeet sir",
+        "description": "Class - 04 | Direction || by Vikram jeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 4043.264,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a6885584700100f9d5e8459/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6885584700100f9d5e8459/mp4/DIRECTION_SENSE_4__240p.mp4",
+            "quality": "240p",
+            "size": 212.95,
+            "_id": "6a69c4205851348dd56eeda1"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6885584700100f9d5e8459/mp4/DIRECTION_SENSE_4__360p.mp4",
+            "quality": "360p",
+            "size": 261.62,
+            "_id": "6a69c4205851348dd56eeda2"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6885584700100f9d5e8459/mp4/DIRECTION_SENSE_4__480p.mp4",
+            "quality": "480p",
+            "size": 359.39,
+            "_id": "6a69c4205851348dd56eeda3"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6885584700100f9d5e8459/mp4/DIRECTION_SENSE_4__720p.mp4",
+            "quality": "720p",
+            "size": 556.99,
+            "_id": "6a69c4205851348dd56eeda4"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a6885584700100f9d5e8459",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
+        "title": "Class - 05 | Direction || by Vikramjeet sir",
+        "description": "Class - 05 | Direction || by Vikram jeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 3306.56,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a68857c4700100f9d5f03b3/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68857c4700100f9d5f03b3/mp4/DIRECTION_SENSE_5__240p.mp4",
+            "quality": "240p",
+            "size": 206.18,
+            "_id": "6a69d0df847c19e9d5a79cf3"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68857c4700100f9d5f03b3/mp4/DIRECTION_SENSE_5__360p.mp4",
+            "quality": "360p",
+            "size": 254.46,
+            "_id": "6a69d0df847c19e9d5a79cf4"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68857c4700100f9d5f03b3/mp4/DIRECTION_SENSE_5__480p.mp4",
+            "quality": "480p",
+            "size": 346.25,
+            "_id": "6a69d0df847c19e9d5a79cf5"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68857c4700100f9d5f03b3/mp4/DIRECTION_SENSE_5__720p.mp4",
+            "quality": "720p",
+            "size": 526.44,
+            "_id": "6a69d0df847c19e9d5a79cf6"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a68857c4700100f9d5f03b3",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
         "title": "Class - 01 | Clock || by Vikramjeet sir",
         "description": "Class - 01 | Clock || by Vikramjeet sir",
         "teacherName": "vikramjeet sir",
@@ -523,35 +867,35 @@
         "title": "Class - 01 | Cause & Effect || by Vikramjeet sir",
         "description": "Class - 01 | Cause & Effect || by Vikramjeet sir",
         "teacherName": "vikramjeet sir",
-        "duration": 3164.566,
+        "duration": 3100.631,
         "startDate": "2026-06-30T18:30:00.000Z",
         "endDate": "2026-06-30T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc324700100f9da722b5/hls/master.m3u8",
         "mp4Recordings": [
           {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc324700100f9da722b5/mp4/CAUSE_AND_EFFECT_1__240p.mp4",
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc324700100f9da722b5/mp4/cause_and_effect_1_240p.mp4",
             "quality": "240p",
-            "size": 212.04,
-            "_id": "6a696d24847c19e9d5d2b586"
+            "size": 205.53,
+            "_id": "6a6a4cad847c19e9d5e21294"
           },
           {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc324700100f9da722b5/mp4/CAUSE_AND_EFFECT_1__360p.mp4",
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc324700100f9da722b5/mp4/cause_and_effect_1_360p.mp4",
             "quality": "360p",
-            "size": 251.18,
-            "_id": "6a696d24847c19e9d5d2b587"
+            "size": 243.82,
+            "_id": "6a6a4cad847c19e9d5e21295"
           },
           {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc324700100f9da722b5/mp4/CAUSE_AND_EFFECT_1__480p.mp4",
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc324700100f9da722b5/mp4/cause_and_effect_1_480p.mp4",
             "quality": "480p",
-            "size": 338.91,
-            "_id": "6a696d24847c19e9d5d2b588"
+            "size": 329,
+            "_id": "6a6a4cad847c19e9d5e21296"
           },
           {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc324700100f9da722b5/mp4/CAUSE_AND_EFFECT_1__720p.mp4",
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc324700100f9da722b5/mp4/cause_and_effect_1_720p.mp4",
             "quality": "720p",
-            "size": 505.46,
-            "_id": "6a696d24847c19e9d5d2b589"
+            "size": 493.63,
+            "_id": "6a6a4cad847c19e9d5e21297"
           }
         ],
         "classPdf": [],
@@ -566,41 +910,127 @@
         "title": "Class - 02 | Cause & Effect || by Vikramjeet sir",
         "description": "Class - 02 | Cause & Effect || by Vikramjeet sir",
         "teacherName": "vikramjeet sir",
-        "duration": 3563.542,
+        "duration": 3470.525,
         "startDate": "2026-06-30T18:30:00.000Z",
         "endDate": "2026-06-30T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc7b4700100f9da7a26f/hls/master.m3u8",
         "mp4Recordings": [
           {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc7b4700100f9da7a26f/mp4/CAUSE_AND_EFFECT_2__240p.mp4",
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc7b4700100f9da7a26f/mp4/cause_and_effect_2_240p.mp4",
             "quality": "240p",
-            "size": 241.05,
-            "_id": "6a6973971386d236be3e2d77"
+            "size": 233.52,
+            "_id": "6a6a501f5851348dd5a197c2"
           },
           {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc7b4700100f9da7a26f/mp4/CAUSE_AND_EFFECT_2__360p.mp4",
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc7b4700100f9da7a26f/mp4/cause_and_effect_2_360p.mp4",
             "quality": "360p",
-            "size": 284.47,
-            "_id": "6a6973971386d236be3e2d78"
+            "size": 276.4,
+            "_id": "6a6a501f5851348dd5a197c3"
           },
           {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc7b4700100f9da7a26f/mp4/CAUSE_AND_EFFECT_2__480p.mp4",
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc7b4700100f9da7a26f/mp4/cause_and_effect_2_480p.mp4",
             "quality": "480p",
-            "size": 385.17,
-            "_id": "6a6973971386d236be3e2d79"
+            "size": 374.36,
+            "_id": "6a6a501f5851348dd5a197c4"
           },
           {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc7b4700100f9da7a26f/mp4/CAUSE_AND_EFFECT_2__720p.mp4",
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc7b4700100f9da7a26f/mp4/cause_and_effect_2_720p.mp4",
             "quality": "720p",
-            "size": 576.79,
-            "_id": "6a6973971386d236be3e2d7a"
+            "size": 562.58,
+            "_id": "6a6a501f5851348dd5a197c5"
           }
         ],
         "classPdf": [],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a68cc7b4700100f9da7a26f",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
+        "title": "Class - 03 | Cause & Effect || by Vikramjeet sir",
+        "description": "Class - 03 | Cause & Effect || by Vikramjeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 4151.851,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc9e4700100f9da8220b/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc9e4700100f9da8220b/mp4/CAUSE_AND_EFFECT_3__240p.mp4",
+            "quality": "240p",
+            "size": 270,
+            "_id": "6a6983d05851348dd5c78cdd"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc9e4700100f9da8220b/mp4/CAUSE_AND_EFFECT_3__360p.mp4",
+            "quality": "360p",
+            "size": 323.19,
+            "_id": "6a6983d05851348dd5c78cde"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc9e4700100f9da8220b/mp4/CAUSE_AND_EFFECT_3__480p.mp4",
+            "quality": "480p",
+            "size": 440.11,
+            "_id": "6a6983d05851348dd5c78cdf"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68cc9e4700100f9da8220b/mp4/CAUSE_AND_EFFECT_3__720p.mp4",
+            "quality": "720p",
+            "size": 663.78,
+            "_id": "6a6983d05851348dd5c78ce0"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a68cc9e4700100f9da8220b",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
+        "title": "Class - 04 | Cause & Effect || by Vikramjeet sir",
+        "description": "Class - 04 | Cause & Effect || by Vikramjeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 2473.75,
+        "startDate": "2026-06-30T18:30:00.000Z",
+        "endDate": "2026-06-30T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a68ccbf4700100f9da8a1ce/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68ccbf4700100f9da8a1ce/mp4/CAUSE_AND_EFFECT_4__240p.mp4",
+            "quality": "240p",
+            "size": 165.72,
+            "_id": "6a6988228b1eb266bfb98926"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68ccbf4700100f9da8a1ce/mp4/CAUSE_AND_EFFECT_4__360p.mp4",
+            "quality": "360p",
+            "size": 195.84,
+            "_id": "6a6988228b1eb266bfb98927"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68ccbf4700100f9da8a1ce/mp4/CAUSE_AND_EFFECT_4__480p.mp4",
+            "quality": "480p",
+            "size": 264.38,
+            "_id": "6a6988228b1eb266bfb98928"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68ccbf4700100f9da8a1ce/mp4/CAUSE_AND_EFFECT_4__720p.mp4",
+            "quality": "720p",
+            "size": 397.75,
+            "_id": "6a6988228b1eb266bfb98929"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a68ccbf4700100f9da8a1ce",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 71
         }

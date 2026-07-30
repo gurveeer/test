@@ -1,6 +1,6 @@
 {
   "courseName": "Science special Foundation Batch",
-  "extractedAt": "2026-07-29T03:47:02+0000",
+  "extractedAt": "2026-07-30T03:38:48+0000",
   "videos": {
     "Introduction": [
       {
@@ -320,8 +320,8 @@
         "classPdf": [
           {
             "priority": 1,
-            "name": "tissue class 0001 pdf by radhika mam",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/TISSUE PART 1 APP.pdf"
+            "name": "tissue class 01 pdf by radhika mam",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1785318266449-tissue_class_001_pdf_by_radhika_mam.pdf"
           }
         ],
         "source": {
@@ -376,6 +376,55 @@
         "source": {
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a6729e54700100f9d36b736",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 96
+        }
+      },
+      {
+        "title": "Class - 01 | Nutrition 1 | by Radhika maam",
+        "description": "\"RAILWAY Foundation - 06\r\nScience Foundation - 01\"",
+        "teacherName": "radhika maam",
+        "duration": 4695,
+        "startDate": "2026-07-29T07:30:00.000Z",
+        "endDate": "2026-07-29T08:36:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6955954700100f9db589dc/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6955954700100f9db589dc/output_720p.mp4",
+            "quality": "720p",
+            "size": 709.87,
+            "_id": "6a69c7dd58cb0a2e66a66ce4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6955954700100f9db589dc/output_480p.mp4",
+            "quality": "480p",
+            "size": 484.9,
+            "_id": "6a69c7dd58cb0a2e66a66ce5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6955954700100f9db589dc/output_360p.mp4",
+            "quality": "360p",
+            "size": 346,
+            "_id": "6a69c7dd58cb0a2e66a66ce6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6955954700100f9db589dc/output_240p.mp4",
+            "quality": "240p",
+            "size": 251.73,
+            "_id": "6a69c7dd58cb0a2e66a66ce7"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "nutrition class 01 pdf by radhika mam",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/NUTRITION CLASS 1.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a4e35315bac0ae4bab52444",
+          "classId": "6a6955954700100f9db589dc",
           "topicId": "68e22134290f277f35d6d12b",
           "rawRecordIndex": 96
         }
