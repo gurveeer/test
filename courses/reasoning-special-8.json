@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Special-8",
-  "extractedAt": "2026-07-30T03:38:48+0000",
+  "extractedAt": "2026-07-31T03:57:48+0000",
   "videos": {
     "Verbal": [
       {
@@ -2889,6 +2889,73 @@
         "source": {
           "courseId": "69f990e0b927c1a84afcbfed",
           "classId": "6a69543c4700100f9db44866",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 48
+        }
+      },
+      {
+        "title": "Class -03 | Clock  | Problem Solving | By Balram Sir",
+        "description": "\"Reasoning  Special  04, 07, 08 ,09, 10\r\n Selection Batch 03, 04, 07, 08 ,09, 10\"",
+        "teacherName": "Balram sir",
+        "duration": 5044,
+        "startDate": "2026-07-30T04:00:00.000Z",
+        "endDate": "2026-07-30T05:10:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6a416c4700100f9dc26678/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a416c4700100f9dc26678/output_720p.mp4",
+            "quality": "720p",
+            "size": 796.61,
+            "_id": "6a6ae7b95851348dd5b5d769"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a416c4700100f9dc26678/output_480p.mp4",
+            "quality": "480p",
+            "size": 530.19,
+            "_id": "6a6ae7b95851348dd5b5d76a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a416c4700100f9dc26678/output_360p.mp4",
+            "quality": "360p",
+            "size": 381.91,
+            "_id": "6a6ae7b95851348dd5b5d76b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a416c4700100f9dc26678/output_240p.mp4",
+            "quality": "240p",
+            "size": 275.47,
+            "_id": "6a6ae7b95851348dd5b5d76c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Clock 03 by balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Clock 03 by balram sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e0b927c1a84afcbfed",
+          "classId": "6a6a416c4700100f9dc26678",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 48
+        }
+      },
+      {
+        "title": "Class -04 | Clock  | Problem Solving | By Balram Sir",
+        "description": "\"Reasoning  Special  04, 07, 08 ,09, 10\r\n Selection Batch 03, 04, 07, 08 ,09, 10\"",
+        "teacherName": "balram sir",
+        "duration": 0,
+        "startDate": "2026-07-31T04:00:00.000Z",
+        "endDate": "2026-07-31T05:20:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6b8d464700100f9de1e7fb/playlist.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "69f990e0b927c1a84afcbfed",
+          "classId": "6a6b8d464700100f9de1e7fb",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 48
         }

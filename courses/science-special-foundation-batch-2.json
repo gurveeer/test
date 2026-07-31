@@ -1,6 +1,6 @@
 {
   "courseName": "Science special Foundation Batch",
-  "extractedAt": "2026-07-30T03:38:48+0000",
+  "extractedAt": "2026-07-31T03:57:48+0000",
   "videos": {
     "Introduction": [
       {
@@ -425,6 +425,49 @@
         "source": {
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a6955954700100f9db589dc",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 96
+        }
+      },
+      {
+        "title": "Class - 02 | Nutrition 2 | by Radhika maam",
+        "description": "\"RAILWAY Foundation - 06\r\nScience Foundation - 01\"",
+        "teacherName": "radhika maam",
+        "duration": 4575,
+        "startDate": "2026-07-30T07:30:00.000Z",
+        "endDate": "2026-07-30T08:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6a43324700100f9dc3ed5d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a43324700100f9dc3ed5d/output_720p.mp4",
+            "quality": "720p",
+            "size": 699.14,
+            "_id": "6a6b174b1386d236beac045a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a43324700100f9dc3ed5d/output_480p.mp4",
+            "quality": "480p",
+            "size": 482.75,
+            "_id": "6a6b174b1386d236beac045b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a43324700100f9dc3ed5d/output_360p.mp4",
+            "quality": "360p",
+            "size": 346.26,
+            "_id": "6a6b174b1386d236beac045c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a43324700100f9dc3ed5d/output_240p.mp4",
+            "quality": "240p",
+            "size": 261.09,
+            "_id": "6a6b174b1386d236beac045d"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a4e35315bac0ae4bab52444",
+          "classId": "6a6a43324700100f9dc3ed5d",
           "topicId": "68e22134290f277f35d6d12b",
           "rawRecordIndex": 96
         }

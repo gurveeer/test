@@ -1,6 +1,6 @@
 {
   "courseName": "GS Special-6",
-  "extractedAt": "2026-07-30T03:38:48+0000",
+  "extractedAt": "2026-07-31T03:57:48+0000",
   "videos": {
     "Introduction": [
       {
@@ -5205,6 +5205,49 @@
         "source": {
           "courseId": "69ae9d95a2b1ae04337ad475",
           "classId": "6a6411008eefdd1ae5eba57d",
+          "topicId": "696db9e5719de161eef1358c",
+          "rawRecordIndex": 74
+        }
+      },
+      {
+        "title": "Class -11 | Phase II: Ocean & Cyclones | by Varun sir",
+        "description": "\" GS Special- 05, 06, 07, 08, 09\r\n Selection Batch - 05, 06, 07, 08, 09\"",
+        "teacherName": "Varun Sir",
+        "duration": 4104,
+        "startDate": "2026-07-30T10:30:00.000Z",
+        "endDate": "2026-07-30T11:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a69b7764700100f9dbbacd7/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a69b7764700100f9dbbacd7/output_720p.mp4",
+            "quality": "720p",
+            "size": 630.32,
+            "_id": "6a6b3e088b1eb266bf837f68"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a69b7764700100f9dbbacd7/output_480p.mp4",
+            "quality": "480p",
+            "size": 434.03,
+            "_id": "6a6b3e088b1eb266bf837f69"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a69b7764700100f9dbbacd7/output_360p.mp4",
+            "quality": "360p",
+            "size": 309.66,
+            "_id": "6a6b3e088b1eb266bf837f6a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a69b7764700100f9dbbacd7/output_240p.mp4",
+            "quality": "240p",
+            "size": 236.24,
+            "_id": "6a6b3e088b1eb266bf837f6b"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69ae9d95a2b1ae04337ad475",
+          "classId": "6a69b7764700100f9dbbacd7",
           "topicId": "696db9e5719de161eef1358c",
           "rawRecordIndex": 74
         }

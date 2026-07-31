@@ -1,6 +1,6 @@
 {
   "courseName": "CGL RAPID BATCH",
-  "extractedAt": "2026-07-30T03:38:48+0000",
+  "extractedAt": "2026-07-31T03:57:48+0000",
   "videos": {
     "Introduction": [
       {
@@ -1228,7 +1228,13 @@
             "_id": "6a6845158b1eb266bf51557a"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Ghandhian Era 06 by jeet sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Ghandhian Era 06 by jeet sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a6727734700100f9d35b78d",
@@ -1271,10 +1277,59 @@
             "_id": "6a6999de58cb0a2e666839d1"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Ghandhian Era 07 by jeet sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Ghandhian Era 07 by jeet sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a6954a44700100f9db4c8dd",
+          "topicId": "68b9499ea721af475c9a79ac",
+          "rawRecordIndex": 102
+        }
+      },
+      {
+        "title": "Class -27 | Gandhian Era 08 | by Jeet rana sir",
+        "description": "CGL RAPID BATCH",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 1930,
+        "startDate": "2026-07-30T05:00:00.000Z",
+        "endDate": "2026-07-30T06:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6a42054700100f9dc2e8ce/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a42054700100f9dc2e8ce/output_720p.mp4",
+            "quality": "720p",
+            "size": 279.8,
+            "_id": "6a6ae4caf11c79bcba22c55c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a42054700100f9dc2e8ce/output_480p.mp4",
+            "quality": "480p",
+            "size": 190.74,
+            "_id": "6a6ae4caf11c79bcba22c55d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a42054700100f9dc2e8ce/output_360p.mp4",
+            "quality": "360p",
+            "size": 135.51,
+            "_id": "6a6ae4caf11c79bcba22c55e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a42054700100f9dc2e8ce/output_240p.mp4",
+            "quality": "240p",
+            "size": 98.34,
+            "_id": "6a6ae4caf11c79bcba22c55f"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a1fe6bbb927c1a84abc606f",
+          "classId": "6a6a42054700100f9dc2e8ce",
           "topicId": "68b9499ea721af475c9a79ac",
           "rawRecordIndex": 102
         }
@@ -2880,7 +2935,13 @@
             "_id": "6a6880fe847c19e9d523cf50"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Delhi Sulthanate 01 by jeet sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Delhi Sulthanate 01 by jeet sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a6749be4700100f9d3d4a38",
@@ -2923,10 +2984,59 @@
             "_id": "6a69d2e4f11c79bcba16e6b8"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Delhi Sulthanate 02 by jeet sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Delhi Sulthanate 02 by jeet sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a6954f84700100f9db5094b",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 102
+        }
+      },
+      {
+        "title": "Class 08 || Medieval History || by Jeet sir",
+        "description": "",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2883,
+        "startDate": "2026-07-30T09:07:12.190Z",
+        "endDate": "2026-07-30T10:07:12.190Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6b13ee5851348dd5e695ea/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b13ee5851348dd5e695ea/output_720p.mp4",
+            "quality": "720p",
+            "size": 422.98,
+            "_id": "6a6b23e09efa548457e33f79"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b13ee5851348dd5e695ea/output_480p.mp4",
+            "quality": "480p",
+            "size": 288.5,
+            "_id": "6a6b23e09efa548457e33f7a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b13ee5851348dd5e695ea/output_360p.mp4",
+            "quality": "360p",
+            "size": 205.01,
+            "_id": "6a6b23e09efa548457e33f7b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b13ee5851348dd5e695ea/output_240p.mp4",
+            "quality": "240p",
+            "size": 147.51,
+            "_id": "6a6b23e09efa548457e33f7c"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a1fe6bbb927c1a84abc606f",
+          "classId": "6a6b13ee5851348dd5e695ea",
           "topicId": "699806229119ee84e2e132b6",
           "rawRecordIndex": 102
         }

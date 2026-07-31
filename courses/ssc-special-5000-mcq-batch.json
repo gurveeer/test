@@ -1,6 +1,6 @@
 {
   "courseName": "SSC special 5000 MCQ batch",
-  "extractedAt": "2026-07-30T03:38:48+0000",
+  "extractedAt": "2026-07-31T03:57:48+0000",
   "videos": {
     "Introduction": [
       {
@@ -966,6 +966,51 @@
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a50b4265bac0ae4bada245e",
           "topicId": "6a51d8735bac0ae4bae80a4d",
+          "rawRecordIndex": 101
+        }
+      }
+    ],
+    "modern history": [
+      {
+        "title": "Class - 01 | Modern History || by Jeet rana sir",
+        "description": "SSC special 5000 MCQ batch",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2907,
+        "startDate": "2026-07-30T06:30:00.000Z",
+        "endDate": "2026-07-30T07:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a68b06e4700100f9d9fd6b0/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a68b06e4700100f9d9fd6b0/output_720p.mp4",
+            "quality": "720p",
+            "size": 386.31,
+            "_id": "6a6b02a65851348dd5b822f4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a68b06e4700100f9d9fd6b0/output_480p.mp4",
+            "quality": "480p",
+            "size": 264.48,
+            "_id": "6a6b02a65851348dd5b822f5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a68b06e4700100f9d9fd6b0/output_360p.mp4",
+            "quality": "360p",
+            "size": 187.59,
+            "_id": "6a6b02a65851348dd5b822f6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a68b06e4700100f9d9fd6b0/output_240p.mp4",
+            "quality": "240p",
+            "size": 139.1,
+            "_id": "6a6b02a65851348dd5b822f7"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a268ce8b927c1a84a018468",
+          "classId": "6a68b06e4700100f9d9fd6b0",
+          "topicId": "68b9499ea721af475c9a79ac",
           "rawRecordIndex": 101
         }
       }

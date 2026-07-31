@@ -1,6 +1,6 @@
 {
   "courseName": "English Special - 9",
-  "extractedAt": "2026-07-30T03:38:48+0000",
+  "extractedAt": "2026-07-31T03:57:48+0000",
   "videos": {
     "Introduction": [
       {
@@ -16537,6 +16537,45 @@
         "source": {
           "courseId": "6a268a2bb927c1a84afff927",
           "classId": "6a6955454700100f9db5498d",
+          "topicId": "696e0150719de161eef5677e",
+          "rawRecordIndex": 33
+        }
+      },
+      {
+        "title": "Class - 50 || Articles practice | by Aman sir",
+        "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
+        "teacherName": "Aman sir",
+        "duration": 0,
+        "startDate": "2026-07-30T05:52:00.000Z",
+        "endDate": "2026-07-30T01:52:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69022920f48d1caffd7aeab6/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "ARTICLE PYQs CONCISE SHEET",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/ARTICLE PYQs CONCISE SHEET-6.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "class 45 article practice sheet.",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/class 45 article practice sheet..pdf"
+          },
+          {
+            "priority": 3,
+            "name": "class 45 article practice slides with anno",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1769534998463-MAINS_CLASS-11_SLIDES_(1).pdf"
+          },
+          {
+            "priority": 4,
+            "name": "class 45 article practice slides",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/class 45 article practice slides.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a2bb927c1a84afff927",
+          "classId": "6a6a42ad4700100f9dc36afe",
           "topicId": "696e0150719de161eef5677e",
           "rawRecordIndex": 33
         }

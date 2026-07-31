@@ -1,6 +1,6 @@
 {
   "courseName": "GS Special -8",
-  "extractedAt": "2026-07-30T03:38:48+0000",
+  "extractedAt": "2026-07-31T03:57:48+0000",
   "videos": {
     "POLITY": [
       {
@@ -1915,6 +1915,49 @@
           "topicId": "696db9e5719de161eef1358c",
           "rawRecordIndex": 47
         }
+      },
+      {
+        "title": "Class -11 | Phase II: Ocean & Cyclones | by Varun sir",
+        "description": "\" GS Special- 05, 06, 07, 08, 09\r\n Selection Batch - 05, 06, 07, 08, 09\"",
+        "teacherName": "Varun Sir",
+        "duration": 4104,
+        "startDate": "2026-07-30T10:30:00.000Z",
+        "endDate": "2026-07-30T11:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a69b7764700100f9dbbacd7/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a69b7764700100f9dbbacd7/output_720p.mp4",
+            "quality": "720p",
+            "size": 630.32,
+            "_id": "6a6b3e088b1eb266bf837f68"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a69b7764700100f9dbbacd7/output_480p.mp4",
+            "quality": "480p",
+            "size": 434.03,
+            "_id": "6a6b3e088b1eb266bf837f69"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a69b7764700100f9dbbacd7/output_360p.mp4",
+            "quality": "360p",
+            "size": 309.66,
+            "_id": "6a6b3e088b1eb266bf837f6a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a69b7764700100f9dbbacd7/output_240p.mp4",
+            "quality": "240p",
+            "size": 236.24,
+            "_id": "6a6b3e088b1eb266bf837f6b"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a69b7764700100f9dbbacd7",
+          "topicId": "696db9e5719de161eef1358c",
+          "rawRecordIndex": 47
+        }
       }
     ],
     "ECONOMICS": [
@@ -2247,10 +2290,59 @@
             "_id": "6a69dd88847c19e9d5816628"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Demand & Supply 02 BOARD PDF _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Demand & Supply 02 BOARD PDF _.pdf"
+          }
+        ],
         "source": {
           "courseId": "69f990e6b927c1a84afcbff2",
           "classId": "6a672ea34700100f9d387ab2",
+          "topicId": "69f5d55622cc6f4d5f6a917f",
+          "rawRecordIndex": 47
+        }
+      },
+      {
+        "title": "Class - 08 | Poverty & Unemplyment I By Varun Sir",
+        "description": "\" GS Special-  07, 08, 09, 10\r\n Selection Batch - 07, 08, 09, 10\"",
+        "teacherName": "Varun Sir",
+        "duration": 2993,
+        "startDate": "2026-07-30T09:00:00.000Z",
+        "endDate": "2026-07-30T10:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6a457e4700100f9dc4f245/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a457e4700100f9dc4f245/output_720p.mp4",
+            "quality": "720p",
+            "size": 461.98,
+            "_id": "6a6b22db58cb0a2e66f39b0c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a457e4700100f9dc4f245/output_480p.mp4",
+            "quality": "480p",
+            "size": 319.12,
+            "_id": "6a6b22db58cb0a2e66f39b0d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a457e4700100f9dc4f245/output_360p.mp4",
+            "quality": "360p",
+            "size": 228.48,
+            "_id": "6a6b22db58cb0a2e66f39b0e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a457e4700100f9dc4f245/output_240p.mp4",
+            "quality": "240p",
+            "size": 175.84,
+            "_id": "6a6b22db58cb0a2e66f39b0f"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69f990e6b927c1a84afcbff2",
+          "classId": "6a6a457e4700100f9dc4f245",
           "topicId": "69f5d55622cc6f4d5f6a917f",
           "rawRecordIndex": 47
         }

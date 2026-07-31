@@ -1,6 +1,6 @@
 {
   "courseName": "Maths संपूर्ण Batch 30 days",
-  "extractedAt": "2026-07-30T03:38:48+0000",
+  "extractedAt": "2026-07-31T03:57:48+0000",
   "videos": {
     "Introduction": [
       {
@@ -211,6 +211,24 @@
         "source": {
           "courseId": "6a3fe6b8b927c1a84a453df2",
           "classId": "6a672c454700100f9d373ae7",
+          "topicId": "68d7af97824c6e1af23ea66e",
+          "rawRecordIndex": 5
+        }
+      },
+      {
+        "title": "Class -01 || Time & Work in One Class || by Gagan sir || संपूर्ण Maths Batch",
+        "description": "30 DAYS MATHS Sampurn Batch",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-30T15:30:00.000Z",
+        "endDate": "2026-07-30T18:04:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://www.youtube.com/watch?v=qE1ciY4E6tI",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a3fe6b8b927c1a84a453df2",
+          "classId": "6a6b21604700100f9dd71a6c",
           "topicId": "68d7af97824c6e1af23ea66e",
           "rawRecordIndex": 5
         }

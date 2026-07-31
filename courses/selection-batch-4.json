@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch-4",
-  "extractedAt": "2026-07-30T03:38:48+0000",
+  "extractedAt": "2026-07-31T03:57:48+0000",
   "videos": {
     "Number System & More": [
       {
@@ -28119,6 +28119,73 @@
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 51
         }
+      },
+      {
+        "title": "Class -03 | Clock  | Problem Solving | By Balram Sir",
+        "description": "\"Reasoning  Special  04, 07, 08 ,09, 10\r\n Selection Batch 03, 04, 07, 08 ,09, 10\"",
+        "teacherName": "Balram sir",
+        "duration": 5044,
+        "startDate": "2026-07-30T04:00:00.000Z",
+        "endDate": "2026-07-30T05:10:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6a416c4700100f9dc26678/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a416c4700100f9dc26678/output_720p.mp4",
+            "quality": "720p",
+            "size": 796.61,
+            "_id": "6a6ae7b95851348dd5b5d769"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a416c4700100f9dc26678/output_480p.mp4",
+            "quality": "480p",
+            "size": 530.19,
+            "_id": "6a6ae7b95851348dd5b5d76a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a416c4700100f9dc26678/output_360p.mp4",
+            "quality": "360p",
+            "size": 381.91,
+            "_id": "6a6ae7b95851348dd5b5d76b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6a416c4700100f9dc26678/output_240p.mp4",
+            "quality": "240p",
+            "size": 275.47,
+            "_id": "6a6ae7b95851348dd5b5d76c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Clock 03 by balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Clock 03 by balram sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c2d2feca20f81c25e5b",
+          "classId": "6a6a416c4700100f9dc26678",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 51
+        }
+      },
+      {
+        "title": "Class -04 | Clock  | Problem Solving | By Balram Sir",
+        "description": "\"Reasoning  Special  04, 07, 08 ,09, 10\r\n Selection Batch 03, 04, 07, 08 ,09, 10\"",
+        "teacherName": "balram sir",
+        "duration": 0,
+        "startDate": "2026-07-31T04:00:00.000Z",
+        "endDate": "2026-07-31T05:20:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6b8d464700100f9de1e7fb/playlist.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "695b8c2d2feca20f81c25e5b",
+          "classId": "6a6b8d464700100f9de1e7fb",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 51
+        }
       }
     ],
     "GEOGRAPHY": [
@@ -40929,7 +40996,13 @@
             "_id": "6a6a0d93847c19e9d549e63e"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class 17 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/geometry class 17 pdf by gagan sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "695b8c2d2feca20f81c25e5b",
           "classId": "6a69e5ec4700100f9dbe20e2",
@@ -40941,16 +41014,114 @@
         "title": "Class 21 || Trigonometry (त्रिकोणमिति) By Gagan Sir",
         "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08\"",
         "teacherName": "Gagan Pratap",
-        "duration": 0,
+        "duration": 4790,
         "startDate": "2026-07-30T03:30:00.000Z",
         "endDate": "2026-07-30T05:21:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6208678eefdd1ae5db58bc/playlist.m3u8",
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6208678eefdd1ae5db58bc/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6208678eefdd1ae5db58bc/output_720p.mp4",
+            "quality": "720p",
+            "size": 639.7,
+            "_id": "6a6adf1658cb0a2e660b28c6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6208678eefdd1ae5db58bc/output_480p.mp4",
+            "quality": "480p",
+            "size": 433.76,
+            "_id": "6a6adf1658cb0a2e660b28c7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6208678eefdd1ae5db58bc/output_360p.mp4",
+            "quality": "360p",
+            "size": 307.12,
+            "_id": "6a6adf1658cb0a2e660b28c8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6208678eefdd1ae5db58bc/output_240p.mp4",
+            "quality": "240p",
+            "size": 219.02,
+            "_id": "6a6adf1658cb0a2e660b28c9"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "trigonometry class 21 pdf  by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/trigonometry class 21 pdf  by gagan sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c2d2feca20f81c25e5b",
+          "classId": "6a6208678eefdd1ae5db58bc",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 51
+        }
+      },
+      {
+        "title": "Class -18 || Geometry || by Gagan Sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08 , 09,10\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08 , 09,10\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 4533,
+        "startDate": "2026-07-30T12:30:00.000Z",
+        "endDate": "2026-07-30T13:41:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6b254b4700100f9dd864a3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b254b4700100f9dd864a3/output_720p.mp4",
+            "quality": "720p",
+            "size": 646.16,
+            "_id": "6a6b5b8e8b1eb266bf3716fe"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b254b4700100f9dd864a3/output_480p.mp4",
+            "quality": "480p",
+            "size": 436.95,
+            "_id": "6a6b5b8e8b1eb266bf3716ff"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b254b4700100f9dd864a3/output_360p.mp4",
+            "quality": "360p",
+            "size": 309.04,
+            "_id": "6a6b5b8e8b1eb266bf371700"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b254b4700100f9dd864a3/output_240p.mp4",
+            "quality": "240p",
+            "size": 219.56,
+            "_id": "6a6b5b8e8b1eb266bf371701"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class 18 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sb 6 pm 30 july bp.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c2d2feca20f81c25e5b",
+          "classId": "6a6b254b4700100f9dd864a3",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 51
+        }
+      },
+      {
+        "title": "Class 22 || Trigonometry (त्रिकोणमिति) By Gagan Sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-07-31T03:30:00.000Z",
+        "endDate": "2026-07-31T04:50:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6b91704700100f9de3f646/playlist.m3u8",
         "mp4Recordings": [],
         "classPdf": [],
         "source": {
           "courseId": "695b8c2d2feca20f81c25e5b",
-          "classId": "6a6208678eefdd1ae5db58bc",
+          "classId": "6a6b91704700100f9de3f646",
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 51
         }
