@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch - 7",
-  "extractedAt": "2026-07-31T03:57:48+0000",
+  "extractedAt": "2026-08-01T03:57:59+0000",
   "videos": {
     "ARITHMETIC": [
       {
@@ -8451,6 +8451,55 @@
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 10
         }
+      },
+      {
+        "title": "Class -04 | Clock  | Problem Solving | By Balram Sir",
+        "description": "\"Reasoning  Special  04, 07, 08 ,09, 10\r\n Selection Batch 03, 04, 07, 08 ,09, 10\"",
+        "teacherName": "balram sir",
+        "duration": 4675,
+        "startDate": "2026-07-31T04:00:00.000Z",
+        "endDate": "2026-07-31T05:20:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6b8d464700100f9de1e7fb/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b8d464700100f9de1e7fb/output_720p.mp4",
+            "quality": "720p",
+            "size": 708.73,
+            "_id": "6a6c35249efa548457218e1b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b8d464700100f9de1e7fb/output_480p.mp4",
+            "quality": "480p",
+            "size": 465.08,
+            "_id": "6a6c35249efa548457218e1c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b8d464700100f9de1e7fb/output_360p.mp4",
+            "quality": "360p",
+            "size": 333.24,
+            "_id": "6a6c35249efa548457218e1d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b8d464700100f9de1e7fb/output_240p.mp4",
+            "quality": "240p",
+            "size": 238.84,
+            "_id": "6a6c35249efa548457218e1e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "CLOCK 04 By balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/CLOCK 04 By balram sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8c322cc6f4d5f00839f",
+          "classId": "6a6b8d464700100f9de1e7fb",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 10
+        }
       }
     ],
     "HISTORY": [
@@ -12683,7 +12732,32 @@
         "endDate": "2026-03-31T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69b794c0fe7c902399696c12/hls/master.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b794c0fe7c902399696c12/mp4/0316_240p.mp4",
+            "quality": "240p",
+            "size": 305.31,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b794c0fe7c902399696c12/mp4/0316_360p.mp4",
+            "quality": "360p",
+            "size": 359.3,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b794c0fe7c902399696c12/mp4/0316_480p.mp4",
+            "quality": "480p",
+            "size": 495.77,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69b794c0fe7c902399696c12/mp4/0316_720p.mp4",
+            "quality": "720p",
+            "size": 740.09,
+            "_id": ""
+          }
+        ],
         "classPdf": [
           {
             "priority": 1,
@@ -12766,7 +12840,32 @@
         "endDate": "2026-03-31T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/692d2ab3dd258fd32334a664/hls/master.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/692d2ab3dd258fd32334a664/mp4/class_36_240p.mp4",
+            "quality": "240p",
+            "size": 73.07,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/692d2ab3dd258fd32334a664/mp4/class_36_360p.mp4",
+            "quality": "360p",
+            "size": 118.22,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/692d2ab3dd258fd32334a664/mp4/class_36_480p.mp4",
+            "quality": "480p",
+            "size": 165.06,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/692d2ab3dd258fd32334a664/mp4/class_36_720p.mp4",
+            "quality": "720p",
+            "size": 249.34,
+            "_id": ""
+          }
+        ],
         "classPdf": [
           {
             "priority": 1,
@@ -17001,7 +17100,32 @@
         "endDate": "2026-04-06T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db2c/hls/master.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6992fc4f138d4a09fe10db2c/output_240p.mp4",
+            "quality": "240p",
+            "size": 169.08,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6992fc4f138d4a09fe10db2c/output_360p.mp4",
+            "quality": "360p",
+            "size": 264.3,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6992fc4f138d4a09fe10db2c/output_480p.mp4",
+            "quality": "480p",
+            "size": 432.2,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6992fc4f138d4a09fe10db2c/output_720p.mp4",
+            "quality": "720p",
+            "size": 712.48,
+            "_id": ""
+          }
+        ],
         "classPdf": [
           {
             "priority": 1,
@@ -23676,16 +23800,96 @@
         "title": "Class 22 || Trigonometry (त्रिकोणमिति) By Gagan Sir",
         "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08\"",
         "teacherName": "Gagan Pratap",
-        "duration": 0,
+        "duration": 5062,
         "startDate": "2026-07-31T03:30:00.000Z",
         "endDate": "2026-07-31T04:50:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6b91704700100f9de3f646/playlist.m3u8",
-        "mp4Recordings": [],
-        "classPdf": [],
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6b91704700100f9de3f646/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b91704700100f9de3f646/output_720p.mp4",
+            "quality": "720p",
+            "size": 681.65,
+            "_id": "6a6c311d8b1eb266bf9528c5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b91704700100f9de3f646/output_480p.mp4",
+            "quality": "480p",
+            "size": 457.05,
+            "_id": "6a6c311d8b1eb266bf9528c6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b91704700100f9de3f646/output_360p.mp4",
+            "quality": "360p",
+            "size": 321.06,
+            "_id": "6a6c311d8b1eb266bf9528c7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b91704700100f9de3f646/output_240p.mp4",
+            "quality": "240p",
+            "size": 219.63,
+            "_id": "6a6c311d8b1eb266bf9528c8"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "trigonometry class 22 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/trigonometry class 22 pdf by gagan sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a6b91704700100f9de3f646",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 10
+        }
+      },
+      {
+        "title": "Class -19 || Geometry || by Gagan Sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08 , 09,10\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08 , 09,10\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 3053,
+        "startDate": "2026-07-31T13:00:00.000Z",
+        "endDate": "2026-07-31T14:20:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6c62424700100f9dfb750c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c62424700100f9dfb750c/output_720p.mp4",
+            "quality": "720p",
+            "size": 435.8,
+            "_id": "6a6cacc15851348dd5161ecd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c62424700100f9dfb750c/output_480p.mp4",
+            "quality": "480p",
+            "size": 296.09,
+            "_id": "6a6cacc15851348dd5161ece"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c62424700100f9dfb750c/output_360p.mp4",
+            "quality": "360p",
+            "size": 209.35,
+            "_id": "6a6cacc15851348dd5161ecf"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c62424700100f9dfb750c/output_240p.mp4",
+            "quality": "240p",
+            "size": 147.72,
+            "_id": "6a6cacc15851348dd5161ed0"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class 19 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/geometry class 19 pdf by gagan sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8c322cc6f4d5f00839f",
+          "classId": "6a6c62424700100f9dfb750c",
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 10
         }
@@ -30919,7 +31123,26 @@
         "endDate": "2026-06-27T04:24:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/694bb86c2feca20f817b8cce/hls/master.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/694bb86c2feca20f817b8cce/mp4/1000211811_360p.mp4",
+            "quality": "360p",
+            "size": 266.69,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/694bb86c2feca20f817b8cce/mp4/1000211811_480p.mp4",
+            "quality": "480p",
+            "size": 384.52,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/694bb86c2feca20f817b8cce/mp4/1000211811_720p.mp4",
+            "quality": "720p",
+            "size": 665.36,
+            "_id": ""
+          }
+        ],
         "classPdf": [
           {
             "priority": 1,
@@ -31223,7 +31446,32 @@
         "endDate": "2026-07-05T03:23:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6919d6e7932c0deb706bb0ec/hls/master.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6919d6e7932c0deb706bb0ec/mp4/1000192098_240p.mp4",
+            "quality": "240p",
+            "size": 97,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6919d6e7932c0deb706bb0ec/mp4/1000192098_360p.mp4",
+            "quality": "360p",
+            "size": 158.06,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6919d6e7932c0deb706bb0ec/mp4/1000192098_480p.mp4",
+            "quality": "480p",
+            "size": 232.54,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6919d6e7932c0deb706bb0ec/mp4/1000192098_720p.mp4",
+            "quality": "720p",
+            "size": 373.57,
+            "_id": ""
+          }
+        ],
         "classPdf": [
           {
             "priority": 1,
@@ -31629,7 +31877,32 @@
         "endDate": "2026-07-15T03:29:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69280c27dd258fd3231aa7a3/hls/master.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69280c27dd258fd3231aa7a3/mp4/1000197289_240p.mp4",
+            "quality": "240p",
+            "size": 103.65,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69280c27dd258fd3231aa7a3/mp4/1000197289_360p.mp4",
+            "quality": "360p",
+            "size": 170,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69280c27dd258fd3231aa7a3/mp4/1000197289_480p.mp4",
+            "quality": "480p",
+            "size": 255.8,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69280c27dd258fd3231aa7a3/mp4/1000197289_720p.mp4",
+            "quality": "720p",
+            "size": 407.47,
+            "_id": ""
+          }
+        ],
         "classPdf": [
           {
             "priority": 1,
@@ -31868,7 +32141,32 @@
         "endDate": "2026-07-22T06:01:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/692d2ab3dd258fd32334a664/hls/master.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/692d2ab3dd258fd32334a664/mp4/class_36_240p.mp4",
+            "quality": "240p",
+            "size": 73.07,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/692d2ab3dd258fd32334a664/mp4/class_36_360p.mp4",
+            "quality": "360p",
+            "size": 118.22,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/692d2ab3dd258fd32334a664/mp4/class_36_480p.mp4",
+            "quality": "480p",
+            "size": 165.06,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/692d2ab3dd258fd32334a664/mp4/class_36_720p.mp4",
+            "quality": "720p",
+            "size": 249.34,
+            "_id": ""
+          }
+        ],
         "classPdf": [
           {
             "priority": 1,
@@ -32118,7 +32416,32 @@
         "endDate": "2026-07-27T08:04:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/68ff9645f179b935b1fb7b1c/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68ff9645f179b935b1fb7b1c/output_720p.mp4",
+            "quality": "720p",
+            "size": 708.9,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68ff9645f179b935b1fb7b1c/output_480p.mp4",
+            "quality": "480p",
+            "size": 476.36,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68ff9645f179b935b1fb7b1c/output_360p.mp4",
+            "quality": "360p",
+            "size": 343.58,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68ff9645f179b935b1fb7b1c/output_240p.mp4",
+            "quality": "240p",
+            "size": 258.45,
+            "_id": ""
+          }
+        ],
         "classPdf": [
           {
             "priority": 1,
@@ -32260,7 +32583,32 @@
         "endDate": "2026-07-30T03:52:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/69022920f48d1caffd7aeab6/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69022920f48d1caffd7aeab6/output_720p.mp4",
+            "quality": "720p",
+            "size": 559.2,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69022920f48d1caffd7aeab6/output_480p.mp4",
+            "quality": "480p",
+            "size": 375.95,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69022920f48d1caffd7aeab6/output_360p.mp4",
+            "quality": "360p",
+            "size": 271.52,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69022920f48d1caffd7aeab6/output_240p.mp4",
+            "quality": "240p",
+            "size": 206.45,
+            "_id": ""
+          }
+        ],
         "classPdf": [
           {
             "priority": 1,
@@ -32286,6 +32634,60 @@
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a6a42ad4700100f9dc36afe",
+          "topicId": "696e0150719de161eef5677e",
+          "rawRecordIndex": 10
+        }
+      },
+      {
+        "title": "Class - 51 || Subject Verb Agreement lec-1 | by Aman sir",
+        "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
+        "teacherName": "AMAN SIR",
+        "duration": 6336,
+        "startDate": "2026-07-31T05:30:00.000Z",
+        "endDate": "2026-07-31T06:43:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6b958d4700100f9de53f6d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b958d4700100f9de53f6d/output_720p.mp4",
+            "quality": "720p",
+            "size": 877.68,
+            "_id": "6a6c54788b1eb266bf2a7639"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b958d4700100f9de53f6d/output_480p.mp4",
+            "quality": "480p",
+            "size": 588.37,
+            "_id": "6a6c54788b1eb266bf2a763a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b958d4700100f9de53f6d/output_360p.mp4",
+            "quality": "360p",
+            "size": 414.95,
+            "_id": "6a6c54788b1eb266bf2a763b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b958d4700100f9de53f6d/output_240p.mp4",
+            "quality": "240p",
+            "size": 317.68,
+            "_id": "6a6c54788b1eb266bf2a763c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "sub verb agreement - with annotations _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sub verb agreement - with annotations _.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "sub verb agreement -1 without annotations  _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sub verb agreement -1 without annotations _.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69d4b8c322cc6f4d5f00839f",
+          "classId": "6a6b958d4700100f9de53f6d",
           "topicId": "696e0150719de161eef5677e",
           "rawRecordIndex": 10
         }
@@ -35100,7 +35502,32 @@
         "endDate": "2026-07-01T18:03:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a44eb9eb927c1a84a7fa7fd/hls/master.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44eb9eb927c1a84a7fa7fd/output_240p.mp4",
+            "quality": "240p",
+            "size": 89.18,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44eb9eb927c1a84a7fa7fd/output_360p.mp4",
+            "quality": "360p",
+            "size": 137.46,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44eb9eb927c1a84a7fa7fd/output_480p.mp4",
+            "quality": "480p",
+            "size": 223.52,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a44eb9eb927c1a84a7fa7fd/output_720p.mp4",
+            "quality": "720p",
+            "size": 367.76,
+            "_id": ""
+          }
+        ],
         "classPdf": [
           {
             "priority": 1,
@@ -35836,7 +36263,13 @@
             "_id": "6a68a85ef11c79bcbac60531"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "acid base class 001 by harish sir4",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/acid base class 001 by harish sir4.pdf"
+          }
+        ],
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a66fae68eefdd1ae503edd3",
@@ -35879,7 +36312,13 @@
             "_id": "6a69f7dbf11c79bcba69aca3"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "acid base class 002 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/acid base class 002 pdf by harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a69958f4700100f9dba05df",
@@ -35922,10 +36361,59 @@
             "_id": "6a6b4747f11c79bcba12367f"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "acid base class 003 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/acid base class 003 pdf by harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a6b25974700100f9dd8e7f8",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 10
+        }
+      },
+      {
+        "title": "Class - 04 | Acid base & salt | by Harish sir",
+        "description": "\"RAILWAY Foundation - 04 ,05, 06\r\nSB 05, 06, 07, 08, 09, 10\"",
+        "teacherName": "Harish sir",
+        "duration": 2549,
+        "startDate": "2026-07-31T11:30:00.000Z",
+        "endDate": "2026-07-31T12:46:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6c609e4700100f9dfaee21/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c609e4700100f9dfaee21/output_720p.mp4",
+            "quality": "720p",
+            "size": 380.06,
+            "_id": "6a6c9be45851348dd520eac5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c609e4700100f9dfaee21/output_480p.mp4",
+            "quality": "480p",
+            "size": 260.57,
+            "_id": "6a6c9be45851348dd520eac6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c609e4700100f9dfaee21/output_360p.mp4",
+            "quality": "360p",
+            "size": 182.03,
+            "_id": "6a6c9be45851348dd520eac7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c609e4700100f9dfaee21/output_240p.mp4",
+            "quality": "240p",
+            "size": 140.46,
+            "_id": "6a6c9be45851348dd520eac8"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69d4b8c322cc6f4d5f00839f",
+          "classId": "6a6c609e4700100f9dfaee21",
           "topicId": "68fa5f40aed5b4af7a841a2a",
           "rawRecordIndex": 10
         }
@@ -36457,7 +36945,13 @@
             "_id": "6a6b3e088b1eb266bf837f6b"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Cyclone & Ocean by  varun sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Cyclone & Ocean by  varun sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a69b7764700100f9dbbacd7",
@@ -36845,10 +37339,59 @@
             "_id": "6a6b22db58cb0a2e66f39b0f"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Poverty & Unemployment BY VARUN SIR BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Poverty & Unemployment BY VARUN SIR BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a6a457e4700100f9dc4f245",
+          "topicId": "69f5d55622cc6f4d5f6a917f",
+          "rawRecordIndex": 10
+        }
+      },
+      {
+        "title": "Class - 09 | Poverty & Unemplyment II By Varun Sir",
+        "description": "\" GS Special-  07, 08, 09, 10\r\n Selection Batch - 07, 08, 09, 10\"",
+        "teacherName": "Varun Sir",
+        "duration": 4160,
+        "startDate": "2026-07-31T09:00:00.000Z",
+        "endDate": "2026-07-31T10:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6b90d14700100f9de3b499/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b90d14700100f9de3b499/output_720p.mp4",
+            "quality": "720p",
+            "size": 636.67,
+            "_id": "6a6c799ef11c79bcbab27017"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b90d14700100f9de3b499/output_480p.mp4",
+            "quality": "480p",
+            "size": 437.94,
+            "_id": "6a6c799ef11c79bcbab27018"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b90d14700100f9de3b499/output_360p.mp4",
+            "quality": "360p",
+            "size": 312.15,
+            "_id": "6a6c799ef11c79bcbab27019"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b90d14700100f9de3b499/output_240p.mp4",
+            "quality": "240p",
+            "size": 238.5,
+            "_id": "6a6c799ef11c79bcbab2701a"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69d4b8c322cc6f4d5f00839f",
+          "classId": "6a6b90d14700100f9de3b499",
           "topicId": "69f5d55622cc6f4d5f6a917f",
           "rawRecordIndex": 10
         }

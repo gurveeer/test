@@ -1,6 +1,6 @@
 {
   "courseName": "CGL RAPID BATCH",
-  "extractedAt": "2026-07-31T03:57:48+0000",
+  "extractedAt": "2026-08-01T03:57:59+0000",
   "videos": {
     "Introduction": [
       {
@@ -842,7 +842,13 @@
             "_id": "6a58b8fe847c19e9d52f93fe"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Devision of Bengal by jeet sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Devision of Bengal by jeet sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a58b35f847c19e9d5c776d5",
@@ -3037,6 +3043,55 @@
         "source": {
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a6b13ee5851348dd5e695ea",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 102
+        }
+      },
+      {
+        "title": "Class 09 || Medieval History || by Jeet sir",
+        "description": "\"Railway Foundation Batch -03, 04, 05, 06\r\nCGL RAPID BATCH\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2768,
+        "startDate": "2026-07-31T09:00:00.000Z",
+        "endDate": "2026-07-31T10:10:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6c3c3d4700100f9dec2946/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c3c3d4700100f9dec2946/output_720p.mp4",
+            "quality": "720p",
+            "size": 403.14,
+            "_id": "6a6c75599efa5484579bbda4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c3c3d4700100f9dec2946/output_480p.mp4",
+            "quality": "480p",
+            "size": 275.64,
+            "_id": "6a6c75599efa5484579bbda5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c3c3d4700100f9dec2946/output_360p.mp4",
+            "quality": "360p",
+            "size": 196.67,
+            "_id": "6a6c75599efa5484579bbda6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c3c3d4700100f9dec2946/output_240p.mp4",
+            "quality": "240p",
+            "size": 144.26,
+            "_id": "6a6c75599efa5484579bbda7"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Khilji Dynasty by jeet sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Khilji Dynasty by jeet sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a1fe6bbb927c1a84abc606f",
+          "classId": "6a6c3c3d4700100f9dec2946",
           "topicId": "699806229119ee84e2e132b6",
           "rawRecordIndex": 102
         }

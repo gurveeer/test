@@ -1,6 +1,6 @@
 {
   "courseName": "RRB Group D Batch",
-  "extractedAt": "2026-07-31T03:57:48+0000",
+  "extractedAt": "2026-08-01T03:57:59+0000",
   "videos": {
     "Introduction": [
       {
@@ -16134,6 +16134,55 @@
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 97
         }
+      },
+      {
+        "title": "Class-14 | Simplification (सरलीकरण) | By Gagan Sir",
+        "description": "\"Railway 1,2,3,4,5,6\r\nRRB Group D\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 5881,
+        "startDate": "2026-07-31T05:30:00.000Z",
+        "endDate": "2026-07-31T06:54:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6b91c54700100f9de4796d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b91c54700100f9de4796d/output_720p.mp4",
+            "quality": "720p",
+            "size": 829.21,
+            "_id": "6a6c516258cb0a2e66463823"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b91c54700100f9de4796d/output_480p.mp4",
+            "quality": "480p",
+            "size": 564.48,
+            "_id": "6a6c516258cb0a2e66463824"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b91c54700100f9de4796d/output_360p.mp4",
+            "quality": "360p",
+            "size": 397.68,
+            "_id": "6a6c516258cb0a2e66463825"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b91c54700100f9de4796d/output_240p.mp4",
+            "quality": "240p",
+            "size": 275.9,
+            "_id": "6a6c516258cb0a2e66463826"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "simplification class 14 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/simplification class 14 pdf by gagan sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "697df3954ca8c7fbe8f501ee",
+          "classId": "6a6b91c54700100f9de4796d",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 97
+        }
       }
     ],
     "PYQ": [
@@ -16432,7 +16481,32 @@
         "endDate": "2026-03-17T10:44:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/69b8e62ddbf4fa27cf7bb6f7/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b8e62ddbf4fa27cf7bb6f7/output_720p.mp4",
+            "quality": "720p",
+            "size": 399.11,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b8e62ddbf4fa27cf7bb6f7/output_480p.mp4",
+            "quality": "480p",
+            "size": 273.52,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b8e62ddbf4fa27cf7bb6f7/output_360p.mp4",
+            "quality": "360p",
+            "size": 193.7,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69b8e62ddbf4fa27cf7bb6f7/output_240p.mp4",
+            "quality": "240p",
+            "size": 142.49,
+            "_id": ""
+          }
+        ],
         "classPdf": [
           {
             "priority": 1,
@@ -17931,7 +18005,32 @@
         "endDate": "2026-05-06T03:53:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/698476a1fdd21a8a2d177931/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698476a1fdd21a8a2d177931/output_720p.mp4",
+            "quality": "720p",
+            "size": 473.69,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698476a1fdd21a8a2d177931/output_480p.mp4",
+            "quality": "480p",
+            "size": 307.2,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698476a1fdd21a8a2d177931/output_360p.mp4",
+            "quality": "360p",
+            "size": 219.83,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698476a1fdd21a8a2d177931/output_240p.mp4",
+            "quality": "240p",
+            "size": 164.09,
+            "_id": ""
+          }
+        ],
         "classPdf": [
           {
             "priority": 1,
@@ -29523,7 +29622,32 @@
         "endDate": "2026-05-15T09:29:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/6a03bfddb927c1a84a677b5a/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a03bfddb927c1a84a677b5a/output_720p.mp4",
+            "quality": "720p",
+            "size": 558.18,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a03bfddb927c1a84a677b5a/output_480p.mp4",
+            "quality": "480p",
+            "size": 367.27,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a03bfddb927c1a84a677b5a/output_360p.mp4",
+            "quality": "360p",
+            "size": 263.11,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a03bfddb927c1a84a677b5a/output_240p.mp4",
+            "quality": "240p",
+            "size": 193.6,
+            "_id": ""
+          }
+        ],
         "classPdf": [
           {
             "priority": 1,
@@ -32072,7 +32196,13 @@
             "_id": "6a6ad0049efa548457da94ec"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Number Series 001 By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Class-35 !! Number Series-01 By Deepak Sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "697df3954ca8c7fbe8f501ee",
           "classId": "6a6a40324700100f9dc0df69",
@@ -32084,16 +32214,90 @@
         "title": "Class-02 || Number Series-02 By Deepak Sir",
         "description": "\"*Railway Foundation Batch ,2 ,3 4,5,6\r\n*RRB Group D \r\n\"",
         "teacherName": "deepak sir",
-        "duration": 0,
+        "duration": 3992,
         "startDate": "2026-07-31T03:30:00.000Z",
         "endDate": "2026-07-31T04:40:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6b89744700100f9ddfd866/playlist.m3u8",
-        "mp4Recordings": [],
-        "classPdf": [],
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6b89744700100f9ddfd866/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b89744700100f9ddfd866/output_720p.mp4",
+            "quality": "720p",
+            "size": 580.39,
+            "_id": "6a6c2b0258cb0a2e6671a8d0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b89744700100f9ddfd866/output_480p.mp4",
+            "quality": "480p",
+            "size": 394.8,
+            "_id": "6a6c2b0258cb0a2e6671a8d1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b89744700100f9ddfd866/output_360p.mp4",
+            "quality": "360p",
+            "size": 277.04,
+            "_id": "6a6c2b0258cb0a2e6671a8d2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b89744700100f9ddfd866/output_240p.mp4",
+            "quality": "240p",
+            "size": 196.99,
+            "_id": "6a6c2b0258cb0a2e6671a8d3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Number Series 002 By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Class-36 !! Number Series-02 By Deepak Sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "697df3954ca8c7fbe8f501ee",
           "classId": "6a6b89744700100f9ddfd866",
+          "topicId": "69ae68cc7b3188015e0551dd",
+          "rawRecordIndex": 97
+        }
+      },
+      {
+        "title": "Class-03 || Number Series-03 By Deepak Sir",
+        "description": "\"*Railway Foundation Batch ,2 ,3 4,5,6\r\n*RRB Group D \r\n\"",
+        "teacherName": "deepak sir",
+        "duration": 3982,
+        "startDate": "2026-08-01T02:33:07.829Z",
+        "endDate": "2026-08-01T03:33:07.829Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6c73374700100f9dfd966e/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c73374700100f9dfd966e/output_720p.mp4",
+            "quality": "720p",
+            "size": 562.29,
+            "_id": "6a6d7032fded68823dd989fd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c73374700100f9dfd966e/output_480p.mp4",
+            "quality": "480p",
+            "size": 373.8,
+            "_id": "6a6d7032fded68823dd989fe"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c73374700100f9dfd966e/output_360p.mp4",
+            "quality": "360p",
+            "size": 255.79,
+            "_id": "6a6d7032fded68823dd989ff"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c73374700100f9dfd966e/output_240p.mp4",
+            "quality": "240p",
+            "size": 167.97,
+            "_id": "6a6d7032fded68823dd98a00"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "697df3954ca8c7fbe8f501ee",
+          "classId": "6a6c73374700100f9dfd966e",
           "topicId": "69ae68cc7b3188015e0551dd",
           "rawRecordIndex": 97
         }
@@ -32795,7 +32999,32 @@
         "endDate": "2026-06-20T06:41:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/694845546bcc97e09ed10eab/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694845546bcc97e09ed10eab/output_720p.mp4",
+            "quality": "720p",
+            "size": 428.82,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694845546bcc97e09ed10eab/output_480p.mp4",
+            "quality": "480p",
+            "size": 273.5,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694845546bcc97e09ed10eab/output_360p.mp4",
+            "quality": "360p",
+            "size": 238.15,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/694845546bcc97e09ed10eab/output_240p.mp4",
+            "quality": "240p",
+            "size": 186.82,
+            "_id": ""
+          }
+        ],
         "classPdf": [
           {
             "priority": 1,

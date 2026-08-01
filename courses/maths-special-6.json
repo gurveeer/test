@@ -1,6 +1,6 @@
 {
   "courseName": "Maths Special-6",
-  "extractedAt": "2026-07-31T03:57:48+0000",
+  "extractedAt": "2026-08-01T03:57:59+0000",
   "videos": {
     "Number System and More": [
       {
@@ -9993,16 +9993,96 @@
         "title": "Class 22 || Trigonometry (त्रिकोणमिति) By Gagan Sir",
         "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08\"",
         "teacherName": "Gagan Pratap",
-        "duration": 0,
+        "duration": 5062,
         "startDate": "2026-07-31T03:30:00.000Z",
         "endDate": "2026-07-31T04:50:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6b91704700100f9de3f646/playlist.m3u8",
-        "mp4Recordings": [],
-        "classPdf": [],
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6b91704700100f9de3f646/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b91704700100f9de3f646/output_720p.mp4",
+            "quality": "720p",
+            "size": 681.65,
+            "_id": "6a6c311d8b1eb266bf9528c5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b91704700100f9de3f646/output_480p.mp4",
+            "quality": "480p",
+            "size": 457.05,
+            "_id": "6a6c311d8b1eb266bf9528c6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b91704700100f9de3f646/output_360p.mp4",
+            "quality": "360p",
+            "size": 321.06,
+            "_id": "6a6c311d8b1eb266bf9528c7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b91704700100f9de3f646/output_240p.mp4",
+            "quality": "240p",
+            "size": 219.63,
+            "_id": "6a6c311d8b1eb266bf9528c8"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "trigonometry class 22 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/trigonometry class 22 pdf by gagan sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69ae9da7a2b1ae04337afa89",
           "classId": "6a6b91704700100f9de3f646",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 66
+        }
+      },
+      {
+        "title": "Class -19 || Geometry || by Gagan Sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08 , 09,10\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08 , 09,10\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 3053,
+        "startDate": "2026-07-31T13:00:00.000Z",
+        "endDate": "2026-07-31T14:21:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6c62424700100f9dfb750c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c62424700100f9dfb750c/output_720p.mp4",
+            "quality": "720p",
+            "size": 435.8,
+            "_id": "6a6cacc15851348dd5161ecd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c62424700100f9dfb750c/output_480p.mp4",
+            "quality": "480p",
+            "size": 296.09,
+            "_id": "6a6cacc15851348dd5161ece"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c62424700100f9dfb750c/output_360p.mp4",
+            "quality": "360p",
+            "size": 209.35,
+            "_id": "6a6cacc15851348dd5161ecf"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c62424700100f9dfb750c/output_240p.mp4",
+            "quality": "240p",
+            "size": 147.72,
+            "_id": "6a6cacc15851348dd5161ed0"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class 19 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/geometry class 19 pdf by gagan sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69ae9da7a2b1ae04337afa89",
+          "classId": "6a6c62424700100f9dfb750c",
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 66
         }

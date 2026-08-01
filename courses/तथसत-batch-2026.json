@@ -1,6 +1,6 @@
 {
   "courseName": "तथास्तु BATCH 2026",
-  "extractedAt": "2026-07-31T03:57:48+0000",
+  "extractedAt": "2026-08-01T03:57:59+0000",
   "videos": {
     "POLITY": [
       {
@@ -4821,6 +4821,55 @@
         "source": {
           "courseId": "69622fc8027f25d29ebca4f6",
           "classId": "6a6b15454700100f9dd58795",
+          "topicId": "696a10e3719de161eee6326b",
+          "rawRecordIndex": 110
+        }
+      },
+      {
+        "title": "Class -17 | Rivers of India 09 | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3039,
+        "startDate": "2026-07-31T10:30:00.000Z",
+        "endDate": "2026-07-31T11:43:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6c3cd94700100f9dec6c34/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c3cd94700100f9dec6c34/output_720p.mp4",
+            "quality": "720p",
+            "size": 454.14,
+            "_id": "6a6c8dcd9efa548457474a49"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c3cd94700100f9dec6c34/output_480p.mp4",
+            "quality": "480p",
+            "size": 311.16,
+            "_id": "6a6c8dcd9efa548457474a4a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c3cd94700100f9dec6c34/output_360p.mp4",
+            "quality": "360p",
+            "size": 222.62,
+            "_id": "6a6c8dcd9efa548457474a4b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c3cd94700100f9dec6c34/output_240p.mp4",
+            "quality": "240p",
+            "size": 164.61,
+            "_id": "6a6c8dcd9efa548457474a4c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Major Indian Industries by jeet sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Major Indian Industries by jeet sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6a6c3cd94700100f9dec6c34",
           "topicId": "696a10e3719de161eee6326b",
           "rawRecordIndex": 110
         }

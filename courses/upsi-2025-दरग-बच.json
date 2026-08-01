@@ -1,6 +1,6 @@
 {
   "courseName": "UPSI 2025 दरोगा बैच",
-  "extractedAt": "2026-07-31T03:57:48+0000",
+  "extractedAt": "2026-08-01T03:57:59+0000",
   "videos": {
     "Hindi": [
       {
@@ -8629,7 +8629,32 @@
         "endDate": "2026-02-21T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/699c7da1399756d4928f0f82/hls/master.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699c7da1399756d4928f0f82/output_240p.mp4",
+            "quality": "240p",
+            "size": 345.2,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699c7da1399756d4928f0f82/output_360p.mp4",
+            "quality": "360p",
+            "size": 542.69,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699c7da1399756d4928f0f82/output_480p.mp4",
+            "quality": "480p",
+            "size": 877.18,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699c7da1399756d4928f0f82/output_720p.mp4",
+            "quality": "720p",
+            "size": 1424.45,
+            "_id": ""
+          }
+        ],
         "classPdf": [],
         "source": {
           "courseId": "6933f35cdd258fd32320c55d",

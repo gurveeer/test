@@ -1,6 +1,6 @@
 {
   "courseName": "English Special-1",
-  "extractedAt": "2026-07-31T03:57:48+0000",
+  "extractedAt": "2026-08-01T03:57:59+0000",
   "videos": {
     "Grammar": [
       {
@@ -5377,7 +5377,32 @@
         "endDate": "2026-02-22T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6992fc4f138d4a09fe10db2c/hls/master.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6992fc4f138d4a09fe10db2c/output_240p.mp4",
+            "quality": "240p",
+            "size": 169.08,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6992fc4f138d4a09fe10db2c/output_360p.mp4",
+            "quality": "360p",
+            "size": 264.3,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6992fc4f138d4a09fe10db2c/output_480p.mp4",
+            "quality": "480p",
+            "size": 432.2,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6992fc4f138d4a09fe10db2c/output_720p.mp4",
+            "quality": "720p",
+            "size": 712.48,
+            "_id": ""
+          }
+        ],
         "classPdf": [
           {
             "priority": 1,

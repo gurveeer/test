@@ -1,6 +1,6 @@
 {
   "courseName": "GS Special-5",
-  "extractedAt": "2026-07-31T03:57:48+0000",
+  "extractedAt": "2026-08-01T03:57:59+0000",
   "videos": {
     "POLITY": [
       {
@@ -5496,7 +5496,13 @@
             "_id": "6a6b3e088b1eb266bf837f6b"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Cyclone & Ocean by  varun sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Cyclone & Ocean by  varun sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "698481d5fdd21a8a2d18ac70",
           "classId": "6a69b7764700100f9dbbacd7",

@@ -1,6 +1,6 @@
 {
   "courseName": "Science special Foundation Batch",
-  "extractedAt": "2026-07-31T03:57:48+0000",
+  "extractedAt": "2026-08-01T03:57:59+0000",
   "videos": {
     "Introduction": [
       {
@@ -464,10 +464,65 @@
             "_id": "6a6b174b1386d236beac045d"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "nutrition class 0002 pdf by radhika mam",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/nutrition class 0002 pdf by radhika mam.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a6a43324700100f9dc3ed5d",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 96
+        }
+      },
+      {
+        "title": "Class - 03 | Nutrition 3 | by Radhika maam",
+        "description": "\"RAILWAY Foundation - 06\r\nScience Foundation - 01\"",
+        "teacherName": "radhika maam",
+        "duration": 4152,
+        "startDate": "2026-07-31T07:30:00.000Z",
+        "endDate": "2026-07-31T08:46:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6b90744700100f9de3311a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b90744700100f9de3311a/output_720p.mp4",
+            "quality": "720p",
+            "size": 625.03,
+            "_id": "6a6c6471f11c79bcba3f920d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b90744700100f9de3311a/output_480p.mp4",
+            "quality": "480p",
+            "size": 428.84,
+            "_id": "6a6c6471f11c79bcba3f920e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b90744700100f9de3311a/output_360p.mp4",
+            "quality": "360p",
+            "size": 306.2,
+            "_id": "6a6c6471f11c79bcba3f920f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6b90744700100f9de3311a/output_240p.mp4",
+            "quality": "240p",
+            "size": 227.63,
+            "_id": "6a6c6471f11c79bcba3f9210"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "nutrition class 003 pdf by radhika mam",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/nutrition class 003 pdf by radhika mam.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a4e35315bac0ae4bab52444",
+          "classId": "6a6b90744700100f9de3311a",
           "topicId": "68e22134290f277f35d6d12b",
           "rawRecordIndex": 96
         }

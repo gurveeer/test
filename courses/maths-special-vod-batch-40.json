@@ -1,6 +1,6 @@
 {
   "courseName": "Maths Special VOD Batch-4.0",
-  "extractedAt": "2026-07-31T03:57:48+0000",
+  "extractedAt": "2026-08-01T03:57:59+0000",
   "videos": {
     "Number System and More": [
       {
@@ -21141,7 +21141,32 @@
         "endDate": "2026-04-29T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69315c4de1a6850a4d5fb36f/hls/master.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69315c4de1a6850a4d5fb36f/output_240p.mp4",
+            "quality": "240p",
+            "size": 188.91,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69315c4de1a6850a4d5fb36f/output_360p.mp4",
+            "quality": "360p",
+            "size": 294.27,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69315c4de1a6850a4d5fb36f/output_480p.mp4",
+            "quality": "480p",
+            "size": 489.07,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69315c4de1a6850a4d5fb36f/output_720p.mp4",
+            "quality": "720p",
+            "size": 784.77,
+            "_id": ""
+          }
+        ],
         "classPdf": [],
         "source": {
           "courseId": "6a06e470b927c1a84a90a804",
@@ -21196,7 +21221,32 @@
         "endDate": "2026-04-29T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69315c4de1a6850a4d5fb371/hls/master.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69315c4de1a6850a4d5fb371/output_240p.mp4",
+            "quality": "240p",
+            "size": 202.63,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69315c4de1a6850a4d5fb371/output_360p.mp4",
+            "quality": "360p",
+            "size": 314.87,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69315c4de1a6850a4d5fb371/output_480p.mp4",
+            "quality": "480p",
+            "size": 522.08,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69315c4de1a6850a4d5fb371/output_720p.mp4",
+            "quality": "720p",
+            "size": 835.16,
+            "_id": ""
+          }
+        ],
         "classPdf": [],
         "source": {
           "courseId": "6a06e470b927c1a84a90a804",
@@ -21300,7 +21350,32 @@
         "endDate": "2026-04-29T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69315c4de1a6850a4d5fb374/hls/master.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69315c4de1a6850a4d5fb374/output_240p.mp4",
+            "quality": "240p",
+            "size": 176.62,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69315c4de1a6850a4d5fb374/output_360p.mp4",
+            "quality": "360p",
+            "size": 275.22,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69315c4de1a6850a4d5fb374/output_480p.mp4",
+            "quality": "480p",
+            "size": 457.08,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69315c4de1a6850a4d5fb374/output_720p.mp4",
+            "quality": "720p",
+            "size": 735.76,
+            "_id": ""
+          }
+        ],
         "classPdf": [],
         "source": {
           "courseId": "6a06e470b927c1a84a90a804",
@@ -21441,7 +21516,32 @@
         "endDate": "2026-04-29T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69315c4de1a6850a4d5fb378/hls/master.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69315c4de1a6850a4d5fb378/output_240p.mp4",
+            "quality": "240p",
+            "size": 195.18,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69315c4de1a6850a4d5fb378/output_360p.mp4",
+            "quality": "360p",
+            "size": 304.17,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69315c4de1a6850a4d5fb378/output_480p.mp4",
+            "quality": "480p",
+            "size": 505.26,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69315c4de1a6850a4d5fb378/output_720p.mp4",
+            "quality": "720p",
+            "size": 810.52,
+            "_id": ""
+          }
+        ],
         "classPdf": [],
         "source": {
           "courseId": "6a06e470b927c1a84a90a804",
@@ -21459,7 +21559,32 @@
         "endDate": "2026-04-29T18:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69315c4de1a6850a4d5fb379/hls/master.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69315c4de1a6850a4d5fb379/output_240p.mp4",
+            "quality": "240p",
+            "size": 191.18,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69315c4de1a6850a4d5fb379/output_360p.mp4",
+            "quality": "360p",
+            "size": 297.77,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69315c4de1a6850a4d5fb379/output_480p.mp4",
+            "quality": "480p",
+            "size": 494.79,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69315c4de1a6850a4d5fb379/output_720p.mp4",
+            "quality": "720p",
+            "size": 794.68,
+            "_id": ""
+          }
+        ],
         "classPdf": [],
         "source": {
           "courseId": "6a06e470b927c1a84a90a804",

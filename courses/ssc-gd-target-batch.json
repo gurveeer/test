@@ -1,6 +1,6 @@
 {
   "courseName": "SSC GD Target Batch",
-  "extractedAt": "2026-07-31T03:57:48+0000",
+  "extractedAt": "2026-08-01T03:57:59+0000",
   "videos": {
     "Non - Verbal": [
       {
@@ -577,7 +577,32 @@
         "endDate": "2025-12-08T06:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69ad4882a2b1ae043369156d/hls/master.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ad4882a2b1ae043369156d/mp4/NUMBER_SYSTEM_CLASS_1_AARAMBH_BATCH_240p.mp4",
+            "quality": "240p",
+            "size": 229.18,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ad4882a2b1ae043369156d/mp4/NUMBER_SYSTEM_CLASS_1_AARAMBH_BATCH_360p.mp4",
+            "quality": "360p",
+            "size": 269.23,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ad4882a2b1ae043369156d/mp4/NUMBER_SYSTEM_CLASS_1_AARAMBH_BATCH_480p.mp4",
+            "quality": "480p",
+            "size": 361.23,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69ad4882a2b1ae043369156d/mp4/NUMBER_SYSTEM_CLASS_1_AARAMBH_BATCH_720p.mp4",
+            "quality": "720p",
+            "size": 533.31,
+            "_id": ""
+          }
+        ],
         "classPdf": [
           {
             "priority": 1,
