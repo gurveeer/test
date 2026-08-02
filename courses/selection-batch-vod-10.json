@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch VOD 1.0",
-  "extractedAt": "2026-08-01T03:57:59+0000",
+  "extractedAt": "2026-08-02T04:01:44+0000",
   "videos": {
     "Arithmetic": [
       {
@@ -3714,44 +3714,44 @@
         }
       },
       {
-        "title": "Time_Speed_Distance_Class_15",
+        "title": "Time_Speed_Distance_Class_15 - new class",
         "description": "Video: Time_Speed_Distance_Class_15",
-        "teacherName": "Admin",
-        "duration": 5130.005333,
-        "startDate": "2026-03-09T18:30:00.000Z",
-        "endDate": "2026-03-09T18:30:00.000Z",
+        "teacherName": "Gagan Pratap",
+        "duration": 3179.393,
+        "startDate": "2026-08-01T12:14:00.000Z",
+        "endDate": "2026-08-01T10:14:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/692292bee2b37c269bc949cb/hls/master.m3u8",
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a6c4a254700100f9df01013/hls/master.m3u8",
         "mp4Recordings": [
           {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/692292bee2b37c269bc949cb/mp4/Time_Speed_Distance_Class_15_240p.mp4",
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6c4a254700100f9df01013/mp4/0801_240p.mp4",
             "quality": "240p",
-            "size": 203.19,
-            "_id": "6a5a1f8d2631e9eb3b5bcdcf"
+            "size": 206.48,
+            "_id": "6a6dc15b5851348dd50943d9"
           },
           {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/692292bee2b37c269bc949cb/mp4/Time_Speed_Distance_Class_15_360p.mp4",
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6c4a254700100f9df01013/mp4/0801_360p.mp4",
             "quality": "360p",
-            "size": 241.97,
-            "_id": "6a5a1f8d2631e9eb3b5bcdd0"
+            "size": 248.85,
+            "_id": "6a6dc15b5851348dd50943da"
           },
           {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/692292bee2b37c269bc949cb/mp4/Time_Speed_Distance_Class_15_480p.mp4",
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6c4a254700100f9df01013/mp4/0801_480p.mp4",
             "quality": "480p",
-            "size": 331.17,
-            "_id": "6a5a1f8d2631e9eb3b5bcdd1"
+            "size": 342.68,
+            "_id": "6a6dc15b5851348dd50943db"
           },
           {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/692292bee2b37c269bc949cb/mp4/Time_Speed_Distance_Class_15_720p.mp4",
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6c4a254700100f9df01013/mp4/0801_720p.mp4",
             "quality": "720p",
-            "size": 495.11,
-            "_id": "6a5a1f8d2631e9eb3b5bcdd2"
+            "size": 516.34,
+            "_id": "6a6dc15b5851348dd50943dc"
           }
         ],
         "classPdf": [],
         "source": {
           "courseId": "69bbb54302b07cbc32f33240",
-          "classId": "692292bee2b37c269bc949cb",
+          "classId": "6a6c4a254700100f9df01013",
           "topicId": "68d7af97824c6e1af23ea66e",
           "rawRecordIndex": 55
         }

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-01T03:57:59+0000",
+  "generatedAt": "2026-08-02T04:01:44+0000",
   "source": {
     "mode": "all",
-    "rawExportFile": "/home/runner/work/test/test/FILES/delta_study_courses_export_20260801_035756.json",
+    "rawExportFile": "/home/runner/work/test/test/FILES/delta_study_courses_export_20260802_040141.json",
     "rawCourseCount": 123,
     "appCourseCount": 123
   },
@@ -318,8 +318,8 @@
       "price": null,
       "discountPrice": 1999,
       "validity": "2 years",
-      "subjectCount": 23,
-      "videoCount": 1150,
+      "subjectCount": 24,
+      "videoCount": 1151,
       "dataFile": "courses/selection-batch-5.json"
     },
     {
@@ -439,7 +439,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 8,
-      "videoCount": 320,
+      "videoCount": 319,
       "dataFile": "courses/english-special-7.json"
     },
     {
@@ -514,7 +514,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 8,
-      "videoCount": 321,
+      "videoCount": 320,
       "dataFile": "courses/english-special-9.json"
     },
     {
@@ -529,7 +529,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 2,
-      "videoCount": 20,
+      "videoCount": 21,
       "dataFile": "courses/gs-special-9.json"
     },
     {
@@ -574,7 +574,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 4,
-      "videoCount": 95,
+      "videoCount": 96,
       "dataFile": "courses/gs-special-7.json"
     },
     {
@@ -664,7 +664,7 @@
       "discountPrice": 1999,
       "validity": "2 years",
       "subjectCount": 24,
-      "videoCount": 1205,
+      "videoCount": 1204,
       "dataFile": "courses/selection-batch-vod-40.json"
     },
     {
@@ -709,7 +709,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 7,
-      "videoCount": 319,
+      "videoCount": 318,
       "dataFile": "courses/english-special-8.json"
     },
     {
@@ -724,7 +724,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 3,
-      "videoCount": 49,
+      "videoCount": 50,
       "dataFile": "courses/gs-special-8.json"
     },
     {
@@ -826,7 +826,7 @@
       "banner": "https://selectionwayserver.hranker.com/courses/banners/1785215365768-1781618130322-MATHS_5.0.png",
       "status": "active",
       "price": 2999,
-      "discountPrice": 599,
+      "discountPrice": 999,
       "validity": "2 year",
       "subjectCount": 6,
       "videoCount": 503,
@@ -858,7 +858,7 @@
       "price": null,
       "discountPrice": 1599,
       "validity": "2 years",
-      "subjectCount": 22,
+      "subjectCount": 23,
       "videoCount": 917,
       "dataFile": "courses/selection-batch-6.json"
     },
@@ -976,7 +976,7 @@
       "banner": "https://selectionwayserver.hranker.com/courses/banners/1785215408588-1781618105489-eNGLISH_3.0.png",
       "status": "active",
       "price": 2999,
-      "discountPrice": 599,
+      "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 6,
       "videoCount": 263,
@@ -1024,7 +1024,7 @@
       "discountPrice": 1,
       "validity": "2 years",
       "subjectCount": 8,
-      "videoCount": 320,
+      "videoCount": 319,
       "dataFile": "courses/english-special-6.json"
     },
     {
@@ -1038,7 +1038,7 @@
       "price": null,
       "discountPrice": 1,
       "validity": "2 years",
-      "subjectCount": 1,
+      "subjectCount": 2,
       "videoCount": 94,
       "dataFile": "courses/reasoning-special-6.json"
     },
@@ -1053,7 +1053,7 @@
       "price": null,
       "discountPrice": 499,
       "validity": "2 years",
-      "subjectCount": 1,
+      "subjectCount": 2,
       "videoCount": 115,
       "dataFile": "courses/reasoning-special-5.json"
     },
@@ -1083,8 +1083,8 @@
       "price": 1999,
       "discountPrice": 399,
       "validity": "2 years",
-      "subjectCount": 1,
-      "videoCount": 97,
+      "subjectCount": 2,
+      "videoCount": 123,
       "dataFile": "courses/reasoning-special-vod-batch.json"
     },
     {
@@ -1129,7 +1129,7 @@
       "discountPrice": 1,
       "validity": "2 years",
       "subjectCount": 5,
-      "videoCount": 107,
+      "videoCount": 108,
       "dataFile": "courses/gs-special-6.json"
     },
     {
@@ -1144,7 +1144,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 4,
-      "videoCount": 111,
+      "videoCount": 112,
       "dataFile": "courses/gs-special-5.json"
     },
     {
@@ -1366,7 +1366,7 @@
       "banner": "https://selectionwayserver.hranker.com/courses/banners/1782998940337-gagan_sir_app_banner_10.0.png",
       "status": "active",
       "price": 2999,
-      "discountPrice": 799,
+      "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 6,
       "videoCount": 121,
@@ -1381,7 +1381,7 @@
       "banner": "https://selectionwayserver.hranker.com/courses/banners/1782998958566-aman_sir_app_banner_10.0.png",
       "status": "active",
       "price": 2999,
-      "discountPrice": 799,
+      "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 6,
       "videoCount": 265,
@@ -1396,7 +1396,7 @@
       "banner": "https://selectionwayserver.hranker.com/courses/banners/1784702469976-sdfgh.jpg",
       "status": "active",
       "price": 1999,
-      "discountPrice": 499,
+      "discountPrice": 699,
       "validity": "2 years",
       "subjectCount": 0,
       "videoCount": 0,
@@ -1441,10 +1441,10 @@
       "banner": "https://selectionwayserver.hranker.com/courses/banners/1783519308781-railway_app_banner.png",
       "status": "active",
       "price": 2999,
-      "discountPrice": 699,
+      "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 7,
-      "videoCount": 61,
+      "videoCount": 62,
       "dataFile": "courses/railway-foundation-60.json"
     },
     {
@@ -1456,10 +1456,10 @@
       "banner": "https://selectionwayserver.hranker.com/courses/banners/1783519274879-scince_special_app_banner_updated.png",
       "status": "active",
       "price": 1599,
-      "discountPrice": 299,
+      "discountPrice": 399,
       "validity": "2 years",
       "subjectCount": 3,
-      "videoCount": 12,
+      "videoCount": 13,
       "dataFile": "courses/science-special-foundation-batch-2.json"
     },
     {
@@ -1854,8 +1854,8 @@
     }
   ],
   "stats": {
-    "appVideoCount": 34227,
+    "appVideoCount": 34256,
     "skippedInactiveCourses": 0,
-    "skippedEmptyRows": 32
+    "skippedEmptyRows": 26
   }
 }

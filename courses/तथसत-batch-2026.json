@@ -1,6 +1,6 @@
 {
   "courseName": "तथास्तु BATCH 2026",
-  "extractedAt": "2026-08-01T03:57:59+0000",
+  "extractedAt": "2026-08-02T04:01:44+0000",
   "videos": {
     "POLITY": [
       {
@@ -4565,7 +4565,32 @@
         "endDate": "2026-07-17T11:49:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/6a59fa6d8eefdd1ae57d1b18/playlist.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a59fa6d8eefdd1ae57d1b18/output_720p.mp4",
+            "quality": "720p",
+            "size": 351.74,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a59fa6d8eefdd1ae57d1b18/output_480p.mp4",
+            "quality": "480p",
+            "size": 224.77,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a59fa6d8eefdd1ae57d1b18/output_360p.mp4",
+            "quality": "360p",
+            "size": 176.8,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a59fa6d8eefdd1ae57d1b18/output_240p.mp4",
+            "quality": "240p",
+            "size": 128.89,
+            "_id": ""
+          }
+        ],
         "classPdf": [
           {
             "priority": 1,

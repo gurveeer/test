@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch - 7",
-  "extractedAt": "2026-08-01T03:57:59+0000",
+  "extractedAt": "2026-08-02T04:01:44+0000",
   "videos": {
     "ARITHMETIC": [
       {
@@ -7893,7 +7893,32 @@
         "endDate": "2026-07-14T05:00:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/6a55858a2a646901987e4ad9/playlist.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a55858a2a646901987e4ad9/output_720p.mp4",
+            "quality": "720p",
+            "size": 609.67,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a55858a2a646901987e4ad9/output_480p.mp4",
+            "quality": "480p",
+            "size": 382.09,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a55858a2a646901987e4ad9/output_360p.mp4",
+            "quality": "360p",
+            "size": 298.98,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a55858a2a646901987e4ad9/output_240p.mp4",
+            "quality": "240p",
+            "size": 213.1,
+            "_id": ""
+          }
+        ],
         "classPdf": [
           {
             "priority": 1,
@@ -31551,49 +31576,6 @@
         }
       },
       {
-        "title": "Information video ||| by Aman sir",
-        "description": "",
-        "teacherName": "AMAN SIR",
-        "duration": 30.5489,
-        "startDate": "2026-07-07T06:59:00.000Z",
-        "endDate": "2026-07-07T04:59:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a4ca3775bac0ae4ba9e93ff/hls/master.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4ca3775bac0ae4ba9e93ff/mp4/20260707_055049_240p.mp4",
-            "quality": "240p",
-            "size": 2.26,
-            "_id": "6a4ca3e1847c19e9d5996660"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4ca3775bac0ae4ba9e93ff/mp4/20260707_055049_360p.mp4",
-            "quality": "360p",
-            "size": 2.6,
-            "_id": "6a4ca3e1847c19e9d5996661"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4ca3775bac0ae4ba9e93ff/mp4/20260707_055049_480p.mp4",
-            "quality": "480p",
-            "size": 3.46,
-            "_id": "6a4ca3e1847c19e9d5996662"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a4ca3775bac0ae4ba9e93ff/mp4/20260707_055049_720p.mp4",
-            "quality": "720p",
-            "size": 5.06,
-            "_id": "6a4ca3e1847c19e9d5996663"
-          }
-        ],
-        "classPdf": [],
-        "source": {
-          "courseId": "69d4b8c322cc6f4d5f00839f",
-          "classId": "6a4ca3775bac0ae4ba9e93ff",
-          "topicId": "696e0150719de161eef5677e",
-          "rawRecordIndex": 10
-        }
-      },
-      {
         "title": "Class -33 | Verb lec-2 || by Aman sir",
         "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
         "teacherName": "AMAN SIR",
@@ -32031,49 +32013,6 @@
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a59821f98f6d3b7e59a4864",
-          "topicId": "696e0150719de161eef5677e",
-          "rawRecordIndex": 10
-        }
-      },
-      {
-        "title": "Class Kyu Nahi Ho Rahi?",
-        "description": "information",
-        "teacherName": "Aman sir",
-        "duration": 24.9194,
-        "startDate": "2026-07-19T17:02:00.000Z",
-        "endDate": "2026-07-19T15:02:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a5d027c8eefdd1ae588044d/hls/master.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a5d027c8eefdd1ae588044d/mp4/20260719_170810_240p.mp4",
-            "quality": "240p",
-            "size": 1.9,
-            "_id": "6a5d030a2631e9eb3bf44ab5"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a5d027c8eefdd1ae588044d/mp4/20260719_170810_360p.mp4",
-            "quality": "360p",
-            "size": 2.19,
-            "_id": "6a5d030a2631e9eb3bf44ab6"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a5d027c8eefdd1ae588044d/mp4/20260719_170810_480p.mp4",
-            "quality": "480p",
-            "size": 2.92,
-            "_id": "6a5d030a2631e9eb3bf44ab7"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a5d027c8eefdd1ae588044d/mp4/20260719_170810_720p.mp4",
-            "quality": "720p",
-            "size": 4.26,
-            "_id": "6a5d030a2631e9eb3bf44ab8"
-          }
-        ],
-        "classPdf": [],
-        "source": {
-          "courseId": "69d4b8c322cc6f4d5f00839f",
-          "classId": "6a5d027c8eefdd1ae588044d",
           "topicId": "696e0150719de161eef5677e",
           "rawRecordIndex": 10
         }
@@ -32688,6 +32627,49 @@
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a6b958d4700100f9de53f6d",
+          "topicId": "696e0150719de161eef5677e",
+          "rawRecordIndex": 10
+        }
+      },
+      {
+        "title": "Class - 52 || Subject Verb Agreement lec-2 | by Aman sir",
+        "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
+        "teacherName": "Aman sir",
+        "duration": 5269,
+        "startDate": "2026-08-01T05:47:00.000Z",
+        "endDate": "2026-08-01T07:10:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6d85c28c3766ca13834ad2/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6d85c28c3766ca13834ad2/output_720p.mp4",
+            "quality": "720p",
+            "size": 754.87,
+            "_id": "6a6da84bf11c79bcba2b56b9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6d85c28c3766ca13834ad2/output_480p.mp4",
+            "quality": "480p",
+            "size": 510.69,
+            "_id": "6a6da84bf11c79bcba2b56ba"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6d85c28c3766ca13834ad2/output_360p.mp4",
+            "quality": "360p",
+            "size": 359.99,
+            "_id": "6a6da84bf11c79bcba2b56bb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6d85c28c3766ca13834ad2/output_240p.mp4",
+            "quality": "240p",
+            "size": 274.56,
+            "_id": "6a6da84bf11c79bcba2b56bc"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69d4b8c322cc6f4d5f00839f",
+          "classId": "6a6d85c28c3766ca13834ad2",
           "topicId": "696e0150719de161eef5677e",
           "rawRecordIndex": 10
         }
@@ -36955,6 +36937,49 @@
         "source": {
           "courseId": "69d4b8c322cc6f4d5f00839f",
           "classId": "6a69b7764700100f9dbbacd7",
+          "topicId": "696db9e5719de161eef1358c",
+          "rawRecordIndex": 10
+        }
+      },
+      {
+        "title": "Class -12 | Phase II: Landforms I | by Varun sir",
+        "description": "\" GS Special- 05, 06, 07, 08, 09\r\n Selection Batch - 05, 06, 07, 08, 09\"",
+        "teacherName": "Varun Sir",
+        "duration": 2705,
+        "startDate": "2026-08-01T09:00:00.000Z",
+        "endDate": "2026-08-01T09:56:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6c4ca14700100f9df0d73d/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c4ca14700100f9df0d73d/output_720p.mp4",
+            "quality": "720p",
+            "size": 408.21,
+            "_id": "6a6dc3701386d236bedd70e4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c4ca14700100f9df0d73d/output_480p.mp4",
+            "quality": "480p",
+            "size": 278.97,
+            "_id": "6a6dc3701386d236bedd70e5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c4ca14700100f9df0d73d/output_360p.mp4",
+            "quality": "360p",
+            "size": 197.91,
+            "_id": "6a6dc3701386d236bedd70e6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6c4ca14700100f9df0d73d/output_240p.mp4",
+            "quality": "240p",
+            "size": 147.29,
+            "_id": "6a6dc3701386d236bedd70e7"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69d4b8c322cc6f4d5f00839f",
+          "classId": "6a6c4ca14700100f9df0d73d",
           "topicId": "696db9e5719de161eef1358c",
           "rawRecordIndex": 10
         }

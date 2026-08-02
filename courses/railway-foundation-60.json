@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation 6.0",
-  "extractedAt": "2026-08-01T03:57:59+0000",
+  "extractedAt": "2026-08-02T04:01:44+0000",
   "videos": {
     "Introduction": [
       {
@@ -2914,6 +2914,49 @@
         "source": {
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a6b90744700100f9de3311a",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 95
+        }
+      },
+      {
+        "title": "Class - 01 | Digestive system 1 | by Radhika maam",
+        "description": "\"RAILWAY Foundation - 06\r\nScience Foundation - 01\"",
+        "teacherName": "radhika maam",
+        "duration": 4398,
+        "startDate": "2026-08-01T07:30:00.000Z",
+        "endDate": "2026-08-01T08:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6cc0828c3766ca1380288c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6cc0828c3766ca1380288c/output_720p.mp4",
+            "quality": "720p",
+            "size": 667.55,
+            "_id": "6a6dbf72f11c79bcbababd3d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6cc0828c3766ca1380288c/output_480p.mp4",
+            "quality": "480p",
+            "size": 459.81,
+            "_id": "6a6dbf72f11c79bcbababd3e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6cc0828c3766ca1380288c/output_360p.mp4",
+            "quality": "360p",
+            "size": 328.76,
+            "_id": "6a6dbf72f11c79bcbababd3f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6cc0828c3766ca1380288c/output_240p.mp4",
+            "quality": "240p",
+            "size": 250.48,
+            "_id": "6a6dbf72f11c79bcbababd40"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a4e376d5bac0ae4bab5a040",
+          "classId": "6a6cc0828c3766ca1380288c",
           "topicId": "68e22134290f277f35d6d12b",
           "rawRecordIndex": 95
         }

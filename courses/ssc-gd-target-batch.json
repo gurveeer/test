@@ -1,6 +1,6 @@
 {
   "courseName": "SSC GD Target Batch",
-  "extractedAt": "2026-08-01T03:57:59+0000",
+  "extractedAt": "2026-08-02T04:01:44+0000",
   "videos": {
     "Non - Verbal": [
       {
@@ -17217,7 +17217,32 @@
         "endDate": "2026-04-29T15:30:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/69f1d97a22cc6f4d5f2e6fb5/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f1d97a22cc6f4d5f2e6fb5/output_720p.mp4",
+            "quality": "720p",
+            "size": 415.56,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f1d97a22cc6f4d5f2e6fb5/output_480p.mp4",
+            "quality": "480p",
+            "size": 263.28,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f1d97a22cc6f4d5f2e6fb5/output_360p.mp4",
+            "quality": "360p",
+            "size": 206,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69f1d97a22cc6f4d5f2e6fb5/output_240p.mp4",
+            "quality": "240p",
+            "size": 148.73,
+            "_id": ""
+          }
+        ],
         "classPdf": [
           {
             "priority": 1,

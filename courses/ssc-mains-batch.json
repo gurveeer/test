@@ -1,6 +1,6 @@
 {
   "courseName": "SSC Mains Batch",
-  "extractedAt": "2026-08-01T03:57:59+0000",
+  "extractedAt": "2026-08-02T04:01:44+0000",
   "videos": {
     "Arithmetic": [
       {
@@ -17618,7 +17618,32 @@
         "endDate": "2025-11-24T07:22:40.968Z",
         "isFree": false,
         "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/68d64ad199a6043c5d2d2ac0/hls/master.m3u8",
-        "mp4Recordings": [],
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68d64ad199a6043c5d2d2ac0/output_240p.mp4",
+            "quality": "240p",
+            "size": 522.1,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68d64ad199a6043c5d2d2ac0/output_360p.mp4",
+            "quality": "360p",
+            "size": 823.84,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68d64ad199a6043c5d2d2ac0/output_480p.mp4",
+            "quality": "480p",
+            "size": 1322.55,
+            "_id": ""
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/68d64ad199a6043c5d2d2ac0/output_720p.mp4",
+            "quality": "720p",
+            "size": 2121.31,
+            "_id": ""
+          }
+        ],
         "classPdf": [],
         "source": {
           "courseId": "68e27174dfde12332485c494",
