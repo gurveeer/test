@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch-1",
-  "extractedAt": "2026-08-02T04:01:44+0000",
+  "extractedAt": "2026-08-03T04:03:30+0000",
   "videos": {
     "Number System & More": [
       {
@@ -43472,6 +43472,24 @@
         "source": {
           "courseId": "68dbd603f975d67976534e12",
           "classId": "6a6c62424700100f9dfb750c",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 80
+        }
+      },
+      {
+        "title": "Class 23 || Trigonometry (त्रिकोणमिति) By Gagan Sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-08-03T03:30:00.000Z",
+        "endDate": "2026-08-03T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6f89c58c3766ca13a6ce48/playlist.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "68dbd603f975d67976534e12",
+          "classId": "6a6f89c58c3766ca13a6ce48",
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 80
         }

@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch-5",
-  "extractedAt": "2026-08-02T04:01:44+0000",
+  "extractedAt": "2026-08-03T04:03:30+0000",
   "videos": {
     "Grammar (Live Classes)": [
       {
@@ -24604,6 +24604,24 @@
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 20
         }
+      },
+      {
+        "title": "Class 23 || Trigonometry (त्रिकोणमिति) By Gagan Sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-08-03T03:30:00.000Z",
+        "endDate": "2026-08-03T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6f89c58c3766ca13a6ce48/playlist.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "698481c9fdd21a8a2d18ac5b",
+          "classId": "6a6f89c58c3766ca13a6ce48",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 20
+        }
       }
     ],
     "Verbal": [
@@ -30200,6 +30218,49 @@
         "source": {
           "courseId": "698481c9fdd21a8a2d18ac5b",
           "classId": "6a6b8cc74700100f9de16460",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 20
+        }
+      },
+      {
+        "title": "Class-01| Linear Sitting Arrangement | Sitting & Puzzle | By balram Sir",
+        "description": "\"Reasoning  Special  05, 06 , 07\r\n Selection Batch 05, 06 ,07\"",
+        "teacherName": "Balram Sir",
+        "duration": 3443,
+        "startDate": "2026-08-03T02:00:00.000Z",
+        "endDate": "2026-08-03T03:16:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6f87e28c3766ca13a47252/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6f87e28c3766ca13a47252/output_720p.mp4",
+            "quality": "720p",
+            "size": 555.66,
+            "_id": "6a7008468b1eb266bfb58c22"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6f87e28c3766ca13a47252/output_480p.mp4",
+            "quality": "480p",
+            "size": 369,
+            "_id": "6a7008468b1eb266bfb58c23"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6f87e28c3766ca13a47252/output_360p.mp4",
+            "quality": "360p",
+            "size": 266.33,
+            "_id": "6a7008468b1eb266bfb58c24"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6f87e28c3766ca13a47252/output_240p.mp4",
+            "quality": "240p",
+            "size": 187.91,
+            "_id": "6a7008468b1eb266bfb58c25"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "698481c9fdd21a8a2d18ac5b",
+          "classId": "6a6f87e28c3766ca13a47252",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 20
         }

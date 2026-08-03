@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch - 10",
-  "extractedAt": "2026-08-02T04:01:44+0000",
+  "extractedAt": "2026-08-03T04:03:30+0000",
   "videos": {
     "(Live Classes) Very Very Important": [
       {
@@ -19389,6 +19389,24 @@
         "source": {
           "courseId": "6a462e62b927c1a84a8b7879",
           "classId": "6a6b8d464700100f9de1e7fb",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 86
+        }
+      },
+      {
+        "title": "Class -01 | calendar| Problem Solving | By Balram Sir",
+        "description": "\"Reasoning  Special  04, 08 ,09, 10\r\n Selection Batch , 04, , 08 ,09, 10\"",
+        "teacherName": "Balram sir",
+        "duration": 0,
+        "startDate": "2026-08-03T04:00:00.000Z",
+        "endDate": "2026-08-03T05:19:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6f88178c3766ca13a4f852/playlist.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a462e62b927c1a84a8b7879",
+          "classId": "6a6f88178c3766ca13a4f852",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 86
         }

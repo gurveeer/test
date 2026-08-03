@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch-4",
-  "extractedAt": "2026-08-02T04:01:44+0000",
+  "extractedAt": "2026-08-03T04:03:30+0000",
   "videos": {
     "Number System & More": [
       {
@@ -28366,6 +28366,24 @@
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 51
         }
+      },
+      {
+        "title": "Class -01 | calendar| Problem Solving | By Balram Sir",
+        "description": "\"Reasoning  Special  04, 08 ,09, 10\r\n Selection Batch , 04, , 08 ,09, 10\"",
+        "teacherName": "Balram sir",
+        "duration": 0,
+        "startDate": "2026-08-03T04:00:00.000Z",
+        "endDate": "2026-08-03T05:19:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6f88178c3766ca13a4f852/playlist.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "695b8c2d2feca20f81c25e5b",
+          "classId": "6a6f88178c3766ca13a4f852",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 51
+        }
       }
     ],
     "GEOGRAPHY": [
@@ -41382,6 +41400,24 @@
         "source": {
           "courseId": "695b8c2d2feca20f81c25e5b",
           "classId": "6a6c62424700100f9dfb750c",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 51
+        }
+      },
+      {
+        "title": "Class 23 || Trigonometry (त्रिकोणमिति) By Gagan Sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 0,
+        "startDate": "2026-08-03T03:30:00.000Z",
+        "endDate": "2026-08-03T05:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6f89c58c3766ca13a6ce48/playlist.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "695b8c2d2feca20f81c25e5b",
+          "classId": "6a6f89c58c3766ca13a6ce48",
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 51
         }
