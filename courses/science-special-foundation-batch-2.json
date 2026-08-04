@@ -1,6 +1,6 @@
 {
   "courseName": "Science special Foundation Batch",
-  "extractedAt": "2026-08-03T04:03:30+0000",
+  "extractedAt": "2026-08-04T03:44:30+0000",
   "videos": {
     "Introduction": [
       {
@@ -562,10 +562,59 @@
             "_id": "6a6dbf72f11c79bcbababd40"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "digestive system class 01 pdf by radhika mam",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/digestive system class 01 pdf by radhika mam.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a6cc0828c3766ca1380288c",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 96
+        }
+      },
+      {
+        "title": "Class - 02 | Digestive system 2 | by Radhika maam",
+        "description": "\"RAILWAY Foundation - 06\r\nScience Foundation - 01\"",
+        "teacherName": "radhika maam",
+        "duration": 4557,
+        "startDate": "2026-08-03T07:30:00.000Z",
+        "endDate": "2026-08-03T08:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6f891c8c3766ca13a647ca/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6f891c8c3766ca13a647ca/output_720p.mp4",
+            "quality": "720p",
+            "size": 674.99,
+            "_id": "6a7063c158cb0a2e662dee49"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6f891c8c3766ca13a647ca/output_480p.mp4",
+            "quality": "480p",
+            "size": 459.64,
+            "_id": "6a7063c158cb0a2e662dee4a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6f891c8c3766ca13a647ca/output_360p.mp4",
+            "quality": "360p",
+            "size": 327.14,
+            "_id": "6a7063c158cb0a2e662dee4b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6f891c8c3766ca13a647ca/output_240p.mp4",
+            "quality": "240p",
+            "size": 241.51,
+            "_id": "6a7063c158cb0a2e662dee4c"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a4e35315bac0ae4bab52444",
+          "classId": "6a6f891c8c3766ca13a647ca",
           "topicId": "68e22134290f277f35d6d12b",
           "rawRecordIndex": 96
         }

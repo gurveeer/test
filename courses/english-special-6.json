@@ -1,6 +1,6 @@
 {
   "courseName": "English Special-6",
-  "extractedAt": "2026-08-03T04:03:30+0000",
+  "extractedAt": "2026-08-04T03:44:30+0000",
   "videos": {
     "Vocab": [
       {
@@ -16951,6 +16951,60 @@
         "source": {
           "courseId": "69ae9da2a2b1ae04337afa76",
           "classId": "6a6f849c8c3766ca13a31f84",
+          "topicId": "696e0150719de161eef5677e",
+          "rawRecordIndex": 67
+        }
+      },
+      {
+        "title": "Class - 54 || Conjunction lec -1 | by Aman sir",
+        "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
+        "teacherName": "Aman sir",
+        "duration": 5869,
+        "startDate": "2026-08-03T05:30:00.000Z",
+        "endDate": "2026-08-03T07:24:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6f88cf8c3766ca13a6048b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6f88cf8c3766ca13a6048b/output_720p.mp4",
+            "quality": "720p",
+            "size": 847.93,
+            "_id": "6a7049181386d236be0991e9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6f88cf8c3766ca13a6048b/output_480p.mp4",
+            "quality": "480p",
+            "size": 577.97,
+            "_id": "6a7049181386d236be0991ea"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6f88cf8c3766ca13a6048b/output_360p.mp4",
+            "quality": "360p",
+            "size": 410.05,
+            "_id": "6a7049181386d236be0991eb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6f88cf8c3766ca13a6048b/output_240p.mp4",
+            "quality": "240p",
+            "size": 316.64,
+            "_id": "6a7049181386d236be0991ec"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Conjunction lec -1 with annotations  _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Conjunction lec -1 with annotations  _.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Conjunction lec -1 without annotations  _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Conjunction lec -1 without annotations  _.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69ae9da2a2b1ae04337afa76",
+          "classId": "6a6f88cf8c3766ca13a6048b",
           "topicId": "696e0150719de161eef5677e",
           "rawRecordIndex": 67
         }

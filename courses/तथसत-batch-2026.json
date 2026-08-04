@@ -1,6 +1,6 @@
 {
   "courseName": "तथास्तु BATCH 2026",
-  "extractedAt": "2026-08-03T04:03:30+0000",
+  "extractedAt": "2026-08-04T03:44:30+0000",
   "videos": {
     "POLITY": [
       {
@@ -4722,93 +4722,7 @@
         }
       },
       {
-        "title": "Class -14 | Rivers of India 06 | by Jeet rana sir",
-        "description": "तथास्तु BATCH 2026",
-        "teacherName": "Jeet Rana Sir",
-        "duration": 10840.097,
-        "startDate": "2026-07-28T09:09:00.000Z",
-        "endDate": "2026-07-28T10:09:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a6306af8eefdd1ae5e0375f/hls/master.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6306af8eefdd1ae5e0375f/mp4/World_Geography_2026_Asia_Continent_Complete_One_Shot_SSC_CGL_2026_Railway_Exams_480P__240p.mp4",
-            "quality": "240p",
-            "size": 806.18,
-            "_id": "6a6b10b28b1eb266bf5bab28"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6306af8eefdd1ae5e0375f/mp4/World_Geography_2026_Asia_Continent_Complete_One_Shot_SSC_CGL_2026_Railway_Exams_480P__360p.mp4",
-            "quality": "360p",
-            "size": 934.19,
-            "_id": "6a6b10b28b1eb266bf5bab29"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6306af8eefdd1ae5e0375f/mp4/World_Geography_2026_Asia_Continent_Complete_One_Shot_SSC_CGL_2026_Railway_Exams_480P__480p.mp4",
-            "quality": "480p",
-            "size": 1242.91,
-            "_id": "6a6b10b28b1eb266bf5bab2a"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6306af8eefdd1ae5e0375f/mp4/World_Geography_2026_Asia_Continent_Complete_One_Shot_SSC_CGL_2026_Railway_Exams_480P__720p.mp4",
-            "quality": "720p",
-            "size": 1812.66,
-            "_id": "6a6b10b28b1eb266bf5bab2b"
-          }
-        ],
-        "classPdf": [],
-        "source": {
-          "courseId": "69622fc8027f25d29ebca4f6",
-          "classId": "6a6306af8eefdd1ae5e0375f",
-          "topicId": "696a10e3719de161eee6326b",
-          "rawRecordIndex": 110
-        }
-      },
-      {
-        "title": "Class -15 | Rivers of India 07 | by Jeet rana sir",
-        "description": "तथास्तु BATCH 2026",
-        "teacherName": "Jeet Rana Sir",
-        "duration": 5024.056,
-        "startDate": "2026-07-29T09:10:00.000Z",
-        "endDate": "2026-07-29T10:10:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a6afa314700100f9dcf8a8b/hls/master.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6afa314700100f9dcf8a8b/mp4/0730_240p.mp4",
-            "quality": "240p",
-            "size": 381.1,
-            "_id": "6a6b0b7f1386d236bedb1b04"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6afa314700100f9dcf8a8b/mp4/0730_360p.mp4",
-            "quality": "360p",
-            "size": 441.04,
-            "_id": "6a6b0b7f1386d236bedb1b05"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6afa314700100f9dcf8a8b/mp4/0730_480p.mp4",
-            "quality": "480p",
-            "size": 588.26,
-            "_id": "6a6b0b7f1386d236bedb1b06"
-          },
-          {
-            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6afa314700100f9dcf8a8b/mp4/0730_720p.mp4",
-            "quality": "720p",
-            "size": 860.02,
-            "_id": "6a6b0b7f1386d236bedb1b07"
-          }
-        ],
-        "classPdf": [],
-        "source": {
-          "courseId": "69622fc8027f25d29ebca4f6",
-          "classId": "6a6afa314700100f9dcf8a8b",
-          "topicId": "696a10e3719de161eee6326b",
-          "rawRecordIndex": 110
-        }
-      },
-      {
-        "title": "Class -16 | Rivers of India 08 | by Jeet rana sir",
+        "title": "Class -14 | Climate of India 01 | by Jeet rana sir",
         "description": "तथास्तु BATCH 2026",
         "teacherName": "Jeet Rana Sir",
         "duration": 3709,
@@ -4842,7 +4756,13 @@
             "_id": "6a6b3f4bf11c79bcba8d47ff"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Climate of India  by jeet sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Climate of India  by jeet sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "69622fc8027f25d29ebca4f6",
           "classId": "6a6b15454700100f9dd58795",
@@ -4851,7 +4771,7 @@
         }
       },
       {
-        "title": "Class -17 | Rivers of India 09 | by Jeet rana sir",
+        "title": "Class -15 | Industrial policy | by Jeet rana sir",
         "description": "तथास्तु BATCH 2026",
         "teacherName": "Jeet Rana Sir",
         "duration": 3039,
@@ -4896,6 +4816,94 @@
           "courseId": "69622fc8027f25d29ebca4f6",
           "classId": "6a6c3cd94700100f9dec6c34",
           "topicId": "696a10e3719de161eee6326b",
+          "rawRecordIndex": 110
+        }
+      }
+    ],
+    "World Geography": [
+      {
+        "title": "Class -01 | Asia Continent | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 10840.097,
+        "startDate": "2026-07-28T09:09:00.000Z",
+        "endDate": "2026-07-28T10:09:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a6306af8eefdd1ae5e0375f/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6306af8eefdd1ae5e0375f/mp4/World_Geography_2026_Asia_Continent_Complete_One_Shot_SSC_CGL_2026_Railway_Exams_480P__240p.mp4",
+            "quality": "240p",
+            "size": 806.18,
+            "_id": "6a6b10b28b1eb266bf5bab28"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6306af8eefdd1ae5e0375f/mp4/World_Geography_2026_Asia_Continent_Complete_One_Shot_SSC_CGL_2026_Railway_Exams_480P__360p.mp4",
+            "quality": "360p",
+            "size": 934.19,
+            "_id": "6a6b10b28b1eb266bf5bab29"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6306af8eefdd1ae5e0375f/mp4/World_Geography_2026_Asia_Continent_Complete_One_Shot_SSC_CGL_2026_Railway_Exams_480P__480p.mp4",
+            "quality": "480p",
+            "size": 1242.91,
+            "_id": "6a6b10b28b1eb266bf5bab2a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6306af8eefdd1ae5e0375f/mp4/World_Geography_2026_Asia_Continent_Complete_One_Shot_SSC_CGL_2026_Railway_Exams_480P__720p.mp4",
+            "quality": "720p",
+            "size": 1812.66,
+            "_id": "6a6b10b28b1eb266bf5bab2b"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6a6306af8eefdd1ae5e0375f",
+          "topicId": "69f2f45922cc6f4d5f48e2ac",
+          "rawRecordIndex": 110
+        }
+      },
+      {
+        "title": "Class -02 | South America Continent | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 5024.056,
+        "startDate": "2026-07-29T09:10:00.000Z",
+        "endDate": "2026-07-29T10:10:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a6afa314700100f9dcf8a8b/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6afa314700100f9dcf8a8b/mp4/0730_240p.mp4",
+            "quality": "240p",
+            "size": 381.1,
+            "_id": "6a6b0b7f1386d236bedb1b04"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6afa314700100f9dcf8a8b/mp4/0730_360p.mp4",
+            "quality": "360p",
+            "size": 441.04,
+            "_id": "6a6b0b7f1386d236bedb1b05"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6afa314700100f9dcf8a8b/mp4/0730_480p.mp4",
+            "quality": "480p",
+            "size": 588.26,
+            "_id": "6a6b0b7f1386d236bedb1b06"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6afa314700100f9dcf8a8b/mp4/0730_720p.mp4",
+            "quality": "720p",
+            "size": 860.02,
+            "_id": "6a6b0b7f1386d236bedb1b07"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6a6afa314700100f9dcf8a8b",
+          "topicId": "69f2f45922cc6f4d5f48e2ac",
           "rawRecordIndex": 110
         }
       }

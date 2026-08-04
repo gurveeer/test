@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation Batch -3",
-  "extractedAt": "2026-08-03T04:03:30+0000",
+  "extractedAt": "2026-08-04T03:44:30+0000",
   "videos": {
     "Arithmetic": [
       {
@@ -23252,7 +23252,13 @@
             "_id": "6a6b23e09efa548457e33f7c"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Delhi Sultanate 03 by jeet sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Delhi Sultanate 03 by jeet sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a6b13ee5851348dd5e695ea",

@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Special - 10",
-  "extractedAt": "2026-08-03T04:03:30+0000",
+  "extractedAt": "2026-08-04T03:44:30+0000",
   "videos": {
     "Verbal": [
       {
@@ -698,13 +698,44 @@
         "title": "Class -01 | calendar| Problem Solving | By Balram Sir",
         "description": "\"Reasoning  Special  04, 08 ,09, 10\r\n Selection Batch , 04, , 08 ,09, 10\"",
         "teacherName": "Balram sir",
-        "duration": 0,
+        "duration": 4293,
         "startDate": "2026-08-03T04:00:00.000Z",
         "endDate": "2026-08-03T05:19:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6f88178c3766ca13a4f852/playlist.m3u8",
-        "mp4Recordings": [],
-        "classPdf": [],
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6f88178c3766ca13a4f852/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6f88178c3766ca13a4f852/output_720p.mp4",
+            "quality": "720p",
+            "size": 677.25,
+            "_id": "6a7029d958cb0a2e6646470c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6f88178c3766ca13a4f852/output_480p.mp4",
+            "quality": "480p",
+            "size": 449.58,
+            "_id": "6a7029d958cb0a2e6646470d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6f88178c3766ca13a4f852/output_360p.mp4",
+            "quality": "360p",
+            "size": 324.64,
+            "_id": "6a7029d958cb0a2e6646470e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6f88178c3766ca13a4f852/output_240p.mp4",
+            "quality": "240p",
+            "size": 240.38,
+            "_id": "6a7029d958cb0a2e6646470f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Calendar by balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Calendar by balram sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a462e48b927c1a84a8b7846",
           "classId": "6a6f88178c3766ca13a4f852",

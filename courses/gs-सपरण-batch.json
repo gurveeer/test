@@ -1,6 +1,6 @@
 {
   "courseName": "GS संपूर्ण Batch",
-  "extractedAt": "2026-08-03T04:03:30+0000",
+  "extractedAt": "2026-08-04T03:44:30+0000",
   "videos": {
     "HISTORY": [
       {
@@ -2255,6 +2255,24 @@
         "source": {
           "courseId": "698487d5fdd21a8a2d1a5270",
           "classId": "6a6487098eefdd1ae5f8da4e",
+          "topicId": "6a265997b927c1a84af6d41d",
+          "rawRecordIndex": 121
+        }
+      },
+      {
+        "title": "Class -26 || Soils of India | by Shubham sir",
+        "description": "complete gs",
+        "teacherName": "Shubham sir",
+        "duration": 0,
+        "startDate": "2026-08-03T10:22:00.000Z",
+        "endDate": "2026-08-03T06:22:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://www.youtube.com/watch?v=D7wk6CxoA8I",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "698487d5fdd21a8a2d1a5270",
+          "classId": "6a706be48c3766ca13b95d62",
           "topicId": "6a265997b927c1a84af6d41d",
           "rawRecordIndex": 121
         }

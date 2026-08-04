@@ -1,5 +1,26 @@
 {
   "courseName": "Reasoning special live Batch",
-  "extractedAt": "2026-08-03T04:03:30+0000",
-  "videos": {}
+  "extractedAt": "2026-08-04T03:44:30+0000",
+  "videos": {
+    "Verbal": [
+      {
+        "title": "Class - 01 | Introduction Class || by Vikaramjeet sir",
+        "description": "reasoning live batch",
+        "teacherName": "vikramjeet sir",
+        "duration": 0,
+        "startDate": "2026-08-03T15:30:00.000Z",
+        "endDate": "2026-08-03T16:30:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://www.youtube.com/watch?v=y-4AqnT1Hg0",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11668eefdd1ae57e6ae7",
+          "classId": "6a7030cc8c3766ca13abc78c",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 92
+        }
+      }
+    ]
+  }
 }

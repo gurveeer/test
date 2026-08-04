@@ -1,6 +1,6 @@
 {
   "courseName": "GS Special-6",
-  "extractedAt": "2026-08-03T04:03:30+0000",
+  "extractedAt": "2026-08-04T03:44:30+0000",
   "videos": {
     "Introduction": [
       {
@@ -4669,12 +4669,12 @@
         }
       },
       {
-        "title": "Class-34 || Historical Background of Constitution  by Varun sir",
+        "title": "Class-29 || Historical Background of Constitution  by Varun sir",
         "description": "\" GS Special- 02,03,04,05  &\r\n Selection Batch -02,03,04,05\"",
-        "teacherName": "Varun Sir",
-        "duration": 3524,
-        "startDate": "2026-07-21T07:19:00.000Z",
-        "endDate": "2026-07-21T06:19:00.000Z",
+        "teacherName": "Varun sir",
+        "duration": 0,
+        "startDate": "2026-08-03T10:15:00.000Z",
+        "endDate": "2026-08-03T09:15:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/69d7cda422cc6f4d5f352227/playlist-mpl-vod.m3u8",
         "mp4Recordings": [
@@ -4703,16 +4703,10 @@
             "_id": "69d8795ebcd47007cd35bd1b"
           }
         ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "Historical Background of con BOARD PDF",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/Historical Background of con BOARD PDF.pdf"
-          }
-        ],
+        "classPdf": [],
         "source": {
           "courseId": "69ae9d95a2b1ae04337ad475",
-          "classId": "69d7cda422cc6f4d5f352227",
+          "classId": "6a7068518b1eb266bf15fa96",
           "topicId": "68e329ef48aa5900adba437b",
           "rawRecordIndex": 74
         }

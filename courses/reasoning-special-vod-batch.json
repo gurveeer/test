@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Special Vod Batch",
-  "extractedAt": "2026-08-03T04:03:30+0000",
+  "extractedAt": "2026-08-04T03:44:30+0000",
   "videos": {
     "Verbal": [
       {
@@ -38,7 +38,13 @@
             "_id": "6a6e11d35851348dd583621a"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Alphabet Test (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Alphabet Test (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a6880784700100f9d519060",
@@ -210,7 +216,13 @@
             "_id": "6a68b5908b1eb266bf7781f1"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Blood Relation(Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Blood Relation(Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a6889894700100f9d657e1e",
@@ -468,7 +480,13 @@
             "_id": "6a698df85851348dd57ee176"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Dice (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Dice (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a6884224700100f9d5b864c",
@@ -597,7 +615,13 @@
             "_id": "6a69a56df11c79bcbafc97f5"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Direction (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Direction (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a6884e94700100f9d5d0601",
@@ -812,7 +836,13 @@
             "_id": "6a694f1dfded68823d2066e6"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Clock (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Clock (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a6893664700100f9d832202",
@@ -984,7 +1014,13 @@
             "_id": "6a6902581386d236bea4548b"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Alpha Numeric Symbol Series (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Alpha Numeric Symbol Series (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a688e414700100f9d6d7865",
@@ -1027,7 +1063,13 @@
             "_id": "6a6a4cad847c19e9d5e21297"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Cause and Effect (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Cause and Effect (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a68cc324700100f9da722b5",
@@ -1199,7 +1241,13 @@
             "_id": "6a692e9b1386d236bed70665"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Puzzle (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Puzzle (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a68cd6d4700100f9da9a16d",
@@ -1414,7 +1462,13 @@
             "_id": "6a69f4128b1eb266bf2d60ec"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Counting Figure (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Counting Figure (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a68822b4700100f9d558cbb",
@@ -1767,6 +1821,49 @@
         }
       },
       {
+        "title": "Class - 04 | Input-Output || by Vikramjeet sir",
+        "description": "Class - 04 | Input-Output || by Vikram jeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 3152.064,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a6883c64700100f9d5a081b/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6883c64700100f9d5a081b/mp4/input_output_4_240p.mp4",
+            "quality": "240p",
+            "size": 205.73,
+            "_id": "6a705eeb9efa548457be4ee3"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6883c64700100f9d5a081b/mp4/input_output_4_360p.mp4",
+            "quality": "360p",
+            "size": 247.45,
+            "_id": "6a705eeb9efa548457be4ee4"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6883c64700100f9d5a081b/mp4/input_output_4_480p.mp4",
+            "quality": "480p",
+            "size": 332.81,
+            "_id": "6a705eeb9efa548457be4ee5"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6883c64700100f9d5a081b/mp4/input_output_4_720p.mp4",
+            "quality": "720p",
+            "size": 491.96,
+            "_id": "6a705eeb9efa548457be4ee6"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a6883c64700100f9d5a081b",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
         "title": "Class - 05 | Input-Output || by Vikramjeet sir",
         "description": "Class - 05 | Input-Output || by Vikram jeet sir",
         "teacherName": "vikramjeet sir",
@@ -2068,6 +2165,49 @@
         }
       },
       {
+        "title": "Class - 03 | Seating Arrangement || by Vikramjeet sir",
+        "description": "Class - 03 | Seating Arrangement || by Vikram jeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 3575.934,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a6887994700100f9d633fc6/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6887994700100f9d633fc6/mp4/SEATING_ARRANGEMENT_3__240p.mp4",
+            "quality": "240p",
+            "size": 216.47,
+            "_id": "6a70704e1386d236be9cd9b8"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6887994700100f9d633fc6/mp4/SEATING_ARRANGEMENT_3__360p.mp4",
+            "quality": "360p",
+            "size": 265.38,
+            "_id": "6a70704e1386d236be9cd9b9"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6887994700100f9d633fc6/mp4/SEATING_ARRANGEMENT_3__480p.mp4",
+            "quality": "480p",
+            "size": 358.86,
+            "_id": "6a70704e1386d236be9cd9ba"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6887994700100f9d633fc6/mp4/SEATING_ARRANGEMENT_3__720p.mp4",
+            "quality": "720p",
+            "size": 552.33,
+            "_id": "6a70704e1386d236be9cd9bb"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a6887994700100f9d633fc6",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
         "title": "Class - 04 | Seating Arrangement || by Vikramjeet sir",
         "description": "Class - 04 | Seating Arrangement || by Vikram jeet sir",
         "teacherName": "vikramjeet sir",
@@ -2283,6 +2423,49 @@
         }
       },
       {
+        "title": "Class - 03 | Coding-Decoding || by Vikramjeet sir",
+        "description": "Class - 03 | Coding-Decoding || by Vikram jeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 3627.648,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a688ed64700100f9d6ef6f7/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a688ed64700100f9d6ef6f7/mp4/03_240p.mp4",
+            "quality": "240p",
+            "size": 200.83,
+            "_id": "6a70768e847c19e9d5c1f962"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a688ed64700100f9d6ef6f7/mp4/03_360p.mp4",
+            "quality": "360p",
+            "size": 254.5,
+            "_id": "6a70768e847c19e9d5c1f963"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a688ed64700100f9d6ef6f7/mp4/03_480p.mp4",
+            "quality": "480p",
+            "size": 348.71,
+            "_id": "6a70768e847c19e9d5c1f964"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a688ed64700100f9d6ef6f7/mp4/03_720p.mp4",
+            "quality": "720p",
+            "size": 533.61,
+            "_id": "6a70768e847c19e9d5c1f965"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a688ed64700100f9d6ef6f7",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
         "title": "Class - 04 | Coding-Decoding || by Vikramjeet sir",
         "description": "Class - 04 | Coding-Decoding || by Vikram jeet sir",
         "teacherName": "vikramjeet sir",
@@ -2369,6 +2552,49 @@
         }
       },
       {
+        "title": "Class - 01 | Analogy || by Vikramjeet sir",
+        "description": "Class - 01 | Analogy || by Vikramjeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 2970.646,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a6892e34700100f9d812469/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6892e34700100f9d812469/mp4/01_240p.mp4",
+            "quality": "240p",
+            "size": 183.73,
+            "_id": "6a7077bc5851348dd57c5b6d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6892e34700100f9d812469/mp4/01_360p.mp4",
+            "quality": "360p",
+            "size": 226.46,
+            "_id": "6a7077bc5851348dd57c5b6e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6892e34700100f9d812469/mp4/01_480p.mp4",
+            "quality": "480p",
+            "size": 312.88,
+            "_id": "6a7077bc5851348dd57c5b6f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6892e34700100f9d812469/mp4/01_720p.mp4",
+            "quality": "720p",
+            "size": 475.39,
+            "_id": "6a7077bc5851348dd57c5b70"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a6892e34700100f9d812469",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
         "title": "Class - 02 | Analogy || by Vikramjeet sir",
         "description": "Class - 02 | Analogy || by Vikramjeet sir",
         "teacherName": "vikramjeet sir",
@@ -2407,6 +2633,92 @@
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a6893014700100f9d81a3c3",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
+        "title": "Class - 03 | Analogy || by Vikramjeet sir",
+        "description": "Class - 03 | Analogy || by Vikramjeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 3176.85,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a68931b4700100f9d822328/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68931b4700100f9d822328/mp4/03_240p.mp4",
+            "quality": "240p",
+            "size": 181.65,
+            "_id": "6a70798afded68823d468038"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68931b4700100f9d822328/mp4/03_360p.mp4",
+            "quality": "360p",
+            "size": 222.89,
+            "_id": "6a70798afded68823d468039"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68931b4700100f9d822328/mp4/03_480p.mp4",
+            "quality": "480p",
+            "size": 309.94,
+            "_id": "6a70798afded68823d46803a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68931b4700100f9d822328/mp4/03_720p.mp4",
+            "quality": "720p",
+            "size": 476.62,
+            "_id": "6a70798afded68823d46803b"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a68931b4700100f9d822328",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
+        "title": "Class - 04 | Analogy || by Vikramjeet sir",
+        "description": "Class - 04 | Analogy || by Vikramjeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 3447.83,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a6893334700100f9d82a2a9/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6893334700100f9d82a2a9/mp4/04_240p.mp4",
+            "quality": "240p",
+            "size": 209.09,
+            "_id": "6a70804b8b1eb266bfa2e1a1"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6893334700100f9d82a2a9/mp4/04_360p.mp4",
+            "quality": "360p",
+            "size": 257.99,
+            "_id": "6a70804b8b1eb266bfa2e1a2"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6893334700100f9d82a2a9/mp4/04_480p.mp4",
+            "quality": "480p",
+            "size": 354.47,
+            "_id": "6a70804b8b1eb266bfa2e1a3"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6893334700100f9d82a2a9/mp4/04_720p.mp4",
+            "quality": "720p",
+            "size": 543.13,
+            "_id": "6a70804b8b1eb266bfa2e1a4"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a6893334700100f9d82a2a9",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 71
         }
@@ -3014,6 +3326,135 @@
         }
       },
       {
+        "title": "Class - 01 | Statement & Conclusion || by Vikramjeet sir",
+        "description": "Class - 01 | Statement & Conclusion || by Vikramjeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 3658.539,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a689ae04700100f9d96908a/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689ae04700100f9d96908a/mp4/01_240p.mp4",
+            "quality": "240p",
+            "size": 242.63,
+            "_id": "6a7082c2847c19e9d58010fa"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689ae04700100f9d96908a/mp4/01_360p.mp4",
+            "quality": "360p",
+            "size": 288.81,
+            "_id": "6a7082c2847c19e9d58010fb"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689ae04700100f9d96908a/mp4/01_480p.mp4",
+            "quality": "480p",
+            "size": 390.08,
+            "_id": "6a7082c2847c19e9d58010fc"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689ae04700100f9d96908a/mp4/01_720p.mp4",
+            "quality": "720p",
+            "size": 587.61,
+            "_id": "6a7082c2847c19e9d58010fd"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a689ae04700100f9d96908a",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
+        "title": "Class - 02 | Statement & Conclusion || by Vikramjeet sir",
+        "description": "Class - 02 | Statement & Conclusion || by Vikramjeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 3221.483,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a689bf54700100f9d984f9f/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689bf54700100f9d984f9f/mp4/02_240p.mp4",
+            "quality": "240p",
+            "size": 208.21,
+            "_id": "6a7083501386d236becb9a3a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689bf54700100f9d984f9f/mp4/02_360p.mp4",
+            "quality": "360p",
+            "size": 249.72,
+            "_id": "6a7083501386d236becb9a3b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689bf54700100f9d984f9f/mp4/02_480p.mp4",
+            "quality": "480p",
+            "size": 339.29,
+            "_id": "6a7083501386d236becb9a3c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689bf54700100f9d984f9f/mp4/02_720p.mp4",
+            "quality": "720p",
+            "size": 511.54,
+            "_id": "6a7083501386d236becb9a3d"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a689bf54700100f9d984f9f",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
+        "title": "Class - 03 | Statement & Conclusion || by Vikramjeet sir",
+        "description": "Class - 03 | Statement & Conclusion || by Vikramjeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 4017.152,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a689c254700100f9d98cf94/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689c254700100f9d98cf94/mp4/03_240p.mp4",
+            "quality": "240p",
+            "size": 252.73,
+            "_id": "6a708c111386d236be544411"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689c254700100f9d98cf94/mp4/03_360p.mp4",
+            "quality": "360p",
+            "size": 306.13,
+            "_id": "6a708c111386d236be544412"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689c254700100f9d98cf94/mp4/03_480p.mp4",
+            "quality": "480p",
+            "size": 416.49,
+            "_id": "6a708c111386d236be544413"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689c254700100f9d98cf94/mp4/03_720p.mp4",
+            "quality": "720p",
+            "size": 633.49,
+            "_id": "6a708c111386d236be544414"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a689c254700100f9d98cf94",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
         "title": "Class - 01 | Statement & Argument || by Vikramjeet sir",
         "description": "Class - 01 | Statement & Argument || by Vikramjeet sir",
         "teacherName": "vikramjeet sir",
@@ -3052,6 +3493,49 @@
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a689c9c4700100f9d994f18",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
+        "title": "Class - 02 | Statement & Argument || by Vikramjeet sir",
+        "description": "Class - 02 | Statement & Argument || by Vikramjeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 3677.016,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a689cb44700100f9d99ce7d/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689cb44700100f9d99ce7d/mp4/STATEMENT_ARGUMENT_2__240p.mp4",
+            "quality": "240p",
+            "size": 230.18,
+            "_id": "6a708f37f11c79bcbac78f3d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689cb44700100f9d99ce7d/mp4/STATEMENT_ARGUMENT_2__360p.mp4",
+            "quality": "360p",
+            "size": 280.39,
+            "_id": "6a708f37f11c79bcbac78f3e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689cb44700100f9d99ce7d/mp4/STATEMENT_ARGUMENT_2__480p.mp4",
+            "quality": "480p",
+            "size": 379.8,
+            "_id": "6a708f37f11c79bcbac78f3f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689cb44700100f9d99ce7d/mp4/STATEMENT_ARGUMENT_2__720p.mp4",
+            "quality": "720p",
+            "size": 574.6,
+            "_id": "6a708f37f11c79bcbac78f40"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a689cb44700100f9d99ce7d",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 71
         }
@@ -3272,6 +3756,49 @@
         }
       },
       {
+        "title": "Class - 03 | Course of Action || by Vikramjeet sir",
+        "description": "Class - 03 | Course of Action || by Vikramjeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 3559.595,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a689ed64700100f9d9dcd12/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689ed64700100f9d9dcd12/mp4/03_240p.mp4",
+            "quality": "240p",
+            "size": 220.23,
+            "_id": "6a708e5d5851348dd5d7da37"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689ed64700100f9d9dcd12/mp4/03_360p.mp4",
+            "quality": "360p",
+            "size": 265.88,
+            "_id": "6a708e5d5851348dd5d7da38"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689ed64700100f9d9dcd12/mp4/03_480p.mp4",
+            "quality": "480p",
+            "size": 362.48,
+            "_id": "6a708e5d5851348dd5d7da39"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689ed64700100f9d9dcd12/mp4/03_720p.mp4",
+            "quality": "720p",
+            "size": 555.39,
+            "_id": "6a708e5d5851348dd5d7da3a"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a689ed64700100f9d9dcd12",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
         "title": "Class - 04 | Course of Action || by Vikramjeet sir",
         "description": "Class - 04 | Course of Action || by Vikramjeet sir",
         "teacherName": "vikramjeet sir",
@@ -3353,6 +3880,49 @@
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a68d01f4700100f9daca09b",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
+        "title": "Class - 02 | Mirror & Water Images || by Vikramjeet sir",
+        "description": "Class - 02 | Mirror & Water Images || by Vikramjeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 3797.867,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a68d0964700100f9dace127/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68d0964700100f9dace127/mp4/mirror_and_water_image_2__240p.mp4",
+            "quality": "240p",
+            "size": 191.43,
+            "_id": "6a705f7158cb0a2e66e47745"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68d0964700100f9dace127/mp4/mirror_and_water_image_2__360p.mp4",
+            "quality": "360p",
+            "size": 241.65,
+            "_id": "6a705f7158cb0a2e66e47746"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68d0964700100f9dace127/mp4/mirror_and_water_image_2__480p.mp4",
+            "quality": "480p",
+            "size": 322.85,
+            "_id": "6a705f7158cb0a2e66e47747"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68d0964700100f9dace127/mp4/mirror_and_water_image_2__720p.mp4",
+            "quality": "720p",
+            "size": 489.4,
+            "_id": "6a705f7158cb0a2e66e47748"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a68d0964700100f9dace127",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 71
         }
@@ -3826,6 +4396,49 @@
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a6886954700100f9d61023f",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
+        "title": "Class - 01 | Letter Series || by Vikramjeet sir",
+        "description": "Class - 01 | Letter Series || by Vikram jeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 3384.064,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a688c724700100f9d697c14/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a688c724700100f9d697c14/mp4/01_240p.mp4",
+            "quality": "240p",
+            "size": 201.45,
+            "_id": "6a705fcc9efa548457cd085b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a688c724700100f9d697c14/mp4/01_360p.mp4",
+            "quality": "360p",
+            "size": 243.31,
+            "_id": "6a705fcc9efa548457cd085c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a688c724700100f9d697c14/mp4/01_480p.mp4",
+            "quality": "480p",
+            "size": 328.74,
+            "_id": "6a705fcc9efa548457cd085d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a688c724700100f9d697c14/mp4/01_720p.mp4",
+            "quality": "720p",
+            "size": 484.38,
+            "_id": "6a705fcc9efa548457cd085e"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a688c724700100f9d697c14",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 71
         }
@@ -4519,6 +5132,49 @@
         }
       },
       {
+        "title": "Class - 03 | Decision Making || by Vikramjeet sir",
+        "description": "Class - 03 | Decision Making || by Vikramjeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 3403.755,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a6d981c8c3766ca1385b59a/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6d981c8c3766ca1385b59a/mp4/DECISION_MAKING_3_240p.mp4",
+            "quality": "240p",
+            "size": 201.25,
+            "_id": "6a70686dfded68823d23617a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6d981c8c3766ca1385b59a/mp4/DECISION_MAKING_3_360p.mp4",
+            "quality": "360p",
+            "size": 249.93,
+            "_id": "6a70686dfded68823d23617b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6d981c8c3766ca1385b59a/mp4/DECISION_MAKING_3_480p.mp4",
+            "quality": "480p",
+            "size": 335.54,
+            "_id": "6a70686dfded68823d23617c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a6d981c8c3766ca1385b59a/mp4/DECISION_MAKING_3_720p.mp4",
+            "quality": "720p",
+            "size": 507.49,
+            "_id": "6a70686dfded68823d23617d"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a6d981c8c3766ca1385b59a",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
         "title": "Class - 04 | Decision Making || by Vikramjeet sir",
         "description": "Class - 04 | Decision Making || by Vikramjeet sir",
         "teacherName": "vikramjeet sir",
@@ -4557,6 +5213,49 @@
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a6d98418c3766ca1385f857",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
+        "title": "Class - 01 | Alphabet Series || by Vikramjeet sir",
+        "description": "Class - 01 | Alphabet Series || by Vikram jeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 3514.262,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a688bd34700100f9d68fc4d/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a688bd34700100f9d68fc4d/mp4/01_240p.mp4",
+            "quality": "240p",
+            "size": 209.16,
+            "_id": "6a706b9e8b1eb266bf4d5099"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a688bd34700100f9d68fc4d/mp4/01_360p.mp4",
+            "quality": "360p",
+            "size": 261.44,
+            "_id": "6a706b9e8b1eb266bf4d509a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a688bd34700100f9d68fc4d/mp4/01_480p.mp4",
+            "quality": "480p",
+            "size": 357.04,
+            "_id": "6a706b9e8b1eb266bf4d509b"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a688bd34700100f9d68fc4d/mp4/01_720p.mp4",
+            "quality": "720p",
+            "size": 541.77,
+            "_id": "6a706b9e8b1eb266bf4d509c"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a688bd34700100f9d68fc4d",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 71
         }
