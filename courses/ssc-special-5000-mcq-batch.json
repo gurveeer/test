@@ -1,6 +1,6 @@
 {
   "courseName": "SSC special 5000 MCQ batch",
-  "extractedAt": "2026-08-04T03:44:30+0000",
+  "extractedAt": "2026-08-05T03:41:04+0000",
   "videos": {
     "Introduction": [
       {
@@ -1110,10 +1110,59 @@
             "_id": "6a704806847c19e9d5b32bc4"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Maratha   Empire by jeet sir board pdf",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Maratha   Empire by jeet sir board pdf.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a268ce8b927c1a84a018468",
           "classId": "6a6b8f814700100f9de2ad72",
+          "topicId": "68b9499ea721af475c9a79ac",
+          "rawRecordIndex": 101
+        }
+      },
+      {
+        "title": "Class - 04 | Modern History || by Jeet rana sir",
+        "description": "SSC special 5000 MCQ batch",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2875,
+        "startDate": "2026-08-04T06:30:00.000Z",
+        "endDate": "2026-08-04T07:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a712d778c3766ca13c43a07/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a712d778c3766ca13c43a07/output_720p.mp4",
+            "quality": "720p",
+            "size": 423.14,
+            "_id": "6a719b2d8b1eb266bf472d57"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a712d778c3766ca13c43a07/output_480p.mp4",
+            "quality": "480p",
+            "size": 291.37,
+            "_id": "6a719b2d8b1eb266bf472d58"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a712d778c3766ca13c43a07/output_360p.mp4",
+            "quality": "360p",
+            "size": 207.53,
+            "_id": "6a719b2d8b1eb266bf472d59"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a712d778c3766ca13c43a07/output_240p.mp4",
+            "quality": "240p",
+            "size": 155.83,
+            "_id": "6a719b2d8b1eb266bf472d5a"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a268ce8b927c1a84a018468",
+          "classId": "6a712d778c3766ca13c43a07",
           "topicId": "68b9499ea721af475c9a79ac",
           "rawRecordIndex": 101
         }

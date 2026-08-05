@@ -1,6 +1,6 @@
 {
   "courseName": "Science special Foundation Batch",
-  "extractedAt": "2026-08-04T03:44:30+0000",
+  "extractedAt": "2026-08-05T03:41:04+0000",
   "videos": {
     "Introduction": [
       {
@@ -611,10 +611,65 @@
             "_id": "6a7063c158cb0a2e662dee4c"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "digestive system class 02 pdf by radhika mam",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/class 2 digestive system.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a6f891c8c3766ca13a647ca",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 96
+        }
+      },
+      {
+        "title": "Class - 01 | Respiratory system 01 | by Radhika maam",
+        "description": "\"RAILWAY Foundation - 06\r\nScience Foundation - 01\"",
+        "teacherName": "radhika maam",
+        "duration": 3728,
+        "startDate": "2026-08-04T07:30:00.000Z",
+        "endDate": "2026-08-04T08:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a7098708c3766ca13bf903f/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7098708c3766ca13bf903f/output_720p.mp4",
+            "quality": "720p",
+            "size": 542.17,
+            "_id": "6a71acecfded68823d6b4aa9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7098708c3766ca13bf903f/output_480p.mp4",
+            "quality": "480p",
+            "size": 364.26,
+            "_id": "6a71acecfded68823d6b4aaa"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7098708c3766ca13bf903f/output_360p.mp4",
+            "quality": "360p",
+            "size": 256.3,
+            "_id": "6a71acecfded68823d6b4aab"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7098708c3766ca13bf903f/output_240p.mp4",
+            "quality": "240p",
+            "size": 180.15,
+            "_id": "6a71acecfded68823d6b4aac"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "respiration class 01 pdf by radhika mam",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/respiration class 01 pdf by radhika mam.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a4e35315bac0ae4bab52444",
+          "classId": "6a7098708c3766ca13bf903f",
           "topicId": "68e22134290f277f35d6d12b",
           "rawRecordIndex": 96
         }

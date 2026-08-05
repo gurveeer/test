@@ -1,6 +1,6 @@
 {
   "courseName": "RRB Group D Batch",
-  "extractedAt": "2026-08-04T03:44:30+0000",
+  "extractedAt": "2026-08-05T03:41:04+0000",
   "videos": {
     "Introduction": [
       {
@@ -32323,6 +32323,24 @@
         "source": {
           "courseId": "697df3954ca8c7fbe8f501ee",
           "classId": "6a6c73374700100f9dfd966e",
+          "topicId": "69ae68cc7b3188015e0551dd",
+          "rawRecordIndex": 97
+        }
+      },
+      {
+        "title": "Class-03 || Number Series PYQs-04 By Deepak Sir",
+        "description": "\"*Railway Foundation Batch ,2 ,3 4,5,6\r\n*RRB Group D \r\n\"",
+        "teacherName": "deepak sir",
+        "duration": 0,
+        "startDate": "2026-08-05T02:30:00.000Z",
+        "endDate": "2026-08-05T03:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6f85778c3766ca13a3a646/playlist.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "697df3954ca8c7fbe8f501ee",
+          "classId": "6a6f85778c3766ca13a3a646",
           "topicId": "69ae68cc7b3188015e0551dd",
           "rawRecordIndex": 97
         }

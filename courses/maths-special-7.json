@@ -1,6 +1,6 @@
 {
   "courseName": "Maths Special-7",
-  "extractedAt": "2026-08-04T03:44:30+0000",
+  "extractedAt": "2026-08-05T03:41:04+0000",
   "videos": {
     "ARITHMETIC": [
       {
@@ -8373,10 +8373,59 @@
             "_id": "6a70a31df11c79bcbac8587a"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class 20 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/geometry class 20 pdf by gagan sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "69d4b8ba22cc6f4d5f008399",
           "classId": "6a7054b08c3766ca13b2b990",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 19
+        }
+      },
+      {
+        "title": "Class -21 || Geometry || by Gagan Sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08 , 09,10\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08 , 09,10\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 4230,
+        "startDate": "2026-08-04T12:30:00.000Z",
+        "endDate": "2026-08-04T13:48:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a7187168c3766ca13c8f410/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7187168c3766ca13c8f410/output_720p.mp4",
+            "quality": "720p",
+            "size": 580.31,
+            "_id": "6a71f632fded68823d084d85"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7187168c3766ca13c8f410/output_480p.mp4",
+            "quality": "480p",
+            "size": 388.07,
+            "_id": "6a71f632fded68823d084d86"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7187168c3766ca13c8f410/output_360p.mp4",
+            "quality": "360p",
+            "size": 272.58,
+            "_id": "6a71f632fded68823d084d87"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7187168c3766ca13c8f410/output_240p.mp4",
+            "quality": "240p",
+            "size": 186.21,
+            "_id": "6a71f632fded68823d084d88"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69d4b8ba22cc6f4d5f008399",
+          "classId": "6a7187168c3766ca13c8f410",
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 19
         }

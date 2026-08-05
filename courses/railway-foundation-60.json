@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation 6.0",
-  "extractedAt": "2026-08-04T03:44:30+0000",
+  "extractedAt": "2026-08-05T03:41:04+0000",
   "videos": {
     "Introduction": [
       {
@@ -1488,6 +1488,24 @@
           "topicId": "69ae68cc7b3188015e0551dd",
           "rawRecordIndex": 95
         }
+      },
+      {
+        "title": "Class-03 || Number Series PYQs-04 By Deepak Sir",
+        "description": "\"*Railway Foundation Batch ,2 ,3 4,5,6\r\n*RRB Group D \r\n\"",
+        "teacherName": "deepak sir",
+        "duration": 0,
+        "startDate": "2026-08-05T02:30:00.000Z",
+        "endDate": "2026-08-05T03:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6f85778c3766ca13a3a646/playlist.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a4e376d5bac0ae4bab5a040",
+          "classId": "6a6f85778c3766ca13a3a646",
+          "topicId": "69ae68cc7b3188015e0551dd",
+          "rawRecordIndex": 95
+        }
       }
     ],
     "Most Important Video": [
@@ -2062,6 +2080,49 @@
           "topicId": "68fa5f40aed5b4af7a841a2a",
           "rawRecordIndex": 95
         }
+      },
+      {
+        "title": "Class - 05 | Acid base & salt | by Harish sir",
+        "description": "\"RAILWAY Foundation - 04 ,05, 06\r\nSB 05, 06, 07, 08, 09, 10\"",
+        "teacherName": "Harish sir",
+        "duration": 3462,
+        "startDate": "2026-08-04T11:30:00.000Z",
+        "endDate": "2026-08-04T12:48:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a704aef8c3766ca13b1e730/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a704aef8c3766ca13b1e730/output_720p.mp4",
+            "quality": "720p",
+            "size": 524.73,
+            "_id": "6a71e94afded68823d4d61fb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a704aef8c3766ca13b1e730/output_480p.mp4",
+            "quality": "480p",
+            "size": 363.41,
+            "_id": "6a71e94afded68823d4d61fc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a704aef8c3766ca13b1e730/output_360p.mp4",
+            "quality": "360p",
+            "size": 253.64,
+            "_id": "6a71e94afded68823d4d61fd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a704aef8c3766ca13b1e730/output_240p.mp4",
+            "quality": "240p",
+            "size": 200.63,
+            "_id": "6a71e94afded68823d4d61fe"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a4e376d5bac0ae4bab5a040",
+          "classId": "6a704aef8c3766ca13b1e730",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 95
+        }
       }
     ],
     "Medieval History": [
@@ -2502,6 +2563,55 @@
         "source": {
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a6c3c3d4700100f9dec2946",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 95
+        }
+      },
+      {
+        "title": "Class 10 || Medieval History || by Jeet sir",
+        "description": "\"Railway Foundation Batch -03, 04, 05, 06\r\nCGL RAPID BATCH\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2882,
+        "startDate": "2026-08-04T09:00:00.000Z",
+        "endDate": "2026-08-04T10:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a7049ab8c3766ca13b15f58/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7049ab8c3766ca13b15f58/output_720p.mp4",
+            "quality": "720p",
+            "size": 416.46,
+            "_id": "6a71bd3b847c19e9d53d3ddb"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7049ab8c3766ca13b15f58/output_480p.mp4",
+            "quality": "480p",
+            "size": 285.3,
+            "_id": "6a71bd3b847c19e9d53d3ddc"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7049ab8c3766ca13b15f58/output_360p.mp4",
+            "quality": "360p",
+            "size": 202.92,
+            "_id": "6a71bd3b847c19e9d53d3ddd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7049ab8c3766ca13b15f58/output_240p.mp4",
+            "quality": "240p",
+            "size": 149.97,
+            "_id": "6a71bd3b847c19e9d53d3dde"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "khilji dynasty by jeet sir 02 BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/khilji dynasty by jeet sir 02 BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a4e376d5bac0ae4bab5a040",
+          "classId": "6a7049ab8c3766ca13b15f58",
           "topicId": "699806229119ee84e2e132b6",
           "rawRecordIndex": 95
         }
@@ -3008,10 +3118,65 @@
             "_id": "6a7063c158cb0a2e662dee4c"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "digestive system class 02 pdf by radhika mam",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/class 2 digestive system.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a4e376d5bac0ae4bab5a040",
           "classId": "6a6f891c8c3766ca13a647ca",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 95
+        }
+      },
+      {
+        "title": "Class - 01 | Respiratory system 01 | by Radhika maam",
+        "description": "\"RAILWAY Foundation - 06\r\nScience Foundation - 01\"",
+        "teacherName": "radhika maam",
+        "duration": 3728,
+        "startDate": "2026-08-04T07:30:00.000Z",
+        "endDate": "2026-08-04T08:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a7098708c3766ca13bf903f/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7098708c3766ca13bf903f/output_720p.mp4",
+            "quality": "720p",
+            "size": 542.17,
+            "_id": "6a71acecfded68823d6b4aa9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7098708c3766ca13bf903f/output_480p.mp4",
+            "quality": "480p",
+            "size": 364.26,
+            "_id": "6a71acecfded68823d6b4aaa"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7098708c3766ca13bf903f/output_360p.mp4",
+            "quality": "360p",
+            "size": 256.3,
+            "_id": "6a71acecfded68823d6b4aab"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7098708c3766ca13bf903f/output_240p.mp4",
+            "quality": "240p",
+            "size": 180.15,
+            "_id": "6a71acecfded68823d6b4aac"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "respiration class 01 pdf by radhika mam",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/respiration class 01 pdf by radhika mam.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a4e376d5bac0ae4bab5a040",
+          "classId": "6a7098708c3766ca13bf903f",
           "topicId": "68e22134290f277f35d6d12b",
           "rawRecordIndex": 95
         }

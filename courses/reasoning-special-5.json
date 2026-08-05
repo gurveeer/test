@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Special-5",
-  "extractedAt": "2026-08-04T03:44:30+0000",
+  "extractedAt": "2026-08-05T03:41:04+0000",
   "videos": {
     "Verbal": [
       {
@@ -5239,24 +5239,6 @@
             "_id": "6a7008468b1eb266bfb58c25"
           }
         ],
-        "classPdf": [],
-        "source": {
-          "courseId": "698481cefdd21a8a2d18ac6a",
-          "classId": "6a6f87e28c3766ca13a47252",
-          "topicId": "695e3bb32feca20f81dc4758",
-          "rawRecordIndex": 69
-        }
-      },
-      {
-        "title": "Class-01 | Linear Sitting Arrangement | Sitting arrangement | By balram sir",
-        "description": "\"Reasoning  Special  05, 06 , 07\r\n Selection Batch 05, 06 ,07\"",
-        "teacherName": "Balram Sir",
-        "duration": 0,
-        "startDate": "2026-08-04T02:01:00.000Z",
-        "endDate": "2026-08-04T03:01:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a70618b8c3766ca13b5ebec/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [],
         "classPdf": [
           {
             "priority": 1,
@@ -5266,7 +5248,99 @@
         ],
         "source": {
           "courseId": "698481cefdd21a8a2d18ac6a",
+          "classId": "6a6f87e28c3766ca13a47252",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 69
+        }
+      },
+      {
+        "title": "Class-02 | Linear Sitting Arrangement | Sitting arrangement | By balram sir",
+        "description": "\"Reasoning  Special  05, 06 , 07\r\n Selection Batch 05, 06 ,07\"",
+        "teacherName": "Balram Sir",
+        "duration": 4156,
+        "startDate": "2026-08-04T02:01:00.000Z",
+        "endDate": "2026-08-04T03:01:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a70618b8c3766ca13b5ebec/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a70618b8c3766ca13b5ebec/output_720p.mp4",
+            "quality": "720p",
+            "size": 645.46,
+            "_id": "6a7161dbf11c79bcba35790e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a70618b8c3766ca13b5ebec/output_480p.mp4",
+            "quality": "480p",
+            "size": 405.26,
+            "_id": "6a7161dbf11c79bcba35790f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a70618b8c3766ca13b5ebec/output_360p.mp4",
+            "quality": "360p",
+            "size": 286.97,
+            "_id": "6a7161dbf11c79bcba357910"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a70618b8c3766ca13b5ebec/output_240p.mp4",
+            "quality": "240p",
+            "size": 196.33,
+            "_id": "6a7161dbf11c79bcba357911"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "LinearSitting arrangement 02 By balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/LinearSitting arrangement 02 By balram sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "698481cefdd21a8a2d18ac6a",
           "classId": "6a70618b8c3766ca13b5ebec",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 69
+        }
+      },
+      {
+        "title": "Class-03 | Linear Sitting Arrangement | Sitting arrangement | By balram sir",
+        "description": "\"Reasoning  Special  05, 06 , 07\r\n Selection Batch 05, 06 ,07\"",
+        "teacherName": "Balram Sir",
+        "duration": 3352,
+        "startDate": "2026-08-05T02:00:00.000Z",
+        "endDate": "2026-08-05T03:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a71a9068c3766ca13cf2e98/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71a9068c3766ca13cf2e98/output_720p.mp4",
+            "quality": "720p",
+            "size": 516.66,
+            "_id": "6a72aebe58cb0a2e66b6fd14"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71a9068c3766ca13cf2e98/output_480p.mp4",
+            "quality": "480p",
+            "size": 335.39,
+            "_id": "6a72aebe58cb0a2e66b6fd15"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71a9068c3766ca13cf2e98/output_360p.mp4",
+            "quality": "360p",
+            "size": 237.19,
+            "_id": "6a72aebe58cb0a2e66b6fd16"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71a9068c3766ca13cf2e98/output_240p.mp4",
+            "quality": "240p",
+            "size": 164,
+            "_id": "6a72aebe58cb0a2e66b6fd17"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "698481cefdd21a8a2d18ac6a",
+          "classId": "6a71a9068c3766ca13cf2e98",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 69
         }

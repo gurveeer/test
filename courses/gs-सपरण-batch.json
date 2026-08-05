@@ -1,6 +1,6 @@
 {
   "courseName": "GS संपूर्ण Batch",
-  "extractedAt": "2026-08-04T03:44:30+0000",
+  "extractedAt": "2026-08-05T03:41:04+0000",
   "videos": {
     "HISTORY": [
       {
@@ -2273,6 +2273,24 @@
         "source": {
           "courseId": "698487d5fdd21a8a2d1a5270",
           "classId": "6a706be48c3766ca13b95d62",
+          "topicId": "6a265997b927c1a84af6d41d",
+          "rawRecordIndex": 121
+        }
+      },
+      {
+        "title": "Class -27 || Air & Water Transport | by Shubham sir",
+        "description": "complete gs",
+        "teacherName": "Shubham sir",
+        "duration": 0,
+        "startDate": "2026-08-04T06:46:00.000Z",
+        "endDate": "2026-08-04T05:46:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://www.youtube.com/watch?v=yVxFp8sa2tQ",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "698487d5fdd21a8a2d1a5270",
+          "classId": "6a718a8f5851348dd56ccac4",
           "topicId": "6a265997b927c1a84af6d41d",
           "rawRecordIndex": 121
         }

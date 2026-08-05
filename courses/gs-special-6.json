@@ -1,6 +1,6 @@
 {
   "courseName": "GS Special-6",
-  "extractedAt": "2026-08-04T03:44:30+0000",
+  "extractedAt": "2026-08-05T03:41:04+0000",
   "videos": {
     "Introduction": [
       {
@@ -4703,7 +4703,13 @@
             "_id": "69d8795ebcd47007cd35bd1b"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Historical Background of con BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Historical Background of con BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "69ae9d95a2b1ae04337ad475",
           "classId": "6a7068518b1eb266bf15fa96",
