@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch-4",
-  "extractedAt": "2026-08-05T03:41:04+0000",
+  "extractedAt": "2026-08-06T03:46:37+0000",
   "videos": {
     "Number System & More": [
       {
@@ -8503,6 +8503,153 @@
         "source": {
           "courseId": "695b8c2d2feca20f81c25e5b",
           "classId": "6a6f8a948c3766ca13a7da9b",
+          "topicId": "68d7af97824c6e1af23ea66e",
+          "rawRecordIndex": 51
+        }
+      },
+      {
+        "title": "Class-01 || Partnership by Gagan sir",
+        "description": "rf12 \r\nGroup D\r\nUpsi\r\nGD\r\nConstable batch",
+        "teacherName": "Gagan Pratap",
+        "duration": 5137,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/698ebb958f7f447d563143c5/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698ebb958f7f447d563143c5/output_720p.mp4",
+            "quality": "720p",
+            "size": 831.4,
+            "_id": "698f46459ba67f730fd8f255"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698ebb958f7f447d563143c5/output_480p.mp4",
+            "quality": "480p",
+            "size": 557.54,
+            "_id": "698f46459ba67f730fd8f256"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698ebb958f7f447d563143c5/output_360p.mp4",
+            "quality": "360p",
+            "size": 408.91,
+            "_id": "698f46459ba67f730fd8f257"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/698ebb958f7f447d563143c5/output_240p.mp4",
+            "quality": "240p",
+            "size": 311.78,
+            "_id": "698f46459ba67f730fd8f258"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "class 01 Partnership",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/class 01 Partnership.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c2d2feca20f81c25e5b",
+          "classId": "698ebb958f7f447d563143c5",
+          "topicId": "68d7af97824c6e1af23ea66e",
+          "rawRecordIndex": 51
+        }
+      },
+      {
+        "title": "Class-02 || Partnership by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 4549,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699209bae23f1dc0e52da70e/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699209bae23f1dc0e52da70e/output_720p.mp4",
+            "quality": "720p",
+            "size": 705.67,
+            "_id": "69947de182e16e0f9c3ad969"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699209bae23f1dc0e52da70e/output_480p.mp4",
+            "quality": "480p",
+            "size": 466.2,
+            "_id": "69947de182e16e0f9c3ad96a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699209bae23f1dc0e52da70e/output_360p.mp4",
+            "quality": "360p",
+            "size": 338.29,
+            "_id": "69947de182e16e0f9c3ad96b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699209bae23f1dc0e52da70e/output_240p.mp4",
+            "quality": "240p",
+            "size": 250.91,
+            "_id": "69947de182e16e0f9c3ad96c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "partnership class 02",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/1771339667236-railway_17_feb_board_pdf.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c2d2feca20f81c25e5b",
+          "classId": "699209bae23f1dc0e52da70e",
+          "topicId": "68d7af97824c6e1af23ea66e",
+          "rawRecordIndex": 51
+        }
+      },
+      {
+        "title": "Class-03 || Partnership by Gagan sir",
+        "description": "\"Railway Foundation Batch 1, 2\r\nRRB Group D\r\nUPSI\r\nSSC GD\r\nConstable batch\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 4808,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/699557f4399756d49246c610/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699557f4399756d49246c610/output_720p.mp4",
+            "quality": "720p",
+            "size": 760.54,
+            "_id": "6995cc4870d0462766927e7c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699557f4399756d49246c610/output_480p.mp4",
+            "quality": "480p",
+            "size": 506.77,
+            "_id": "6995cc4870d0462766927e7d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699557f4399756d49246c610/output_360p.mp4",
+            "quality": "360p",
+            "size": 370.68,
+            "_id": "6995cc4870d0462766927e7e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/699557f4399756d49246c610/output_240p.mp4",
+            "quality": "240p",
+            "size": 279.57,
+            "_id": "6995cc4870d0462766927e7f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Partnership class 03",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/class 03 Partnership board.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c2d2feca20f81c25e5b",
+          "classId": "699557f4399756d49246c610",
           "topicId": "68d7af97824c6e1af23ea66e",
           "rawRecordIndex": 51
         }
@@ -28500,10 +28647,65 @@
             "_id": "6a717fe45851348dd599cfd9"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Calendar 02 by balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Calendar 02 by balram sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "695b8c2d2feca20f81c25e5b",
           "classId": "6a7061fa8c3766ca13b6b5ac",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 51
+        }
+      },
+      {
+        "title": "Class -03 | calendar | Problem Solving | By Balram Sir",
+        "description": "\"Reasoning  Special  04, 08 ,09, 10\r\n Selection Batch , 04, , 08 ,09, 10\"",
+        "teacherName": "Balram Sir",
+        "duration": 3832,
+        "startDate": "2026-08-05T04:30:00.000Z",
+        "endDate": "2026-08-05T05:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a71a9618c3766ca13cff994/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71a9618c3766ca13cff994/output_720p.mp4",
+            "quality": "720p",
+            "size": 585,
+            "_id": "6a72d41d586e3001707c1b67"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71a9618c3766ca13cff994/output_480p.mp4",
+            "quality": "480p",
+            "size": 385.32,
+            "_id": "6a72d41d586e3001707c1b68"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71a9618c3766ca13cff994/output_360p.mp4",
+            "quality": "360p",
+            "size": 276.6,
+            "_id": "6a72d41d586e3001707c1b69"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71a9618c3766ca13cff994/output_240p.mp4",
+            "quality": "240p",
+            "size": 198.08,
+            "_id": "6a72d41d586e3001707c1b6a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Calendar 03 by balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Calendar 03 by balram sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c2d2feca20f81c25e5b",
+          "classId": "6a71a9618c3766ca13cff994",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 51
         }
@@ -41654,10 +41856,65 @@
             "_id": "6a71f632fded68823d084d88"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class 21 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/geometry class 21 pdf by gagan sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "695b8c2d2feca20f81c25e5b",
           "classId": "6a7187168c3766ca13c8f410",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 51
+        }
+      },
+      {
+        "title": "Class -22 || Geometry || by Gagan Sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08 , 09,10\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08 , 09,10\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 1900,
+        "startDate": "2026-08-05T12:30:00.000Z",
+        "endDate": "2026-08-05T13:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a72fcc68c3766ca13e7097b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a72fcc68c3766ca13e7097b/output_720p.mp4",
+            "quality": "720p",
+            "size": 258.51,
+            "_id": "6a733a8cf11c79bcbaabd49b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a72fcc68c3766ca13e7097b/output_480p.mp4",
+            "quality": "480p",
+            "size": 174.1,
+            "_id": "6a733a8cf11c79bcbaabd49c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a72fcc68c3766ca13e7097b/output_360p.mp4",
+            "quality": "360p",
+            "size": 122.75,
+            "_id": "6a733a8cf11c79bcbaabd49d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a72fcc68c3766ca13e7097b/output_240p.mp4",
+            "quality": "240p",
+            "size": 87.47,
+            "_id": "6a733a8cf11c79bcbaabd49e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class 22 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sb 6 pm 5 aug bp.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "695b8c2d2feca20f81c25e5b",
+          "classId": "6a72fcc68c3766ca13e7097b",
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 51
         }
@@ -59692,6 +59949,51 @@
           "courseId": "695b8c2d2feca20f81c25e5b",
           "classId": "69d387d622cc6f4d5ff2de92",
           "topicId": "69d3764a22cc6f4d5fe4091d",
+          "rawRecordIndex": 51
+        }
+      }
+    ],
+    "Information": [
+      {
+        "title": "Important Update by Gagan sir",
+        "description": "",
+        "teacherName": "Gagan Pratap",
+        "duration": 135.443,
+        "startDate": "2026-08-05T08:54:00.000Z",
+        "endDate": "2026-08-05T06:54:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a72e7428c3766ca13e44bbe/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a72e7428c3766ca13e44bbe/mp4/0805_240p.mp4",
+            "quality": "240p",
+            "size": 10.25,
+            "_id": "6a72eed7847c19e9d5fdc43e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a72e7428c3766ca13e44bbe/mp4/0805_360p.mp4",
+            "quality": "360p",
+            "size": 11.87,
+            "_id": "6a72eed7847c19e9d5fdc43f"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a72e7428c3766ca13e44bbe/mp4/0805_480p.mp4",
+            "quality": "480p",
+            "size": 15.84,
+            "_id": "6a72eed7847c19e9d5fdc440"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a72e7428c3766ca13e44bbe/mp4/0805_720p.mp4",
+            "quality": "720p",
+            "size": 23.13,
+            "_id": "6a72eed7847c19e9d5fdc441"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "695b8c2d2feca20f81c25e5b",
+          "classId": "6a72e7428c3766ca13e44bbe",
+          "topicId": "695b6b972feca20f81c0c005",
           "rawRecordIndex": 51
         }
       }

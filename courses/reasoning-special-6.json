@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Special-6",
-  "extractedAt": "2026-08-05T03:41:04+0000",
+  "extractedAt": "2026-08-06T03:46:37+0000",
   "videos": {
     "Verbal": [
       {
@@ -4243,10 +4243,34 @@
             "_id": "6a72aebe58cb0a2e66b6fd17"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Linear Sitting Arrangement03 By balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Linear Sitting Arrangement03 By balram sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "69ae9d8fa2b1ae04337a8875",
           "classId": "6a71a9068c3766ca13cf2e98",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 68
+        }
+      },
+      {
+        "title": "Class-01 | circular Sitting Arrangement | Sitting arrangement | By balram sir",
+        "description": "\"Reasoning  Special  05, 06 , 07\r\n Selection Batch 05, 06 ,07\"",
+        "teacherName": "Balram Sir",
+        "duration": 0,
+        "startDate": "2026-08-06T02:37:37.092Z",
+        "endDate": "2026-08-06T03:37:37.092Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a73f3358c3766ca13f15463/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "69ae9d8fa2b1ae04337a8875",
+          "classId": "6a73f3358c3766ca13f15463",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 68
         }

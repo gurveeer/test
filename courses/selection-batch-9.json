@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch - 9",
-  "extractedAt": "2026-08-05T03:41:04+0000",
+  "extractedAt": "2026-08-06T03:46:37+0000",
   "videos": {
     "Introduction": [
       {
@@ -21820,6 +21820,60 @@
           "topicId": "696e0150719de161eef5677e",
           "rawRecordIndex": 31
         }
+      },
+      {
+        "title": "Class - 57 || Preposition lec-1 | by Aman sir",
+        "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
+        "teacherName": "AMAN SIR",
+        "duration": 5237,
+        "startDate": "2026-08-05T05:30:00.000Z",
+        "endDate": "2026-08-05T07:18:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a728ee18c3766ca13dbcb39/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a728ee18c3766ca13dbcb39/output_720p.mp4",
+            "quality": "720p",
+            "size": 734.19,
+            "_id": "6a72ee2b9efa548457682123"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a728ee18c3766ca13dbcb39/output_480p.mp4",
+            "quality": "480p",
+            "size": 494.77,
+            "_id": "6a72ee2b9efa548457682124"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a728ee18c3766ca13dbcb39/output_360p.mp4",
+            "quality": "360p",
+            "size": 349.62,
+            "_id": "6a72ee2b9efa548457682125"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a728ee18c3766ca13dbcb39/output_240p.mp4",
+            "quality": "240p",
+            "size": 267.52,
+            "_id": "6a72ee2b9efa548457682126"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Preposition lec - 1 with annotations _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Preposition lec - 1 with annotations _.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Preposition lec -1 without annotations _",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Preposition lec -1 without annotations _.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a728ee18c3766ca13dbcb39",
+          "topicId": "696e0150719de161eef5677e",
+          "rawRecordIndex": 31
+        }
       }
     ],
     "Very Very Important Information": [
@@ -23696,10 +23750,65 @@
             "_id": "6a717fe45851348dd599cfd9"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Calendar 02 by balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Calendar 02 by balram sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a268a36b927c1a84afff936",
           "classId": "6a7061fa8c3766ca13b6b5ac",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 31
+        }
+      },
+      {
+        "title": "Class -03 | calendar | Problem Solving | By Balram Sir",
+        "description": "\"Reasoning  Special  04, 08 ,09, 10\r\n Selection Batch , 04, , 08 ,09, 10\"",
+        "teacherName": "Balram Sir",
+        "duration": 3832,
+        "startDate": "2026-08-05T04:30:00.000Z",
+        "endDate": "2026-08-05T05:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a71a9618c3766ca13cff994/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71a9618c3766ca13cff994/output_720p.mp4",
+            "quality": "720p",
+            "size": 585,
+            "_id": "6a72d41d586e3001707c1b67"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71a9618c3766ca13cff994/output_480p.mp4",
+            "quality": "480p",
+            "size": 385.32,
+            "_id": "6a72d41d586e3001707c1b68"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71a9618c3766ca13cff994/output_360p.mp4",
+            "quality": "360p",
+            "size": 276.6,
+            "_id": "6a72d41d586e3001707c1b69"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71a9618c3766ca13cff994/output_240p.mp4",
+            "quality": "240p",
+            "size": 198.08,
+            "_id": "6a72d41d586e3001707c1b6a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Calendar 03 by balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Calendar 03 by balram sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a71a9618c3766ca13cff994",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 31
         }
@@ -24741,10 +24850,65 @@
             "_id": "6a71f632fded68823d084d88"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class 21 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/geometry class 21 pdf by gagan sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a268a36b927c1a84afff936",
           "classId": "6a7187168c3766ca13c8f410",
+          "topicId": "68d7afa61ccb525c5c92cfa4",
+          "rawRecordIndex": 31
+        }
+      },
+      {
+        "title": "Class -22 || Geometry || by Gagan Sir",
+        "description": "\" Maths  Special  01, 02, 03, 04 ,05, 06, 07, 08 , 09,10\r\n & Selection Batch  01, 02, 03, 04 , 05, 06, 07, 08 , 09,10\"",
+        "teacherName": "Gagan Pratap",
+        "duration": 1900,
+        "startDate": "2026-08-05T12:30:00.000Z",
+        "endDate": "2026-08-05T13:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a72fcc68c3766ca13e7097b/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a72fcc68c3766ca13e7097b/output_720p.mp4",
+            "quality": "720p",
+            "size": 258.51,
+            "_id": "6a733a8cf11c79bcbaabd49b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a72fcc68c3766ca13e7097b/output_480p.mp4",
+            "quality": "480p",
+            "size": 174.1,
+            "_id": "6a733a8cf11c79bcbaabd49c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a72fcc68c3766ca13e7097b/output_360p.mp4",
+            "quality": "360p",
+            "size": 122.75,
+            "_id": "6a733a8cf11c79bcbaabd49d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a72fcc68c3766ca13e7097b/output_240p.mp4",
+            "quality": "240p",
+            "size": 87.47,
+            "_id": "6a733a8cf11c79bcbaabd49e"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "geometry class 22 pdf by gagan sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/sb 6 pm 5 aug bp.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a72fcc68c3766ca13e7097b",
           "topicId": "68d7afa61ccb525c5c92cfa4",
           "rawRecordIndex": 31
         }
@@ -25325,7 +25489,13 @@
             "_id": "6a6dc3701386d236bedd70e7"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Landforms  by varun sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Landforms  by varun sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a268a36b927c1a84afff936",
           "classId": "6a6c4ca14700100f9df0d73d",
@@ -27494,204 +27664,6 @@
         }
       }
     ],
-    "Biology": [
-      {
-        "title": "Class-01 || Nutrition (पोषक पदार्थ) by Harish sir",
-        "description": "rrb gd",
-        "teacherName": "HARISH SIR",
-        "duration": 3491,
-        "startDate": "2026-06-30T18:30:00.000Z",
-        "endDate": "2026-06-30T18:30:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/698b1a0aab38bd7d53b91012/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/698b1a0aab38bd7d53b91012/output_720p.mp4",
-            "quality": "720p",
-            "size": 563.96,
-            "_id": "698b6a8e8f569ce6cc76fb05"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/698b1a0aab38bd7d53b91012/output_480p.mp4",
-            "quality": "480p",
-            "size": 364.34,
-            "_id": "698b6a8e8f569ce6cc76fb06"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/698b1a0aab38bd7d53b91012/output_360p.mp4",
-            "quality": "360p",
-            "size": 269.88,
-            "_id": "698b6a8e8f569ce6cc76fb07"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/698b1a0aab38bd7d53b91012/output_240p.mp4",
-            "quality": "240p",
-            "size": 230.18,
-            "_id": "698b6a8e8f569ce6cc76fb08"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "nutrition class",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/nutrition class.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "6a268a36b927c1a84afff936",
-          "classId": "698b1a0aab38bd7d53b91012",
-          "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 31
-        }
-      },
-      {
-        "title": "Class-02 || Nutrition (पोषक पदार्थ) by Harish sir",
-        "description": "rrb",
-        "teacherName": "HARISH SIR",
-        "duration": 4008,
-        "startDate": "2026-06-30T18:30:00.000Z",
-        "endDate": "2026-06-30T18:30:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/698c21f8a003679fb8b73cde/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/698c21f8a003679fb8b73cde/output_720p.mp4",
-            "quality": "720p",
-            "size": 649.63,
-            "_id": "698cb7bffbed628d536ecf59"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/698c21f8a003679fb8b73cde/output_480p.mp4",
-            "quality": "480p",
-            "size": 420.86,
-            "_id": "698cb7bffbed628d536ecf5a"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/698c21f8a003679fb8b73cde/output_360p.mp4",
-            "quality": "360p",
-            "size": 311.11,
-            "_id": "698cb7bffbed628d536ecf5b"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/698c21f8a003679fb8b73cde/output_240p.mp4",
-            "quality": "240p",
-            "size": 263.25,
-            "_id": "698cb7bffbed628d536ecf5c"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "nutrition class 02",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/nutrition class 02.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "6a268a36b927c1a84afff936",
-          "classId": "698c21f8a003679fb8b73cde",
-          "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 31
-        }
-      },
-      {
-        "title": "Class-03 || Nutrition (पोषक पदार्थ) by Harish sir",
-        "description": "RRB",
-        "teacherName": "HARISH SIR",
-        "duration": 3103,
-        "startDate": "2026-06-30T18:30:00.000Z",
-        "endDate": "2026-06-30T18:30:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/698d6c0df934db83d31a9310/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/698d6c0df934db83d31a9310/output_720p.mp4",
-            "quality": "720p",
-            "size": 498.72,
-            "_id": "698e052d0bbecd2afd4a18cd"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/698d6c0df934db83d31a9310/output_480p.mp4",
-            "quality": "480p",
-            "size": 323.32,
-            "_id": "698e052d0bbecd2afd4a18ce"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/698d6c0df934db83d31a9310/output_360p.mp4",
-            "quality": "360p",
-            "size": 238.43,
-            "_id": "698e052d0bbecd2afd4a18cf"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/698d6c0df934db83d31a9310/output_240p.mp4",
-            "quality": "240p",
-            "size": 200.95,
-            "_id": "698e052d0bbecd2afd4a18d0"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "nutrition class 03",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/nutrition class 03.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "6a268a36b927c1a84afff936",
-          "classId": "698d6c0df934db83d31a9310",
-          "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 31
-        }
-      },
-      {
-        "title": "Class-04 || Nutrition (पोषक पदार्थ) by Harish sir",
-        "description": "RRB",
-        "teacherName": "HARISH SIR",
-        "duration": 2535,
-        "startDate": "2026-06-30T18:30:00.000Z",
-        "endDate": "2026-06-30T18:30:00.000Z",
-        "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/698f0a59466e8361a4f148a3/playlist-mpl-vod.m3u8",
-        "mp4Recordings": [
-          {
-            "url": "https://selectionwayrecorded.hranker.com/698f0a59466e8361a4f148a3/output_720p.mp4",
-            "quality": "720p",
-            "size": 407.61,
-            "_id": "699347afe2270e7832136c65"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/698f0a59466e8361a4f148a3/output_480p.mp4",
-            "quality": "480p",
-            "size": 263.58,
-            "_id": "699347afe2270e7832136c66"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/698f0a59466e8361a4f148a3/output_360p.mp4",
-            "quality": "360p",
-            "size": 194.58,
-            "_id": "699347afe2270e7832136c67"
-          },
-          {
-            "url": "https://selectionwayrecorded.hranker.com/698f0a59466e8361a4f148a3/output_240p.mp4",
-            "quality": "240p",
-            "size": 164.49,
-            "_id": "699347afe2270e7832136c68"
-          }
-        ],
-        "classPdf": [
-          {
-            "priority": 1,
-            "name": "nutrition class 04",
-            "url": "https://selectionwayserver.hranker.com/pdfs/files/nutrition class 04.pdf"
-          }
-        ],
-        "source": {
-          "courseId": "6a268a36b927c1a84afff936",
-          "classId": "698f0a59466e8361a4f148a3",
-          "topicId": "68e207c048aa5900ad9d8348",
-          "rawRecordIndex": 31
-        }
-      }
-    ],
     "Chemistry": [
       {
         "title": "Class -01 | Mixture and Separation || by Harish Sir",
@@ -29051,7 +29023,13 @@
             "_id": "6a6c9be45851348dd520eac8"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "acid base class 04 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/acid base class 04 pdf by harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a268a36b927c1a84afff936",
           "classId": "6a6c609e4700100f9dfaee21",
@@ -29094,10 +29072,59 @@
             "_id": "6a71e94afded68823d4d61fe"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "acid base class 05 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/acid base class 05 pdf by harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a268a36b927c1a84afff936",
           "classId": "6a704aef8c3766ca13b1e730",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 31
+        }
+      },
+      {
+        "title": "Class - 06 | Acid base & salt | by Harish sir",
+        "description": "\"RAILWAY Foundation - 04 ,05, 06\r\nSB 05, 06, 07, 08, 09, 10\"",
+        "teacherName": "Harish sir",
+        "duration": 3816,
+        "startDate": "2026-08-05T11:34:00.000Z",
+        "endDate": "2026-08-05T12:34:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a7292f48c3766ca13dcde32/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7292f48c3766ca13dcde32/output_720p.mp4",
+            "quality": "720p",
+            "size": 583.12,
+            "_id": "6a733cf758cb0a2e66f56e78"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7292f48c3766ca13dcde32/output_480p.mp4",
+            "quality": "480p",
+            "size": 408.06,
+            "_id": "6a733cf758cb0a2e66f56e79"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7292f48c3766ca13dcde32/output_360p.mp4",
+            "quality": "360p",
+            "size": 287.66,
+            "_id": "6a733cf758cb0a2e66f56e7a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7292f48c3766ca13dcde32/output_240p.mp4",
+            "quality": "240p",
+            "size": 228.15,
+            "_id": "6a733cf758cb0a2e66f56e7b"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a268a36b927c1a84afff936",
+          "classId": "6a7292f48c3766ca13dcde32",
           "topicId": "68fa5f40aed5b4af7a841a2a",
           "rawRecordIndex": 31
         }

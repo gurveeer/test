@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation Batch -5",
-  "extractedAt": "2026-08-05T03:41:04+0000",
+  "extractedAt": "2026-08-06T03:46:37+0000",
   "videos": {
     "Arithmetic": [
       {
@@ -6594,7 +6594,13 @@
             "_id": "6a6d7032fded68823dd98a00"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Number Series 003 By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Number Series 003 By Deepak Sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a1d6b27b927c1a84a934528",
           "classId": "6a6c73374700100f9dfd966e",
@@ -6603,19 +6609,68 @@
         }
       },
       {
-        "title": "Class-03 || Number Series PYQs-04 By Deepak Sir",
+        "title": "Class-04 || Number Series PYQs-04 By Deepak Sir",
         "description": "\"*Railway Foundation Batch ,2 ,3 4,5,6\r\n*RRB Group D \r\n\"",
         "teacherName": "deepak sir",
-        "duration": 0,
+        "duration": 4065,
         "startDate": "2026-08-05T02:30:00.000Z",
         "endDate": "2026-08-05T03:30:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6f85778c3766ca13a3a646/playlist.m3u8",
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a6f85778c3766ca13a3a646/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6f85778c3766ca13a3a646/output_720p.mp4",
+            "quality": "720p",
+            "size": 601.53,
+            "_id": "6a72b988586e30017059b17d"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6f85778c3766ca13a3a646/output_480p.mp4",
+            "quality": "480p",
+            "size": 409.45,
+            "_id": "6a72b988586e30017059b17e"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6f85778c3766ca13a3a646/output_360p.mp4",
+            "quality": "360p",
+            "size": 287.05,
+            "_id": "6a72b988586e30017059b17f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a6f85778c3766ca13a3a646/output_240p.mp4",
+            "quality": "240p",
+            "size": 200.64,
+            "_id": "6a72b988586e30017059b180"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Number Series Pyqs 004 By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Number Series Pyqs 004 By Deepak Sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a1d6b27b927c1a84a934528",
+          "classId": "6a6f85778c3766ca13a3a646",
+          "topicId": "69ae68cc7b3188015e0551dd",
+          "rawRecordIndex": 44
+        }
+      },
+      {
+        "title": "Class-01 || Missing Number-01 By Deepak Sir",
+        "description": "\"*Railway Foundation Batch ,2 ,3 4,5,6\r\n*RRB Group D \r\n\"",
+        "teacherName": "deepak sir",
+        "duration": 0,
+        "startDate": "2026-08-06T02:30:00.000Z",
+        "endDate": "2026-08-06T03:43:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a7318108c3766ca13ea97ff/playlist-mpl-vod.m3u8",
         "mp4Recordings": [],
         "classPdf": [],
         "source": {
           "courseId": "6a1d6b27b927c1a84a934528",
-          "classId": "6a6f85778c3766ca13a3a646",
+          "classId": "6a7318108c3766ca13ea97ff",
           "topicId": "69ae68cc7b3188015e0551dd",
           "rawRecordIndex": 44
         }
@@ -22451,6 +22506,49 @@
           "topicId": "699806229119ee84e2e132b6",
           "rawRecordIndex": 44
         }
+      },
+      {
+        "title": "Class 11 || Medieval History || by Jeet sir",
+        "description": "\"Railway Foundation Batch -03, 04, 05, 06\r\nCGL RAPID BATCH\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2711,
+        "startDate": "2026-08-05T09:30:00.000Z",
+        "endDate": "2026-08-05T10:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a71c3f08c3766ca13d2b837/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71c3f08c3766ca13d2b837/output_720p.mp4",
+            "quality": "720p",
+            "size": 401.8,
+            "_id": "6a7314e1f11c79bcba3f56d6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71c3f08c3766ca13d2b837/output_480p.mp4",
+            "quality": "480p",
+            "size": 276.42,
+            "_id": "6a7314e1f11c79bcba3f56d7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71c3f08c3766ca13d2b837/output_360p.mp4",
+            "quality": "360p",
+            "size": 197.5,
+            "_id": "6a7314e1f11c79bcba3f56d8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71c3f08c3766ca13d2b837/output_240p.mp4",
+            "quality": "240p",
+            "size": 146.07,
+            "_id": "6a7314e1f11c79bcba3f56d9"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a1d6b27b927c1a84a934528",
+          "classId": "6a71c3f08c3766ca13d2b837",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 44
+        }
       }
     ],
     "Polity (Live)": [
@@ -37102,7 +37200,13 @@
             "_id": "6a6c9be45851348dd520eac8"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "acid base class 04 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/acid base class 04 pdf by harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a1d6b27b927c1a84a934528",
           "classId": "6a6c609e4700100f9dfaee21",
@@ -37145,10 +37249,59 @@
             "_id": "6a71e94afded68823d4d61fe"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "acid base class 05 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/acid base class 05 pdf by harish sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a1d6b27b927c1a84a934528",
           "classId": "6a704aef8c3766ca13b1e730",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 44
+        }
+      },
+      {
+        "title": "Class - 06 | Acid base & salt | by Harish sir",
+        "description": "\"RAILWAY Foundation - 04 ,05, 06\r\nSB 05, 06, 07, 08, 09, 10\"",
+        "teacherName": "Harish sir",
+        "duration": 3816,
+        "startDate": "2026-08-05T11:34:00.000Z",
+        "endDate": "2026-08-05T12:34:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a7292f48c3766ca13dcde32/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7292f48c3766ca13dcde32/output_720p.mp4",
+            "quality": "720p",
+            "size": 583.12,
+            "_id": "6a733cf758cb0a2e66f56e78"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7292f48c3766ca13dcde32/output_480p.mp4",
+            "quality": "480p",
+            "size": 408.06,
+            "_id": "6a733cf758cb0a2e66f56e79"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7292f48c3766ca13dcde32/output_360p.mp4",
+            "quality": "360p",
+            "size": 287.66,
+            "_id": "6a733cf758cb0a2e66f56e7a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7292f48c3766ca13dcde32/output_240p.mp4",
+            "quality": "240p",
+            "size": 228.15,
+            "_id": "6a733cf758cb0a2e66f56e7b"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a1d6b27b927c1a84a934528",
+          "classId": "6a7292f48c3766ca13dcde32",
           "topicId": "68fa5f40aed5b4af7a841a2a",
           "rawRecordIndex": 44
         }

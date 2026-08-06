@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Special-8",
-  "extractedAt": "2026-08-05T03:41:04+0000",
+  "extractedAt": "2026-08-06T03:46:37+0000",
   "videos": {
     "Verbal": [
       {
@@ -3100,10 +3100,65 @@
             "_id": "6a717fe45851348dd599cfd9"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Calendar 02 by balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Calendar 02 by balram sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "69f990e0b927c1a84afcbfed",
           "classId": "6a7061fa8c3766ca13b6b5ac",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 48
+        }
+      },
+      {
+        "title": "Class -03 | calendar | Problem Solving | By Balram Sir",
+        "description": "\"Reasoning  Special  04, 08 ,09, 10\r\n Selection Batch , 04, , 08 ,09, 10\"",
+        "teacherName": "Balram Sir",
+        "duration": 3832,
+        "startDate": "2026-08-05T04:30:00.000Z",
+        "endDate": "2026-08-05T05:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a71a9618c3766ca13cff994/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71a9618c3766ca13cff994/output_720p.mp4",
+            "quality": "720p",
+            "size": 585,
+            "_id": "6a72d41d586e3001707c1b67"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71a9618c3766ca13cff994/output_480p.mp4",
+            "quality": "480p",
+            "size": 385.32,
+            "_id": "6a72d41d586e3001707c1b68"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71a9618c3766ca13cff994/output_360p.mp4",
+            "quality": "360p",
+            "size": 276.6,
+            "_id": "6a72d41d586e3001707c1b69"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71a9618c3766ca13cff994/output_240p.mp4",
+            "quality": "240p",
+            "size": 198.08,
+            "_id": "6a72d41d586e3001707c1b6a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Calendar 03 by balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Calendar 03 by balram sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990e0b927c1a84afcbfed",
+          "classId": "6a71a9618c3766ca13cff994",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 48
         }

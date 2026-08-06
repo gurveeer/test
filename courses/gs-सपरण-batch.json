@@ -1,6 +1,6 @@
 {
   "courseName": "GS संपूर्ण Batch",
-  "extractedAt": "2026-08-05T03:41:04+0000",
+  "extractedAt": "2026-08-06T03:46:37+0000",
   "videos": {
     "HISTORY": [
       {
@@ -2291,6 +2291,24 @@
         "source": {
           "courseId": "698487d5fdd21a8a2d1a5270",
           "classId": "6a718a8f5851348dd56ccac4",
+          "topicId": "6a265997b927c1a84af6d41d",
+          "rawRecordIndex": 121
+        }
+      },
+      {
+        "title": "Class -28 || Road & Rail Transport | by Shubham sir",
+        "description": "GS सम्पूर्ण Batch",
+        "teacherName": "Shubham sir",
+        "duration": 0,
+        "startDate": "2026-08-05T05:59:00.000Z",
+        "endDate": "2026-08-05T04:59:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://www.youtube.com/watch?v=wtn9_wL6nzM",
+        "mp4Recordings": [],
+        "classPdf": [],
+        "source": {
+          "courseId": "698487d5fdd21a8a2d1a5270",
+          "classId": "6a72d1068c3766ca13e10404",
           "topicId": "6a265997b927c1a84af6d41d",
           "rawRecordIndex": 121
         }

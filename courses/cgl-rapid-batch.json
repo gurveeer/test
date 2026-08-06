@@ -1,6 +1,6 @@
 {
   "courseName": "CGL RAPID BATCH",
-  "extractedAt": "2026-08-05T03:41:04+0000",
+  "extractedAt": "2026-08-06T03:46:37+0000",
   "videos": {
     "Introduction": [
       {
@@ -3153,6 +3153,49 @@
         "source": {
           "courseId": "6a1fe6bbb927c1a84abc606f",
           "classId": "6a7049ab8c3766ca13b15f58",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 102
+        }
+      },
+      {
+        "title": "Class 11 || Medieval History || by Jeet sir",
+        "description": "\"Railway Foundation Batch -03, 04, 05, 06\r\nCGL RAPID BATCH\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2711,
+        "startDate": "2026-08-05T09:30:00.000Z",
+        "endDate": "2026-08-05T10:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a71c3f08c3766ca13d2b837/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71c3f08c3766ca13d2b837/output_720p.mp4",
+            "quality": "720p",
+            "size": 401.8,
+            "_id": "6a7314e1f11c79bcba3f56d6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71c3f08c3766ca13d2b837/output_480p.mp4",
+            "quality": "480p",
+            "size": 276.42,
+            "_id": "6a7314e1f11c79bcba3f56d7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71c3f08c3766ca13d2b837/output_360p.mp4",
+            "quality": "360p",
+            "size": 197.5,
+            "_id": "6a7314e1f11c79bcba3f56d8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71c3f08c3766ca13d2b837/output_240p.mp4",
+            "quality": "240p",
+            "size": 146.07,
+            "_id": "6a7314e1f11c79bcba3f56d9"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a1fe6bbb927c1a84abc606f",
+          "classId": "6a71c3f08c3766ca13d2b837",
           "topicId": "699806229119ee84e2e132b6",
           "rawRecordIndex": 102
         }

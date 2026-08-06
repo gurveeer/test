@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch VOD 2.0",
-  "extractedAt": "2026-08-05T03:41:04+0000",
+  "extractedAt": "2026-08-06T03:46:37+0000",
   "videos": {
     "HISTORY": [
       {
@@ -55572,6 +55572,643 @@
         "source": {
           "courseId": "6a06e488b927c1a84a90a818",
           "classId": "69bd07de713c8e763d5346f8",
+          "topicId": "68e207c048aa5900ad9d8348",
+          "rawRecordIndex": 7
+        }
+      },
+      {
+        "title": "Class - 01 || Plant morphology (पौधे की आकृति विज्ञान) ||  by Harish sir",
+        "description": "\"RF 1, 2,3 & Sci Spl 1 ,2 , Selection Batch 1,2,3,4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 2920.867,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69c122c3951392adb8a97f60/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69c122c3951392adb8a97f60/mp4/harish_plant_240p.mp4",
+            "quality": "240p",
+            "size": 167.6,
+            "_id": "69e5ff6b0e57144133076aa6"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69c122c3951392adb8a97f60/mp4/harish_plant_360p.mp4",
+            "quality": "360p",
+            "size": 200.91,
+            "_id": "69e5ff6b0e57144133076aa7"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69c122c3951392adb8a97f60/mp4/harish_plant_480p.mp4",
+            "quality": "480p",
+            "size": 267.68,
+            "_id": "69e5ff6b0e57144133076aa8"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69c122c3951392adb8a97f60/mp4/harish_plant_720p.mp4",
+            "quality": "720p",
+            "size": 390.22,
+            "_id": "69e5ff6b0e57144133076aa9"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Plant Morphology class 1 and 2",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Plant Morphology class 1 and 2.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a06e488b927c1a84a90a818",
+          "classId": "69c122c3951392adb8a97f60",
+          "topicId": "68e207c048aa5900ad9d8348",
+          "rawRecordIndex": 7
+        }
+      },
+      {
+        "title": "Class - 02 || Plant morphology (पौधे की आकृति विज्ञान) ||  by Harish sir",
+        "description": "\"RF 1, 2,3 & Sci Spl 1 ,2 , Selection Batch 1,2,3,4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 5423.5,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/69c25adb229920b988980b72/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69c25adb229920b988980b72/mp4/PLANT_MORPHOLOGY_PART_02_240p.mp4",
+            "quality": "240p",
+            "size": 400.57,
+            "_id": "69c27518f0078f7a34e2e7cb"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69c25adb229920b988980b72/mp4/PLANT_MORPHOLOGY_PART_02_360p.mp4",
+            "quality": "360p",
+            "size": 468.64,
+            "_id": "69c27518f0078f7a34e2e7cc"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69c25adb229920b988980b72/mp4/PLANT_MORPHOLOGY_PART_02_480p.mp4",
+            "quality": "480p",
+            "size": 626.78,
+            "_id": "69c27518f0078f7a34e2e7cd"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/69c25adb229920b988980b72/mp4/PLANT_MORPHOLOGY_PART_02_720p.mp4",
+            "quality": "720p",
+            "size": 920.61,
+            "_id": "69c27518f0078f7a34e2e7ce"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Plant Morphology class 1 and 2",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Plant Morphology class 1 and 2.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a06e488b927c1a84a90a818",
+          "classId": "69c25adb229920b988980b72",
+          "topicId": "68e207c048aa5900ad9d8348",
+          "rawRecordIndex": 7
+        }
+      },
+      {
+        "title": "Class - 03 || Plant morphology (पौधे की आकृति विज्ञान) ||  by Harish sir",
+        "description": "\"RF 1, 2,3 & Sci Spl 1 ,2 , Selection Batch 1,2,3,4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 2100,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69c38d7d20b6656683f7b34e/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c38d7d20b6656683f7b34e/output_720p.mp4",
+            "quality": "720p",
+            "size": 318.4,
+            "_id": "69c3eddfb8f247435e9e610f"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c38d7d20b6656683f7b34e/output_480p.mp4",
+            "quality": "480p",
+            "size": 215.88,
+            "_id": "69c3eddfb8f247435e9e6110"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c38d7d20b6656683f7b34e/output_360p.mp4",
+            "quality": "360p",
+            "size": 158.24,
+            "_id": "69c3eddfb8f247435e9e6111"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69c38d7d20b6656683f7b34e/output_240p.mp4",
+            "quality": "240p",
+            "size": 128.49,
+            "_id": "69c3eddfb8f247435e9e6112"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Plant Morphology class 3",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Plant Morphology class 3.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a06e488b927c1a84a90a818",
+          "classId": "69c38d7d20b6656683f7b34e",
+          "topicId": "68e207c048aa5900ad9d8348",
+          "rawRecordIndex": 7
+        }
+      },
+      {
+        "title": "Class - 01 || Heredity and Evolution (आनुवंशिकता एवं विकास) || by Harish sir",
+        "description": "\"RF 1, 2,3 & Sci Spl 1 ,2 , Selection Batch 1,2,3,4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 3354,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69cb5d19c7f3b7e3fb7581a5/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cb5d19c7f3b7e3fb7581a5/output_720p.mp4",
+            "quality": "720p",
+            "size": 537.48,
+            "_id": "69cd3230923f9ce0c4231854"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cb5d19c7f3b7e3fb7581a5/output_480p.mp4",
+            "quality": "480p",
+            "size": 350.18,
+            "_id": "69cd3230923f9ce0c4231855"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cb5d19c7f3b7e3fb7581a5/output_360p.mp4",
+            "quality": "360p",
+            "size": 259.33,
+            "_id": "69cd3230923f9ce0c4231856"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cb5d19c7f3b7e3fb7581a5/output_240p.mp4",
+            "quality": "240p",
+            "size": 222.24,
+            "_id": "69cd3230923f9ce0c4231857"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "hereditory class 1",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/hereditory class 1.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a06e488b927c1a84a90a818",
+          "classId": "69cb5d19c7f3b7e3fb7581a5",
+          "topicId": "68e207c048aa5900ad9d8348",
+          "rawRecordIndex": 7
+        }
+      },
+      {
+        "title": "Class - 02 || Heredity and Evolution (आनुवंशिकता एवं विकास) || by Harish sir",
+        "description": "\"RF 1, 2,3 & Sci Spl 1 ,2 , Selection Batch 1,2,3,4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 3705,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69ce11ab658aed862444f75a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ce11ab658aed862444f75a/output_720p.mp4",
+            "quality": "720p",
+            "size": 591.24,
+            "_id": "69cf72e9729d39fb915e6689"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ce11ab658aed862444f75a/output_480p.mp4",
+            "quality": "480p",
+            "size": 379.93,
+            "_id": "69cf72e9729d39fb915e668a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ce11ab658aed862444f75a/output_360p.mp4",
+            "quality": "360p",
+            "size": 278.66,
+            "_id": "69cf72e9729d39fb915e668b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69ce11ab658aed862444f75a/output_240p.mp4",
+            "quality": "240p",
+            "size": 236.23,
+            "_id": "69cf72e9729d39fb915e668c"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "hereditory class 2",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/hereditory class 2.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a06e488b927c1a84a90a818",
+          "classId": "69ce11ab658aed862444f75a",
+          "topicId": "68e207c048aa5900ad9d8348",
+          "rawRecordIndex": 7
+        }
+      },
+      {
+        "title": "Class - 03 || Heredity and Evolution (आनुवंशिकता एवं विकास) || by Harish sir",
+        "description": "\"RF 1, 2,3 & Sci Spl 1 ,2 , Selection Batch 1,2,3,4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 3389,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69cfa1533a45ba4df5cf0a9f/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cfa1533a45ba4df5cf0a9f/output_720p.mp4",
+            "quality": "720p",
+            "size": 538.37,
+            "_id": "69cfef8fd5432e914df551f0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cfa1533a45ba4df5cf0a9f/output_480p.mp4",
+            "quality": "480p",
+            "size": 344.73,
+            "_id": "69cfef8fd5432e914df551f1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cfa1533a45ba4df5cf0a9f/output_360p.mp4",
+            "quality": "360p",
+            "size": 252.92,
+            "_id": "69cfef8fd5432e914df551f2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69cfa1533a45ba4df5cf0a9f/output_240p.mp4",
+            "quality": "240p",
+            "size": 214.64,
+            "_id": "69cfef8fd5432e914df551f3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "hereditory class 3",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/hereditory class 3.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a06e488b927c1a84a90a818",
+          "classId": "69cfa1533a45ba4df5cf0a9f",
+          "topicId": "68e207c048aa5900ad9d8348",
+          "rawRecordIndex": 7
+        }
+      },
+      {
+        "title": "Class - 04 || Heredity and Evolution (आनुवंशिकता एवं विकास) || by Harish sir",
+        "description": "\"RF 1, 2,3 & Sci Spl 1 ,2 , Selection Batch 1,2,3,4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 1899,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69d08f0395934247b28b53bd/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d08f0395934247b28b53bd/output_720p.mp4",
+            "quality": "720p",
+            "size": 299.96,
+            "_id": "69d52e85923f9ce0c456d5c0"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d08f0395934247b28b53bd/output_480p.mp4",
+            "quality": "480p",
+            "size": 190.69,
+            "_id": "69d52e85923f9ce0c456d5c1"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d08f0395934247b28b53bd/output_360p.mp4",
+            "quality": "360p",
+            "size": 138.95,
+            "_id": "69d52e85923f9ce0c456d5c2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d08f0395934247b28b53bd/output_240p.mp4",
+            "quality": "240p",
+            "size": 115.77,
+            "_id": "69d52e85923f9ce0c456d5c3"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "hereditory class 4",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/hereditory class 4.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a06e488b927c1a84a90a818",
+          "classId": "69d08f0395934247b28b53bd",
+          "topicId": "68e207c048aa5900ad9d8348",
+          "rawRecordIndex": 7
+        }
+      },
+      {
+        "title": "Class - 05 || Heredity and Evolution (आनुवंशिकता एवं विकास) MCQs || by Harish sir",
+        "description": "\"RF 1, 2,3 & Sci Spl 1 ,2 , Selection Batch 1,2,3,4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 2421,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69d6354a22cc6f4d5f21de88/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d6354a22cc6f4d5f21de88/output_720p.mp4",
+            "quality": "720p",
+            "size": 389.39,
+            "_id": "69d682d8923f9ce0c44b8f22"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d6354a22cc6f4d5f21de88/output_480p.mp4",
+            "quality": "480p",
+            "size": 250.91,
+            "_id": "69d682d8923f9ce0c44b8f23"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d6354a22cc6f4d5f21de88/output_360p.mp4",
+            "quality": "360p",
+            "size": 184.45,
+            "_id": "69d682d8923f9ce0c44b8f24"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69d6354a22cc6f4d5f21de88/output_240p.mp4",
+            "quality": "240p",
+            "size": 156.05,
+            "_id": "69d682d8923f9ce0c44b8f25"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "hereditory class 5",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/hereditory class 5.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a06e488b927c1a84a90a818",
+          "classId": "69d6354a22cc6f4d5f21de88",
+          "topicId": "68e207c048aa5900ad9d8348",
+          "rawRecordIndex": 7
+        }
+      },
+      {
+        "title": "Class - 01 || CELL DIVISION   || by Harish sir",
+        "description": "\"RF 1, 2,3 & Sci Spl 1 ,2 , Selection Batch 1,2,3,4\r\nRRB Group D\"",
+        "teacherName": "HARISH SIR",
+        "duration": 3481,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/69dcca5922cc6f4d5f5a201c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69dcca5922cc6f4d5f5a201c/output_720p.mp4",
+            "quality": "720p",
+            "size": 559.18,
+            "_id": "69dfc5f55a87737aef8be564"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69dcca5922cc6f4d5f5a201c/output_480p.mp4",
+            "quality": "480p",
+            "size": 364.96,
+            "_id": "69dfc5f55a87737aef8be565"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69dcca5922cc6f4d5f5a201c/output_360p.mp4",
+            "quality": "360p",
+            "size": 268.88,
+            "_id": "69dfc5f55a87737aef8be566"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/69dcca5922cc6f4d5f5a201c/output_240p.mp4",
+            "quality": "240p",
+            "size": 226.92,
+            "_id": "69dfc5f55a87737aef8be567"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "cell divison class 1",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/cell divison class 1.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a06e488b927c1a84a90a818",
+          "classId": "69dcca5922cc6f4d5f5a201c",
+          "topicId": "68e207c048aa5900ad9d8348",
+          "rawRecordIndex": 7
+        }
+      },
+      {
+        "title": "Class - 02 || CELL DIVISION || by Harish sir",
+        "description": "\"RF 1, 2,3 Sci Spl 1, \r\nRRB GD, Selection Batch 1,2,3,4,\"",
+        "teacherName": "HARISH SIR",
+        "duration": 4460,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a17cc4ab927c1a84a5866ab/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a154153b927c1a84a3dbd9f/mp4/2025_11_07_18_08_30_240p.mp4",
+            "quality": "240p",
+            "size": 323.98,
+            "_id": "6a154f0425fd37dc1c070dd7"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a154153b927c1a84a3dbd9f/mp4/2025_11_07_18_08_30_360p.mp4",
+            "quality": "360p",
+            "size": 384.38,
+            "_id": "6a154f0425fd37dc1c070dd8"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a154153b927c1a84a3dbd9f/mp4/2025_11_07_18_08_30_480p.mp4",
+            "quality": "480p",
+            "size": 515.87,
+            "_id": "6a154f0425fd37dc1c070dd9"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a154153b927c1a84a3dbd9f/mp4/2025_11_07_18_08_30_720p.mp4",
+            "quality": "720p",
+            "size": 761.58,
+            "_id": "6a154f0425fd37dc1c070dda"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "cell divison class 02 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/cell divison class 02 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a06e488b927c1a84a90a818",
+          "classId": "6a154153b927c1a84a3dbd9f",
+          "topicId": "68e207c048aa5900ad9d8348",
+          "rawRecordIndex": 7
+        }
+      },
+      {
+        "title": "Class - 03 || CELL DIVISION with MCQs || by Harish sir",
+        "description": "\"RF 1, 2,3 Sci Spl 1, \r\nRRB GD, Selection Batch 1,2,3,4,\"",
+        "teacherName": "HARISH SIR",
+        "duration": 1981,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a15306bb927c1a84a3a470a/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a15306bb927c1a84a3a470a/output_720p.mp4",
+            "quality": "720p",
+            "size": 298.37,
+            "_id": "6a1592339cd34c77a0628777"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a15306bb927c1a84a3a470a/output_480p.mp4",
+            "quality": "480p",
+            "size": 204.37,
+            "_id": "6a1592339cd34c77a0628778"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a15306bb927c1a84a3a470a/output_360p.mp4",
+            "quality": "360p",
+            "size": 142.22,
+            "_id": "6a1592339cd34c77a0628779"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a15306bb927c1a84a3a470a/output_240p.mp4",
+            "quality": "240p",
+            "size": 110.06,
+            "_id": "6a1592339cd34c77a062877a"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "cell division class 03 pdf by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/cell division class 03 pdf by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a06e488b927c1a84a90a818",
+          "classId": "6a15306bb927c1a84a3a470a",
+          "topicId": "68e207c048aa5900ad9d8348",
+          "rawRecordIndex": 7
+        }
+      },
+      {
+        "title": "Class - 01 || Human Disease Class (मानव रोग) || by Harish sir",
+        "description": "\"RF 1, 2,3 Sci Spl 1, \r\nRRB GD, Selection Batch 1,2,3,4,\"",
+        "teacherName": "HARISH SIR",
+        "duration": 3007,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a169000b927c1a84a4bcf64/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a169000b927c1a84a4bcf64/output_720p.mp4",
+            "quality": "720p",
+            "size": 450.13,
+            "_id": "6a16f698f4365a3c40f58fb5"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a169000b927c1a84a4bcf64/output_480p.mp4",
+            "quality": "480p",
+            "size": 309.78,
+            "_id": "6a16f698f4365a3c40f58fb6"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a169000b927c1a84a4bcf64/output_360p.mp4",
+            "quality": "360p",
+            "size": 216.58,
+            "_id": "6a16f698f4365a3c40f58fb7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a169000b927c1a84a4bcf64/output_240p.mp4",
+            "quality": "240p",
+            "size": 170.78,
+            "_id": "6a16f698f4365a3c40f58fb8"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "human disease class 01 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/human disease class 01 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a06e488b927c1a84a90a818",
+          "classId": "6a169000b927c1a84a4bcf64",
+          "topicId": "68e207c048aa5900ad9d8348",
+          "rawRecordIndex": 7
+        }
+      },
+      {
+        "title": "Class - 02 || Human Disease Class (मानव रोग) || by Harish sir",
+        "description": "\"RF 1, 2,3 Sci Spl 1, \r\nRRB GD, Selection Batch 1,2,3,4,\"",
+        "teacherName": "HARISH SIR",
+        "duration": 2687.534,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a1d551fb927c1a84a8fba17/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a1d551fb927c1a84a8fba17/mp4/2026_05_28_18_10_07_240p.mp4",
+            "quality": "240p",
+            "size": 200.61,
+            "_id": "6a1d886425fd37dc1c837b5c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a1d551fb927c1a84a8fba17/mp4/2026_05_28_18_10_07_360p.mp4",
+            "quality": "360p",
+            "size": 232.78,
+            "_id": "6a1d886425fd37dc1c837b5d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a1d551fb927c1a84a8fba17/mp4/2026_05_28_18_10_07_480p.mp4",
+            "quality": "480p",
+            "size": 310.9,
+            "_id": "6a1d886425fd37dc1c837b5e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a1d551fb927c1a84a8fba17/mp4/2026_05_28_18_10_07_720p.mp4",
+            "quality": "720p",
+            "size": 456.58,
+            "_id": "6a1d886425fd37dc1c837b5f"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Human disease class 02 by harish sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Human disease class 02 by harish sir.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a06e488b927c1a84a90a818",
+          "classId": "6a1d551fb927c1a84a8fba17",
           "topicId": "68e207c048aa5900ad9d8348",
           "rawRecordIndex": 7
         }

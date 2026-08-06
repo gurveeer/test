@@ -1,6 +1,6 @@
 {
   "courseName": "GS Special-5",
-  "extractedAt": "2026-08-05T03:41:04+0000",
+  "extractedAt": "2026-08-06T03:46:37+0000",
   "videos": {
     "POLITY": [
       {
@@ -5545,7 +5545,13 @@
             "_id": "6a6dc3701386d236bedd70e7"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Landforms  by varun sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Landforms  by varun sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "698481d5fdd21a8a2d18ac70",
           "classId": "6a6c4ca14700100f9df0d73d",

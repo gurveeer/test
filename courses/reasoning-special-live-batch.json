@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning special live Batch",
-  "extractedAt": "2026-08-05T03:41:04+0000",
+  "extractedAt": "2026-08-06T03:46:37+0000",
   "videos": {
     "Introduction": [
       {
@@ -87,6 +87,49 @@
         "source": {
           "courseId": "6a5a11668eefdd1ae57e6ae7",
           "classId": "6a7184538c3766ca13c75c19",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 92
+        }
+      },
+      {
+        "title": "Class - 02 | Alphabet test || by Vikaramjeet sir",
+        "description": "Reasoning special live Batch",
+        "teacherName": "vikramjeet sir",
+        "duration": 3941,
+        "startDate": "2026-08-05T15:00:00.000Z",
+        "endDate": "2026-08-05T16:17:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a72c7358c3766ca13dfa541/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a72c7358c3766ca13dfa541/output_720p.mp4",
+            "quality": "720p",
+            "size": 567.1,
+            "_id": "6a736dd6fded68823d345f84"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a72c7358c3766ca13dfa541/output_480p.mp4",
+            "quality": "480p",
+            "size": 370.49,
+            "_id": "6a736dd6fded68823d345f85"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a72c7358c3766ca13dfa541/output_360p.mp4",
+            "quality": "360p",
+            "size": 256.07,
+            "_id": "6a736dd6fded68823d345f86"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a72c7358c3766ca13dfa541/output_240p.mp4",
+            "quality": "240p",
+            "size": 175.66,
+            "_id": "6a736dd6fded68823d345f87"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11668eefdd1ae57e6ae7",
+          "classId": "6a72c7358c3766ca13dfa541",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 92
         }

@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Special Vod Batch",
-  "extractedAt": "2026-08-05T03:41:04+0000",
+  "extractedAt": "2026-08-06T03:46:37+0000",
   "videos": {
     "Verbal": [
       {
@@ -1726,7 +1726,13 @@
             "_id": "6a6a59a38b1eb266bf59cfeb"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Input Output (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Input Output (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a6883254700100f9d58894f",
@@ -1984,7 +1990,13 @@
             "_id": "6a6a42848b1eb266bf055b31"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Ranking Arrangement (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Ranking Arrangement (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a6886f34700100f9d6181ba",
@@ -2113,7 +2125,13 @@
             "_id": "6a6a0a8a9efa548457aee48f"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Seating Arrangement (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Seating Arrangement (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a68875f4700100f9d624117",
@@ -2371,7 +2389,13 @@
             "_id": "6a6907a5fded68823dbb689d"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Coding Decoding (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Coding Decoding (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a688e9c4700100f9d6df7ff",
@@ -2586,7 +2610,13 @@
             "_id": "6a7077bc5851348dd57c5b70"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Analogy (CLASS NOTES)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Analogy (CLASS NOTES).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a6892e34700100f9d812469",
@@ -3360,7 +3390,13 @@
             "_id": "6a7082c2847c19e9d58010fd"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Statement Conclusion (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Statement Conclusion (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a689ae04700100f9d96908a",
@@ -3489,7 +3525,13 @@
             "_id": "6a6a23978b1eb266bfc8b9c5"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Statement Argument (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Statement Argument (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a689c9c4700100f9d994f18",
@@ -3618,7 +3660,13 @@
             "_id": "6a6a291658cb0a2e66659f8e"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Statement Assumption (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Statement Assumption (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a689d0b4700100f9d9b0d8c",
@@ -3704,7 +3752,13 @@
             "_id": "6a6a358bf11c79bcba9de685"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Course of Action (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Course of Action (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a689de24700100f9d9c8cdc",
@@ -3876,7 +3930,13 @@
             "_id": "6a6ca2c3f11c79bcba4f5380"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Mirror and Water Image (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Mirror and Water Image (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a68d01f4700100f9daca09b",
@@ -4091,7 +4151,18 @@
             "_id": "6a68d2fc9efa5484573958dc"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "calendar class 001 pdf by vikramjeet sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/calendar class 001 pdf by vikramjeet sir.pdf"
+          },
+          {
+            "priority": 2,
+            "name": "Calendar (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Calendar (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a68817e4700100f9d538eb4",
@@ -4263,7 +4334,13 @@
             "_id": "6a69d9ff8b1eb266bf8aa21f"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Cube & Cuboid (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Cube & Cuboid (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a6885b84700100f9d5f835a",
@@ -4435,7 +4512,13 @@
             "_id": "6a705fcc9efa548457cd085e"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Letter Series (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Letter Series (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a688c724700100f9d697c14",
@@ -4521,7 +4604,13 @@
             "_id": "6a6c922858cb0a2e669a9311"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "MISSING NUMBER (Classnotes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/MISSING NUMBER (Classnotes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a688dcf4700100f9d6c7977",
@@ -4607,7 +4696,13 @@
             "_id": "6a6dddf49efa548457c6ec57"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "odd one out (class notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/odd one out.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a6894524700100f9d859f75",
@@ -4736,7 +4831,13 @@
             "_id": "6a6cbdf5f11c79bcbacfd1ce"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Figure Series (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Figure Series (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a68d2eb4700100f9daf6179",
@@ -4822,7 +4923,13 @@
             "_id": "6a6cc406fded68823d0b453b"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Figure Completion (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Figure Completion (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a6c9a228c3766ca137f0879",
@@ -5080,7 +5187,13 @@
             "_id": "6a6dbbc85851348dd5a11619"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Decision Making (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Decision Making (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a68cd094700100f9da9216c",
@@ -5424,7 +5537,13 @@
             "_id": "6a6d9772f11c79bcbafb402a"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Word Arrangement (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Word Arrangement (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a6897b64700100f9d90156e",
@@ -5553,7 +5672,13 @@
             "_id": "6a6deb869efa5484578bb375"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Data Sufficiency (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Data Sufficiency (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a6899e74700100f9d94926d",
@@ -5727,7 +5852,13 @@
             "_id": "6a6caef79efa54845729b730"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Paper Cutting and Folding (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Paper Cutting and Folding (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a68d0e74700100f9dad210b",
@@ -5813,7 +5944,13 @@
             "_id": "6a6cafff5851348dd5425b53"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Embedded Figure (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Embedded Figure (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a68d1944700100f9dade19f",
@@ -5899,7 +6036,13 @@
             "_id": "6a6cb5e7847c19e9d5fb2109"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Figure Completion (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Figure Completion (Class Notes).pdf"
+          }
+        ],
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a68d1d24700100f9dae618d",
@@ -5989,6 +6132,30 @@
         "source": {
           "courseId": "6a5a11608eefdd1ae57e6ae1",
           "classId": "6a68d27a4700100f9daee184",
+          "topicId": "695e3bda2feca20f81dc4764",
+          "rawRecordIndex": 71
+        }
+      },
+      {
+        "title": "Class - 01 | Dot Situation || by Vikramjeet sir",
+        "description": "Class - 01 | Dot Situation || by Vikramjeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 0,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "",
+        "mp4Recordings": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Dot Situation (Class Notes)",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Dot Situation (Class Notes).pdf"
+          }
+        ],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a68d2b44700100f9daf2195",
           "topicId": "695e3bda2feca20f81dc4764",
           "rawRecordIndex": 71
         }
