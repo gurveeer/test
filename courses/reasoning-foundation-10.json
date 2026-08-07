@@ -1,0 +1,139 @@
+{
+  "courseName": "Reasoning Foundation 1.0",
+  "extractedAt": "2026-08-07T03:22:06+0000",
+  "videos": {
+    "Introduction": [
+      {
+        "title": "Reasoning Introduction Class || by Vikaramjeet sir",
+        "description": "Reasoning special live Batch",
+        "teacherName": "vikramjeet sir",
+        "duration": 2249.837959,
+        "startDate": "2026-08-03T07:03:00.000Z",
+        "endDate": "2026-08-03T08:03:00.000Z",
+        "isFree": true,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a7188788c3766ca13c9bf7b/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a7188788c3766ca13c9bf7b/mp4/Reasoning_Special_Live_Batch_Introduction_Demo_01_Vikramjeet_Sir_SelectionWay_SelectionWay_SSC_RANKERS_GURUKUL_720p_h264__240p.mp4",
+            "quality": "240p",
+            "size": 163.66,
+            "_id": "6a718f82fded68823d6b364c"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a7188788c3766ca13c9bf7b/mp4/Reasoning_Special_Live_Batch_Introduction_Demo_01_Vikramjeet_Sir_SelectionWay_SelectionWay_SSC_RANKERS_GURUKUL_720p_h264__360p.mp4",
+            "quality": "360p",
+            "size": 190.33,
+            "_id": "6a718f82fded68823d6b364d"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a7188788c3766ca13c9bf7b/mp4/Reasoning_Special_Live_Batch_Introduction_Demo_01_Vikramjeet_Sir_SelectionWay_SelectionWay_SSC_RANKERS_GURUKUL_720p_h264__480p.mp4",
+            "quality": "480p",
+            "size": 255.74,
+            "_id": "6a718f82fded68823d6b364e"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a7188788c3766ca13c9bf7b/mp4/Reasoning_Special_Live_Batch_Introduction_Demo_01_Vikramjeet_Sir_SelectionWay_SelectionWay_SSC_RANKERS_GURUKUL_720p_h264__720p.mp4",
+            "quality": "720p",
+            "size": 371.33,
+            "_id": "6a718f82fded68823d6b364f"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11668eefdd1ae57e6ae7",
+          "classId": "6a7188788c3766ca13c9bf7b",
+          "topicId": "68df3538c181958facf1e512",
+          "rawRecordIndex": 24
+        }
+      }
+    ],
+    "Verbal": [
+      {
+        "title": "Class - 01 | Alphabet test || by Vikaramjeet sir",
+        "description": "Reasoning special live Batch",
+        "teacherName": "vikramjeet sir",
+        "duration": 4066,
+        "startDate": "2026-08-04T15:00:00.000Z",
+        "endDate": "2026-08-04T16:19:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a7184538c3766ca13c75c19/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7184538c3766ca13c75c19/output_720p.mp4",
+            "quality": "720p",
+            "size": 607.37,
+            "_id": "6a721ae0586e300170164b40"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7184538c3766ca13c75c19/output_480p.mp4",
+            "quality": "480p",
+            "size": 408.79,
+            "_id": "6a721ae0586e300170164b41"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7184538c3766ca13c75c19/output_360p.mp4",
+            "quality": "360p",
+            "size": 289.23,
+            "_id": "6a721ae0586e300170164b42"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7184538c3766ca13c75c19/output_240p.mp4",
+            "quality": "240p",
+            "size": 203.67,
+            "_id": "6a721ae0586e300170164b43"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11668eefdd1ae57e6ae7",
+          "classId": "6a7184538c3766ca13c75c19",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 24
+        }
+      },
+      {
+        "title": "Class - 02 | Alphabet test || by Vikaramjeet sir",
+        "description": "Reasoning special live Batch",
+        "teacherName": "vikramjeet sir",
+        "duration": 3941,
+        "startDate": "2026-08-05T15:00:00.000Z",
+        "endDate": "2026-08-05T16:17:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a72c7358c3766ca13dfa541/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a72c7358c3766ca13dfa541/output_720p.mp4",
+            "quality": "720p",
+            "size": 567.1,
+            "_id": "6a736dd6fded68823d345f84"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a72c7358c3766ca13dfa541/output_480p.mp4",
+            "quality": "480p",
+            "size": 370.49,
+            "_id": "6a736dd6fded68823d345f85"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a72c7358c3766ca13dfa541/output_360p.mp4",
+            "quality": "360p",
+            "size": 256.07,
+            "_id": "6a736dd6fded68823d345f86"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a72c7358c3766ca13dfa541/output_240p.mp4",
+            "quality": "240p",
+            "size": 175.66,
+            "_id": "6a736dd6fded68823d345f87"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11668eefdd1ae57e6ae7",
+          "classId": "6a72c7358c3766ca13dfa541",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 24
+        }
+      }
+    ]
+  }
+}

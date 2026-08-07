@@ -1,6 +1,6 @@
 {
   "courseName": "GS Special  - 10",
-  "extractedAt": "2026-08-06T03:46:37+0000",
+  "extractedAt": "2026-08-07T03:22:06+0000",
   "videos": {
     "ECONOMICS": [
       {
@@ -49,7 +49,7 @@
           "courseId": "6a462e4eb927c1a84a8b784c",
           "classId": "6a53d2095bac0ae4baeecd98",
           "topicId": "69f5d55622cc6f4d5f6a917f",
-          "rawRecordIndex": 94
+          "rawRecordIndex": 96
         }
       },
       {
@@ -98,7 +98,7 @@
           "courseId": "6a462e4eb927c1a84a8b784c",
           "classId": "6a5981a198f6d3b7e59a09f1",
           "topicId": "69f5d55622cc6f4d5f6a917f",
-          "rawRecordIndex": 94
+          "rawRecordIndex": 96
         }
       },
       {
@@ -147,7 +147,7 @@
           "courseId": "6a462e4eb927c1a84a8b784c",
           "classId": "6a5cfe2b8eefdd1ae5868d02",
           "topicId": "69f5d55622cc6f4d5f6a917f",
-          "rawRecordIndex": 94
+          "rawRecordIndex": 96
         }
       },
       {
@@ -196,7 +196,7 @@
           "courseId": "6a462e4eb927c1a84a8b784c",
           "classId": "6a601c7f8eefdd1ae5b9e0e0",
           "topicId": "69f5d55622cc6f4d5f6a917f",
-          "rawRecordIndex": 94
+          "rawRecordIndex": 96
         }
       },
       {
@@ -245,7 +245,7 @@
           "courseId": "6a462e4eb927c1a84a8b784c",
           "classId": "6a6410278eefdd1ae5eb26c3",
           "topicId": "69f5d55622cc6f4d5f6a917f",
-          "rawRecordIndex": 94
+          "rawRecordIndex": 96
         }
       },
       {
@@ -294,7 +294,7 @@
           "courseId": "6a462e4eb927c1a84a8b784c",
           "classId": "6a645c2a8eefdd1ae5f18acf",
           "topicId": "69f5d55622cc6f4d5f6a917f",
-          "rawRecordIndex": 94
+          "rawRecordIndex": 96
         }
       },
       {
@@ -343,7 +343,7 @@
           "courseId": "6a462e4eb927c1a84a8b784c",
           "classId": "6a672ea34700100f9d387ab2",
           "topicId": "69f5d55622cc6f4d5f6a917f",
-          "rawRecordIndex": 94
+          "rawRecordIndex": 96
         }
       },
       {
@@ -392,7 +392,7 @@
           "courseId": "6a462e4eb927c1a84a8b784c",
           "classId": "6a6a457e4700100f9dc4f245",
           "topicId": "69f5d55622cc6f4d5f6a917f",
-          "rawRecordIndex": 94
+          "rawRecordIndex": 96
         }
       },
       {
@@ -441,7 +441,7 @@
           "courseId": "6a462e4eb927c1a84a8b784c",
           "classId": "6a6b90d14700100f9de3b499",
           "topicId": "69f5d55622cc6f4d5f6a917f",
-          "rawRecordIndex": 94
+          "rawRecordIndex": 96
         }
       },
       {
@@ -490,7 +490,7 @@
           "courseId": "6a462e4eb927c1a84a8b784c",
           "classId": "6a6f89708c3766ca13a68b15",
           "topicId": "69f5d55622cc6f4d5f6a917f",
-          "rawRecordIndex": 94
+          "rawRecordIndex": 96
         }
       },
       {
@@ -528,12 +528,61 @@
             "_id": "6a71bbf2f11c79bcbaa3a878"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "NBFC By varun sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/NBFC By varun sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a462e4eb927c1a84a8b784c",
           "classId": "6a7098c38c3766ca13bfd48e",
           "topicId": "69f5d55622cc6f4d5f6a917f",
-          "rawRecordIndex": 94
+          "rawRecordIndex": 96
+        }
+      },
+      {
+        "title": "Class - 12 | Monetary Policy By Varun Sir",
+        "description": "\" GS Special-  07, 08, 09, 10\r\n Selection Batch - 07, 08, 09, 10\"",
+        "teacherName": "Varun Sir",
+        "duration": 4430,
+        "startDate": "2026-08-06T09:00:00.000Z",
+        "endDate": "2026-08-06T10:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a742cf48c3766ca13f9c061/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a742cf48c3766ca13f9c061/output_720p.mp4",
+            "quality": "720p",
+            "size": 681.37,
+            "_id": "6a74674a58cb0a2e6693db29"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a742cf48c3766ca13f9c061/output_480p.mp4",
+            "quality": "480p",
+            "size": 470.32,
+            "_id": "6a74674a58cb0a2e6693db2a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a742cf48c3766ca13f9c061/output_360p.mp4",
+            "quality": "360p",
+            "size": 336.34,
+            "_id": "6a74674a58cb0a2e6693db2b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a742cf48c3766ca13f9c061/output_240p.mp4",
+            "quality": "240p",
+            "size": 257.78,
+            "_id": "6a74674a58cb0a2e6693db2c"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a462e4eb927c1a84a8b784c",
+          "classId": "6a742cf48c3766ca13f9c061",
+          "topicId": "69f5d55622cc6f4d5f6a917f",
+          "rawRecordIndex": 96
         }
       }
     ]

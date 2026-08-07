@@ -1,6 +1,6 @@
 {
   "courseName": "Selection Batch - 8",
-  "extractedAt": "2026-08-06T03:46:37+0000",
+  "extractedAt": "2026-08-07T03:22:06+0000",
   "videos": {
     "ARITHMETIC": [
       {
@@ -21946,6 +21946,55 @@
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 27
         }
+      },
+      {
+        "title": "Class -04 | calendar | Problem Solving | By Balram Sir",
+        "description": "",
+        "teacherName": "Balram sir",
+        "duration": 2898,
+        "startDate": "2026-08-06T04:30:00.000Z",
+        "endDate": "2026-08-06T05:28:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a740c5c8c3766ca13f34291/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a740c5c8c3766ca13f34291/output_720p.mp4",
+            "quality": "720p",
+            "size": 429.3,
+            "_id": "6a741fdc586e300170216e0a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a740c5c8c3766ca13f34291/output_480p.mp4",
+            "quality": "480p",
+            "size": 290.75,
+            "_id": "6a741fdc586e300170216e0b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a740c5c8c3766ca13f34291/output_360p.mp4",
+            "quality": "360p",
+            "size": 205.73,
+            "_id": "6a741fdc586e300170216e0c"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a740c5c8c3766ca13f34291/output_240p.mp4",
+            "quality": "240p",
+            "size": 144.3,
+            "_id": "6a741fdc586e300170216e0d"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Calendar 04 By balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Calendar 04 By balram sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "69f990f7b927c1a84afd2673",
+          "classId": "6a740c5c8c3766ca13f34291",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 27
+        }
       }
     ],
     "POLITY": [
@@ -26537,6 +26586,49 @@
         "source": {
           "courseId": "69f990f7b927c1a84afd2673",
           "classId": "6a728ee18c3766ca13dbcb39",
+          "topicId": "696e0150719de161eef5677e",
+          "rawRecordIndex": 27
+        }
+      },
+      {
+        "title": "Today's class is off",
+        "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
+        "teacherName": "AMAN SIR",
+        "duration": 37.4181,
+        "startDate": "2026-08-07T02:17:00.000Z",
+        "endDate": "2026-08-07T01:17:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a753fed8c3766ca13156e36/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a753fed8c3766ca13156e36/mp4/20260807_052533_1_240p.mp4",
+            "quality": "240p",
+            "size": 2.85,
+            "_id": "6a754108c941087ec60307c4"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a753fed8c3766ca13156e36/mp4/20260807_052533_1_360p.mp4",
+            "quality": "360p",
+            "size": 3.29,
+            "_id": "6a754108c941087ec60307c5"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a753fed8c3766ca13156e36/mp4/20260807_052533_1_480p.mp4",
+            "quality": "480p",
+            "size": 4.38,
+            "_id": "6a754108c941087ec60307c6"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a753fed8c3766ca13156e36/mp4/20260807_052533_1_720p.mp4",
+            "quality": "720p",
+            "size": 6.4,
+            "_id": "6a754108c941087ec60307c7"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69f990f7b927c1a84afd2673",
+          "classId": "6a753fed8c3766ca13156e36",
           "topicId": "696e0150719de161eef5677e",
           "rawRecordIndex": 27
         }
@@ -32957,6 +33049,49 @@
           "topicId": "68fa5f40aed5b4af7a841a2a",
           "rawRecordIndex": 27
         }
+      },
+      {
+        "title": "Class - 07 | Acid base & salt | by Harish sir",
+        "description": "\"RAILWAY Foundation - 04 ,05, 06\r\nSB 05, 06, 07, 08, 09, 10\"",
+        "teacherName": "Harish sir",
+        "duration": 2102,
+        "startDate": "2026-08-06T16:30:00.000Z",
+        "endDate": "2026-08-06T17:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a7434da8c3766ca13fa9667/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7434da8c3766ca13fa9667/output_720p.mp4",
+            "quality": "720p",
+            "size": 318.49,
+            "_id": "6a74cb5d847c19e9d569b2ac"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7434da8c3766ca13fa9667/output_480p.mp4",
+            "quality": "480p",
+            "size": 220.29,
+            "_id": "6a74cb5d847c19e9d569b2ad"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7434da8c3766ca13fa9667/output_360p.mp4",
+            "quality": "360p",
+            "size": 153.84,
+            "_id": "6a74cb5d847c19e9d569b2ae"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7434da8c3766ca13fa9667/output_240p.mp4",
+            "quality": "240p",
+            "size": 120.4,
+            "_id": "6a74cb5d847c19e9d569b2af"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69f990f7b927c1a84afd2673",
+          "classId": "6a7434da8c3766ca13fa9667",
+          "topicId": "68fa5f40aed5b4af7a841a2a",
+          "rawRecordIndex": 27
+        }
       }
     ],
     "ECONOMICS": [
@@ -33485,10 +33620,59 @@
             "_id": "6a71bbf2f11c79bcbaa3a878"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "NBFC By varun sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/NBFC By varun sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "69f990f7b927c1a84afd2673",
           "classId": "6a7098c38c3766ca13bfd48e",
+          "topicId": "69f5d55622cc6f4d5f6a917f",
+          "rawRecordIndex": 27
+        }
+      },
+      {
+        "title": "Class - 12 | Monetary Policy By Varun Sir",
+        "description": "\" GS Special-  07, 08, 09, 10\r\n Selection Batch - 07, 08, 09, 10\"",
+        "teacherName": "Varun Sir",
+        "duration": 4430,
+        "startDate": "2026-08-06T09:00:00.000Z",
+        "endDate": "2026-08-06T10:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a742cf48c3766ca13f9c061/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a742cf48c3766ca13f9c061/output_720p.mp4",
+            "quality": "720p",
+            "size": 681.37,
+            "_id": "6a74674a58cb0a2e6693db29"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a742cf48c3766ca13f9c061/output_480p.mp4",
+            "quality": "480p",
+            "size": 470.32,
+            "_id": "6a74674a58cb0a2e6693db2a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a742cf48c3766ca13f9c061/output_360p.mp4",
+            "quality": "360p",
+            "size": 336.34,
+            "_id": "6a74674a58cb0a2e6693db2b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a742cf48c3766ca13f9c061/output_240p.mp4",
+            "quality": "240p",
+            "size": 257.78,
+            "_id": "6a74674a58cb0a2e6693db2c"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69f990f7b927c1a84afd2673",
+          "classId": "6a742cf48c3766ca13f9c061",
           "topicId": "69f5d55622cc6f4d5f6a917f",
           "rawRecordIndex": 27
         }

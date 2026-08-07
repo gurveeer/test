@@ -1,6 +1,6 @@
 {
   "courseName": "English Special-7",
-  "extractedAt": "2026-08-06T03:46:37+0000",
+  "extractedAt": "2026-08-07T03:22:06+0000",
   "videos": {
     "Uncategorized": [
       {
@@ -17166,6 +17166,49 @@
         "source": {
           "courseId": "69d4b8b422cc6f4d5f008386",
           "classId": "6a728ee18c3766ca13dbcb39",
+          "topicId": "696e0150719de161eef5677e",
+          "rawRecordIndex": 28
+        }
+      },
+      {
+        "title": "Today's class is off",
+        "description": "\"English  Special  06, 07 , 08 , 09\r\n & Selection Batch  06, 07 , 08 , 09\"",
+        "teacherName": "AMAN SIR",
+        "duration": 37.4181,
+        "startDate": "2026-08-07T02:17:00.000Z",
+        "endDate": "2026-08-07T01:17:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a753fed8c3766ca13156e36/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a753fed8c3766ca13156e36/mp4/20260807_052533_1_240p.mp4",
+            "quality": "240p",
+            "size": 2.85,
+            "_id": "6a754108c941087ec60307c4"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a753fed8c3766ca13156e36/mp4/20260807_052533_1_360p.mp4",
+            "quality": "360p",
+            "size": 3.29,
+            "_id": "6a754108c941087ec60307c5"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a753fed8c3766ca13156e36/mp4/20260807_052533_1_480p.mp4",
+            "quality": "480p",
+            "size": 4.38,
+            "_id": "6a754108c941087ec60307c6"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a753fed8c3766ca13156e36/mp4/20260807_052533_1_720p.mp4",
+            "quality": "720p",
+            "size": 6.4,
+            "_id": "6a754108c941087ec60307c7"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69d4b8b422cc6f4d5f008386",
+          "classId": "6a753fed8c3766ca13156e36",
           "topicId": "696e0150719de161eef5677e",
           "rawRecordIndex": 28
         }

@@ -1,71 +1,26 @@
 {
-  "generatedAt": "2026-08-06T03:46:37+0000",
+  "generatedAt": "2026-08-07T03:22:06+0000",
   "source": {
     "mode": "all",
-    "rawExportFile": "/home/runner/work/test/test/FILES/delta_study_courses_export_20260806_034635.json",
-    "rawCourseCount": 123,
-    "appCourseCount": 123
+    "rawExportFile": "/home/runner/work/test/test/FILES/delta_study_courses_export_20260807_032204.json",
+    "rawCourseCount": 125,
+    "appCourseCount": 125
   },
   "courses": [
     {
-      "id": "new-special-batch",
-      "sourceId": "6a673b894700100f9d394551",
-      "name": "New special Batch",
-      "icon": "📚",
-      "description": "Helpful for SSC , DEFENCE , BANKING AND OTHER STATE EXAMS",
-      "banner": null,
-      "status": "inactive",
-      "price": 1999,
-      "discountPrice": 999,
-      "validity": "2 years",
-      "subjectCount": 0,
-      "videoCount": 0,
-      "dataFile": "courses/new-special-batch.json"
-    },
-    {
-      "id": "foundation-maths-batch",
-      "sourceId": "6a673b854700100f9d39454b",
-      "name": "Foundation Maths Batch",
-      "icon": "🔢",
-      "description": "Helpful for SSC , DEFENCE , BANKING AND OTHER STATE EXAMS",
-      "banner": null,
-      "status": "inactive",
-      "price": 1999,
-      "discountPrice": 1297,
-      "validity": "2 years",
-      "subjectCount": 0,
-      "videoCount": 0,
-      "dataFile": "courses/foundation-maths-batch.json"
-    },
-    {
-      "id": "new-batch",
-      "sourceId": "6a673b824700100f9d394545",
-      "name": "New batch",
-      "icon": "📚",
-      "description": "Helpful for SSC , DEFENCE , BANKING AND OTHER STATE EXAMS",
-      "banner": null,
-      "status": "inactive",
-      "price": 1999,
-      "discountPrice": 899,
-      "validity": "2 years",
-      "subjectCount": 0,
-      "videoCount": 0,
-      "dataFile": "courses/new-batch.json"
-    },
-    {
-      "id": "old-batch",
+      "id": "selection-batch-110",
       "sourceId": "6a673b7e4700100f9d39452d",
-      "name": "Old batch",
+      "name": "Selection Batch 11.0",
       "icon": "📚",
       "description": "Helpful for SSC , DEFENCE , BANKING AND OTHER STATE EXAMS",
-      "banner": null,
-      "status": "inactive",
-      "price": 1999,
-      "discountPrice": 999,
+      "banner": "https://selectionwayserver.hranker.com/courses/banners/1786019107770-4_IMG_BANNER_APP_11_.0.png",
+      "status": "active",
+      "price": 4999,
+      "discountPrice": 1999,
       "validity": "2 years",
       "subjectCount": 0,
       "videoCount": 0,
-      "dataFile": "courses/old-batch.json"
+      "dataFile": "courses/selection-batch-110.json"
     },
     {
       "id": "reasoning-crash-course",
@@ -79,7 +34,7 @@
       "discountPrice": 0,
       "validity": "1 year",
       "subjectCount": 1,
-      "videoCount": 8,
+      "videoCount": 9,
       "dataFile": "courses/reasoning-crash-course.json"
     },
     {
@@ -169,7 +124,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 21,
-      "videoCount": 751,
+      "videoCount": 755,
       "dataFile": "courses/selection-batch-7.json"
     },
     {
@@ -263,6 +218,21 @@
       "dataFile": "courses/railway-all-in-one.json"
     },
     {
+      "id": "maths-special-110",
+      "sourceId": "6a673b824700100f9d394545",
+      "name": "Maths Special 11.0",
+      "icon": "🔢",
+      "description": "Helpful for SSC , DEFENCE , BANKING AND OTHER STATE EXAMS",
+      "banner": "https://selectionwayserver.hranker.com/courses/banners/1786019439789-maths_11.0_app_banner.png",
+      "status": "active",
+      "price": 1999,
+      "discountPrice": 899,
+      "validity": "2 years",
+      "subjectCount": 0,
+      "videoCount": 0,
+      "dataFile": "courses/maths-special-110.json"
+    },
+    {
       "id": "selection-batch-vod-30",
       "sourceId": "6a1fe6acb927c1a84abc603d",
       "name": "Selection Batch  Vod 3.0",
@@ -319,7 +289,7 @@
       "discountPrice": 1999,
       "validity": "2 years",
       "subjectCount": 24,
-      "videoCount": 1166,
+      "videoCount": 1168,
       "dataFile": "courses/selection-batch-5.json"
     },
     {
@@ -383,6 +353,36 @@
       "dataFile": "courses/ssc-all-in-one.json"
     },
     {
+      "id": "english-special-110",
+      "sourceId": "6a673b854700100f9d39454b",
+      "name": "English Special 11.0",
+      "icon": "📖",
+      "description": "Helpful for SSC , DEFENCE , BANKING AND OTHER STATE EXAMS",
+      "banner": "https://selectionwayserver.hranker.com/courses/banners/1786039617961-english_11.0_a.png",
+      "status": "active",
+      "price": 1999,
+      "discountPrice": 899,
+      "validity": "2 years",
+      "subjectCount": 0,
+      "videoCount": 0,
+      "dataFile": "courses/english-special-110.json"
+    },
+    {
+      "id": "reasoning-foundation-10",
+      "sourceId": "6a5a11668eefdd1ae57e6ae7",
+      "name": "Reasoning Foundation 1.0",
+      "icon": "🧠",
+      "description": "Helpfull for all ssc  , railway and other state Exams",
+      "banner": "https://selectionwayserver.hranker.com/courses/banners/1786021139571-vikramjeet_sir.png",
+      "status": "active",
+      "price": 1999,
+      "discountPrice": 599,
+      "validity": "2 years",
+      "subjectCount": 2,
+      "videoCount": 3,
+      "dataFile": "courses/reasoning-foundation-10.json"
+    },
+    {
       "id": "english-special-vod-30",
       "sourceId": "6a1fe6b6b927c1a84abc604b",
       "name": "English Special VOD 3.0",
@@ -424,7 +424,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 19,
-      "videoCount": 659,
+      "videoCount": 663,
       "dataFile": "courses/selection-batch-8.json"
     },
     {
@@ -439,7 +439,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 8,
-      "videoCount": 324,
+      "videoCount": 325,
       "dataFile": "courses/english-special-7.json"
     },
     {
@@ -473,6 +473,21 @@
       "dataFile": "courses/railway-advance-maths.json"
     },
     {
+      "id": "reasoning-special-110",
+      "sourceId": "6a673b894700100f9d394551",
+      "name": "Reasoning Special 11.0",
+      "icon": "🧠",
+      "description": "Helpful for SSC , DEFENCE , BANKING AND OTHER STATE EXAMS",
+      "banner": "https://selectionwayserver.hranker.com/courses/banners/1786039606450-balram_sir_11.0_a.png",
+      "status": "active",
+      "price": 1999,
+      "discountPrice": 499,
+      "validity": "2 years",
+      "subjectCount": 0,
+      "videoCount": 0,
+      "dataFile": "courses/reasoning-special-110.json"
+    },
+    {
       "id": "selection-batch-9",
       "sourceId": "6a268a36b927c1a84afff936",
       "name": "Selection Batch - 9",
@@ -484,7 +499,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 19,
-      "videoCount": 583,
+      "videoCount": 587,
       "dataFile": "courses/selection-batch-9.json"
     },
     {
@@ -514,7 +529,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 8,
-      "videoCount": 325,
+      "videoCount": 326,
       "dataFile": "courses/english-special-9.json"
     },
     {
@@ -529,7 +544,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 2,
-      "videoCount": 23,
+      "videoCount": 24,
       "dataFile": "courses/gs-special-9.json"
     },
     {
@@ -544,7 +559,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 1,
-      "videoCount": 37,
+      "videoCount": 38,
       "dataFile": "courses/reasoning-special-9.json"
     },
     {
@@ -558,8 +573,8 @@
       "price": null,
       "discountPrice": 999,
       "validity": "2 years",
-      "subjectCount": 17,
-      "videoCount": 693,
+      "subjectCount": 18,
+      "videoCount": 697,
       "dataFile": "courses/railway-foundation-batch-4.json"
     },
     {
@@ -574,7 +589,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 4,
-      "videoCount": 98,
+      "videoCount": 99,
       "dataFile": "courses/gs-special-7.json"
     },
     {
@@ -653,19 +668,19 @@
       "dataFile": "courses/defence-all-in-one.json"
     },
     {
-      "id": "selection-batch-vod-40",
-      "sourceId": "6a5a117b8eefdd1ae57e6b09",
-      "name": "Selection Batch  Vod 4.0",
+      "id": "gs-special-110",
+      "sourceId": "6a747d2d8c3766ca13017a97",
+      "name": "GS Special 11.0",
       "icon": "📚",
-      "description": "Helpfull for all SSC and other competitive exams",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1785215386345-1781618150772-photo_2026-06-16_19-14-03.jpg",
+      "description": "Helpful for SSC , DEFENCE , BANKING AND OTHER STATE EXAMS",
+      "banner": "https://selectionwayserver.hranker.com/courses/banners/1786039590330-varun_sir_11.0_a.png",
       "status": "active",
-      "price": 3999,
-      "discountPrice": 1999,
+      "price": 1999,
+      "discountPrice": 499,
       "validity": "2 years",
-      "subjectCount": 24,
-      "videoCount": 1204,
-      "dataFile": "courses/selection-batch-vod-40.json"
+      "subjectCount": 0,
+      "videoCount": 0,
+      "dataFile": "courses/gs-special-110.json"
     },
     {
       "id": "railway-foundation-batch-5",
@@ -678,8 +693,8 @@
       "price": 2999,
       "discountPrice": 999,
       "validity": "2 years",
-      "subjectCount": 22,
-      "videoCount": 790,
+      "subjectCount": 23,
+      "videoCount": 794,
       "dataFile": "courses/railway-foundation-batch-5.json"
     },
     {
@@ -709,7 +724,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 7,
-      "videoCount": 323,
+      "videoCount": 324,
       "dataFile": "courses/english-special-8.json"
     },
     {
@@ -724,7 +739,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 3,
-      "videoCount": 52,
+      "videoCount": 53,
       "dataFile": "courses/gs-special-8.json"
     },
     {
@@ -739,7 +754,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 1,
-      "videoCount": 63,
+      "videoCount": 64,
       "dataFile": "courses/reasoning-special-8.json"
     },
     {
@@ -754,7 +769,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 1,
-      "videoCount": 78,
+      "videoCount": 79,
       "dataFile": "courses/reasoning-special-7.json"
     },
     {
@@ -784,7 +799,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 25,
-      "videoCount": 1189,
+      "videoCount": 1190,
       "dataFile": "courses/selection-batch-4.json"
     },
     {
@@ -818,19 +833,19 @@
       "dataFile": "courses/ssc-2024-exams-best-questions-solution.json"
     },
     {
-      "id": "maths-special-vod-60",
-      "sourceId": "6a5a116e8eefdd1ae57e6aec",
-      "name": "Maths Special VOD 6.0",
-      "icon": "🔢",
-      "description": "maths special VOD batch",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1785215365768-1781618130322-MATHS_5.0.png",
+      "id": "gs-foundation-10",
+      "sourceId": "6a747d308c3766ca13017a9c",
+      "name": "GS Foundation 1.0",
+      "icon": "📚",
+      "description": "Helpful for SSC , DEFENCE , BANKING AND OTHER STATE EXAMS",
+      "banner": "https://selectionwayserver.hranker.com/courses/banners/1786039564596-shubham_sir_1.0_a.png",
       "status": "active",
-      "price": 2999,
-      "discountPrice": 999,
-      "validity": "2 year",
-      "subjectCount": 6,
-      "videoCount": 503,
-      "dataFile": "courses/maths-special-vod-60.json"
+      "price": 1999,
+      "discountPrice": 499,
+      "validity": "2 years",
+      "subjectCount": 0,
+      "videoCount": 0,
+      "dataFile": "courses/gs-foundation-10.json"
     },
     {
       "id": "selection-batch-vod-10",
@@ -859,7 +874,7 @@
       "discountPrice": 1599,
       "validity": "2 years",
       "subjectCount": 23,
-      "videoCount": 932,
+      "videoCount": 935,
       "dataFile": "courses/selection-batch-6.json"
     },
     {
@@ -888,8 +903,8 @@
       "price": 0,
       "discountPrice": 999,
       "validity": "2 years",
-      "subjectCount": 22,
-      "videoCount": 716,
+      "subjectCount": 23,
+      "videoCount": 717,
       "dataFile": "courses/railway-foundation-batch.json"
     },
     {
@@ -968,19 +983,34 @@
       "dataFile": "courses/defence-all-in-one-2.json"
     },
     {
-      "id": "english-special-vod-40",
-      "sourceId": "6a5a11838eefdd1ae57e6b1e",
-      "name": "English Special VOD 4.0",
-      "icon": "📖",
-      "description": "English special VOD batch",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1785215408588-1781618105489-eNGLISH_3.0.png",
+      "id": "selection-batch-vod-40",
+      "sourceId": "6a5a117b8eefdd1ae57e6b09",
+      "name": "Selection Batch  Vod 4.0",
+      "icon": "📚",
+      "description": "Helpfull for all SSC and other competitive exams",
+      "banner": "https://selectionwayserver.hranker.com/courses/banners/1785215386345-1781618150772-photo_2026-06-16_19-14-03.jpg",
+      "status": "active",
+      "price": 3999,
+      "discountPrice": 1999,
+      "validity": "2 years",
+      "subjectCount": 24,
+      "videoCount": 1204,
+      "dataFile": "courses/selection-batch-vod-40.json"
+    },
+    {
+      "id": "maths-special-vod-60",
+      "sourceId": "6a5a116e8eefdd1ae57e6aec",
+      "name": "Maths Special VOD 6.0",
+      "icon": "🔢",
+      "description": "maths special VOD batch",
+      "banner": "https://selectionwayserver.hranker.com/courses/banners/1785215365768-1781618130322-MATHS_5.0.png",
       "status": "active",
       "price": 2999,
       "discountPrice": 999,
-      "validity": "2 years",
+      "validity": "2 year",
       "subjectCount": 6,
-      "videoCount": 263,
-      "dataFile": "courses/english-special-vod-40.json"
+      "videoCount": 503,
+      "dataFile": "courses/maths-special-vod-60.json"
     },
     {
       "id": "english-special-vod-batch-1",
@@ -1024,7 +1054,7 @@
       "discountPrice": 1,
       "validity": "2 years",
       "subjectCount": 8,
-      "videoCount": 324,
+      "videoCount": 325,
       "dataFile": "courses/english-special-6.json"
     },
     {
@@ -1039,7 +1069,7 @@
       "discountPrice": 1,
       "validity": "2 years",
       "subjectCount": 2,
-      "videoCount": 98,
+      "videoCount": 99,
       "dataFile": "courses/reasoning-special-6.json"
     },
     {
@@ -1054,7 +1084,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 2,
-      "videoCount": 119,
+      "videoCount": 120,
       "dataFile": "courses/reasoning-special-5.json"
     },
     {
@@ -1073,9 +1103,24 @@
       "dataFile": "courses/railways-all-in-one.json"
     },
     {
-      "id": "reasoning-special-vod-batch",
+      "id": "english-special-vod-40",
+      "sourceId": "6a5a11838eefdd1ae57e6b1e",
+      "name": "English Special VOD 4.0",
+      "icon": "📖",
+      "description": "English special VOD batch",
+      "banner": "https://selectionwayserver.hranker.com/courses/banners/1785215408588-1781618105489-eNGLISH_3.0.png",
+      "status": "active",
+      "price": 2999,
+      "discountPrice": 999,
+      "validity": "2 years",
+      "subjectCount": 6,
+      "videoCount": 263,
+      "dataFile": "courses/english-special-vod-40.json"
+    },
+    {
+      "id": "reasoning-foundation-vod-10",
       "sourceId": "6a5a11608eefdd1ae57e6ae1",
-      "name": "Reasoning Special Vod Batch",
+      "name": "Reasoning foundation Vod 1.0",
       "icon": "🧠",
       "description": "Helpfull for all ssc  , railway and other state Exams",
       "banner": "https://selectionwayserver.hranker.com/courses/banners/1784702500170-1234567YGFDSW.jpg",
@@ -1085,7 +1130,7 @@
       "validity": "2 years",
       "subjectCount": 2,
       "videoCount": 139,
-      "dataFile": "courses/reasoning-special-vod-batch.json"
+      "dataFile": "courses/reasoning-foundation-vod-10.json"
     },
     {
       "id": "maths-special-vod-batch-3",
@@ -1103,9 +1148,9 @@
       "dataFile": "courses/maths-special-vod-batch-3.json"
     },
     {
-      "id": "gs-special-vod-batch-10",
+      "id": "gs-special-vod-10",
       "sourceId": "6a673b434700100f9d394486",
-      "name": "GS Special VOD Batch 1.0",
+      "name": "GS Special VOD 1.0",
       "icon": "📚",
       "description": "Helpful for SSC , DEFENCE , BANKING AND OTHER STATE EXAMS",
       "banner": "https://selectionwayserver.hranker.com/courses/banners/1785216283765-Screenshot_2026-07-28_105339.png",
@@ -1115,7 +1160,7 @@
       "validity": "2 years",
       "subjectCount": 4,
       "videoCount": 130,
-      "dataFile": "courses/gs-special-vod-batch-10.json"
+      "dataFile": "courses/gs-special-vod-10.json"
     },
     {
       "id": "gs-special-6",
@@ -1173,8 +1218,8 @@
       "price": null,
       "discountPrice": 999,
       "validity": "2 years",
-      "subjectCount": 24,
-      "videoCount": 823,
+      "subjectCount": 25,
+      "videoCount": 826,
       "dataFile": "courses/railway-foundation-batch-3.json"
     },
     {
@@ -1203,8 +1248,8 @@
       "price": null,
       "discountPrice": 799,
       "validity": "2 years",
-      "subjectCount": 22,
-      "videoCount": 779,
+      "subjectCount": 23,
+      "videoCount": 781,
       "dataFile": "courses/railway-foundation-batch-2.json"
     },
     {
@@ -1264,7 +1309,7 @@
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 2,
-      "videoCount": 134,
+      "videoCount": 135,
       "dataFile": "courses/reasoning-special-4.json"
     },
     {
@@ -1304,12 +1349,12 @@
       "icon": "📚",
       "description": "Useful for SSC, Railways, Banking and other state exams",
       "banner": "https://selectionwayserver.hranker.com/courses/banners/1782998901258-4_IMG_BANNER_APP_10.0.png",
-      "status": "active",
+      "status": "inactive",
       "price": 4999,
       "discountPrice": 1999,
       "validity": "2 years",
       "subjectCount": 16,
-      "videoCount": 454,
+      "videoCount": 457,
       "dataFile": "courses/selection-batch-10.json"
     },
     {
@@ -1364,7 +1409,7 @@
       "icon": "🔢",
       "description": "For All Competitive Exams",
       "banner": "https://selectionwayserver.hranker.com/courses/banners/1782998940337-gagan_sir_app_banner_10.0.png",
-      "status": "active",
+      "status": "inactive",
       "price": 2999,
       "discountPrice": 999,
       "validity": "2 years",
@@ -1379,7 +1424,7 @@
       "icon": "📖",
       "description": "Dedicated for - SSC & Defense Exams Useful For : Banking & other Exams",
       "banner": "https://selectionwayserver.hranker.com/courses/banners/1782998958566-aman_sir_app_banner_10.0.png",
-      "status": "active",
+      "status": "inactive",
       "price": 2999,
       "discountPrice": 999,
       "validity": "2 years",
@@ -1388,33 +1433,18 @@
       "dataFile": "courses/english-special-10.json"
     },
     {
-      "id": "reasoning-special-live-batch",
-      "sourceId": "6a5a11668eefdd1ae57e6ae7",
-      "name": "Reasoning special live Batch",
-      "icon": "🧠",
-      "description": "Helpfull for all ssc  , railway and other state Exams",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1784702469976-sdfgh.jpg",
-      "status": "active",
-      "price": 1999,
-      "discountPrice": 699,
-      "validity": "2 years",
-      "subjectCount": 2,
-      "videoCount": 3,
-      "dataFile": "courses/reasoning-special-live-batch.json"
-    },
-    {
       "id": "reasoning-special-10",
       "sourceId": "6a462e48b927c1a84a8b7846",
       "name": "Reasoning Special - 10",
       "icon": "🧠",
       "description": "useful for SSC , DEFENCE, BANKING & OTHER STATE EXAMS",
       "banner": "https://selectionwayserver.hranker.com/courses/banners/1782999000282-balram_sir_app_banner_10.0.png",
-      "status": "active",
+      "status": "inactive",
       "price": 1999,
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 1,
-      "videoCount": 17,
+      "videoCount": 18,
       "dataFile": "courses/reasoning-special-10.json"
     },
     {
@@ -1424,12 +1454,12 @@
       "icon": "📚",
       "description": "Helpful for SSC , DEFENCE , BANKING AND OTHER STATE EXAMS",
       "banner": "https://selectionwayserver.hranker.com/courses/banners/1782998979360-varun_sir_app_banner_10.0.png",
-      "status": "active",
+      "status": "inactive",
       "price": 1999,
       "discountPrice": 499,
       "validity": "2 years",
       "subjectCount": 1,
-      "videoCount": 11,
+      "videoCount": 12,
       "dataFile": "courses/gs-special-10.json"
     },
     {
@@ -1443,8 +1473,8 @@
       "price": 2999,
       "discountPrice": 999,
       "validity": "2 years",
-      "subjectCount": 7,
-      "videoCount": 71,
+      "subjectCount": 8,
+      "videoCount": 77,
       "dataFile": "courses/railway-foundation-60.json"
     },
     {
@@ -1459,7 +1489,7 @@
       "discountPrice": 399,
       "validity": "2 years",
       "subjectCount": 3,
-      "videoCount": 15,
+      "videoCount": 16,
       "dataFile": "courses/science-special-foundation-batch-2.json"
     },
     {
@@ -1474,7 +1504,7 @@
       "discountPrice": 999,
       "validity": "2 years",
       "subjectCount": 24,
-      "videoCount": 760,
+      "videoCount": 761,
       "dataFile": "courses/rrb-group-d-batch.json"
     },
     {
@@ -1534,7 +1564,7 @@
       "discountPrice": 489,
       "validity": "1 year",
       "subjectCount": 4,
-      "videoCount": 25,
+      "videoCount": 26,
       "dataFile": "courses/ssc-special-5000-mcq-batch.json"
     },
     {
@@ -1549,7 +1579,7 @@
       "discountPrice": 699,
       "validity": "1 year",
       "subjectCount": 4,
-      "videoCount": 66,
+      "videoCount": 67,
       "dataFile": "courses/cgl-rapid-batch.json"
     },
     {
@@ -1854,8 +1884,8 @@
     }
   ],
   "stats": {
-    "appVideoCount": 34557,
+    "appVideoCount": 34618,
     "skippedInactiveCourses": 0,
-    "skippedEmptyRows": 36
+    "skippedEmptyRows": 41
   }
 }

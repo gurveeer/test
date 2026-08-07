@@ -1,6 +1,6 @@
 {
   "courseName": "Science special Foundation Batch",
-  "extractedAt": "2026-08-06T03:46:37+0000",
+  "extractedAt": "2026-08-07T03:22:06+0000",
   "videos": {
     "Introduction": [
       {
@@ -18,7 +18,7 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a4e57b02631e9eb3b781a48",
           "topicId": "68df3538c181958facf1e512",
-          "rawRecordIndex": 96
+          "rawRecordIndex": 98
         }
       },
       {
@@ -67,7 +67,7 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a5db84b8eefdd1ae58b6af3",
           "topicId": "68df3538c181958facf1e512",
-          "rawRecordIndex": 96
+          "rawRecordIndex": 98
         }
       }
     ],
@@ -106,7 +106,7 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a5732962a64690198a1b1e1",
           "topicId": "6a57350caacf22e8616a9d83",
-          "rawRecordIndex": 96
+          "rawRecordIndex": 98
         }
       }
     ],
@@ -132,7 +132,7 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a5ed5518eefdd1ae5a2a343",
           "topicId": "68e22134290f277f35d6d12b",
-          "rawRecordIndex": 96
+          "rawRecordIndex": 98
         }
       },
       {
@@ -181,7 +181,7 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a601e978eefdd1ae5baa073",
           "topicId": "68e22134290f277f35d6d12b",
-          "rawRecordIndex": 96
+          "rawRecordIndex": 98
         }
       },
       {
@@ -230,7 +230,7 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a6166c28eefdd1ae5ccc2b2",
           "topicId": "68e22134290f277f35d6d12b",
-          "rawRecordIndex": 96
+          "rawRecordIndex": 98
         }
       },
       {
@@ -279,7 +279,7 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a61e7f08eefdd1ae5d64f02",
           "topicId": "68e22134290f277f35d6d12b",
-          "rawRecordIndex": 96
+          "rawRecordIndex": 98
         }
       },
       {
@@ -328,7 +328,7 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a66b2ea8eefdd1ae50046a5",
           "topicId": "68e22134290f277f35d6d12b",
-          "rawRecordIndex": 96
+          "rawRecordIndex": 98
         }
       },
       {
@@ -377,7 +377,7 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a6729e54700100f9d36b736",
           "topicId": "68e22134290f277f35d6d12b",
-          "rawRecordIndex": 96
+          "rawRecordIndex": 98
         }
       },
       {
@@ -426,7 +426,7 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a6955954700100f9db589dc",
           "topicId": "68e22134290f277f35d6d12b",
-          "rawRecordIndex": 96
+          "rawRecordIndex": 98
         }
       },
       {
@@ -475,7 +475,7 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a6a43324700100f9dc3ed5d",
           "topicId": "68e22134290f277f35d6d12b",
-          "rawRecordIndex": 96
+          "rawRecordIndex": 98
         }
       },
       {
@@ -524,7 +524,7 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a6b90744700100f9de3311a",
           "topicId": "68e22134290f277f35d6d12b",
-          "rawRecordIndex": 96
+          "rawRecordIndex": 98
         }
       },
       {
@@ -573,7 +573,7 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a6cc0828c3766ca1380288c",
           "topicId": "68e22134290f277f35d6d12b",
-          "rawRecordIndex": 96
+          "rawRecordIndex": 98
         }
       },
       {
@@ -622,7 +622,7 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a6f891c8c3766ca13a647ca",
           "topicId": "68e22134290f277f35d6d12b",
-          "rawRecordIndex": 96
+          "rawRecordIndex": 98
         }
       },
       {
@@ -671,7 +671,50 @@
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a7098708c3766ca13bf903f",
           "topicId": "68e22134290f277f35d6d12b",
-          "rawRecordIndex": 96
+          "rawRecordIndex": 98
+        }
+      },
+      {
+        "title": "Class - 01 | Blood | by Radhika maam",
+        "description": "\"RAILWAY Foundation - 06\r\nScience Foundation - 01\"",
+        "teacherName": "radhika maam",
+        "duration": 4122,
+        "startDate": "2026-08-06T07:30:00.000Z",
+        "endDate": "2026-08-06T08:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a71ab698c3766ca13d1097c/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71ab698c3766ca13d1097c/output_720p.mp4",
+            "quality": "720p",
+            "size": 614.16,
+            "_id": "6a7451755851348dd52bd189"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71ab698c3766ca13d1097c/output_480p.mp4",
+            "quality": "480p",
+            "size": 415.98,
+            "_id": "6a7451755851348dd52bd18a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71ab698c3766ca13d1097c/output_360p.mp4",
+            "quality": "360p",
+            "size": 295.81,
+            "_id": "6a7451755851348dd52bd18b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a71ab698c3766ca13d1097c/output_240p.mp4",
+            "quality": "240p",
+            "size": 212.01,
+            "_id": "6a7451755851348dd52bd18c"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a4e35315bac0ae4bab52444",
+          "classId": "6a71ab698c3766ca13d1097c",
+          "topicId": "68e22134290f277f35d6d12b",
+          "rawRecordIndex": 98
         }
       }
     ]
