@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation Batch -2",
-  "extractedAt": "2026-08-07T03:22:06+0000",
+  "extractedAt": "2026-08-08T02:25:42+0000",
   "videos": {
     "Advance": [
       {
@@ -35125,7 +35125,13 @@
             "_id": "6a740c96847c19e9d52f3a70"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Missing Number 001 By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Missing Number 001 By Deepak Sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6943f10fcd0a679bc1207d93",
           "classId": "6a7318108c3766ca13ea97ff",
@@ -35137,13 +35143,44 @@
         "title": "Class-02 || Missing Number-02 By Deepak Sir",
         "description": "\"*Railway Foundation Batch ,2 ,3 4,5,6\r\n*RRB Group D \r\n\"",
         "teacherName": "deepak sir",
-        "duration": 0,
+        "duration": 3455,
         "startDate": "2026-08-07T02:30:00.000Z",
         "endDate": "2026-08-07T03:30:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a753b2f8c3766ca13134a43/playlist.m3u8",
-        "mp4Recordings": [],
-        "classPdf": [],
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a753b2f8c3766ca13134a43/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a753b2f8c3766ca13134a43/output_720p.mp4",
+            "quality": "720p",
+            "size": 504.41,
+            "_id": "6a75599ffded68823d51d3b7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a753b2f8c3766ca13134a43/output_480p.mp4",
+            "quality": "480p",
+            "size": 342.7,
+            "_id": "6a75599ffded68823d51d3b8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a753b2f8c3766ca13134a43/output_360p.mp4",
+            "quality": "360p",
+            "size": 239.1,
+            "_id": "6a75599ffded68823d51d3b9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a753b2f8c3766ca13134a43/output_240p.mp4",
+            "quality": "240p",
+            "size": 163.63,
+            "_id": "6a75599ffded68823d51d3ba"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Missing Number 02 By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Missing Number 02 By Deepak Sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "6943f10fcd0a679bc1207d93",
           "classId": "6a753b2f8c3766ca13134a43",

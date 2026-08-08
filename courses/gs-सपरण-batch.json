@@ -1,6 +1,6 @@
 {
   "courseName": "GS संपूर्ण Batch",
-  "extractedAt": "2026-08-07T03:22:06+0000",
+  "extractedAt": "2026-08-08T02:25:42+0000",
   "videos": {
     "HISTORY": [
       {
@@ -2233,7 +2233,13 @@
         "isFree": false,
         "videoUrl": "https://www.youtube.com/watch?v=8tPlOG1j-zU",
         "mp4Recordings": [],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Indian Geography class 24 PDF by shubham sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Indian Geography class 24 PDF by shubham sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "698487d5fdd21a8a2d1a5270",
           "classId": "6a6486d38eefdd1ae5f89ae2",
@@ -2305,7 +2311,13 @@
         "isFree": false,
         "videoUrl": "https://www.youtube.com/watch?v=wtn9_wL6nzM",
         "mp4Recordings": [],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Indian Geography Class 28 PDF by shubham sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Indian Geography Class 28 PDF by shubham sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "698487d5fdd21a8a2d1a5270",
           "classId": "6a72d1068c3766ca13e10404",

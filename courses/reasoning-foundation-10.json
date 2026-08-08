@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Foundation 1.0",
-  "extractedAt": "2026-08-07T03:22:06+0000",
+  "extractedAt": "2026-08-08T02:25:42+0000",
   "videos": {
     "Introduction": [
       {
@@ -130,6 +130,49 @@
         "source": {
           "courseId": "6a5a11668eefdd1ae57e6ae7",
           "classId": "6a72c7358c3766ca13dfa541",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 24
+        }
+      },
+      {
+        "title": "Class - 03 | Alphabet test || by Vikaramjeet sir",
+        "description": "Reasoning special live Batch",
+        "teacherName": "Balram Sir",
+        "duration": 2273,
+        "startDate": "2026-08-07T12:10:00.000Z",
+        "endDate": "2026-08-07T13:10:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a741aff8c3766ca13f5f8c3/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a741aff8c3766ca13f5f8c3/output_720p.mp4",
+            "quality": "720p",
+            "size": 339,
+            "_id": "6a75dc178b1eb266bf6b7729"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a741aff8c3766ca13f5f8c3/output_480p.mp4",
+            "quality": "480p",
+            "size": 228.51,
+            "_id": "6a75dc178b1eb266bf6b772a"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a741aff8c3766ca13f5f8c3/output_360p.mp4",
+            "quality": "360p",
+            "size": 159.5,
+            "_id": "6a75dc178b1eb266bf6b772b"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a741aff8c3766ca13f5f8c3/output_240p.mp4",
+            "quality": "240p",
+            "size": 103.43,
+            "_id": "6a75dc178b1eb266bf6b772c"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11668eefdd1ae57e6ae7",
+          "classId": "6a741aff8c3766ca13f5f8c3",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 24
         }

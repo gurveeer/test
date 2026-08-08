@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning Special-5",
-  "extractedAt": "2026-08-07T03:22:06+0000",
+  "extractedAt": "2026-08-08T02:25:42+0000",
   "videos": {
     "Verbal": [
       {
@@ -5404,16 +5404,65 @@
         "title": "Class-02 | circular Sitting Arrangement | Sitting arrangement | By balram sir",
         "description": "\"Reasoning  Special  05, 06 , 07\r\n Selection Batch 05, 06 ,07\"",
         "teacherName": "Balram Sir",
-        "duration": 0,
+        "duration": 3262,
         "startDate": "2026-08-07T02:00:00.000Z",
         "endDate": "2026-08-07T03:00:00.000Z",
         "isFree": false,
         "videoUrl": "https://selectionwaylive.hranker.com/561/6a753a608c3766ca13127d13/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a753a608c3766ca13127d13/output_720p.mp4",
+            "quality": "720p",
+            "size": 505.63,
+            "_id": "6a7553835851348dd54c95cd"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a753a608c3766ca13127d13/output_480p.mp4",
+            "quality": "480p",
+            "size": 317.25,
+            "_id": "6a7553835851348dd54c95ce"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a753a608c3766ca13127d13/output_360p.mp4",
+            "quality": "360p",
+            "size": 222.14,
+            "_id": "6a7553835851348dd54c95cf"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a753a608c3766ca13127d13/output_240p.mp4",
+            "quality": "240p",
+            "size": 148.77,
+            "_id": "6a7553835851348dd54c95d0"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Circular Sitting Arrangement 02 by balram sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Circular Sitting Arrangement 02 by balram sir BOARD PDF.pdf"
+          }
+        ],
+        "source": {
+          "courseId": "698481cefdd21a8a2d18ac6a",
+          "classId": "6a753a608c3766ca13127d13",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 71
+        }
+      },
+      {
+        "title": "Class-01 | Polygon Sitting Arrangement | Sitting arrangement | By balram sir",
+        "description": "\"Reasoning  Special  05, 06 , 07\r\n Selection Batch 05, 06 ,07\"",
+        "teacherName": "Balram sir",
+        "duration": 0,
+        "startDate": "2026-08-08T02:00:00.000Z",
+        "endDate": "2026-08-08T03:06:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a75ef818c3766ca13246e42/playlist.m3u8",
         "mp4Recordings": [],
         "classPdf": [],
         "source": {
           "courseId": "698481cefdd21a8a2d18ac6a",
-          "classId": "6a753a608c3766ca13127d13",
+          "classId": "6a75ef818c3766ca13246e42",
           "topicId": "695e3bb32feca20f81dc4758",
           "rawRecordIndex": 71
         }

@@ -1,6 +1,6 @@
 {
   "courseName": "Science special Foundation Batch",
-  "extractedAt": "2026-08-07T03:22:06+0000",
+  "extractedAt": "2026-08-08T02:25:42+0000",
   "videos": {
     "Introduction": [
       {
@@ -709,7 +709,13 @@
             "_id": "6a7451755851348dd52bd18c"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "blood class 001 pdf  by radhika mam",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/blood class 001 pdf  by radhika mam.pdf"
+          }
+        ],
         "source": {
           "courseId": "6a4e35315bac0ae4bab52444",
           "classId": "6a71ab698c3766ca13d1097c",

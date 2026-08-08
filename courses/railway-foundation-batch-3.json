@@ -1,6 +1,6 @@
 {
   "courseName": "Railway Foundation Batch -3",
-  "extractedAt": "2026-08-07T03:22:06+0000",
+  "extractedAt": "2026-08-08T02:25:42+0000",
   "videos": {
     "Arithmetic": [
       {
@@ -23448,10 +23448,59 @@
             "_id": "6a74609a58cb0a2e661be616"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Tuglaq Dynasty by jeet sir BOARD PDF",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Tuglaq Dynasty by jeet sir BOARD PDF.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a7418808c3766ca13f4e594",
+          "topicId": "699806229119ee84e2e132b6",
+          "rawRecordIndex": 80
+        }
+      },
+      {
+        "title": "Class 13 || Medieval History || by Jeet sir",
+        "description": "\"Railway Foundation Batch -03, 04, 05, 06\r\nCGL RAPID BATCH\"",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 2806,
+        "startDate": "2026-08-07T09:00:00.000Z",
+        "endDate": "2026-08-07T10:00:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a7540e08c3766ca1315b3a7/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7540e08c3766ca1315b3a7/output_720p.mp4",
+            "quality": "720p",
+            "size": 423.62,
+            "_id": "6a75b0e2847c19e9d5542db2"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7540e08c3766ca1315b3a7/output_480p.mp4",
+            "quality": "480p",
+            "size": 291.75,
+            "_id": "6a75b0e2847c19e9d5542db3"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7540e08c3766ca1315b3a7/output_360p.mp4",
+            "quality": "360p",
+            "size": 208.67,
+            "_id": "6a75b0e2847c19e9d5542db4"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a7540e08c3766ca1315b3a7/output_240p.mp4",
+            "quality": "240p",
+            "size": 154.34,
+            "_id": "6a75b0e2847c19e9d5542db5"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "699eb686a2b1ae04330b857f",
+          "classId": "6a7540e08c3766ca1315b3a7",
           "topicId": "699806229119ee84e2e132b6",
           "rawRecordIndex": 80
         }
@@ -36705,7 +36754,13 @@
             "_id": "6a740c96847c19e9d52f3a70"
           }
         ],
-        "classPdf": [],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Missing Number 001 By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Missing Number 001 By Deepak Sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a7318108c3766ca13ea97ff",
@@ -36717,13 +36772,44 @@
         "title": "Class-02 || Missing Number-02 By Deepak Sir",
         "description": "\"*Railway Foundation Batch ,2 ,3 4,5,6\r\n*RRB Group D \r\n\"",
         "teacherName": "deepak sir",
-        "duration": 0,
+        "duration": 3455,
         "startDate": "2026-08-07T02:30:00.000Z",
         "endDate": "2026-08-07T03:30:00.000Z",
         "isFree": false,
-        "videoUrl": "https://selectionwaylive.hranker.com/561/6a753b2f8c3766ca13134a43/playlist.m3u8",
-        "mp4Recordings": [],
-        "classPdf": [],
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a753b2f8c3766ca13134a43/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a753b2f8c3766ca13134a43/output_720p.mp4",
+            "quality": "720p",
+            "size": 504.41,
+            "_id": "6a75599ffded68823d51d3b7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a753b2f8c3766ca13134a43/output_480p.mp4",
+            "quality": "480p",
+            "size": 342.7,
+            "_id": "6a75599ffded68823d51d3b8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a753b2f8c3766ca13134a43/output_360p.mp4",
+            "quality": "360p",
+            "size": 239.1,
+            "_id": "6a75599ffded68823d51d3b9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a753b2f8c3766ca13134a43/output_240p.mp4",
+            "quality": "240p",
+            "size": 163.63,
+            "_id": "6a75599ffded68823d51d3ba"
+          }
+        ],
+        "classPdf": [
+          {
+            "priority": 1,
+            "name": "Missing Number 02 By Deepak Sir",
+            "url": "https://selectionwayserver.hranker.com/pdfs/files/Missing Number 02 By Deepak Sir.pdf"
+          }
+        ],
         "source": {
           "courseId": "699eb686a2b1ae04330b857f",
           "classId": "6a753b2f8c3766ca13134a43",

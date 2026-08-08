@@ -1,6 +1,6 @@
 {
   "courseName": "Reasoning foundation Vod 1.0",
-  "extractedAt": "2026-08-07T03:22:06+0000",
+  "extractedAt": "2026-08-08T02:25:42+0000",
   "videos": {
     "Verbal": [
       {
@@ -3773,6 +3773,49 @@
         }
       },
       {
+        "title": "Class - 03 | Statement & Assumption || by Vikramjeet sir",
+        "description": "Class - 03 | Statement & Assumption || by Vikramjeet sir",
+        "teacherName": "vikramjeet sir",
+        "duration": 4624.022,
+        "startDate": "2026-07-31T18:30:00.000Z",
+        "endDate": "2026-07-31T18:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a689d434700100f9d9c0cc0/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689d434700100f9d9c0cc0/mp4/STATEMENT_ASSUMPTION_3__240p.mp4",
+            "quality": "240p",
+            "size": 302.11,
+            "_id": "6a759e9efded68823d5c1688"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689d434700100f9d9c0cc0/mp4/STATEMENT_ASSUMPTION_3__360p.mp4",
+            "quality": "360p",
+            "size": 361.68,
+            "_id": "6a759e9efded68823d5c1689"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689d434700100f9d9c0cc0/mp4/STATEMENT_ASSUMPTION_3__480p.mp4",
+            "quality": "480p",
+            "size": 490.78,
+            "_id": "6a759e9efded68823d5c168a"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a689d434700100f9d9c0cc0/mp4/STATEMENT_ASSUMPTION_3__720p.mp4",
+            "quality": "720p",
+            "size": 732.92,
+            "_id": "6a759e9efded68823d5c168b"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "6a5a11608eefdd1ae57e6ae1",
+          "classId": "6a689d434700100f9d9c0cc0",
+          "topicId": "695e3bb32feca20f81dc4758",
+          "rawRecordIndex": 74
+        }
+      },
+      {
         "title": "Class - 01 | Course of Action || by Vikramjeet sir",
         "description": "Class - 01 | Course of Action || by Vikramjeet sir",
         "teacherName": "vikramjeet sir",
@@ -6195,12 +6238,37 @@
         "title": "Class - 01 | Dot Situation || by Vikramjeet sir",
         "description": "Class - 01 | Dot Situation || by Vikramjeet sir",
         "teacherName": "vikramjeet sir",
-        "duration": 0,
+        "duration": 3618.475,
         "startDate": "2026-07-31T18:30:00.000Z",
         "endDate": "2026-07-31T18:30:00.000Z",
         "isFree": false,
-        "videoUrl": "",
-        "mp4Recordings": [],
+        "videoUrl": "https://selectionwayrecordedmp4.hranker.com/561/6a68d2b44700100f9daf2195/hls/master.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68d2b44700100f9daf2195/mp4/dot_situation_240p.mp4",
+            "quality": "240p",
+            "size": 190.08,
+            "_id": "6a759bab8b1eb266bf3a27fb"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68d2b44700100f9daf2195/mp4/dot_situation_360p.mp4",
+            "quality": "360p",
+            "size": 236.71,
+            "_id": "6a759bab8b1eb266bf3a27fc"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68d2b44700100f9daf2195/mp4/dot_situation_480p.mp4",
+            "quality": "480p",
+            "size": 309.92,
+            "_id": "6a759bab8b1eb266bf3a27fd"
+          },
+          {
+            "url": "https://selectionwayrecordedmp4.hranker.com/561/6a68d2b44700100f9daf2195/mp4/dot_situation_720p.mp4",
+            "quality": "720p",
+            "size": 454.97,
+            "_id": "6a759bab8b1eb266bf3a27fe"
+          }
+        ],
         "classPdf": [
           {
             "priority": 1,

@@ -1,6 +1,6 @@
 {
   "courseName": "तथास्तु BATCH 2026",
-  "extractedAt": "2026-08-07T03:22:06+0000",
+  "extractedAt": "2026-08-08T02:25:42+0000",
   "videos": {
     "POLITY": [
       {
@@ -4912,6 +4912,49 @@
         "source": {
           "courseId": "69622fc8027f25d29ebca4f6",
           "classId": "6a72f9928c3766ca13e63a12",
+          "topicId": "696a10e3719de161eee6326b",
+          "rawRecordIndex": 112
+        }
+      },
+      {
+        "title": "Class -18 | Industrial policy 04 | by Jeet rana sir",
+        "description": "तथास्तु BATCH 2026",
+        "teacherName": "Jeet Rana Sir",
+        "duration": 3264,
+        "startDate": "2026-08-07T10:30:00.000Z",
+        "endDate": "2026-08-07T11:30:00.000Z",
+        "isFree": false,
+        "videoUrl": "https://selectionwaylive.hranker.com/561/6a759fc18c3766ca131be686/playlist-mpl-vod.m3u8",
+        "mp4Recordings": [
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a759fc18c3766ca131be686/output_720p.mp4",
+            "quality": "720p",
+            "size": 503.24,
+            "_id": "6a75cbc558cb0a2e66c1fdf7"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a759fc18c3766ca131be686/output_480p.mp4",
+            "quality": "480p",
+            "size": 347.11,
+            "_id": "6a75cbc558cb0a2e66c1fdf8"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a759fc18c3766ca131be686/output_360p.mp4",
+            "quality": "360p",
+            "size": 249.1,
+            "_id": "6a75cbc558cb0a2e66c1fdf9"
+          },
+          {
+            "url": "https://selectionwayrecorded.hranker.com/6a759fc18c3766ca131be686/output_240p.mp4",
+            "quality": "240p",
+            "size": 187.76,
+            "_id": "6a75cbc558cb0a2e66c1fdfa"
+          }
+        ],
+        "classPdf": [],
+        "source": {
+          "courseId": "69622fc8027f25d29ebca4f6",
+          "classId": "6a759fc18c3766ca131be686",
           "topicId": "696a10e3719de161eee6326b",
           "rawRecordIndex": 112
         }
